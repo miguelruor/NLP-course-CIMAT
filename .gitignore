@@ -199,6 +199,7 @@ cython_debug/
 # datasets
 2025AuthorProfiling/
 data/amlo_conferencias/
+data/sheinbaum_conferencias/
 data/NRC-Emotion-Lexicon/
 data/SpanishEmotionLexicon/
 ~$*
