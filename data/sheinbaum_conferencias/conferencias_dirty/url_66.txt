@@ -1,0 +1,1902 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de enero de 2025 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de enero de 2025" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152840/matutinahoy.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-enero-de-2025?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152840/matutinahoy.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="94gf4MPPQG/5OKB4lYNRPQbMe0hw+dYQswi0m5Y56Z0=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nn567jbez44jyua-f-301fe8ef6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":27,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"76f9f09","ak.r":46322,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62494,"ak.gh":"189.247.210.20","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296872","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==V6Rno36RBZBuolyysZWO9a93YDb6/1mmam9emEOgLYob3unOsup65Zz/lQFltqIRb1u9ynRKzkuWxgC6udAuXDdfeKwVa8fgYsETNquNyz2b+d9OFA9wuOlT+j8YbvozvxMzw7ClylZNXU+QkN+bSsbzJJAixcTyZCwAKzV8k7XBrwnZOCR4ugsiDiuWwudPfFo7uOmYqXH8zTg8mKGe5+1ESYkX+n6/tvru53iCKh12fxe8o+g6AzW2toRcp+0rdLqPXSAtRvPcGD/O72Gc7lVJYKuad39dLozRcXupMHXgNuaQEt6XWseQ1nGNtGh8dUBPgc9SgS/scImSlCjXay5cLN49I7WDoVKiTUZvgi/NNjvR6lkdStsyMXHT1CFZNogyeSPPaUKX59Z5KOC2e1uAIO7s4yS6Gx4cL4tSLSE=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de enero de 2025</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 15 de enero de 2025</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/152840/matutinahoy.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Buenos d&iacute;as. &iquest;C&oacute;mo est&aacute;n? Muy buenos d&iacute;as a todos, a todas.</p>
+
+<p>El d&iacute;a de hoy, mi&eacute;rcoles 15 de enero, ya mitad de mes, vamos a presentar el programa, el proyecto, la Estrategia de Atenci&oacute;n a la Primera Infancia de estos nuevos centros que llamamos &ldquo;Centros de Atenci&oacute;n y Cuidado Infantil&rdquo;, que los anunciamos en Ciudad Ju&aacute;rez, los coment&eacute; el domingo en el Z&oacute;calo y que est&aacute;n a cargo del Instituto Mexicano del Seguro Social; nos va a presentar esta forma de atenci&oacute;n, este nuevo modelo de atenci&oacute;n a la infancia.</p>
+
+<p>Como me compromet&iacute;: Vamos a iniciar para atender a las mujeres de la maquila en Ciudad Ju&aacute;rez.</p>
+
+<p>Y adelanto que una de las grandes virtudes de este nuevo modelo es que deja en el pasado la subrogaci&oacute;n de los servicios que, en realidad, era un negocio m&aacute;s que el acceso a un derecho o una atenci&oacute;n, o un cuidado de los ni&ntilde;os y las ni&ntilde;as, sino un negocio generado en el periodo de Calder&oacute;n, en donde se subrogaron los servicios en las famosas estancias infantiles que, entre otras cosas, lamentablemente llevaron a la tragedia de la Guarder&iacute;a ABC.</p>
+
+<p>Ahora, estamos recuperando la esencia de lo que en alg&uacute;n momento fueron las Guarder&iacute;as del IMSS, operadas por el propio Instituto Mexicano del Seguro Social, pero con una nueva visi&oacute;n, porque &ldquo;guarder&iacute;a&rdquo; quiere decir &ldquo;guardar&rdquo; a los ni&ntilde;os y a las ni&ntilde;as, y ahora, el objetivo es la educaci&oacute;n y el cuidado.</p>
+
+<p>Entonces, es un trabajo muy bueno que ha estado haciendo Zo&eacute; con todo el equipo del IMSS, y &eacute;l lo va a presentar.</p>
+
+<p>Despu&eacute;s, Jes&uacute;s Ram&iacute;rez nos va a presentar los avances de los foros del Plan Nacional de Desarrollo, c&oacute;mo vamos.</p>
+
+<p>Y hacia el cierre de la conferencia &ldquo;Detector de Mentiras&rdquo;.</p>
+
+<p>Y ahora s&iacute;, vamos a poner la segunda, el segundo cap&iacute;tulo de la miniserie del fentanilo.</p>
+
+<p>&mdash;Entonces, adelante, Zo&eacute;. Muchas gracias&mdash;.</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL, ZO&Eacute; ROBLEDO ABURTO:</strong> Muchas gracias, Presidenta.</p>
+
+<p>Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>&mdash;Con su permiso&mdash;.</p>
+
+<p>Como lo sabemos, el IMSS cuenta con cinco seguros. Desde luego, el m&aacute;s conocido, el m&aacute;s famoso es el de Enfermedades y Maternidad, la atenci&oacute;n m&eacute;dica, pero tambi&eacute;n tiene el seguro de Cesant&iacute;a en Edad Avanzada y Vejez, la Pensi&oacute;n, el Seguro de Riesgos de Trabajo, el Seguro de Invalidez y Vida y, desde luego, el Seguro de Guarder&iacute;a, que es parte del concepto amplio de la seguridad social.</p>
+
+<p>Durante el gobierno del Presidente Andr&eacute;s Manuel L&oacute;pez Obrador hubo avances importantes. Uno en particular: en 2020, en octubre, se abri&oacute; en una reforma a la Ley del Seguro Social la prestaci&oacute;n para el Seguro de Guarder&iacute;as tambi&eacute;n para padres, porque antes era exclusivamente para madres trabajadoras.</p>
+
+<p>&iquest;Por qu&eacute; se abri&oacute; para padres?</p>
+
+<p>Porque es una forma tambi&eacute;n de olvidarnos ya del rol hist&oacute;rico, del modelo patriarcal en donde se establec&iacute;a que si el padre trabajaba era porque entonces, hab&iacute;a una mujer en casa que estaba destinada al cuidado de los ni&ntilde;os, de &eacute;l y tambi&eacute;n de otros integrantes de la familia. Hoy, 37 por ciento de las ni&ntilde;as y ni&ntilde;os que est&aacute;n en una Guarder&iacute;a del IMSS son porque el pap&aacute; es el derechohabiente.</p>
+
+<p>Tambi&eacute;n se hicieron otras cosas: se licitaron las guarder&iacute;as que antes eran de asignaci&oacute;n directa, se cerraron 123 guarder&iacute;as &mdash;de estas&mdash; subrogadas que no cumpl&iacute;an con los lineamientos y dem&aacute;s.</p>
+
+<p>Y en marzo, el 2 de marzo de 2024, la Doctora Claudia Sheinbaum hizo un compromiso, un anuncio, que tenemos aqu&iacute; en un video que nos gustar&iacute;a poder pasar:</p>
+
+<p><strong>(INICIA VIDEO DE DISCURSO EN MIT&Iacute;N EN CIUDAD JU&Aacute;REZ CHIHUAHUA DEL 2 DE MARZO DE 2024)</strong></p>
+
+<p><strong><em>CANDIDATA A LA PRESIDENCIA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</em></strong><em> Vamos a hacer algo especial para las mujeres de la maquila, aqu&iacute;, en Ju&aacute;rez.</em></p>
+
+<p><em>Hace seis meses, m&aacute;s o menos, vine a Ju&aacute;rez y me reun&iacute; con mujeres que trabajan en la maquila. Y me dijeron que una de sus solicitudes m&aacute;s importante era apoyo para que sus hijos, sus hijas, desde la primera infancia tuvieran un lugar d&oacute;nde dejarlos, un lugar seguro.</em></p>
+
+<p><em>Yo no le llamo &ldquo;guarder&iacute;as&rdquo; porque no se trata de guardar a los ni&ntilde;os. Tampoco le llamo &ldquo;estancias infantiles&rdquo; porque Calder&oacute;n hizo una barbaridad con ese nombre, era puro negocio. Pero le llamo Centros de Educaci&oacute;n Inicial, porque las ni&ntilde;as, los ni&ntilde;os, desde el primer momento, desde la primera infancia, desde que tienen meses, no solamente requieren amor, cuidados, cari&ntilde;o, sino tambi&eacute;n est&iacute;mulos para que puedan desarrollarse.</em></p>
+
+<p><em>Ya estuve haciendo los c&aacute;lculos. Para poder atender a las mujeres de la maquila se necesitan 58 Centros de Educaci&oacute;n Inicial y los vamos a hacer aqu&iacute; en Ciudad Ju&aacute;rez.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS), ZO&Eacute; ROBLEDO ABURTO:</strong> Bien, este compromiso de la Presidenta, durante el periodo de transici&oacute;n y en estos primeros 100 d&iacute;as se estuvo trabajando, justamente, para evolucionar, olvidarnos ya del modelo de guarder&iacute;a y pasar a los CECI, los Centros de Educaci&oacute;n y Cuidado Infantil del IMSS.</p>
+
+<p>Como lo ha dicho la Presidenta, no son guarder&iacute;as, son centros de educaci&oacute;n, centros de cuidado infantil que promueven el desarrollo, el bienestar para desarrollar habilidades para las ni&ntilde;as y ni&ntilde;os.</p>
+
+<p>Recordemos que el seguro, ahora, de estos Centros de Cuidados empiezan para las ni&ntilde;as y los ni&ntilde;os desde los 43 d&iacute;as de nacidos y hasta los cuatro a&ntilde;os de su vida.</p>
+
+<p>Es un nuevo modelo en donde las ni&ntilde;as y los ni&ntilde;os est&aacute;n en el centro de todas las atenciones, se deja atr&aacute;s este modelo &ldquo;adultoc&eacute;ntrico&rdquo;, como se le ha llamado en algunos casos; las madres y los padres van a tener la tranquilidad de que sus hijos est&eacute;n en un espacio seguro, en un espacio confiable.</p>
+
+<p>Y algo bien importante, tambi&eacute;n ellos van a tener, desde estos Centros, capacidad o forma de desarrollar otras actividades para el hogar. Por ejemplo, el tema de la alimentaci&oacute;n, se busca que la alimentaci&oacute;n que ocurre en los CECIs, como ocurre actualmente en las guarder&iacute;as, sea el modelo que se lleve tambi&eacute;n a las mesas de los hogares.</p>
+
+<p>Un elemento adicional &mdash;por eso lo ponemos en esta suerte de c&iacute;rculos que van creciendo&mdash; es que todo el personal de un CECI forma parte de un sistema de cuidados, desde la cuidadora, la tutora, el personal m&eacute;dico que est&aacute; ah&iacute; siempre atendiendo, quienes preparan los alimentos, pero tambi&eacute;n las personas de seguridad. Todos son una comunidad de cuidados.</p>
+
+<p>Y en ese sentido, tambi&eacute;n creemos que en el establecimiento de estos Centros ayudan, aportan mucho a la reconstrucci&oacute;n del tejido social. En las comunidades se va a buscar siempre que se contrate a las propias personas que viven ah&iacute;, la proveedur&iacute;a misma que pueda atender y cubrir las necesidades de estos centros y, entonces, se genere comunidad y bienestar alrededor de los CECIs.</p>
+
+<p>Y lo m&aacute;s importante, lo que ha planteado la Presidenta: construir una Rep&uacute;blica Fraterna de cuidados para ni&ntilde;as, ni&ntilde;os y desde luego, tambi&eacute;n para las mujeres, en la l&oacute;gica de que esto es una de las mejores formas para promover la integraci&oacute;n de las mujeres al medio, al mundo laboral.</p>
+
+<p>Uno de los elementos de este nuevo modelo pedag&oacute;gico tiene que ver con buscar interacciones de calidad entre los ni&ntilde;os, entre los padres, entre las madres, los cuidadores y cuidadoras y la comunidad, un modelo psicopedag&oacute;gico que tiene una base te&oacute;rica, que favorece la regulaci&oacute;n emocional, la autoestima, el aprendizaje de las ni&ntilde;as y los ni&ntilde;os.</p>
+
+<p>Contempla la figura de mentora educativa para el cuidado personalizado.</p>
+
+<p>Parte tambi&eacute;n de la sensibilizaci&oacute;n y profesionalizaci&oacute;n del cuidado.</p>
+
+<p>Se requiere una riguros&iacute;sima capacitaci&oacute;n. No es cualquier cosa ser el encargado durante, aunque sea durante unas horas del d&iacute;a de una ni&ntilde;a o de un ni&ntilde;o en esa etapa tan importante para el desarrollo de habilidades y de competencias.</p>
+
+<p>Tambi&eacute;n est&aacute; muy enfocado en la prevenci&oacute;n del maltrato infantil, sensibilizaci&oacute;n del desarrollo integral, discapacidad y neurodesarrollo.</p>
+
+<p>Y, desde luego, algo que vamos a seguir promoviendo, un modelo preventivo y de atenci&oacute;n a la salud. En cada lugar hay chequeos todos los d&iacute;as del estado de salud de las ni&ntilde;as y los ni&ntilde;os, chequeos preventivos; esquemas de vacunaci&oacute;n completas, hay un esquema de vacunaci&oacute;n y un control de vacunaci&oacute;n que ninguna guarder&iacute;a privada tiene en nuestro pa&iacute;s; y &mdash;vaya&mdash; el desarrollo integral f&iacute;sico, cognitivo, emocional y social.</p>
+
+<p>Y, adem&aacute;s, un modelo de alimentaci&oacute;n equilibrada, suficiente, en donde est&aacute;n completamente prohibidos los az&uacute;cares y los alimentos procesados.</p>
+
+<p>Ahora, la sensibilidad de la Presidenta para identificar que ten&iacute;amos que empezar en Ciudad Ju&aacute;rez se confirma con los datos.</p>
+
+<p>En Ciudad Ju&aacute;rez hay 323 empresas maquiladoras, empresas de manufactura para la exportaci&oacute;n. Ah&iacute;, en esas maquilas, solo de las de Ciudad Ju&aacute;rez, trabajan 120 mil 571 mujeres; de este universo de mujeres, hay 18 mil 622 ni&ntilde;as y ni&ntilde;os menores de cuatro a&ntilde;os que tendr&iacute;an la posibilidad para tener este servicio del IMSS.</p>
+
+<p>Y actualmente, si bien, en Ju&aacute;rez hay 24 guarder&iacute;as con 5 mil 291 lugares disponibles, ah&iacute; podemos ver que hay una necesidad de crecer. Es una enorme contradicci&oacute;n, hay guarder&iacute;as que tienen lista de espera y guarder&iacute;as que tienen lugares vacantes.</p>
+
+<p>&iquest;Por qu&eacute;? Porque la guarder&iacute;a, como era concebida antes, era efectivamente un negocio, la buscaban hacer para recibir el pago del Seguro Social. Entonces, cuando hab&iacute;a necesidad de hacer una guarder&iacute;a en un lugar cercano, donde viven las trabajadoras, en un lugar apartado, en una zona popular, se decid&iacute;a no hacerla ah&iacute; porque no iba a ser negocio.</p>
+
+<p>Entonces, eso se acab&oacute;, se deja de subrogar, se deja ese modelo llamado &ldquo;vecinal comunitario&rdquo;, que era la subrogaci&oacute;n plena, y entramos en este nuevo esquema.</p>
+
+<p>&iquest;Cu&aacute;l es el plan? Que para este a&ntilde;o construyamos 12 guarder&iacute;as&hellip; 12 CECI, 12 CECI, perd&oacute;n, en Ciudad Ju&aacute;rez.</p>
+
+<p>Aqu&iacute; los tenemos divididos en tres modelos diferentes. Los primeros son los de prestaci&oacute;n directa, es decir, los cinco que vas a construir y a operar el Seguro Social con el personal del Seguro Social.</p>
+
+<p>Ya tenemos una parte muy importante avanzada, que fue conseguir los terrenos que recibimos en donaci&oacute;n por parte del gobierno municipal de Ciudad Ju&aacute;rez.</p>
+
+<p>Le mandamos un saludo a Cruz P&eacute;rez Cu&eacute;llar, que ha estado muy atento de esto para que ya tengamos estos cinco predios: uno en el Fraccionamiento Gladiolas, otro en la colonia Municipio Libre, otro en el Fraccionamiento Paraje Oriente, otro en Senderos de San Isidro y otro en el Fraccionamiento Urbivilla del Cedro Secci&oacute;n 4; en lugares que est&aacute;n estrat&eacute;gicamente ubicados, cerca de lugares donde viven trabajadoras y trabajadores tambi&eacute;n.</p>
+
+<p>El otro elemento son estos otros cinco, que son CECI en empresa.</p>
+
+<p>&iquest;Por qu&eacute; son diferentes a la subrogaci&oacute;n que se hac&iacute;a antes? De estos han existido hist&oacute;ricamente, pero se evolucionaron, pero nunca crecieron, hab&iacute;a solo siete en todo el pa&iacute;s, de las m&aacute;s de mil 200 guarder&iacute;as.</p>
+
+<p>&iquest;Qu&eacute; significa esto? Es una l&oacute;gica de corresponsabilidad con la industria.</p>
+
+<p>La Presidenta conoci&oacute; uno de estos centros, en CommScope, all&iacute; en Ciudad Ju&aacute;rez, que lo que se hace es en un parque industrial, en donde est&aacute;n varias empresas maquiladoras, pero tambi&eacute;n para las personas que viven ah&iacute; cerca, es la propia empresa quien presta el servicio bajo los criterios, los par&aacute;metros y la supervisi&oacute;n del Seguro Social.</p>
+
+<p>Esto permite que las trabajadoras que trabajan en la empresa puedan dejar a sus hijas y a sus hijos en este Centro de Cuidados que est&aacute;, adem&aacute;s, a muy poco, a muy poca distancia del mismo lugar de trabajo. El ejemplo de CommScope, que ha funcionado durante 20 a&ntilde;os y ha funcionado muy bien, pr&aacute;cticamente est&aacute; a 100 metros entre la guarder&iacute;a, actualmente, y el centro de trabajo.</p>
+
+<p>Entonces, eso permite tambi&eacute;n que a las propias empresas se corresponsabilicen, generen una mayor empat&iacute;a con las necesidades de sus trabajadoras, particularmente, pero tambi&eacute;n les promueve mucho evitar la rotaci&oacute;n; es un elemento que les permite buscar reclutamiento, porque una mujer puede tomar la definici&oacute;n de en d&oacute;nde trabajar si tiene garantizado que su hija, su hijo, o sus hijos, puedan estar en un lugar seguro.</p>
+
+<p>Y, finalmente, dos m&aacute;s, para llegar a las 12, son este nuevo modelo, que es el CECI IMSS, que estamos trabajando con el DIF. En este caso, la diferencia es que, tambi&eacute;n operado por el Seguro Social, pero vamos a abrir la posibilidad, a trav&eacute;s de los convenios, que mujeres que no sean derechohabientes del Seguro Social puedan tambi&eacute;n dejar a sus hijas o a sus hijos en esta guarder&iacute;a, en un convenio con el gobierno municipal.</p>
+
+<p>Hab&iacute;a dos inmuebles que ya estaban en un avance porque se hab&iacute;an considerados como albergues para migrantes; sin embargo, se tom&oacute; la decisi&oacute;n de transformarlos para que sean dos CECI IMSS con el DIF, por eso es que llegamos a estos 12.</p>
+
+<p>&iquest;Cu&aacute;les son algunas otras de las ventajas de estos?</p>
+
+<p>Adem&aacute;s de los lugares que vamos a lograr, cerca de mil 260 lugares nuevos, son casi todos de 250 lugares, hay un par nada m&aacute;s que por las dimensiones son de 200 lugares, pero aqu&iacute; lo que estamos planteando &mdash;si nos pasan la siguiente&mdash; es que tenemos un nuevo modelo no solamente pedag&oacute;gico, sino un nuevo modelo de la instalaci&oacute;n: Es una infraestructura segura, accesible y con la m&aacute;s alta tecnolog&iacute;a, un modelo constructivo que optimiza los entornos.</p>
+
+<p>Se busca tambi&eacute;n que, adem&aacute;s de utilizar mejor el espacio, se tenga mucho mayor capacidad de monitoreo de lo que ocurre en todas las salas y, adem&aacute;s, una construcci&oacute;n mucho m&aacute;s &aacute;gil.</p>
+
+<p>Se desarroll&oacute; tambi&eacute;n pedag&oacute;gicamente este modelo con mayor seguridad apoyado en tecnolog&iacute;a, circuito cerrado de televisi&oacute;n en todas las &aacute;reas para monitorear en tiempo real, controles biom&eacute;tricos, sistemas contra incendios, un modelo constructivo que cumple de manera muy estricta todas las leyes y normativas vigentes, la NOM-09-2015, relacionada con medida de prevenci&oacute;n y mitigaci&oacute;n de riesgos, etc&eacute;tera.</p>
+
+<p>Esto, &iquest;qu&eacute; es lo que nos va a permitir?, que pongamos la primera piedra, que iniciemos la construcci&oacute;n el 30 de abril de este a&ntilde;o y que logremos terminarlos el 11 de octubre, que se celebra el D&iacute;a Internacional de la Ni&ntilde;a. Hemos hecho todos los c&aacute;lculos, todas las estimaciones para que esto lo podamos hacer y tenga, adem&aacute;s, la suficiencia financiera para hacerlo.</p>
+
+<p>Finalmente, como lo ha dicho la Presidenta, logrando este incremento casi del 50 por ciento de la capacidad instalada solamente el Ciudad Ju&aacute;rez empezamos ya a explorar otros lugares.</p>
+
+<p>Aqu&iacute; trajimos solo un estimado de estados que tienen una importante presencia de la industria maquiladora y municipios, en particular, con presencia de industria maquiladora.</p>
+
+<p>Baja California, por ejemplo, Tijuana y Mexicali, son 333 mil personas, hombres y mujeres que trabajan en la maquila; Tamaulipas, solamente considerando Reynosa y Matamoros, tiene 213 mil; Nuevo Le&oacute;n, en Apodaca, Monterrey y Guadalupe, son 205 mil; en Guanajuato, tambi&eacute;n, Le&oacute;n tiene 143 mil.</p>
+
+<p>Entonces, eso es lo que estamos explorando.</p>
+
+<p>Y tambi&eacute;n siempre con la invitaci&oacute;n doble a municipios que puedan empezar a identificar terrenos y, desde luego, con el caso de CECI IMSS en empresa a industrias que levanten la mano y que vean en esto una gran oportunidad y no un gasto.</p>
+
+<p>Aqu&iacute;, para concluir, solamente agradecer a muchas de las industrias maquiladoras que a trav&eacute;s del Consejo Coordinador Empresarial hemos hecho una muy buena vinculaci&oacute;n, con INDEX tambi&eacute;n, es el caso de Palco Consorcio de Comercio Internacional, Transportadora del Norte, TECMA, S*mart, BRP M&eacute;xico, todas estas all&aacute; en Ciudad Ju&aacute;rez; pero muchas otras que, a partir del anuncio que hizo la Presidenta en diciembre all&aacute; en Ju&aacute;rez, tambi&eacute;n ya se han acercado porque est&aacute;n interesados en participar en esta nueva etapa, en este Segundo Piso tambi&eacute;n, del modelo de cuidado infantil que tiene el Seguro Social.</p>
+
+<p>Ser&iacute;a todo por mi cuenta, Presidenta.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>COORDINADOR DE ASESORES DE LA PRESIDENCIA, JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Buenos d&iacute;as. Con permiso, Presidenta. Buenos d&iacute;as, compa&ntilde;eros de la prensa y audiencia de los medios de comunicaci&oacute;n y redes sociales.</p>
+
+<p>Presentaremos los avances de los foros ciudadanos en todo el pa&iacute;s que est&aacute; habiendo en torno al Plan Nacional de Desarrollo.</p>
+
+<p>Recordar que el Plan Nacional de Desarrollo es la gu&iacute;a, es un documento que establece los compromisos, los objetivos, el diagn&oacute;stico de los problemas del pa&iacute;s y las formas de solucionarlo, acorde con los compromisos de la Presidenta de la Rep&uacute;blica, con una serie de objetivos estrat&eacute;gicos y unos objetivos o ejes transversales. Ahorita, vamos a explicar.</p>
+
+<p>Entonces, hasta ahora, digamos, que los foros del Plan Nacional de Desarrollo se llevan a cabo en dos semanas, esto es por una cuesti&oacute;n de ley, por el poco tiempo que hay para entregar al Congreso este documento, y que se iniciaron la semana pasada y culminan este 19 de enero en la ciudad de Morelia, el &uacute;ltimo de los foros.</p>
+
+<p>De la primera semana, incluyendo el d&iacute;a de ayer, van 31 foros que se han desarrollado en 25 estados. Han participado 17 mil personas; hasta el momento, ha sido una participaci&oacute;n muy alta, ha habido foros que se ha desbordado la capacidad de los lugares que se plane&oacute; porque es mucha el &iacute;mpetu.</p>
+
+<p>Y vamos a ver, incluso, cu&aacute;ntas propuestas se han llevado a cabo, son cerca de 3 mil 500.</p>
+
+<p>Bueno, estos son los estados donde se ha llevado a cabo. Es Aguascalientes, Baja California, Baja California Sur, Ciudad de M&eacute;xico, Coahuila, Colima, Durango, Guanajuato, Hidalgo, Jalisco, Michoac&aacute;n, Nayarit, Nuevo Le&oacute;n, Quer&eacute;taro, Sinaloa, Sonora, Tamaulipas, Tlaxcala, Veracruz, Yucat&aacute;n, Zacatecas, Estado de M&eacute;xico, Morelos, Quintana Roo y San Luis Potos&iacute;, esos son los que se han llevado a cabo.</p>
+
+<p>Esta semana, que terminan los foros, habr&aacute; en estos mismos estados, en algunos de ellos; y en el resto de estados que faltan, los otros siete estados se van a llevar a cabo.</p>
+
+<p>Estos son&hellip; Hasta ahora, se han recibido de las 3 mil 479 propuestas sobre los ejes generales del Plan Nacional de Desarrollo que, recordemos, son:</p>
+
+<p>&ldquo;Gobernanza con justicia y participaci&oacute;n ciudadana&rdquo;.</p>
+
+<p>El segundo es &ldquo;Desarrollo con bienestar y humanismo&rdquo;.</p>
+
+<p>El tercero, &ldquo;Econom&iacute;a moral y trabajo&rdquo;.</p>
+
+<p>El cuarto, &ldquo;Desarrollo sustentable&rdquo;.</p>
+
+<p>Y estos est&aacute;n, digamos, adem&aacute;s se tienen que abordar ejes trasversales. Se llaman &ldquo;ejes trasversales&rdquo; porque son temas que impactan al resto de los asuntos p&uacute;blicos, y ahorita decimos por qu&eacute;.</p>
+
+<p>El primero de ellos es la igualdad sustantiva y los derechos de las mujeres. Como sabemos, se aprob&oacute; una ley sobre igualdad sustantiva, entonces toda la pol&iacute;tica p&uacute;blica, toda la visi&oacute;n de futuro y de las pol&iacute;ticas p&uacute;blicas tienen que incluir los derechos de las mujeres, entonces en cada aspecto de la pol&iacute;tica del gobierno tiene que incluir esta situaci&oacute;n de g&eacute;nero y por eso, es un eje transversal.</p>
+
+<p>El otro eje transversal importante tiene que ver con los derechos de las comunidades ind&iacute;genas y afromexicanas. Ustedes recuerden que se acaba de aprobar una reforma constitucional para reconocer los derechos plenos de los pueblos ind&iacute;genas, de las comunidades, y de la comunidad afromexicana y que va a impactar la pol&iacute;tica p&uacute;blica en todos los aspectos: educaci&oacute;n, salud, infraestructura.</p>
+
+<p>Hoy se crea, anunci&oacute; la Presidenta de la Rep&uacute;blica, un Fondo para los Pueblos y Comunidades Ind&iacute;genas que van a ejercer de manera directa.</p>
+
+<p>Entonces, todo eso va a tener que incluirse en las diferentes programaciones de las diferentes dependencias y Secretar&iacute;as.</p>
+
+<p>El otro tema que tambi&eacute;n es un eje trasversal es la innovaci&oacute;n p&uacute;blica para el desarrollo tecnol&oacute;gico nacional. Eso, obviamente, todo el desarrollo tecnol&oacute;gico, tanto en materia de administraci&oacute;n p&uacute;blica como en el dise&ntilde;o de pol&iacute;ticas para resolver problemas impacta toda la administraci&oacute;n p&uacute;blica y los planes de gobierno.</p>
+
+<p>Entonces, solo decir que hay, digamos&hellip; Recordar que antes los gobiernos neoliberales, las consultas que se hac&iacute;an eran consultas casi, casi &ldquo;de caj&oacute;n&rdquo; o burocr&aacute;ticas u obligatorias, pero no ten&iacute;an, digamos, una real consulta.</p>
+
+<p>Estamos viendo &mdash;y esto lo digo porque en los foros as&iacute; se manifiesta&mdash; mucha gente se siente por primera vez escuchada y la cantidad de propuestas que est&aacute;n llegando as&iacute; lo demuestra.</p>
+
+<p>Hay algunos sujetos sociales que nunca hab&iacute;an sido consultados en estos ejercicios del Plan Nacional de Desarrollo.</p>
+
+<p>Por ejemplo, los n&uacute;cleos agrarios, los ejidos y las comunidades agrarias nunca hab&iacute;an sido consultados al respecto. Y fue muy interesante el foro donde los representantes de los 32 mil n&uacute;cleos agrarios de M&eacute;xico, que poseen la mitad del territorio nacional, bueno, 103 mil hect&aacute;reas de 200 mil que componen el territorio nacional, por primera vez, son sujetos de consulta para esta planeaci&oacute;n democr&aacute;tica como lo ordena la Constituci&oacute;n.</p>
+
+<p>El otro aspecto es de los pueblos ind&iacute;genas, que tampoco hab&iacute;an sido tomados en cuenta para la planeaci&oacute;n democr&aacute;tica del pa&iacute;s, para los planes de gobierno, para el futuro, la visi&oacute;n de futuro de la naci&oacute;n.</p>
+
+<p>Y en cada uno de los foros, de los foros que se han llevado a cabo como los que se van a presentar la pr&oacute;xima semana, bueno, a lo largo de esta semana, hay una mesa especial para abordar el tema de los pueblos y comunidades ind&iacute;genas y afromexicanas para que, en cada tema, est&eacute;n incluidos el punto de vista de las comunidades y pueblos ind&iacute;genas.</p>
+
+<p>Y el otro aspecto es que tambi&eacute;n hay foros de j&oacute;venes, que tampoco hab&iacute;an sido convocados nunca a participar en este ejercicio de pensar, proponer soluciones a los problemas de la naci&oacute;n.</p>
+
+<p>Entonces, estos son los aspectos que quer&iacute;amos destacar y que, bueno &mdash;si podemos pasar algunas im&aacute;genes de los foros en los diferentes estados&mdash;, nada m&aacute;s vean: en Tijuana, 530 asistentes, fue una participaci&oacute;n muy amplia, ah&iacute; se desbord&oacute; el espacio donde estaban.</p>
+
+<p>En econom&iacute;a, tambi&eacute;n, muchas participaciones, 632 personas en Guadalajara, y, bueno, es importante la participaci&oacute;n.</p>
+
+<p>Aqu&iacute; vemos en Yucat&aacute;n, 550 personas, 125 propuestas recibidas sobre desarrollo sustentable, organizado por la Secretar&iacute;a de Medio Ambiente y Recursos Naturales.</p>
+
+<p>Y aqu&iacute; vemos Monterrey, 300 personas, en un asunto de la Agencia de Transformaci&oacute;n Digital y Telecomunicaciones.</p>
+
+<p>Aqu&iacute; en Nayarit, mil asistentes, una participaci&oacute;n masiva que hubo y, bueno, para hablar Econom&iacute;a Moral, los derechos de las comunidades ind&iacute;genas y afromexicanas.</p>
+
+<p>Aqu&iacute;, Sonora, 500 asistentes.</p>
+
+<p>Apizaco, Tlaxcala, 500 personas participaron para hablar del Desarrollo con Bienestar y Humanismo.</p>
+
+<p>En Pachuca, 650 personas.</p>
+
+<p>En Guanajuato, tuvo una participaci&oacute;n importante.</p>
+
+<p>Decir que, en casi todos, en todos los foros, han sido organizados por las Secretar&iacute;as de Estado. Un agradecimiento a los titulares de cada una de sus dependencias, a su <em>staff</em> de colaboradores, que han estado participando.</p>
+
+<p>Y tambi&eacute;n a los gobiernos de los estados, que han facilitado, y la organizaci&oacute;n y los lugares donde se va a participar, donde se han hecho los foros. En casi todos han participado los gobernadores, con algunas excepciones que no vale la pena mencionar, pero son de dominio p&uacute;blico.</p>
+
+<p>Bueno, aqu&iacute; en Colima, que hubo un foro sobre agroecolog&iacute;a.</p>
+
+<p>Bueno, as&iacute;, 750 asistentes en Coahuila para hablar, la Secretar&iacute;a de Salud, para hablar de los temas de la salud.</p>
+
+<p>Aguascalientes, 549 personas, mucha participaci&oacute;n, tambi&eacute;n un tema de econom&iacute;a.</p>
+
+<p>En Quer&eacute;taro, para hablar tambi&eacute;n de temas de econom&iacute;a, y hubo mil personas, particip&oacute; el gobernador del estado.</p>
+
+<p>Durango, 800 participantes.</p>
+
+<p>Y as&iacute; podemos ver que en cada uno de los estados, cada uno, ha habido mucha participaci&oacute;n, arriba de 500 participantes en cada uno en promedio.</p>
+
+<p>Este es Tamaulipas, con 700.</p>
+
+<p>&mdash;Ya vamos a acabar&mdash;.</p>
+
+<p>Hermosillo, Sonora, 243, pero hubo 80 propuestas.</p>
+
+<p>En Veracruz, la Marina organiz&oacute;. Esto es importante, Marina siempre ha participado solo en &aacute;reas de seguridad y, por primera vez, por toda su responsabilidad en el Trans&iacute;stmico, en el Corredor y el Ferrocarril del Sureste, se asumi&oacute; una agenda m&aacute;s amplia que tiene que ver tambi&eacute;n con el desarrollo, la participaci&oacute;n de la gente en lo que es el bienestar y del desarrollo compartido.</p>
+
+<p>Esto es Zacatecas, 800 personas, de la Secretar&iacute;a de Cultura, para hablar de Bienestar y Humanismo.</p>
+
+<p>Y Culiac&aacute;n, 350 personas para hablar del tema del desarrollo rural, es muy importante los cultivos, sobre todo, de ma&iacute;z, de frijol.</p>
+
+<p>Aqu&iacute; en la Ciudad de M&eacute;xico, la reuni&oacute;n de los n&uacute;cleos agrarios hubo 350 participantes y 169 propuestas.</p>
+
+<p>Esto es Morelia, Michoac&aacute;n, donde la Secretar&iacute;a de Cultura hizo un foro con 400 asistentes.</p>
+
+<p>Tijuana tambi&eacute;n, el d&iacute;a lunes, con 500 asistentes, un Foro de Juventudes.</p>
+
+<p>Y la Secretar&iacute;a de Turismo, en Baja California Sur, con 500 asistentes.</p>
+
+<p>Como ven, es alta la participaci&oacute;n.</p>
+
+<p>Pachuca, 420 asistentes para hablar&hellip;, los j&oacute;venes tomaron ah&iacute; mucha participaci&oacute;n.</p>
+
+<p>Y, bueno, aqu&iacute; tambi&eacute;n en Nicol&aacute;s Romero, en el Estado de M&eacute;xico, j&oacute;venes, con 400 asistentes.</p>
+
+<p>Y en la Ciudad de M&eacute;xico ayer hubo un Foro de Mujeres aqu&iacute; con la participaci&oacute;n de la jefa de gobierno, Clara Brugada, y hubo 324 asistentes, y casi la mitad de los asistentes hicieron una propuesta, hay 117 propuestas ah&iacute;.</p>
+
+<p>Y la Secretar&iacute;a de Energ&iacute;a, tambi&eacute;n, ayer llev&oacute; a cabo un foro en Mexicali, Baja California, para hablar de los temas de energ&iacute;a, energ&iacute;as renovables, con 267 participantes, pero 221 propuestas, casi todos los que llegaron ah&iacute; hicieron su propuesta.</p>
+
+<p>Y, bueno, en Xochitepec, que ese es el foro m&aacute;s grande que se ha tenido, en Morelos, con mil 110 personas para hablar del tema de anticorrupci&oacute;n, del sistema anticorrupci&oacute;n y la participaci&oacute;n ciudadana.</p>
+
+<p>Y, bueno, Canc&uacute;n, Quintana Roo, tambi&eacute;n ayer con &mdash;para hablar de temas de turismo, la Secretar&iacute;a de Turismo&mdash; 350 asistentes.</p>
+
+<p>En Guadalajara, la Secretar&iacute;a de Infraestructura, Comunicaciones y Transportes llev&oacute; a cabo su foro el d&iacute;a de ayer, con 451 asistentes.</p>
+
+<p>San Luis Potos&iacute;, 690 personas para hablar del tema.</p>
+
+<p>Y estos son los foros que restan esta semana. Los vamos a hacer p&uacute;blicos para no extendernos mucho.</p>
+
+<p>Solo decir que la Ciudad de M&eacute;xico, el d&iacute;a de hoy, en la Ciudad de M&eacute;xico habr&aacute; un Foro sobre Migraci&oacute;n</p>
+
+<p>En Chihuahua, uno sobre Mujeres.</p>
+
+<p>Tres foros sobre J&oacute;venes en Tamaulipas, Tabasco y Tehuac&aacute;n, Puebla.</p>
+
+<p>Uno de la Econom&iacute;a Moral y del Trabajo, en Totoltepec, en Toluca, Estado de M&eacute;xico.</p>
+
+<p>Y uno de Protecci&oacute;n Integral a las Comunidades Mexicanas. Este es un foro importante porque se lleva a cabo el Albuquerque, Nuevo M&eacute;xico. Es con migrantes, con mexicanos en el otro lado; es el &uacute;nico foro que se est&aacute; haciendo en el exterior, pero con participaci&oacute;n de representantes de todos los estados de la Uni&oacute;n Americana donde hay migrantes mexicanos.</p>
+
+<p>Y, bueno, el d&iacute;a de ma&ntilde;ana, en Zacatecas, habr&aacute; un foro sobre personas con discapacidad. Adem&aacute;s de una consulta ciudadana sobre el tema del Desarrollo Agropecuario y Rural, en Chihuahua. Y, luego, en la Alcald&iacute;a Azcapotzalco, un tema sobre la Econom&iacute;a Solidaria y la Econom&iacute;a Social como propuestas para el Plan Nacional de Desarrollo. Y un Foro de Juventud en Champot&oacute;n, Campeche.</p>
+
+<p>Luego, el d&iacute;a 17 habr&aacute; un foro en Veracruz, en Xalapa, sobre Educaci&oacute;n. Uno en San Crist&oacute;bal de las Casas, sobre Bienestar. Un foro sobre Sembrando Vida en Los Pinos, aqu&iacute; en la Ciudad de M&eacute;xico. Cuatro foros de j&oacute;venes: en Oaxaca, en Hermosillo, en Chihuahua y en San Crist&oacute;bal de las Casas.</p>
+
+<p>El s&aacute;bado 18 tambi&eacute;n va a haber foros, en Campeche, sobre participaci&oacute;n ciudadana; en Ciudad Modelo, en Puebla, sobre educaci&oacute;n p&uacute;blica; en Oaxaca, Oaxaca, de la Secretar&iacute;a del Trabajo, va a hacer un foro el d&iacute;a s&aacute;bado. Y la Secretar&iacute;a del Bienestar en Guerrero. Y se cierra con el Foro Nacional de Consulta de los Pueblos Ind&iacute;genas y las Comunidades Afromexicanas en la ciudad de Morelia, el d&iacute;a domingo.</p>
+
+<p>Todav&iacute;a queda pendiente un foro estatal en Oaxaca, que nos pidieron, pero va a ser en d&iacute;as posteriores.</p>
+
+<p>Y esa ser&iacute;a toda la Agenda del Plan Nacional de Desarrollo.</p>
+
+<p>Se van a integrar las propuestas y hacia finales de febrero se entregar&aacute; el documento tanto, digamos, un documento explicando la propuesta, los compromisos, la visi&oacute;n de pa&iacute;s, el proyecto de naci&oacute;n, con toda la parte de un documento t&eacute;cnico donde establecen metas, objetivos, indicadores de resultado, de desempe&ntilde;o y, sobre todo, lo que es la propuesta presupuestal para llevar a cabo estos compromisos.</p>
+
+<p>Eso ser&iacute;a todo.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Gracias, Jes&uacute;s&mdash;.</p>
+
+<p>Como ven, muy nutridos, participativos, los foros del Plan Nacional de Desarrollo. Los invitamos, les invitamos a que sigan participando.</p>
+
+<p>Y una vez que se cierren estos foros empieza la revisi&oacute;n de las propuestas para que el documento de los 100 puntos que presentamos se transforme con la participaci&oacute;n de la gente en el Plan Nacional de Desarrollo con metas, objetivos, indicadores y nuestra visi&oacute;n, porque esa no cambia, la visi&oacute;n de la Cuarta Transformaci&oacute;n.</p>
+
+<p>Bueno, ahora, s&iacute; vamos a las preguntas.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Soy Yesenia Peralta, de Tabasco.</strong></p>
+
+<p><strong>Feliz A&ntilde;o a todos, tambi&eacute;n los secretarios que est&aacute;n con nosotros.</strong></p>
+
+<p><strong>Presidenta, para comentarle sobre el tema de seguridad en Tabasco, el d&iacute;a de ayer llegaron refuerzos del Ej&eacute;rcito Nacional al estado como respuesta a la situaci&oacute;n que prevaleci&oacute; en estos &uacute;ltimos d&iacute;as.</strong></p>
+
+<p><strong>La ciudadan&iacute;a se encuentra positiva con estos refuerzos y el gran trabajo que el gobernador Javier May viene haciendo, enfocado a garantizar la seguridad de la ciudadan&iacute;a, ha sido muy bueno ese trabajo que se ha estado haciendo; sin embargo, los refuerzos ponen m&aacute;s positivas a las personas con esto.</strong></p>
+
+<p><strong>&iquest;Tiene contemplado una estrategia especial para Tabasco a nivel de los estados del norte con estos problemas de inseguridad y que, gracias a la intervenci&oacute;n estrat&eacute;gica de su gobierno, a trav&eacute;s del secretario Omar Garc&iacute;a Harfuch, y el Ej&eacute;rcito Nacional, ha sido contundente? &iquest;Podemos esperar esta misma estrategia para Tabasco, incluso, la visita del secretario de Seguridad al estado?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Estamos trabajando&hellip; Ya pr&aacute;cticamente&hellip; Hemos avanzado mucho, bueno, hemos avanzado mucho y ya pr&aacute;cticamente estamos cerrando.</p>
+
+<p>Adem&aacute;s de la estrategia general de seguridad, que consiste en los cuatro ejes que hemos mencionado: de Atenci&oacute;n a las Causas, Consolidaci&oacute;n y Fortalecimiento de la Guardia Nacional, Inteligencia e Investigaci&oacute;n y la Coordinaci&oacute;n, esta es una estrategia general para toda la Rep&uacute;blica.</p>
+
+<p>Y en Coordinaci&oacute;n, es la coordinaci&oacute;n de las fuerzas federales: Secretar&iacute;a de la Defensa, Marina, Secretar&iacute;a de Seguridad, la coordinaci&oacute;n con la Fiscal&iacute;a; con las &aacute;reas tambi&eacute;n de Bienestar, porque es importante por la Atenci&oacute;n a las causas; y, al mismo tiempo, la coordinaci&oacute;n con los gobernadores y gobernadoras, y la coordinaci&oacute;n de la Fiscal&iacute;a General con las Fiscal&iacute;as estatales. Es decir, que todos estemos caminando por la misma v&iacute;a.</p>
+
+<p>Adem&aacute;s de esta estrategia general, estamos haciendo estrategias para cada estado, para cada entidad de la Rep&uacute;blica, incluso, en algunas por regiones, porque estados grandes tienen una problem&aacute;tica distinta en el sur que en el norte, y es el caso de Tabasco.</p>
+
+<p>En efecto, llegaron refuerzos de la Defensa y tambi&eacute;n de la Guardia Nacional. Y se est&aacute; trabajando con el gobernador May en el fortalecimiento de la estrategia, que tiene que ver con atender a las y a los j&oacute;venes, a las y los tabasque&ntilde;os para poder resolver todas sus problem&aacute;ticas y al mismo tiempo, que ning&uacute;n joven se acerque a un grupo delictivo.</p>
+
+<p>Y, por otro lado, con la estrategia de Inteligencia e Investigaci&oacute;n para objetivos especiales que es importante que se conozca desde el Gabinete de Seguridad para poder hacer la estrategia de detenciones dentro del marco de la ley para evitar la impunidad.</p>
+
+<p>Entonces, estamos trabajando en eso en Tabasco.</p>
+
+<p>Decirles a las y los tabasque&ntilde;os que se va a reforzar la estrategia y se van a notar los resultados.</p>
+
+<p><strong>PREGUNTA: &iquest;Es probable que el secretario de Seguridad nos visite en pr&oacute;ximos d&iacute;as?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Por lo pronto, no est&aacute; contemplado, pero s&iacute; viene el gobernador.</p>
+
+<p>Ayer estuvo, por ejemplo, la gobernadora de Colima, Indira Vizca&iacute;no, estuvo con su equipo para presentar la estrategia y c&oacute;mo vamos a reforzar la seguridad en Colima.</p>
+
+<p>Hoy estuvo, no vino la gobernadora, pero s&iacute; el equipo del Estado de M&eacute;xico.</p>
+
+<p>Y as&iacute; vamos a hacer con cada una de las entidades. Y si es necesario, que cualquiera del Gabinete se traslade.</p>
+
+<p><strong>PREGUNTA: Muy amable.</strong></p>
+
+<p><strong>En base a lo que es la seguridad en el estado, se ha seguido con las actividades de cada municipio, en el caso de algunos de ellos siguen haciendo sus ferias y todo, por lo que del municipio de Jalapa, Tabasco, donde es Ruta del Dulce, est&aacute;n en feria y no se ha reportado nada &mdash;en nombre de ellos viene un presente de los artesanos&mdash;.</strong></p>
+
+<p><strong>Y quiero comentarle que as&iacute; se ha venido trabajando en cada municipio. La estrategia ha sido contundente tambi&eacute;n por parte del gobernador y el pueblo de Tabasco sigue realizando sus actividades, las ferias y todo.</strong></p>
+
+<p><strong>Esperemos que esta implementaci&oacute;n que usted comenta sea de gran ayuda para el pueblo de Tabasco.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Es muy buen gobernador Javier.</p>
+
+<p><strong>PREGUNTA: S&iacute;, excelente.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muy dedicado. Conoce su estado much&iacute;simo y est&aacute; en territorio. Es muy buen gobernador y est&aacute; dando resultados, y vamos a seguir dando resultados.</p>
+
+<p><strong>PREGUNTA: S&iacute;. A pesar de todas estas circunstancias que a nivel nacional se han conocido y nos hemos estado dando a conocer por esto lamentablemente; las actividades &mdash;le repito&mdash; en los municipios y los programas sociales se siguen llevando a cabo afortunadamente, solamente es la seguridad de la ciudadan&iacute;a lo que est&aacute; prevaleciendo en eso. Gracias por el apoyo de los refuerzos.</strong></p>
+
+<p><strong>En una segunda pregunta, Presidenta, al inicio de su gobierno con la reforma acerca de volver Pemex y Comisi&oacute;n Federal empresas p&uacute;blicas de nuevo, coment&oacute; usted y el director de Pemex en una de &ldquo;Las Ma&ntilde;aneras&rdquo; que iban a estar explicando y trabajando acerca de las leyes secundarias que se derivan de esta reforma y que durante el sexenio de Andr&eacute;s Manuel L&oacute;pez Obrador tuvo grandes avances.</strong></p>
+
+<p><strong>Sin embargo, con esta reforma se concretar&aacute;n y se consolidar&aacute;n algunas cosas que quedaron pendientes para que estas paraestatales se vuelvan m&aacute;s eficientes y que garanticen una verdadera recuperaci&oacute;n en estas paraestatales.</strong></p>
+
+<p><strong>En el caso de Pemex, &iquest;en cu&aacute;nto tiempo aproximadamente considera que la cartera vencida que trae la paraestatal con sus proveedores pueda ser atendida en este 2025?, esto debido a que s&iacute; les ha afectado a muchos empresarios que han prestado sus servicios y a&uacute;n no cuentan con los pagos de dichos servicios.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En marzo se termina de pagar. Inici&oacute; en diciembre. Es una estrategia especial que se sigui&oacute;; se est&aacute; pagando ahora febrero y marzo.</p>
+
+<p>Y las leyes secundarias las presentamos a m&aacute;s tardar la primera semana de febrero, es muy importante.</p>
+
+<p>Cuando el objetivo era privatizar las empresas p&uacute;blicas desde el &rsquo;92 con Salinas de Gortari, en el caso de Pemex era una sola empresa, una sola entidad, y la separaron en entidades subsidiarias. El objetivo en realidad era privatizarlas poco a poco; no pudieron porque en realidad fue muy dif&iacute;cil para los gobiernos neoliberales privatizar Pemex y CFE.</p>
+
+<p>Hasta el 2013, que vino la reforma energ&eacute;tica y avanz&oacute; la privatizaci&oacute;n de Pemex, a partir de un nombre que le pusieron a la empresa, le llamaron &ldquo;empresa p&uacute;blica productiva del Estado&rdquo;, &ldquo;empresa productiva del Estado&rdquo;&hellip; &ldquo;empresa productiva del Estado&rdquo;, le quitaron el &ldquo;p&uacute;blico&rdquo;; &ldquo;empresa productiva del Estado&rdquo;. Y, en realidad, en vez de que operara como empresa p&uacute;blica, la orientaron a operar como empresa privada y pusieron a competir &mdash;&ldquo;supuestamente&rdquo; para beneficio&mdash; a Pemex con la explotaci&oacute;n del petr&oacute;leo de manera privada, para eso se hicieron rondas.</p>
+
+<p>En realidad, la inversi&oacute;n privada nunca lleg&oacute; o lleg&oacute; muy poquita. Y en realidad, la utilizaron muchas de las empresas que participaron en aquellas &ldquo;rondas&rdquo;, se llamaban, que en realidad eran licitaciones de bloques de territorio para explotar el petr&oacute;leo, para aumentar las reservas que estaban formalmente bajo su&hellip; no le llamaban &ldquo;concesi&oacute;n&rdquo;, pero pr&aacute;cticamente concesi&oacute;n para su explotaci&oacute;n y poder elevar los montos de los recursos de sus empresas, para la bolsa m&aacute;s que para realmente hacer un trabajo.</p>
+
+<p>Y ahora, lo que vamos a hacer es unificar verticalmente a la empresa, mantener una separaci&oacute;n en la contabilidad para que sea muy transparente, pero vamos a integrar&hellip; hoy son subsidiarias y tienen cerca de 40 filiales, imag&iacute;nense.</p>
+
+<p>Entonces, va a regresar a una operaci&oacute;n eficiente, que no tenga tantos Consejos de Administraci&oacute;n por todos lados, sino que tenga un solo Consejo de Administraci&oacute;n, y varias acciones que va a desarrollar Pemex, que van a permitir, no solo la fortaleza de la empresa p&uacute;blica, que hoy se llama &ldquo;empresa p&uacute;blica del Estado&rdquo;, sino que adem&aacute;s van a permitir que sea mucho m&aacute;s eficiente la exploraci&oacute;n y explotaci&oacute;n del petr&oacute;leo, que tomamos la decisi&oacute;n de que no pase de 1.8 millones de barriles diarios.</p>
+
+<p>Entonces, es para beneficio del pueblo de M&eacute;xico. Pemex regresa a ser una empresa del pueblo de M&eacute;xico. Y ya est&aacute; en la Constituci&oacute;n, ahora viene la ley secundaria, que las vamos a presentar aqu&iacute; en &ldquo;La Ma&ntilde;anera&rdquo;, es lo mismo para Pemex y para Comisi&oacute;n Federal de Electricidad.</p>
+
+<p>Son varias leyes que se van a modificar, que en realidad echan para atr&aacute;s en una buena parte la reforma del 2013, aunque se mantiene la inversi&oacute;n privada, pero acotada y con reglas muy claras.</p>
+
+<p>Y se fortalece a las empresas p&uacute;blicas para beneficio del pueblo de M&eacute;xico, para que los recursos sean explotados por empresas p&uacute;blicas de manera eficiente, sustentable y al mismo tiempo, se cumpla con el objetivo principal, que es llevar electricidad y energ&iacute;a para el desarrollo de nuestro pa&iacute;s.</p>
+
+<p>Y esta parte de las deudas que hab&iacute;a ya se est&aacute; resolviendo.</p>
+
+<p><strong>PREGUNTA: Much&iacute;simas gracias, Presidenta.</strong></p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. C&eacute;sar Huerta, de la revista <em>Polem&oacute;n</em>.</strong></p>
+
+<p><strong>Presidenta, en 2006 Felipe Calder&oacute;n lleg&oacute; a la Presidencia de M&eacute;xico v&iacute;a un fraude electoral. D&iacute;as despu&eacute;s, justific&oacute; las irregularidades en el proceso electoral diciendo que el gan&oacute; &ldquo;haiga sido, como haiga sido&rdquo;, ese famoso &ldquo;haiga sido&rdquo;.</strong></p>
+
+<p><strong>Cuando asumi&oacute; como presidente, para legitimarse declar&oacute; una supuesta &ldquo;guerra contra el narcotr&aacute;fico&rdquo;, una guerra simulada, pues coloc&oacute; como su secretario de Seguridad a un personaje ligado al crimen organizado como fue Garc&iacute;a Luna. Esa guerra introdujo al pa&iacute;s en una escalada de violencia sin precedente.</strong></p>
+
+<p><strong>Y pues ayer con la sorpresa de que Calder&oacute;n dijo que no se equivoc&oacute; en su guerra, que no se arrepiente de haberla emprendido y que la hizo porque era lo conducente &eacute;ticamente.</strong></p>
+
+<p><strong>Presidenta: Calder&oacute;n mencion&oacute; que &ldquo;su guerra no increment&oacute; la violencia&rdquo;, seg&uacute;n &eacute;l, &ldquo;sino que fueron las organizaciones criminales quienes lo hicieron con su expansi&oacute;n&rdquo;, como si m&aacute;gicamente se hubieran expandido.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; piensa de las declaraciones de Felipe Calder&oacute;n, Presidenta, de que el incremento de la violencia se justifique de esa manera y que afirme que &ldquo;&eacute;l volver&iacute;a a hacer una</strong> <strong>guerra&rdquo; &mdash;que ha enlutado a miles de familias mexicanas&mdash; porque ahora resulta que fue un imperativo &eacute;tico?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;A ver si tienen la gr&aacute;fica de homicidios del sexenio de Fox, Calder&oacute;n, Pe&ntilde;a&mdash;.</p>
+
+<p>Es una de las decisiones m&aacute;s irresponsables que haya tomado una persona que lleg&oacute; a la Presidencia, adem&aacute;s, como bien mencionas, a trav&eacute;s de un fraude electoral.</p>
+
+<p>Primero, &iquest;qui&eacute;n declara una guerra en su propio pa&iacute;s?, &ldquo;guerra&rdquo; significa &ldquo;permiso para matar&rdquo;, lo he dicho varias veces. Declarar la guerra quiere decir que las leyes quedan en segundo t&eacute;rmino, que hay r&eacute;gimen de excepci&oacute;n.</p>
+
+<p>Para todos aquellos que hablan del Estado de derecho, porque se llenan de palabrer&iacute;as la boca diciendo: &ldquo;Estado de derecho, Estado de derecho. &iexcl;Hay autoritarismo en M&eacute;xico!&rdquo; Y, en realidad, la decisi&oacute;n m&aacute;s autoritaria e irresponsable que se haya tomado en los &uacute;ltimos sexenios fue la decisi&oacute;n de Calder&oacute;n de declarar la guerra, escuchen bien: &iexcl;Declarar la guerra en su propio pa&iacute;s!</p>
+
+<p>&iquest;Eso qu&eacute; signific&oacute;? Primero, que utiliz&oacute; al Ej&eacute;rcito sin un marco legal.</p>
+
+<p>Y segundo, el tema era matar.</p>
+
+<p><strong>PREGUNTA: &ldquo;M&aacute;talos en caliente&rdquo;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &ldquo;M&aacute;talos en caliente&rdquo;. &iquest;Cu&aacute;l juicio? &iquest;Cu&aacute;l Estado de derecho?</p>
+
+<p>No es que se detuviera a alguien, se llevaba ante el Ministerio P&uacute;blico si fuera en flagrancia, o que hubiera una orden de aprehensi&oacute;n y se detuviera a alguien para privarlo de su libertad y despu&eacute;s, que hubiera un juicio, no; detenciones en un r&eacute;gimen&hellip; no hab&iacute;a ni detenciones en el r&eacute;gimen de excepci&oacute;n, sino sencillamente: &ldquo;&iquest;consideras que es un delincuente?, se vale matar&rdquo;.</p>
+
+<p>Eso le hace da&ntilde;o a cualquier sociedad y le hizo mucho da&ntilde;o a M&eacute;xico.</p>
+
+<p>Ahora, agr&eacute;guenle a eso que quien se encargaba de eso, de esa estrategia, estaba vinculado al narco, favorec&iacute;a a unos delincuentes frente a otros, recib&iacute;a dinero y muchas otras cosas; se dice que tambi&eacute;n promov&iacute;a &eacute;l mismo, secuestros, hay muchos de los reporteros o investigaciones en este sentido.</p>
+
+<p>Entonces, la declaraci&oacute;n de que no hay Estado de derecho y ahora, es el que est&aacute; diciendo de que &ldquo;en M&eacute;xico se acab&oacute; la legalidad&rdquo;, imag&iacute;nense.</p>
+
+<p>Despu&eacute;s, el incremento de los homicidios.</p>
+
+<p>Vean nada m&aacute;s:</p>
+
+<p>El primer a&ntilde;o, de 2007.</p>
+
+<p>En 2006, hab&iacute;a 10 mil 452 homicidios; 2007, 8 mil 452; 2008, casi se duplica.</p>
+
+<p>Y despu&eacute;s, con&hellip;&nbsp; &mdash;A ver si tienen hasta el &acute;25, p&iacute;danle a Marcela que se los pase, o al &acute;24&mdash;.</p>
+
+<p>Y luego, Pe&ntilde;a, no cambi&oacute; mucho la estrategia, la verdad; la Polic&iacute;a Federal pas&oacute; a ser parte de Gobernaci&oacute;n, pero&hellip; Y la otra parte, la corrupci&oacute;n.</p>
+
+<p>Por eso s&iacute; hay cambio, por eso s&iacute; reivindicamos el cambio de estrategia, que tiene dos brazos: Atenci&oacute;n a las causas&hellip; Porque mientras eso ocurr&iacute;a, a los j&oacute;venes no se les abr&iacute;an nuevas escuelas, se privatizaban las guarder&iacute;as &mdash;porque subrogar es privatizar&mdash; se privatizaban las guarder&iacute;as haci&eacute;ndolas negocio, entonces se privatizaba.</p>
+
+<p>Porque la primera reforma a Pemex y CFE vino con Salinas, despu&eacute;s, Zedillo. Zedillo trat&oacute; de privatizar toda la electricidad, nada m&aacute;s que no pudo por la movilizaci&oacute;n popular, entre otros, del Sindicato Mexicano de Electricistas.</p>
+
+<p>Ah, bueno, Calder&oacute;n desapareci&oacute; Luz y Fuerza del Centro de un plumazo, sin darle apoyo a los trabajadores.</p>
+
+<p>Bueno, vamos sum&aacute;ndole.</p>
+
+<p>Pero ese solo hecho. A ver: &iquest;qui&eacute;n dice de los coment&oacute;cratas ahora que &ldquo;Calder&oacute;n en un a&ntilde;o duplic&oacute; los homicidios&rdquo;?</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Nadie.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Entonces, s&iacute; hubo cambio de estrategia y ahora, lo que estamos fortaleciendo es la Atenci&oacute;n a las causas, d&aacute;ndole escuela a las y los j&oacute;venes, d&aacute;ndole empleo. Una visi&oacute;n distinta, de fraternidad; en vez de esta visi&oacute;n de que la felicidad se obtiene con el consumo y el dinero, una visi&oacute;n completamente distinta.</p>
+
+<p>Y al mismo tiempo, el trabajo cotidiano que hacemos.</p>
+
+<p>Y d&aacute;ndole, adem&aacute;s, una forma jur&iacute;dica, una base jur&iacute;dica a la Guardia Nacional, una nueva instituci&oacute;n de seguridad.</p>
+
+<p>Entonces, s&iacute; cambi&oacute;. Y, adem&aacute;s, pasamos de la hipocres&iacute;a a la honestidad, de la corrupci&oacute;n a la honradez, porque eso es lo que fue el sexenio de Calder&oacute;n. Y bueno, ahora, esta reivindicaci&oacute;n.</p>
+
+<p>La virtud que tenemos ahora es que el pueblo de M&eacute;xico est&aacute; muy consciente.</p>
+
+<p><strong>PREGUNTA: Presidenta, en junio de este a&ntilde;o los mexicanos podremos elegir a los jueces, magistrados y magistradas, ministros y ministras. En la reforma judicial que se aprob&oacute;, los partidos pol&iacute;ticos no pueden apoyar o hacer campa&ntilde;a a favor o en contra de alg&uacute;n candidato o candidata; sin embargo, hay partidos que est&aacute;n haciendo esto pese a que est&aacute; prohibido en la ley, y es el caso de Movimiento Ciudadano.</strong></p>
+
+<p><strong>Este partido, a trav&eacute;s de una asociaci&oacute;n civil conformada por personas que militan en ese partido, uno de ellos fue exfuncionario p&uacute;blico en un gobierno de MC, incluso, fue el vocero del actual dirigente de MC y hasta trabaj&oacute; en <em>Mexicanos contra la corrupci&oacute;n</em> de Claudio X. Gonz&aacute;lez, pues este personaje y otros m&aacute;s denunciaron a las ministras Yasm&iacute;n Esquivel, Lenia Batres y Loretta Ortiz por actos anticipados de campa&ntilde;a. La intenci&oacute;n es influir con estas denuncias para entorpecer la elecci&oacute;n judicial y para que ellas no puedan participar.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; les dir&iacute;a a partidos pol&iacute;ticos, como MC, que cree que &ldquo;todo el pueblo, vaya, se chupa el dedo&rdquo; pr&aacute;cticamente?</strong></p>
+
+<p><strong>&iquest;Cu&aacute;l es su llamado para impedir que sigan haciendo esto que se disfracen de asociaciones civiles sus pol&iacute;ticos para emprender una campa&ntilde;a en contra?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Primero, yo creo que es muy pertinente que el INE saque ya las reglas porque, por ejemplo, cuando estuvieron aqu&iacute; yo les preguntaba si &ldquo;&iquest;era factible que un partido pol&iacute;tico o el gobierno promoviera el voto?&rdquo; No a un candidato o una cantidad, pero s&iacute;: &ldquo;salgan a votar todas y todos los mexicanos de 18 m&aacute;s y m&aacute;s el 1o. de junio&rdquo;, para hacer muy participativa la elecci&oacute;n, la caracter&iacute;stica de c&oacute;mo se va a votar en las boletas, c&oacute;mo van a ser, en fin.</p>
+
+<p>Entonces, ellos plantearon que ten&iacute;a cada uno consideraciones distintas.</p>
+
+<p>Entonces, es muy importante que el INE lo m&aacute;s pronto posible diga cu&aacute;les son las reglas: &iquest;qu&eacute; puede hacer un partido pol&iacute;tico?</p>
+
+<p>Yo considero, por ejemplo, que cualquier partido pol&iacute;tico puede llamar a participar, no as&iacute; a llamar a participar por un candidato o a simular, a trav&eacute;s de una asociaci&oacute;n civil, que est&aacute;n en contra de uno o de otro.</p>
+
+<p>Pero que se emitan las reglas claras de la elecci&oacute;n ahora que terminen los Comit&eacute;s de elegir el Legislativo, el Ejecutivo, el del Poder Judicial, el 31 de enero ya van a tener qui&eacute;n va a participar. Y a partir de ah&iacute;, que el INE pueda, con tiempo de anticipaci&oacute;n, difundir qui&eacute;nes son los candidatos o candidatas para qu&eacute; puesto, de juez o magistrado, ministro del Tribunal Electoral o del Tribunal Judicial, en fin, todo por lo que vamos a votar.</p>
+
+<p>Y aprovecho tambi&eacute;n porque la Corte decidi&oacute; que no iba a seguir con el proceso, y considero que ellos mismos le est&aacute;n retirando la posible participaci&oacute;n a quienes se apuntaron en el Poder Judicial. Recuerden que para participar en la elecci&oacute;n hubo un periodo de inscripci&oacute;n, te pod&iacute;as inscribir en el Legislativo, en el Ejecutivo o en el Poder Judicial.</p>
+
+<p>Estos Comit&eacute;s pasaron un primer filtro para ver si cumpl&iacute;an con el promedio, con que tuvieran t&iacute;tulo profesional, que hubieran entregado todos sus papeles, y ahora, por lo menos en el Ejecutivo ya est&aacute;n en las entrevistas de quienes fueron, digamos, pasaron el primer filtro. Y despu&eacute;s de eso van a tomar una decisi&oacute;n ya de quienes van a ser.</p>
+
+<p>Pero los que se inscribieron en el Poder Judicial, si se para, por parte de ellos, pues &iquest;qu&eacute; va a pasar con esas personas que se quisieron inscribir con el Poder Judicial? Se les est&aacute; coartando la posibilidad de participar; cuando adem&aacute;s, ya sabemos que los amparos no son procedentes, ya el propio Tribunal Electoral dijo que no son procedentes.</p>
+
+<p>Entonces, m&aacute;s bien el llamado es al Poder Judicial, a que ellos, que son los responsables de garantizar la justicia, permitan que quien se inscribi&oacute; en el Poder Judicial participe y no le nieguen esa posibilidad. Entonces, el llamado a que sigan con su Comisi&oacute;n. Ahora, ellos tomar&aacute;n su decisi&oacute;n, pero es muy importante que sigan participando.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>&mdash;Por ac&aacute;, de este lado&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Marco Antonio Olvera, del peri&oacute;dico digital <em>Hidalgo News</em> y del canal de YouTube <em>M&eacute;xico News World</em>.</strong></p>
+
+<p><strong>Le tengo una serie de cuestionamientos. Si me permite, iniciamos con el primero, con el programa de &ldquo;S&iacute; al Desarme, S&iacute; a la Paz&rdquo; que ma&ntilde;ana tendr&aacute; ocho d&iacute;as de su arranque en el Atrio Mariano de la Bas&iacute;lica.</strong></p>
+
+<p><strong>En ese sentido, quisiera saber: &iquest;cu&aacute;l ha sido el reporte?, &iquest;y qu&eacute; signific&oacute; para usted pisar uno de los escenarios, digamos, m&aacute;s importante religioso en este pa&iacute;s?</strong></p>
+
+<p><strong>&iquest;Y cu&aacute;l es su relaci&oacute;n de su gobierno con el Vaticano?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;A ver si Rosa Icela nos pasa cu&aacute;ntas armas se han entregado a la fecha, para poderles dar el avance&mdash;.</p>
+
+<p>Desde Benito Ju&aacute;rez y las Leyes de Reforma qued&oacute; muy clara la separaci&oacute;n entre la Iglesia y el Estado, as&iacute; est&aacute; la Constituci&oacute;n y adem&aacute;s, as&iacute; consideramos que debe ser, es parte ya de la historia de nuestro pa&iacute;s. Y se logr&oacute; esta separaci&oacute;n y al mismo tiempo, la libertad religiosa, la libertad de culto, que cualquier mexicano o mexicana pueda pr&aacute;ctica una religi&oacute;n que desee.</p>
+
+<p>Este acuerdo, digamos, de palabra, de colaboraci&oacute;n con la Iglesia cat&oacute;lica y con otras Iglesias, que el objetivo es hacerlo con otras Iglesias, una manera de coordinarnos con todos los sectores de la sociedad en la construcci&oacute;n de la paz y particularmente, en un tema tan importante como el desarme, el desarme voluntario.</p>
+
+<p>Este programa lo hicimos en la Ciudad de M&eacute;xico con muchos resultados, y ahora, decidimos iniciarlo en la Bas&iacute;lica de Guadalupe por la importancia que tiene este lugar y la confianza que le da a la gran mayor&iacute;a del pueblo de M&eacute;xico la Bas&iacute;lica, es un espacio de confianza para muchos mexicanos y mexicanas que les permite, en el atrio de la Bas&iacute;lica, tener la confianza para poder entregar su arma. Entonces, es un espacio de colaboraci&oacute;n, de coordinaci&oacute;n.</p>
+
+<p>Y as&iacute; con todas las iglesias y tambi&eacute;n con todos los libres pensadores. Ese es el objetivo del gobierno, la libertad, tambi&eacute;n la libertad de decidir si se pr&aacute;ctica una religi&oacute;n o no.</p>
+
+<p>Entonces, es una coordinaci&oacute;n que hacemos en particular con la iglesia cat&oacute;lica y que nos ayuda a dar resultados y a buscar un lugar en donde estemos de acuerdo.</p>
+
+<p>Ellos han criticado al gobierno, a trav&eacute;s de sus distintas instancias sobre temas.</p>
+
+<p>Incluso, cuando estuve en campa&ntilde;a y que solicitaron la firma de un acuerdo, yo firm&eacute; y dije: &ldquo;En esto estoy de acuerdo y en esto no estoy de acuerdo&rdquo;, porque no estaba de acuerdo en la visi&oacute;n que presentaban, como si el gobierno no hubiera hecho nada; yo no estaba de acuerdo con eso.</p>
+
+<p>Entonces, dije: &ldquo;En esto no estoy de acuerdo, en esto s&iacute; estoy de acuerdo; pero busquemos espacios, acciones, actividades, donde nos podamos poner de acuerdo y llevarlas a cabo&rdquo;.</p>
+
+<p>Entonces, en este caso &iquest;qu&eacute; es lo que se hace?, se abre el atrio de la iglesia para poder hacer el desarme voluntario, que llamamos: &ldquo;S&iacute; al Desarme, S&iacute; a la Paz&rdquo;.</p>
+
+<p>Entonces, es una acci&oacute;n importante y adem&aacute;s estamos seguros, porque lo que queremos es que no haya armas que lleven a matar a una persona, y que finalmente la paz se construye entre todas y entre todos los que quieran hacerlo.</p>
+
+<p><strong>PREGUNTA: La segunda pregunta, Presidenta: la Unesco dice que el agua potable es un derecho humano b&aacute;sico, pero para una cuarta parte de la poblaci&oacute;n a nivel mundial es un privilegio. </strong></p>
+
+<p><strong>La escasez de este recurso est&aacute; desafiando la salud mundial y la seguridad alimentaria para poder garantizar un futuro mejor para todos.</strong></p>
+
+<p><strong>Presidenta, sin agua no hay prioridad. Usted est&aacute; impulsando un Plan H&iacute;drico en el que se ver&aacute;n beneficiados m&aacute;s de 31 millones de mexicanos a lo largo y ancho del pa&iacute;s, donde se va a impulsar este proyecto, que adem&aacute;s es millonario.</strong></p>
+
+<p><strong>Y yo la ocasi&oacute;n anterior le dije que es un plan transexenal de su gobierno, que seguramente marcar&aacute; un antes y un despu&eacute;s con el tema del agua.</strong></p>
+
+<p><strong>Le voy a poner tres temas. Bueno, el tema general del agua que viene involucrado este tema. El tema de los afromexicanos que est&aacute;n en el estado de Guerrero y tambi&eacute;n en Hidalgo; en Hidalgo en el Valle del Mezquital, que adem&aacute;s son ind&iacute;genas, hombre y mujeres ind&iacute;genas, y que ha trabajado usted por esa bandera de defensa de los hombres y mujeres ind&iacute;genas.</strong></p>
+
+<p><strong>La Unidad de Riego del Canal Xochitl&aacute;n que agrupa a 17 pueblos de tres municipios: Ixmiquilpan, San Salvador y Chilcuautla, con el Distrito de Riego 0100 de Alfajayucan y donde est&aacute;n agrupados 4 mil usuarios activos.</strong></p>
+
+<p><strong>En esta reforma o, digamos, este tema del agua, se quejan de que, obviamente, van a salir afectados unos, sobre todo, los peque&ntilde;os productores que tienen que pagar agua para que les den el agua de aguas negras que llega, obviamente, de la Ciudad de M&eacute;xico al estado de Hidalgo.</strong></p>
+
+<p><strong>Entonces quieren ver que haya una revisi&oacute;n a fondo, que este proyecto&hellip; S&eacute; que algunos gobernadores ya se han estado reuniendo con ustedes aqu&iacute; y que algunos&hellip; yo no digo que todos, pero hay algunos que no vienen a decir la verdad, lo que realmente padece la gente del campo.</strong></p>
+
+<p><strong>La gente del campo sigue pasando penurias, sobre todo, donde no hay agua, Presidenta; sobre todo, donde el agua pr&aacute;cticamente se tiene que pagar en 3 mil, 4 mil pesos una pipa: dos pipas al mes, son 8 mil pesos y el salario m&iacute;nimo apenas alcanza para 12 mil pesos.</strong></p>
+
+<p><strong>El otro tema tambi&eacute;n es con el tema de afromexicanos que se ubican en los municipios de Santiago Pinotepa Nacional y Mar&iacute;a &mdash;a ver si no lo pronuncio bien&mdash; Huazolotitl&aacute;n.</strong></p>
+
+<p><strong>INTERVENCI&Oacute;N: En Oaxaca.</strong></p>
+
+<p><strong>PREGUNTA: Oaxaca, gracias. Y, bueno, ellos est&aacute;n afectados en la producci&oacute;n agr&iacute;cola que se genera en la regi&oacute;n debido a las lluvias fuertes y prolongadas que, adem&aacute;s, inundan sus casas, inundan sus cosechas y al final del d&iacute;a quedan totalmente afectados.</strong></p>
+
+<p><strong>Ellos tambi&eacute;n quieren ver c&oacute;mo se puede ayudar para hacer un sistema de riego que les ayude a generar una mejor producci&oacute;n para su autosustento y lo que les sobre lo pueda vender y, obviamente, tambi&eacute;n no perder sus propiedades que les ha llevado toda la vida construirlo.</strong></p>
+
+<p><strong>Y otro tema del agua tambi&eacute;n es el municipio de San Agust&iacute;n Tlaxiaca, mi municipio, en el estado de Hidalgo. Ah&iacute;, Presidenta, hay agua solamente una vez al mes; pagamos 250, 300 pesos por el recibo mensual del agua.</strong></p>
+
+<p><strong>Ah&iacute; hay unos caciques, obviamente, estuvo el presidente municipal Arturo Hern&aacute;ndez, dos administraciones.</strong></p>
+
+<p><strong>Hay dos, digamos, organismos que manejan el agua, est&aacute; CAPASAP, que es del municipio, y tambi&eacute;n est&aacute; CAASIM, que pertenece al estado de Hidalgo. Y, bueno, CAASIM va y explota los recursos del agua del municipio, la distribuye y la cobra, pero el municipio tiene que pagar la electricidad, tiene que pagar lo de las bombas si se queman, tiene que pagar toda la infraestructura para el agua. </strong></p>
+
+<p><strong>Es como si un pa&iacute;s, digamos, Alemania, Francia o Inglaterra, viene, perfora un pozo petrolero, nosotros ponemos la mano de obra, los trabajadores, ellos cobran y se van.</strong></p>
+
+<p><strong>Entonces, lo que est&aacute; pidiendo el municipio, Presidenta, es que el agua en San Agust&iacute;n Tlaxiaca se distribuya, se cobre y que adem&aacute;s, deje dividendos para el propio municipio, que adem&aacute;s vive en una situaci&oacute;n precaria de desarrollo; tiene por lo menos unos 100 a&ntilde;os de atraso.</strong></p>
+
+<p><strong>Entonces, pedirle que se haga una revisi&oacute;n exhaustiva, le exhorto como Presidenta de la Rep&uacute;blica, no le puedo exigir porque usted representa una investidura importante que es ser Presidenta de la Rep&uacute;blica.</strong></p>
+
+<p><strong>Entonces, que haya una revisi&oacute;n exhaustiva de esos proyectos y que, obviamente, la gente m&aacute;s pobre sea la m&aacute;s beneficiada, porque ese es su objetivo, y que no sea una simulaci&oacute;n de que se haga un proyecto con la rodillas y que al final los m&aacute;s afectados sean los pobres y que, por supuesto, los beneficiarios sean los de siempre.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;En este caso, dices que hay una persona que explota el recurso?</p>
+
+<p><strong>PREGUNTA: S&iacute;. Tiene&hellip; Imag&iacute;nense usted, es un hombre que se dedica a fabricar tenis con unos chinos que llegaron al municipio. Han hecho una serie de f&aacute;bricas que, adem&aacute;s, no les da seguro social a la gente que trabaja hasta 8, 10, 12 horas; tiene un pozo en su rancho, siembra pepino, siembra jitomate.</strong></p>
+
+<p><strong>Y la gente, obviamente, nosotros vivimos ah&iacute; en <em>Tlaxiaco</em> y en el centro del pa&iacute;s en un espejo de agua, digamos, y no tenemos agua; se lo llevan, cobran, obviamente, el agua. Si usted va a pedir una toma de agua para uso dom&eacute;stico le dicen que &ldquo;no&rdquo;.</strong></p>
+
+<p><strong>Yo le pongo un ejemplo, mi padre ya muri&oacute; y se tard&oacute;&hellip; Bueno, en la casa no tenemos ni siquiera desde hace 30 a&ntilde;os una toma de agua, 30 a&ntilde;os.</strong></p>
+
+<p><strong>Pero eso lo tiene obviamente CAASIM, que tambi&eacute;n CAASIM es un organismo que, no s&eacute; si est&aacute; dependiendo del gobierno del estado. Y, obviamente, ah&iacute; se pasan la factura de estar cobrando un recurso que no les pertenece, que van a otro municipio y que, obviamente, ellos lo cobran, eso se me hace una verdadera burla.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Estamos haciendo varias acciones en el caso del agua.</p>
+
+<p>Tambi&eacute;n, en los &lsquo;90 se cambi&oacute; la Ley de Aguas y pr&aacute;cticamente el agua pas&oacute; de ser un recurso natural a ser una mercanc&iacute;a con esa Ley. Se permiti&oacute; que tuvieras concesi&oacute;n de agua, que la otorga la Comisi&oacute;n Nacional del Agua, y que t&uacute; pudieras traspasar esa concesi&oacute;n, ese derecho, transmitir a otro. Entonces, imag&iacute;nense, desde los &lsquo;90 a la fecha lo que ha pasado.</p>
+
+<p>Entonces, hay varios temas que ocurren, que lo he platicado aqu&iacute;. Por ejemplo: distritos de riego o agricultores que ten&iacute;an una concesi&oacute;n de agua para riego. &iquest;Qu&eacute; caracter&iacute;stica tiene esto? Que no se paga por el agua, porque es para riego para producci&oacute;n de alimentos, as&iacute; est&aacute; desde hace mucho tiempo.</p>
+
+<p>Cuando no usas completa tu concesi&oacute;n, &iquest;qu&eacute; es lo que est&aacute;n haciendo? Vendi&eacute;ndole a municipios.</p>
+
+<p><strong>PREGUNTA: &iquest;Y eso est&aacute; penado?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No. Resulta que no est&aacute; claro si es legal o no es legal, porque puedes transmitir tus derechos.</p>
+
+<p>Entonces &iquest;qu&eacute; es lo que estamos haciendo, entre otras cosas?</p>
+
+<p>Hay muchos distritos de riego que est&aacute;n concentrados en unas cuantas personas, ni siquiera en todo el ejido, en la operaci&oacute;n del distrito, que utilizan agua en verano y en invierno no &mdash;por decir algo, es hipot&eacute;tico, digamos, el ejemplo, pero ocurre en determinados periodos del a&ntilde;o&mdash;, usan su concesi&oacute;n para producir alimentos y despu&eacute;s, la venden al municipio. Y por ello, obtienen 300, 400 millones de pesos.</p>
+
+<p>&iquest;Qu&eacute; estamos haciendo, entre otras cosas? Poner orden.</p>
+
+<p>Entonces, lo primero que estamos haciendo es, esa base de datos, ese registro en donde est&aacute;n todas las concesiones, ya no le dio tiempo al Presidente L&oacute;pez Obrador, a Germ&aacute;n Mart&iacute;nez, de ordenarlo, fue muchas de las cosas que platicamos. Y ahora, lo estamos poniendo en orden.</p>
+
+<p>Hay varios registros, ni siquiera hay uno solo. En algunos casos lo que est&aacute; registrado como agua para riego ya es una unidad habitacional, pero sigue estando a nombre&hellip;</p>
+
+<p><strong>PREGUNTA: Del concesionario.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Del concesionario.</p>
+
+<p>Entonces, lo primero es poner orden.</p>
+
+<p>Es muy probablemente lo que est&eacute; ocurriendo en tu municipio, en el municipio donde vives, que a lo mejor tiene la concesi&oacute;n para riego y lo que le sobra, que no utiliza para riego, lo est&aacute; vendiendo.</p>
+
+<p><strong>PREGUNTA: Y se ha generado &mdash;perd&oacute;n, Presidenta que la interrumpa&mdash; se ha generado, en el pa&iacute;s hay un huachicoleo y mi estado ocupa el segundo lugar de huachicoleo de hidrocarburos. Es una verdadera pena.</strong></p>
+
+<p><strong>Pero se ha generado tambi&eacute;n el huachicoleo del agua, porque ahora, &ldquo;cualquier hijo de vecino&rdquo; &mdash;por as&iacute; decirlo&mdash;, se compra una pipa o dos pipas y va a y carga en un pozo el agua, y va y vende la pipa de agua en 4 mil, 5 mil pesos.</strong></p>
+
+<p><strong>Y le vuelvo a repetir, la gente gana un salario m&iacute;nimo y comprar una pipa o dos pipas de 10 mil cada una, 10 mil litros, son 8 mil pesos.</strong></p>
+
+<p><strong>Entonces, yo creo que ah&iacute; hay que ser muy enf&aacute;tico.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Si. No puede ser un recurso de la naci&oacute;n &mdash;porque el agua es un recurso de la naci&oacute;n&mdash; para beneficio de un privado, y m&aacute;s en esquemas de este tipo que no son justos, adem&aacute;s.</p>
+
+<p>Entonces, estamos poniendo orden.</p>
+
+<p>Lo segundo es, mucha agua que se utiliza para riego, que es el 75 por ciento del agua, estamos haciendo eficientes los distritos, tecnific&aacute;ndolos, para que de ah&iacute; obtengamos el agua para aquellos lugares que no tienen suficiente abasto de agua para poder cumplir lo principal, que es el derecho humano al agua.</p>
+
+<p>Y por otro lado, obras ya estrat&eacute;gicas y apoyo a los municipios, a los estados, para poder garantizar el agua.</p>
+
+<p>Ma&ntilde;ana tenemos una reuni&oacute;n, han confirmado que van a venir m&aacute;s de 2 mil presidentes municipales y presidentas municipales, y uno de los objetivos es decir&hellip; Porque los municipios por Constituci&oacute;n tienen la operaci&oacute;n del agua, y muchas veces no tienen los recursos.</p>
+
+<p>Entonces, el objetivo es sumar recursos federales, estatales y municipales para poder ayudar a los municipios a que puedan tener el abasto de agua y al mismo tiempo, a normar todo, para que sea justo y que no tengamos estas situaciones en donde un privado se beneficia de un recurso que es de la naci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Y Presidenta. &iquest;Y con respecto a los compa&ntilde;eros afromexicanos del estado de Oaxaca&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Todos, lo revisamos, los casos que has presentado.</p>
+
+<p>Tambi&eacute;n, en el Valle del Mezquital estamos trabajando. El Valle del Mezquital&hellip; Las aguas negras de la Zona Metropolitana del Valle de M&eacute;xico inundaron mucho tiempo toda esa zona, con problemas de contaminaci&oacute;n, pero al mismo tiempo, esas aguas tienen nutrientes, y entonces lo que hicieron fue una zona muy productiva, aun cuando fuera regada con aguas negras.</p>
+
+<p>Hace tiempo se hizo una Planta de Tratamiento, la de Atotonilco, que trata una parte de esas aguas, pero hay otra que todav&iacute;a no se trata. Entonces, el Plan Integral para Tula y la Zona Metropolitana del Valle de M&eacute;xico contempla el saneamiento integral y la tecnificaci&oacute;n, de tal manera que esas zonas puedan recibir agua con nutrientes, porque no se requiere que sea agua potable para regar, pero que no tengan lo que se llama los &ldquo;coliformes&rdquo;, que son lo que m&aacute;s contamina y que puedan diversificar los cultivos de lo que se siembra y que lo vendan sea saludable.</p>
+
+<p>Entonces, vamos a terminar de sanear y se est&aacute; trabajando con todos los distritos de riego para que, a partir de apoyos, se pueda tecnificar, puedan tener agua de mejor calidad con nutrientes, pero que sea m&aacute;s productiva la zona.</p>
+
+<p>Y esa agua tambi&eacute;n que pueda beneficiarlos para el consumo humano, porque muchos de ellos reciben esa agua, pero tampoco tienen agua potable en sus comunidades.</p>
+
+<p>Entonces, es un Plan Integral para la Ciudad de M&eacute;xico, el Estado de M&eacute;xico, particularmente la zona oriente, y el estado de Hidalgo.</p>
+
+<p><strong>PREGUNTA: Presidenta, por si le sirve, ojal&aacute; que pudieran hacer auditor&iacute;as en las Conaguas a nivel estatal. Hay una corrupci&oacute;n &ldquo;galopante&rdquo; de funcionarios que se enriquecen con el tema de las concesiones de los pozos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Por eso estamos poniendo en orden este registro que les digo, porque en la medida que tengamos el registro claro se van a poder hacer los tr&aacute;mites de manera digital y no dependa de que el registro no est&aacute; bien armado.</p>
+
+<p>Repito, es algo que platicamos con Germ&aacute;n Mart&iacute;nez, incluso, fue de las pl&aacute;ticas que tuve con el Presidente L&oacute;pez Obrador. Y, en efecto, es uno de los temas que quedaron pendientes y que ahora, vamos a atender.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Por &uacute;ltimo, r&aacute;pido&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong> Aparte de las obras que se hicieron, que fueron much&iacute;simas.</p>
+
+<p><strong>PREGUNTA: Claro. Gracias.</strong></p>
+
+<p><strong>La &uacute;ltima pregunta, si me lo permite: usted est&aacute; en favor de las mujeres y a m&iacute; me congratula ese tema, porque representan casi el 53 por ciento de la poblaci&oacute;n en M&eacute;xico.</strong></p>
+
+<p><strong>En ese sentido, Presidenta, en el Estado de M&eacute;xico hay tres mujeres de la tercera edad, junto con su hermano, que est&aacute;n desde hace 30, 25 a&ntilde;os, con un litigio de una propiedad ah&iacute; en Lomas Verdes, para ser exactos, es el Bazar de Lomas Verdes, que se lo quieren quitar un c&aacute;rtel inmobiliario del PRI y el PAN.</strong></p>
+
+<p><strong>Y ahora, ellos dicen que el nuevo alcalde de Morena tambi&eacute;n est&aacute; apoyando ese tema para que &ldquo;los paracaidistas&rdquo; que han estado ah&iacute; vendiendo desde hace a&ntilde;os, se les quede ese predio, que est&aacute; ubicado en avenida Lomas Verdes 19, en Santa Cruz Acatl&aacute;n, en Naucalpan de Ju&aacute;rez, en el Estado de M&eacute;xico.</strong></p>
+
+<p><strong>Presidenta, &iquest;c&oacute;mo ayudar a estas mujeres que pr&aacute;cticamente est&aacute;n en la recta final, que es su &uacute;nico porvenir, digamos, para vivir c&oacute;modamente en los pr&oacute;ximos 20, 30 a&ntilde;os que les quede, cuando su gobierno es una bandera de apoyar a las mujeres y buscar el beneficio de estas se&ntilde;oras que est&aacute;n padeciendo &ldquo;las de Ca&iacute;n&rdquo;? Sobre todo, que est&aacute;n ah&iacute; metidos tambi&eacute;n jueces, la Procuradur&iacute;a del estado, les quieren arrebatar un predio que les dej&oacute; sus padres, que est&aacute;n tratando de recuperarlo para vivir lo que le queda de vida en este&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> P&aacute;sanos el caso. Ah&iacute; est&aacute; Adriana Contreras; el caso tambi&eacute;n de la costa de Guerrero y Oaxaca.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. Buenos d&iacute;as.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Bueno, ya queda poco tiempo. Ac&aacute;&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias. Mariana Madrid, de <em>Albavisi&oacute;n</em>.</strong></p>
+
+<p><strong>Presidenta, el presidente electo Donald Trump anunci&oacute; la creaci&oacute;n del Servicio de Ingresos Externos, para recaudar aranceles.</strong></p>
+
+<p><strong>Y cito una de las palabras que puso en su publicaci&oacute;n: &ldquo;A trav&eacute;s de acuerdos comerciales blandos y pat&eacute;ticamente d&eacute;biles, la econom&iacute;a estadounidense ha generado crecimiento y prosperidad para el mundo, mientras nos grava a nosotros mismos. Es hora de que esto cambie&rdquo;.</strong></p>
+
+<p><strong>La pregunta es &iquest;c&oacute;mo ustedes van a combatir esto? Recordemos que Trump ya ha amenazado con poner 25 por ciento de aranceles. Y bueno, que esta medida dijo que se va a aplicar, a partir del primer d&iacute;a de su gobierno.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a tener di&aacute;logo con el gobierno de Estados Unidos.</p>
+
+<p>Es algo que no es nuevo, lo ha dicho ya varias veces. Y nosotros en ese sentido no estamos de acuerdo, porque sabemos y lo respetamos mucho, pero en el caso del Tratado Comercial entre Canad&aacute;, Estados Unidos y M&eacute;xico ha beneficiado mucho a Estados Unidos en empleo, en producci&oacute;n.</p>
+
+<p>Y realmente en el caso del Tratado Comercial de Am&eacute;rica del Norte, M&eacute;xico-Estados Unidos-Canad&aacute;, nos complementamos.</p>
+
+<p>Y esta regi&oacute;n en la medida que sigamos juntos, en esa medida podemos competir mejor tambi&eacute;n con otras regiones del mundo, y el objetivo incluso es que pueda ampliarse a otros pa&iacute;ses de Am&eacute;rica.</p>
+
+<p>Entonces, ya habr&aacute; tiempo para poder hablar con el gobierno del presidente Trump.</p>
+
+<p>Ellos apenas, f&iacute;jense, ahora, apenas est&aacute;n creo que ratificando a los nombramientos que ya hab&iacute;a hecho de hace tiempo.</p>
+
+<p>Entonces, estaremos en comunicaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Gracias.</strong></p>
+
+<p><strong>Continuando el tema de Estados Unidos, el Cabildo de Tijuana aprob&oacute; una declaratoria de emergencia como medida preventiva ante una deportaci&oacute;n masiva de Estados Unidos </strong></p>
+
+<p><strong>En este tenor, preguntarle primero: el lunes se reuni&oacute; con los secretarios de Estado y con el titular del Instituto Nacional de Migraci&oacute;n. Saber, &iquest;c&oacute;mo estuvo esa reuni&oacute;n, &iquest;si ya nos podr&aacute;n presentar este plan de contingencia que tienen ante una deportaci&oacute;n masiva? &iquest;y si la medida del cabildo de Tijuana se podr&iacute;a extender a otros municipios fronterizos o, incluso, si ya tienen alg&uacute;n presupuesto asignado para esta situaci&oacute;n de una deportaci&oacute;n masiva?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si... No entiendo muy bien por qu&eacute; declar&oacute; el Cabildo la &ldquo;situaci&oacute;n de emergencia&rdquo;, no s&eacute; exactamente la declaratoria. Lo que s&iacute;, es que nosotros estamos preparados.</p>
+
+<p>Por supuesto, no estamos de acuerdo y por eso defendemos el trabajo de las y los mexicanos en Estados Unidos, que aportan a la econom&iacute;a mexicana, pero aportan m&aacute;s a la econ&oacute;mica de Estados Unidos. Pero, en caso de una decisi&oacute;n as&iacute;, por parte del gobierno de Estados Unidos, nosotros estamos preparados.</p>
+
+<p>Y ya vamos a presentarlo en su momento, no necesitamos adelantarlo.</p>
+
+<p>Hemos estado trabajando ya desde hace varios meses, desde que lo lleg&oacute; a anunciar el presidente Trump para poder recibir a nuestros connacionales de la mejor manera en caso de que haya deportaciones.</p>
+
+<p><strong>PREGUNTA: Presidenta, &iquest;este plan incluir&iacute;a alg&uacute;n apoyo para las comunidades o las familias que dependen directamente del env&iacute;o de remesas en caso de que sus familiares tengan que regresar?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a esperar a ver c&oacute;mo se da, baj&oacute; qu&eacute; condiciones. Y M&eacute;xico siempre va a hacer lo que est&eacute; en sus manos para apoyar a su pueblo.</p>
+
+<p><strong>PREGUNTA: Otra pregunta: hoy tiene la reuni&oacute;n con empresarios de Canad&aacute;. Saber, &iquest;c&oacute;mo va a ser esta reuni&oacute;n?, &iquest;c&oacute;mo va a ser la relaci&oacute;n comercial con Canad&aacute;?, &iquest;si hay alguna inversi&oacute;n ya por ah&iacute; confirmada?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, hay varias inversiones. Hay varias empresas canadienses que trabajan en M&eacute;xico.</p>
+
+<p>Una de ellas, me reun&iacute; hace poco con ellos, que es una empresa de trenes, era Canadian Pacific, que ahora es&hellip; No, s&iacute; Canadian Pacific, antes era Kansas City. Ellos tienen&hellip; son la &uacute;nica empresa que tiene trenes desde el centro hasta Canad&aacute;; y ahora, tienen un puente &mdash;que van a inaugurar en febrero &mdash;que les va a permitir que sea mucho m&aacute;s &aacute;gil el paso por Nuevo Laredo.</p>
+
+<p>Entonces, as&iacute; como esa empresa, hay otras empresas, y algunas de ellas tienen inversiones en M&eacute;xico.</p>
+
+<p>Entonces, los vamos a recibir. Ellos, por supuesto, tambi&eacute;n est&aacute;n o hablan bien del Tratado Comercial de los tres pa&iacute;ses. Entonces, as&iacute; como tuvimos un di&aacute;logo con los empresarios estadounidenses cuando entramos, ahora, vamos a tener este di&aacute;logo con los empresarios canadienses.</p>
+
+<p><strong>PREGUNTA: Y una &uacute;ltima pregunta, &iquest;tendr&aacute;n alg&uacute;n presupuesto para la construcci&oacute;n de los CECIs que anunciaba Zo&eacute; Robledo?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;.</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL, ZO&Eacute; ROBLEDO ABURTO:</strong> S&iacute;. Muchas gracias, Presidenta.</p>
+
+<p>S&iacute;, totalmente, porque recordemos que dentro del esquema de aseguramiento en el IMSS hay una parte, un porcentaje, el 1 por ciento de lo que paga el empleador es justamente para el seguro de guarder&iacute;as; o sea, el seguro est&aacute; financiado ya.</p>
+
+<p>Ahora, lo que se va a hacer es que ese financiamiento, digamos, de lo que se recauda y se administra, por parte del IMSS, sea para construcci&oacute;n y la operaci&oacute;n de estos CECIs.</p>
+
+<p>Que justamente es lo que ha dicho la Presidenta, la l&oacute;gica de que &ldquo;la privatizaci&oacute;n era m&aacute;s eficiente y que hab&iacute;a mejor servicio o que eran m&aacute;s seguros&rdquo; se contradice con la realidad de tragedias como ABC o de muchos otros problemas que ha habido en algunas otras guarder&iacute;as.</p>
+
+<p>Entonces, s&iacute;, est&aacute; fondeado y financieramente es sustentable.</p>
+
+<p><strong>PREGUNTA: &iquest;Tendr&aacute; un costo?</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL, ZO&Eacute; ROBLEDO ABURTO: </strong>No, no, no, para la trabajadora jam&aacute;s tiene un costo.</p>
+
+<p>La que no pertenece al IMSS habr&aacute; &mdash;en el caso de Ciudad Ju&aacute;rez, que es el piloto&mdash; est&aacute; subsidiada por el propio gobierno de Ciudad Ju&aacute;rez.</p>
+
+<p>Por eso, el acuerdo que tom&aacute;bamos nosotros era decir: El IMSS se hace cargo de la operaci&oacute;n, es decir, cubre los gastos de la operaci&oacute;n, y cada persona, cada mujer, cada ni&ntilde;a o ni&ntilde;o que ingresa a esa guarder&iacute;a sin seguridad social es cubierta por el gobierno municipal.</p>
+
+<p>Es un muy buen programa y vamos a ver c&oacute;mo funciona, y creemos que puede crecer mucho en otros lugares.</p>
+
+<p>Ahora, solamente un elemento fundamental: Ciudad Ju&aacute;rez en particular es uno de los lugares con mayor derechohabiencia, por el tema de la maquila. Hist&oacute;ricamente hab&iacute;a sido una derechohabiencia con salarios precarios, con muy malas condiciones de trabajo, con centros de trabajo muy precarios; han hecho un esfuerzo por mejorar eso, y desde luego, el incremento del salario m&iacute;nimo.</p>
+
+<p>Fue una de las razones por las cuales se tom&oacute; la decisi&oacute;n de que ese hospital &mdash;que era un verdadero agravio a la gente de Ju&aacute;rez que construyeron con el Seguro Popular, el gobierno estatal de Ju&aacute;rez, en su momento de Duarte, de C&eacute;sar Duarte&mdash; se transfiriera al IMSS y nosotros lo concluy&eacute;ramos, pr&aacute;cticamente se volvi&oacute; a hacer.</p>
+
+<p>Y hoy es el hospital m&aacute;s grande que tiene el estado para derechohabientes y tambi&eacute;n en los convenios para no derechohabientes del IMSS; pero justo porque hay mucha derechohabiencia en Ciudad Ju&aacute;rez, y eso lo que se quiere seguir promoviendo: que la derechohabiencia tambi&eacute;n signifique mejores servicios y la posibilidad, en el caso de los CECI, tener los espacios para las ni&ntilde;as y los ni&ntilde;os.</p>
+
+<p><strong>PREGUNTA: &iquest;Cu&aacute;nto van a costar?</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL, ZO&Eacute; ROBLEDO ABURTO: </strong>No cuestan, insisto, no cuestan para los derechohabientes es algo importante.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El monto de inversi&oacute;n&hellip;</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS), ZO&Eacute; ROBLEDO ABURTO:</strong> S&iacute;, el monto de inversi&oacute;n con el nuevo modelo constructivo que hicimos est&aacute; &mdash;para los m&aacute;s grandes, de 250&mdash; est&aacute;n en 45 millones de pesos en su construcci&oacute;n y equipamiento.</p>
+
+<p>Porque tambi&eacute;n es algo fundamental: no se pueden hacer en lugares establecidos, casas viejas, galeras, bodegas y dem&aacute;s. Son construcciones espec&iacute;ficas con muchos lineamientos, pero tambi&eacute;n logramos que fuera mucho m&aacute;s eficiente con modelos constructivos mucho m&aacute;s &aacute;giles.</p>
+
+<p>Ahora, el costo de la operaci&oacute;n &mdash;vaya&mdash; est&aacute; rondando entre alrededor de 400 mil pesos al mes, porque es fundamentalmente los insumos, las n&oacute;minas y dem&aacute;s, pero por eso y tambi&eacute;n con el Sindicato del IMSS hemos trabajado mucho para que se acordara que se eficientara la plantilla y fortalecerla en los lugares y en las salas en donde hay m&aacute;s afluencia de ni&ntilde;os; y en otras donde no hay tanta, se hicieran solamente una sala para siempre contar con ella.</p>
+
+<p>Entonces, de los 12, se estar&aacute; asumiendo ese costo.</p>
+
+<p>Ahora, los de empresa, esa es la gran diferencia, son construidos por la empresa, operados por la empresa y por ni&ntilde;o, paga el IMSS. El IMSS paga por cada ni&ntilde;a o ni&ntilde;o en guarder&iacute;a, en este caso para las que son empresariales, un monto de 6 mil 500 pesos para la frontera norte, que es una zona, digamos, que tiene un salario mucho m&aacute;s alto. Y la verdad, que es un servicio muy completo en ese sentido.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El IMSS tiene cuotas especiales para guarder&iacute;a que aporta la patronal y tambi&eacute;n el trabajador o la trabajadora.</p>
+
+<p>Entonces, lo que se hizo en el periodo neoliberal es que ese recurso del IMSS, de los trabajadores, de las distintas aportaciones, se lo pasaban al privado. Entonces, &ldquo;T&uacute;, no importa&hellip; &iexcl;Ah! &iquest;tienes una casa ah&iacute; para tener a 10 ni&ntilde;os &mdash;pr&aacute;cticamente es sin modelo de atenci&oacute;n, sin&hellip;&mdash; ah, bueno, es una estancia infantil, te pago con ese recurso&rdquo;.</p>
+
+<p>Entonces, ahora lo que se est&aacute; haciendo es: el IMSS recupera la propia operaci&oacute;n del CECI.</p>
+
+<p>Y en el caso de las empresas, muchas veces, porque el terreno es de la empresa, porque el IMSS puede construir solamente en terrenos que ya le pertenecen al IMSS. Entonces, en terrenos de la empresa construye, el IMSS supervisa, est&aacute; viendo, es otro modelo completamente distinto, pero la mayor&iacute;a van a ser operados por el IMSS.</p>
+
+<p>Mis hijos fueron a guarder&iacute;as del IMSS, mis dos hijos. No hab&iacute;a en aquella &eacute;poca &mdash;ya hace rato&mdash; subrogaciones, eran operadas por trabajadoras y trabajadores del IMSS. El mejor cuidado, la mejor alimentaci&oacute;n, aprendizaje.</p>
+
+<p>Yo fui a guarder&iacute;a del ISSSTE. Mi mam&aacute; trabajaba en el Polit&eacute;cnico, ten&iacute;a ISSSTE, y yo fui desde peque&ntilde;ita, antes del a&ntilde;o a la guarder&iacute;a del ISSSTE.</p>
+
+<p>Entonces, es un derecho que queremos que las madres trabajadoras tengan, pero no aquel modelo que todo lo hac&iacute;an negocio y corrupci&oacute;n, sino recuperar un modelo&hellip;</p>
+
+<p>Adem&aacute;s, ahora ya, como decimos, &ldquo;ya no es guardar, ya no es dejo al ni&ntilde;o o la ni&ntilde;a en un lugar bien cuidado&rdquo;, sino un lugar donde se aprenda, entonces por eso se llama Centro Educativo y de Cuidados Infantil, Centro de Educaci&oacute;n y Cuidado Infantil, CECI.</p>
+
+<p>Entonces, este es el nuevo modelo.</p>
+
+<p>No se pueden hacer todos al mismo tiempo en todos lados. &iquest;D&oacute;nde empezamos? &iquest;D&oacute;nde priorizamos? En mujeres de la maquila y, particularmente, en Ciudad Ju&aacute;rez.</p>
+
+<p>Ciudad Ju&aacute;rez tiene una deuda hist&oacute;rica con las mujeres por la violencia que se gener&oacute; en una &eacute;poca contra las mujeres, y que se hizo muy visible.</p>
+
+<p>Pero, adem&aacute;s, la maquila, que es, la maquila es la producci&oacute;n nacional principalmente para exportaci&oacute;n, llegaron a trabajar much&iacute;simas mujeres de todo el pa&iacute;s a Ju&aacute;rez, a Tijuana, principalmente a la frontera. Entonces, hay much&iacute;sima maquila que tiene de mano de obra, de trabajadoras a mujeres.</p>
+
+<p>Y muchas mujeres, muchas veces, madres solteras o madres que cuidan solas a sus hijos, no tienen d&oacute;nde cuidar, y como dejaron a la familia, que normalmente la abuela es la que cuida &mdash;como luego digo en los m&iacute;tines&mdash; o en las asambleas, como ya no est&aacute;n con la familia no ten&iacute;an d&oacute;nde dejar al hijo y, muchas veces, dejaban a los hijos solos en la casa por la necesidad de ir a trabajar.</p>
+
+<p>Esto me lo dijeron en una reuni&oacute;n, como lo dije en la asamblea de Ciudad Ju&aacute;rez, en una reuni&oacute;n con mujeres de la maquila, que hablamos de muchos temas cuando fui en la &eacute;poca en que &iacute;bamos a los estados para la encuesta de Morena.</p>
+
+<p>Y ah&iacute; ellas, entre otras cosas dijeron: &ldquo;Lo que hace falta son m&aacute;s son m&aacute;s guarder&iacute;as &mdash;dec&iacute;an ellas&mdash; para que podamos dejar a los hijos y tengamos la tranquilidad de que podemos ir a trabajar y luego recogerlos&rdquo;.</p>
+
+<p>Entonces, eso es lo que estamos cumpliendo ahora, pero con una visi&oacute;n p&uacute;blica de lo p&uacute;blico. Porque antes la idea es que &ldquo;todo lo que el Estado hac&iacute;a era malo &mdash;todav&iacute;a hay algunos que lo piensan&mdash; y que lo privado era lo mejor&rdquo;, y se demostr&oacute; que no necesariamente.</p>
+
+<p>Entonces, estamos recuperando&hellip; As&iacute; como estamos recuperando lo p&uacute;blico para Pemex, para CFE, tambi&eacute;n estamos recuperando lo p&uacute;blico para la educaci&oacute;n desde la primera infancia. Entonces, ese es el objetivo de los CECI.</p>
+
+<p>Ya nos pasamos. Vamos a fentanilo y luego vamos al &ldquo;Detector de Mentiras&rdquo;.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO. FENTANILO: LA CRISIS DE LOS OPIOIDES Y EL FENTANILO EN EEUU)</strong></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> El desarrollo de la pandemia por opioides en Estados Unidos est&aacute; vinculada a los problemas econ&oacute;micos y culturales que ha vivido el pa&iacute;s, como la ca&iacute;da de la Bolsa en 1929 en la gran recesi&oacute;n o el &ldquo;crack&rdquo; financiero de 2008.</em></p>
+
+<p><em>Pero esta crisis fue exacerbada y profundizada por la industria farmac&eacute;utica. Y si hay un apellido que tuvo influencia en este sector era Sackler a trav&eacute;s de Purdue Pharma.</em></p>
+
+<p><em>La familia Sackler es un claro ejemplo de c&oacute;mo el poder empresarial, el marketing y la industria farmac&eacute;utica se entrelazan con graves consecuencias para la salud p&uacute;blica en los Estados Unidos.</em></p>
+
+<p><em>A lo largo de los a&ntilde;os enfrentaron acusaciones de minimizar los riesgos de adicci&oacute;n, sobornar y enga&ntilde;ar a autoridades sanitarias, como la Food and Drug Administration.</em></p>
+
+<p><em>Esto ha sido retratado en el libro: &ldquo;El imperio del dolor&rdquo;, de Patrick Radden Keefe, que hace una radiograf&iacute;a del origen, auge de esta dinast&iacute;a que, a su vez, fue llevada a la serie televisiva de Netflix, Painkiller.</em></p>
+
+<p><em>En 2020, un acuerdo con el Departamento de Justicia, Purdue Pharma pag&oacute; 8 mil 300 millones de d&oacute;lares en multas, indemnizaciones y responsabilidad civil. Sin embargo, el a&ntilde;o pasado la Corte Suprema de los Estados Unidos anul&oacute; el acuerdo de bancarrota de Purdue Pharma porque blindaba a la familia Sackler.</em></p>
+
+<p><em>De acuerdo con el Centro Nacional de Estad&iacute;sticas de Salud de los Estados Unidos, en 2022, 76 mil 226 personas murieron a causa de este opioide, el fentanilo. Esta cifra representa el 70 por ciento de todas las muertes por sobredosis de alguna droga.</em></p>
+
+<p><em>En 2023, fueron registradas 74 mil 702 muertes.</em></p>
+
+<p><em>El consumo de esta droga se ha focalizado en la costa oeste en estados como Pensilvania, donde en su capital, Filadelfia, se encuentra Kensington, un barrio considerado como la &ldquo;zona cero&rdquo; del fentanilo en los Estados Unidos.</em></p>
+
+<p><em>De acuerdo con la American Addiction Centers, para 2021 los estados m&aacute;s afectados por fentanilo fueron Virginia occidental y Tennessee, con 90.9 y 56.6 muertes por cada 100 mil habitantes.</em></p>
+
+<p><em>Estos n&uacute;meros nos llevan a la pregunta: &iquest;Qu&eacute; se ha hecho para atender este fen&oacute;meno?</em></p>
+
+<p><em>La primera medida para contrarrestar esta crisis bajo la administraci&oacute;n de Barak Obama se dio hasta 2011, 11 a&ntilde;os despu&eacute;s de los primeros s&iacute;ntomas de la crisis con la implementaci&oacute;n del PDMP, el Programa de Seguimiento de Medicamentos con Receta.</em></p>
+
+<p><em>(VOZ MUJER: El objetivo de la mitigaci&oacute;n de riesgos es hacer que la prescripci&oacute;n de opioides sea m&aacute;s segura y, al mismo tiempo, mantener el acceso a los analg&eacute;sicos opioides para aquellos pacientes que se benefician de ellos).</em></p>
+
+<p><em>Pero esto no fue suficiente. De acuerdo con los Centros para el Control y Prevenci&oacute;n de Enfermedades, se estima que, en 2015, los opioides mataron a 33 mil personas en los Estados Unidos, casi la mitad de ellos a causa de un opioide legal recetado, es decir, vendido en una farmacia.</em></p>
+
+<p><em>Al a&ntilde;o siguiente, en 2016, el presidente Barak Obama promulg&oacute; la Ley Integral de Adicciones y Recuperaci&oacute;n, la primera legislaci&oacute;n que buscaba atacar la crisis de opioides en 40 a&ntilde;os.</em></p>
+
+<p><em>Esta legislaci&oacute;n contemplaba mil millones de d&oacute;lares para abordar la crisis de opioides, destinado la mayor parte de los recursos para las entidades m&aacute;s afectadas y en la inversi&oacute;n para el desarrollo de tratamientos para tratar a los pacientes adictos.</em></p>
+
+<p><em>Esto tampoco fue suficiente. En 2017, Donald Trump, promulg&oacute; un nuevo plan federal para combatir la crisis nacional de salud p&uacute;blica generada por opioides en los Estados Unidos.</em></p>
+
+<p><em>El crecimiento de las adicciones a este tipo de analg&eacute;sicos se empeor&oacute; durante la pandemia por COVID-19. De acuerdo con el mismo Centro Nacional de Estad&iacute;sticas de Salud, entre 2020 y 2021, los dos primeros a&ntilde;os de la emergencia sanitaria, el n&uacute;mero de muertes en Estados Unidos por sobredosis relacionadas con cualquier opioide increment&oacute; sustancialmente, pasando de alrededor de 48 mil muertes anuales en 2019 a 81 mil 806 en 2022.</em></p>
+
+<p><em>De acuerdo con el mismo Centro, en 2020 el coronavirus mat&oacute; a 385 mil personas, mientras que 70 mil estadounidenses murieron por sobredosis, de los cuales 57 mil 800 a causa del consumo de fentanilo o alguno de sus an&aacute;logos.</em></p>
+
+<p><em>Desde entonces, los n&uacute;meros de la crisis son cada vez m&aacute;s preocupantes. En 2020, 2.5 millones de estadounidenses mayores de 18 a&ntilde;os padecieron alg&uacute;n trastorno ocasionado por el abuso de opioides; sin embargo, solo una de cada 5 personas recibi&oacute; medicamento para tratarlo, seg&uacute;n datos del Centro Nacional.</em></p>
+
+<p><em>En 2021, mediante el Entendimiento Bicentenario, M&eacute;xico y Estados Unidos se unieron para reafirmar la importante de colaborar como socios y desarrollar una visi&oacute;n compartida del combate al tr&aacute;fico al fentanilo, donde el gobierno mexicano brind&oacute; al estadounidense una nueva visi&oacute;n para atender este fen&oacute;meno, poniendo atenci&oacute;n en las causas.</em></p>
+
+<p><em>En 2023, el presidente Joe Biden present&oacute; un plan para abordar esta crisis de manera directa; sin embargo, muchos de sus &aacute;ngulos de acci&oacute;n inclu&iacute;an medidas que ocurr&iacute;an en pa&iacute;ses asi&aacute;ticos.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> As&iacute;, creci&oacute; la epidemia del fentanilo en Estados Unidos.</p>
+
+<p>Bueno, antes de pasar, nada m&aacute;s: nos da mucho gusto que, en el caso de Cuba, el presidente Biden haya retirado este tema de que Cuba era un pa&iacute;s que apoyaba al terrorismo. Es muy bueno esto que ocurri&oacute;, y qu&eacute; bueno que lo hizo el presidente Biden. Entonces, no quer&iacute;a dejar pasar la oportunidad de decirlo.</p>
+
+<p>Y vamos a cerrar con el &ldquo;Detector de Mentiras&rdquo;.</p>
+
+<p><strong>COORDINADOR DE INFODEMIA, MIGUEL &Aacute;NGEL ELORZA V&Aacute;SQUEZ:</strong> Con su permiso, Presidenta.</p>
+
+<p>Buenos d&iacute;as a todas y todos.</p>
+
+<p>Desde su exilio en empresas y organismos financieros de Estados Unidos, el expresidente Ernesto Zedillo insiste en ser el defensor de un modelo econ&oacute;mico empobrecedor y el vocero de una derecha derrotada en las urnas.</p>
+
+<p>Repitiendo las mismas falsedades cada vez que rompe el silencio, Zedillo, ataca al cambio democr&aacute;tico que vive M&eacute;xico, pero no se nos olvida que &eacute;l cre&oacute; una Suprema Corte a modo, que no cuestion&oacute; ninguna de las medidas tan graves como el Fobapropa, el anatocismo, las violaciones a los derechos humanos o las privatizaciones de puertos, aeropuertos, minas, ferrocarriles, producci&oacute;n de energ&iacute;as, entre otras.</p>
+
+<p>Por otro lado, calumnias y discursos de odio por delante, en redes sociales se emprendi&oacute; una campa&ntilde;a contra las y los j&oacute;venes del programa J&oacute;venes Construyendo el Futuro.</p>
+
+<p>&iquest;Por qu&eacute; les molesta que miles de j&oacute;venes reciban un salario m&iacute;nimo por aprender y laborar en una empresa privada o en una dependencia? &iquest;En qu&eacute; les afecta que las empresas y las dependencias sean beneficiadas tambi&eacute;n?</p>
+
+<p>Veamos el video del &ldquo;Detector de Mentiras&rdquo; de esta semana.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE LA SECCI&Oacute;N &ldquo;DETECTOR DE MENTIRAS&rdquo;)</strong></p>
+
+<p><strong>COORDINADOR DE INFODEMIA, MIGUEL &Aacute;NGEL ELORZA V&Aacute;SQUEZ:</strong> Muchas gracias.</p>
+
+<p>Y hasta la pr&oacute;xima semana, Presidenta.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias.</p>
+
+<p>Gracias a todos, nos vemos.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2025-01-15 09:00:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de enero de 2025";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-enero-de-2025";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-enero-de-2025" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de enero de 2025"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-enero-de-2025" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-enero-de-2025&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 15 de enero de 2025";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-enero-de-2025" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-enero-de-2025";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-15-de-enero-de-2025" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

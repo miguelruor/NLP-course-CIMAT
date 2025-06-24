@@ -1,0 +1,1494 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de noviembre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de noviembre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/151747/25ebdb7a-b281-4743-ac1d-f5a23d99ade2.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-noviembre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/151747/25ebdb7a-b281-4743-ac1d-f5a23d99ade2.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="7pKf0NyRiD8Jb6xkp85NVQ0Yl7GKPiJ++MyqP9JiyhI=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7h3gz44jypa-f-e5849bc8d-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":20,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"de35e53","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62474,"ak.gh":"23.47.207.151","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296862","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==M+xyZ93JsmwxETE8IF2MxXtqU8UzJgGgrDdPUEXuOVJ9SxNIOokdnTnijGYlheWIyuFD8H/XfbTyg1+mLahJQNH5YswCZ8bvj6Xdwx0wL3naya5iLw/HgvMJ/BKnk3R/UAKr20Qwm9eU9wdWvDwgmrCWHddrJ0I+PFhUuGQ7loDTl8CKtGukHdqK/IUkX19OKW9yPpNKR9CClYgWFwtu5u9doJ+clX18TRb+T+poh0AaylhkoK6FmY3Hkc/4ioA+YeYyLsS8lyFlNyK5WZ0RBa0WBvkplR6BPi13XbntkrTqJ7IN1jKasRp7w8pN7UagagR+AkB3r/2aP3eW7fVCAESIuWmVJF6Gs0PgLlFPEmPNpIzvKqPIPVvqxhvQgg15woXgirq6uczeVNUxJMqOHX5gZrwai0vp+anRKBtHD1I=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de noviembre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 29 de noviembre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/151747/25ebdb7a-b281-4743-ac1d-f5a23d99ade2.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><div>&nbsp;</div>
+
+<div>
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Buenos d&iacute;as. &iquest;C&oacute;mo est&aacute;n?</p>
+
+<p>Bueno, el d&iacute;a de hoy est&aacute; con nosotros Marath Bola&ntilde;os, secretario del Trabajo y Previsi&oacute;n Social; y &mdash;si&eacute;ntense, por favor&mdash; Bulmaro Ju&aacute;rez, que es quien nos presenta todos los viernes &ldquo;Suave Patria&rdquo;. Y Marath nos va a hablar de la continuidad del programa J&oacute;venes Construyendo el Futuro, que tenemos planteado para el pr&oacute;ximo a&ntilde;o.</p>
+
+<p>Y tambi&eacute;n, porque el mi&eacute;rcoles no tuvimos oportunidad de presentar el &ldquo;Detector de Mentiras&rdquo;, se nos hizo ya muy tarde; entonces, hoy tambi&eacute;n vamos a hacer una c&aacute;psula del &ldquo;Detector de Mentiras&rdquo;, relacionada particularmente con los organismos aut&oacute;nomos.</p>
+
+<p>Y tenemos un video, un homenaje especial tambi&eacute;n a Silvia Pinal.</p>
+
+<p>Entonces, vamos a empezar con Marath y hacia el final presentamos las tres secciones del d&iacute;a de hoy.</p>
+
+<p>&mdash;Adelante, Marath&mdash;</p>
+
+<p><strong>SECRETARIO DEL TRABAJO Y PREVISI&Oacute;N SOCIAL, MARATH BOLA&Ntilde;OS L&Oacute;PEZ:</strong> Muy bien. Muy buenos d&iacute;as, Presidenta. Con su permiso. Muy buenos d&iacute;as a todas y todos.</p>
+
+<p>Estamos muy contentos el d&iacute;a de hoy porque vamos a informarles sobre el programa J&oacute;venes Construyendo el Futuro, es sobre la reapertura del programa para poder con ello recibir a m&aacute;s j&oacute;venes en capacitaci&oacute;n en esta importante pol&iacute;tica p&uacute;blica que, como bien saben, est&aacute; destinado a poder atender a la juventud, sobre todo, a la m&aacute;s vulnerable en el pa&iacute;s.</p>
+
+<p>El programa J&oacute;venes Construyendo el Futuro es un Programa de Bienestar que se ha encargado ya, a lo largo de cerca de seis a&ntilde;os, de atender a j&oacute;venes entre 18 y 29 a&ntilde;os que no estudian o no trabajan, propiciando as&iacute; su ocupaci&oacute;n a trav&eacute;s de la capacitaci&oacute;n en distintos centros de trabajo, que los reciben as&iacute; para ense&ntilde;arles diversas habilidades, mientras el Gobierno de M&eacute;xico, les otorga un apoyo econ&oacute;mico equivalente a un salario m&iacute;nimo; adem&aacute;s de su cobertura en el seguro m&eacute;dico del IMSS.</p>
+
+<p>En este tiempo hemos atendido ya a cerca de 3 millones de beneficiarias y de beneficiarios, de los cuales, podemos destacar, 60 por ciento de ellas son mujeres y 40 por ciento hombres. Esto ha representado una inversi&oacute;n hist&oacute;rica en la juventud, sin precedentes en la historia del pa&iacute;s, lo cual tambi&eacute;n lo vuelve una de las pol&iacute;ticas m&aacute;s innovadoras e importantes en la regi&oacute;n, incluso, podr&iacute;amos decir, en el mundo; son cerca de 135 mil millones de pesos los que se han invertido a lo largo de seis a&ntilde;os de funcionamiento de este programa.</p>
+
+<p>Adem&aacute;s de los resultados que ha significado con ello darles oportunidades a los j&oacute;venes en las zonas de mayor vulnerabilidad en el pa&iacute;s, hay que destacar que, de los j&oacute;venes que participan en el programa, 7 de cada 10 de ellas y de ellos encuentran una ocupaci&oacute;n o empleo despu&eacute;s de su participaci&oacute;n dentro de este programa J&oacute;venes Construyendo el Futuro.</p>
+
+<p>Y como ya lo ha informado nuestra Presidenta, la Doctora Claudia Sheinbaum, este programa, como todos los dem&aacute;s Programas del Bienestar, se mantienen.</p>
+
+<p>Y adem&aacute;s, nos emociona much&iacute;simo informar que el pr&oacute;ximo 1o. de diciembre vuelve a abrir este programa para recibir nuevos registros de j&oacute;venes que est&eacute;n interesados en participar en el mismo. La meta es de 90 mil nuevos beneficiarios que iniciar&iacute;an su capacitaci&oacute;n a partir de enero de 2025. Entonces, vamos a empezar las inscripciones, como bien menciono, a partir del 1o. de diciembre y la intenci&oacute;n es que 90 mil nuevos j&oacute;venes empiecen su capacitaci&oacute;n en el mes de enero.</p>
+
+<p>Hay que recordar que al ser una herramienta fundamental en estrategia de atenci&oacute;n a las causas de la desigualdad y la violencia ha sido implementado, de manera focalizada este programa, en aquellos municipios prioritarios con mayor &iacute;ndice de pobreza, de mayor incidencia delictiva para, de esta forma, atender a las y los j&oacute;venes que viven en las zonas donde m&aacute;s as&iacute; se necesita.</p>
+
+<p>Podr&aacute;n participar a trav&eacute;s de la plataforma digital del programa, que es www.jovenesconstruyendoelfuturo.stps.gob.mx &ndash;como se despliega as&iacute; en la pantalla&ndash; o tambi&eacute;n hacerlo de manera presencial en algunas de las muchas oficinas m&oacute;viles que se van a instalar en los municipios prioritarios para ser atendidos los j&oacute;venes de manera presencial.</p>
+
+<p>Invitamos de esta manera a todas y todos para que puedan participar en este programa, para que sigamos construyendo el presente y el futuro de M&eacute;xico.</p>
+
+<p>Recuerden que el futuro es joven.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p>Con su permiso, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &ndash;&iquest;Por qu&eacute; no comentas cu&aacute;ntos se han atendido, cu&aacute;ntos j&oacute;venes?&ndash;</p>
+
+<p><strong>SECRETARIO DEL TRABAJO Y PREVISI&Oacute;N SOCIAL, MARATH BOLA&Ntilde;OS L&Oacute;PEZ:</strong> Bien. Bueno, como bien menciona la Presidenta, reiterarles &ndash;en la anterior&ndash;. Creo que podemos destacar, el programa J&oacute;venes Construyendo el Futuro ha tenido un importante despliegue a nivel nacional en todo este tiempo.</p>
+
+<p>Menciono, son 2 millones 973 mil 461 beneficiarias y beneficiarios de manera espec&iacute;fica, cerca de 3 millones de j&oacute;venes. Esto lo que nos ha permitido es, avanzar en un derecho muy importante para la juventud, es el que tengan as&iacute; el derecho al trabajo.</p>
+
+<p>Como saben, adem&aacute;s, se ha hecho un planteamiento de que pueda, incluso, construirse este programa como tambi&eacute;n un derecho que avanzar&aacute; hacia verse reflejado en la Constituci&oacute;n. Entonces, decirles que nuestra intenci&oacute;n es que sigamos dando estos beneficios a los j&oacute;venes.</p>
+
+<p>Esta apertura cumple con el se&ntilde;alamiento que hizo la Doctora, de poder dar tambi&eacute;n atenci&oacute;n a las pr&oacute;ximas generaciones de los J&oacute;venes Construyendo el Futuro. Entonces, estamos atendiendo de esta manera su instrucci&oacute;n para avanzar con su implementaci&oacute;n.</p>
+
+<p>Entonces, 3 millones de j&oacute;venes en todo el territorio nacional, como les he comentado; 60 por ciento de ellas mujeres, 40 por ciento hombres; y vamos a seguir dando los beneficios de esta importante pol&iacute;tica p&uacute;blica para todas y para todos.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, muy breve fue el informe.</p>
+
+<p>Inicia construcci&oacute;n de&hellip; Bueno, inicia inscripci&oacute;n &ndash;perd&oacute;n&ndash; de J&oacute;venes Construyendo el Futuro el 1o. de diciembre, ya es la pr&oacute;xima semana, para que todas y todos los j&oacute;venes lo sepan.</p>
+
+<p>Marath&hellip; hemos estado trabajando para orientar el programa en algunos estados particularmente; va a estar en toda la Rep&uacute;blica, pero particularmente en las zonas donde queremos que este programa sea una opci&oacute;n distinta de vida para muchos j&oacute;venes que a lo mejor est&aacute;n cercanos a involucrarse a un grupo delictivo, que tienen esta posibilidad o incluso, que est&aacute;n involucrados, que salgan de ese c&iacute;rculo de violencia, y que puedan incorporarse a una vida y a una oportunidad distinta.</p>
+
+<p>Entonces, sigue el programa J&oacute;venes Construyendo el Futuro, sigue como un programa de construcci&oacute;n de paz, de atenci&oacute;n a los j&oacute;venes, que son el presente y el futuro de M&eacute;xico.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&iquest;C&oacute;mo se dan de alta las empresas que est&aacute;n interesadas?</strong></p>
+
+<p><strong>SECRETARIO DEL TRABAJO Y PREVISI&Oacute;N SOCIAL, MARATH BOLA&Ntilde;OS L&Oacute;PEZ: </strong>Bien. Creo que es importante destacar que el programa es de participaci&oacute;n tripartita:</p>
+
+<p>Por una parte, el Gobierno de M&eacute;xico, como les mencion&eacute;, otorga el apoyo econ&oacute;mico equivalente al salario m&iacute;nimo y tambi&eacute;n la cobertura de seguro m&eacute;dico del IMSS.</p>
+
+<p>Por otra parte, los j&oacute;venes que, bueno, ponen su intenci&oacute;n, su entusiasmo de participar en el mismo programa.</p>
+
+<p>Y, finalmente, las empresas, los centros de trabajo, talleres, negocios, comercios, que fungen como tutores en donde, a lo largo de este a&ntilde;o, les transmiten habilidades, conocimientos para capacitarlos en el trabajo.</p>
+
+<p>Entonces, el programa, pueden inscribirse tanto los j&oacute;venes como los centros de trabajo, a trav&eacute;s de la plataforma que bien les mencionamos, es www.jovenesconstruyendoelfuturo.stps.gob.mx o tambi&eacute;n lo pueden hacer a trav&eacute;s de las oficinas m&oacute;viles que hemos desplegado en el territorio para poder, con ello, atender de manera presencial y de manera directa.</p>
+
+<p>Entonces, las inscripciones, de igual manera, est&aacute;n extendidas para que quienes est&eacute;n interesados en participar tambi&eacute;n como tutores, lo pueden hacer a trav&eacute;s de estas ambas v&iacute;as.</p>
+
+<p><strong>PREGUNTA: &iquest;Las empresas que ya estaban registradas van a continuar?</strong></p>
+
+<p><strong>SECRETARIO DEL TRABAJO Y PREVISI&Oacute;N SOCIAL, MARATH BOLA&Ntilde;OS L&Oacute;PEZ:</strong> S&iacute;, por supuesto.</p>
+
+<p>Tambi&eacute;n hay que mencionar que la Secretar&iacute;a del Trabajo, el programa, pues hace un proceso siempre de revisi&oacute;n de que las empresas que est&eacute;n interesadas en participar se mantengan evidentemente con sus registros debidamente actualizados.</p>
+
+<p>Tambi&eacute;n se hacen las visitas de verificaci&oacute;n para que se pueda cerciorar, no solamente de que el centro de trabajo sigue en funciones y cabalmente atendiendo la capacitaci&oacute;n, sino tambi&eacute;n para que los j&oacute;venes puedan disponer de un canal de comunicaci&oacute;n directo y tambi&eacute;n las mismas empresas, comercios, etc&eacute;tera que est&aacute;n en el programa.</p>
+
+<p>Eso es.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &ndash;Con relaci&oacute;n al tema. A ver, a ver, aqu&iacute;&ndash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Gracias. Buenos d&iacute;as, Presidenta, funcionarios y compa&ntilde;eros que nos acompa&ntilde;an. Z&oacute;simo Camacho, de<em> Luces del Siglo</em>.</strong></p>
+
+<p><strong>Bueno, este programa de J&oacute;venes Construyendo el Futuro no solamente busca el otorgar opciones distintas a los j&oacute;venes, a los hombres y mujeres que se est&aacute;n capacitando, que entran al periodo de la poblaci&oacute;n econ&oacute;micamente activa; tambi&eacute;n beneficia a las empresas, generar econom&iacute;a interna, etc&eacute;tera.</strong></p>
+
+<p><strong>Quisiera preguntarle en ese sentido, si &iquest;hay estad&iacute;sticas sobre el impulso a la econom&iacute;a de este programa, particularmente, en el &aacute;mbito empresarial? Y si, &iquest;tambi&eacute;n hay alg&uacute;n tipo de denuncias o estad&iacute;stica por malas pr&aacute;cticas de las empresas que se inscriben tambi&eacute;n al programa?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &ndash;&iquest;Por qu&eacute; no les platicas cu&aacute;ntos se quedan trabajando?&ndash;</p>
+
+<p><strong>SECRETARIO DEL TRABAJO Y PREVISI&Oacute;N SOCIAL, MARATH BOLA&Ntilde;OS L&Oacute;PEZ:</strong> Bien. &mdash;Si nos apoyan con la presentaci&oacute;n nada m&aacute;s en la primera diapositiva, digo, para reiterarles lo que les hemos comentado&mdash;.</p>
+
+<p>El programa, si bien es una estrategia para atender las causas de la violencia y la desigualdad, para que a los j&oacute;venes no se les responsabilice, como pas&oacute; durante d&eacute;cadas, de la falta de oportunidades y tambi&eacute;n de la obligaci&oacute;n del Estado mexicano, del gobierno, de ofrecer esas condiciones para el buen desarrollo de la juventud que, justamente, a trav&eacute;s del programa se est&aacute; propiciando esto en el &aacute;mbito de trabajo.</p>
+
+<p>Comentar que lo que se ha hecho es, evidentemente, un programa que tiene la intenci&oacute;n de atender en principio a la juventud, pero tambi&eacute;n, de manera indirecta, tiene un efecto positivo dentro de la propia econom&iacute;a al propiciar que el propio desarrollo de los j&oacute;venes, de las j&oacute;venes, en las empresas, permita tambi&eacute;n el crecimiento mismo de estas unidades econ&oacute;micas.</p>
+
+<p>Uno de los buenos efectos que ha tenido, muy positivos, el mismo programa, ha sido el n&uacute;mero de colocaci&oacute;n que ha tenido, el impacto que ha significado esto para abonar al buen ambiente que existe actualmente en M&eacute;xico sobre el empleo, en una tasa incluso de desempleo que, como ustedes conocen, es la m&aacute;s baja que existe en la regi&oacute;n: 7 de cada 10 j&oacute;venes que participan en el programa terminan con una ocupaci&oacute;n productiva o tambi&eacute;n con un empleo, despu&eacute;s de su participaci&oacute;n.</p>
+
+<p>Una de las grandes limitantes que se tiene para la juventud, no solamente en M&eacute;xico, sino en el mundo, es la falta de experiencia en el trabajo. El desarrollo del programa a lo largo de un a&ntilde;o les ofrece justamente esta posibilidad a las y los j&oacute;venes.</p>
+
+<p>Entonces, estamos rompiendo con esto del c&iacute;rculo vicioso, en donde un joven no tiene trabajo porque no tiene experiencia laboral y como no ha tenido esa experiencia, pues no tiene posibilidad de conseguir el trabajo.</p>
+
+<p>Entonces, decirles nuevamente: son 7 de cada 10 j&oacute;venes. Esto contrasta con un joven que busca por su propia cuenta, sin participar en el programa, busca trabajo, es m&aacute;s o menos una proporci&oacute;n de cerca del 20 por ciento; entonces, estamos con ello, m&aacute;s que triplicando una tasa de ocupaci&oacute;n y de empleo, a trav&eacute;s de la participaci&oacute;n del programa.</p>
+
+<p>Entonces, son 135 mil millones de pesos en la juventud. Y podr&iacute;amos decir que tambi&eacute;n ha sido de manera indirecta, un importante est&iacute;mulo para las propias empresas, centros de trabajo; a quienes, adem&aacute;s, agradecemos porque han hecho tambi&eacute;n un papel muy importante dentro de este programa que, como les digo, es tambi&eacute;n de participaci&oacute;n tripartita.</p>
+
+<p>Sobre algunos se&ntilde;alamientos, algunas inquietudes, sobre tipo de denuncias que haya habido sobre el programa, bueno, se han hecho algunas de ellas y, sin embargo, decirles que son tangenciales, que no tienen en ning&uacute;n momento impacto dentro del programa.</p>
+
+<p>Hay que destacar que, adem&aacute;s, ha tenido muy buenas calificaciones el programa en general en su funcionamiento, y esto se ha debido, justamente por el seguimiento que se da tanto a los centros de trabajo como tambi&eacute;n las capacitaciones de los j&oacute;venes.</p>
+
+<p><strong>PREGUNTA: (inaudible) en municipios que tienen mayor problema en cuanto al tema de inseguridad. Doctora, si, &iquest;me puede comentar algunos ejemplos, el estado de Guanajuato, no s&eacute;, Baja California? Que nos pueda comentar.</strong></p>
+
+<p><strong>SECRETARIO DEL TRABAJO Y PREVISI&Oacute;N SOCIAL, MARATH BOLA&Ntilde;OS L&Oacute;PEZ:</strong> S&iacute;, bueno, justamente, como lo est&aacute;n mencionando, me parece que son muy buenos ejemplos.</p>
+
+<p>Lo que hace el programa es revisar cu&aacute;les son municipios, localidades, en donde se tienen mayor cantidad de incidencia delictiva, registros de incidencia delictiva, tambi&eacute;n de zonas de mayor pobreza y desigualdad. En ocasiones tambi&eacute;n son coincidentes, evidentemente, estos dos factores, pero justamente lo que estamos haciendo es darle la oportunidad a los j&oacute;venes que m&aacute;s as&iacute; lo requieren.</p>
+
+<p>Entonces, estamos enfocando las bater&iacute;as en hacer esto una realidad. Ya, desde hace algunos a&ntilde;os justamente estamos implementando esto.</p>
+
+<p>Van a encontrar, incluso, el despliegue, tanto del equipo de la Secretar&iacute;a de Bienestar, porque adem&aacute;s es un trabajo en equipo, articulado, que se hace con otras Secretar&iacute;as de Gobierno de M&eacute;xico, tambi&eacute;n con la Secretar&iacute;a de Seguridad, la Secretar&iacute;a de Gobernaci&oacute;n, en fin, todos de manera conjunta se hacen estos trabajos territoriales.</p>
+
+<p>Y lo que corresponde particularmente a la Secretar&iacute;a del Trabajo en el programa, se ha la instalaci&oacute;n de estas oficinas m&oacute;viles en lugares que, por lo regular, son de concurrencia dentro de los municipios o de las localidades para poder con ello facilitar la atenci&oacute;n de los j&oacute;venes o de los centros de trabajo que est&eacute;n interesados en participar en el mismo.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PREGUNTA: Secretario, &iquest;ese es un programa que inhibe la migraci&oacute;n de j&oacute;venes mexicanos a Estados Unidos?</strong></p>
+
+<p><strong>SECRETARIO DEL TRABAJO Y PREVISI&Oacute;N SOCIAL, MARATH BOLA&Ntilde;OS L&Oacute;PEZ:</strong> Bueno, en realidad, creo tenemos que entender que el fen&oacute;meno migratorio es derivado tambi&eacute;n de la b&uacute;squeda de oportunidades. Y lo que podemos destacar, que el programa ha sido tambi&eacute;n una herramienta muy importante en facilitar esas oportunidades en las localidades de los j&oacute;venes.</p>
+
+<p>Por lo tanto, tambi&eacute;n tenemos una firme convicci&oacute;n de que, atendiendo y dando estos derechos a los j&oacute;venes en sus propias comunidades, en sus lugares de origen, se inhibe la posibilidad de que se tengan que ir de sus localidades por necesidad.</p>
+
+<p>Entonces, se tiene una pol&iacute;tica que, si bien est&aacute; enfocada a dar una oportunidad en trabajo, tienen tambi&eacute;n diversos efectos en m&uacute;ltiples niveles y dimensiones de la vida de los j&oacute;venes.</p>
+
+<p><strong>PREGUNTA: En mi segunda pregunta &mdash;ah, perd&oacute;n&mdash;. Gracias, muchas gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Vale la pena, porque no solo es un programa aislado, es parte de nuestra concepci&oacute;n del desarrollo del pa&iacute;s y de la visi&oacute;n de que no es como antes, de que era esta idea de que &ldquo;el mercado iba a resolver todos los problemas&rdquo;, sino que el Estado y, en particular, el gobierno, tiene programas de Bienestar que hoy son derechos, que estar&aacute;n en la Constituci&oacute;n de la Rep&uacute;blica, que lo que hacen es poner como eje, como m&aacute;xima: &ldquo;Por el bien de todos, primero los pobres&rdquo;.</p>
+
+<p>Es una visi&oacute;n completamente distinta, donde antes los recursos se dedicaban a los de arriba, que era ideol&oacute;gico y de corrupci&oacute;n, era el poder econ&oacute;mico que hab&iacute;a capturado o que ya no hab&iacute;a diferencia con el poder pol&iacute;tico.</p>
+
+<p>Entonces, J&oacute;venes Construyendo el Futuro es parte de una pol&iacute;tica que le llamamos &ldquo;Econom&iacute;a Moral&rdquo;, &ldquo;Humanismo Mexicano&rdquo; y que tiene que ver con el desarrollo del pa&iacute;s, que no solamente ha permitido a millones de mexicanos y mexicanas salir de la pobreza, sino que impulsa la econom&iacute;a.</p>
+
+<p>Ayer sali&oacute; en <em>El Economista </em>o el d&iacute;a de hoy, no s&eacute; que... &mdash;No, el de la econom&iacute;a, creo que es el de ayer, a ver si lo buscan&mdash;.</p>
+
+<p>Hay m&aacute;s inversi&oacute;n, este a&ntilde;o que el a&ntilde;o pasado, extranjera directa; hist&oacute;rica. Y este a&ntilde;o se est&aacute; haciendo la encuesta ingreso-gasto por parte del Inegi y estoy segura, porque es el modelo, que va a tener buenos resultados.</p>
+
+<p>Entonces, nosotros nos llamamos el &ldquo;Segundo Piso de la Cuarta Transformaci&oacute;n&rdquo; porque somos continuidad y avance de la Transformaci&oacute;n de nuestro pa&iacute;s.</p>
+
+<p>Entonces, J&oacute;venes Construyendo el Futuro es un programa especial que va a quedar en la Constituci&oacute;n tambi&eacute;n, pero que es producto de esta visi&oacute;n distinta que se ten&iacute;a en el pasado, ese pasado neoliberal al que ya nadie quiere regresar.</p>
+
+<p>Y aprovecho tambi&eacute;n para decir, porque se ha dicho mucho de los organismos aut&oacute;nomos.</p>
+
+<p>Los organismos aut&oacute;nomos se crearon, no para acabar con los monopolos privados, &iquest;o qu&eacute; ha cambiado? No, era para evitar que las empresas del Estado, particularmente, Pemex y Comisi&oacute;n Federal de Electricidad, fueran reconocidas como empresas p&uacute;blicas y no como monopolios.</p>
+
+<p>Cofece se ha dedicado a parar a las empresas p&uacute;blicas.</p>
+
+<p>Entonces, ahora dicen &ldquo;no, que los organismos aut&oacute;nomos es quitar pluralidad, que ahora va a haber un gobierno autoritario&rdquo;.</p>
+
+<p>Claro que se va a seguir regulando, pues esa es una de las grandes tareas del gobierno, pero es una visi&oacute;n completamente distinta: acabar con la corrupci&oacute;n, con los privilegios. Y tambi&eacute;n que las empresas p&uacute;blicas recuperen su papel como motor de la econom&iacute;a nacional, que las dejaron abandonadas en todo el periodo neoliberal, particularmente, el sexenio del 2012 al 2018, aunque ya ven&iacute;a desde antes; ya vieron lo que hicieron con Pemex.</p>
+
+<p>Y ahora, lo que estamos recuperando es una visi&oacute;n en donde s&iacute; hay que&hellip; tiene que haber inversi&oacute;n privada, inversi&oacute;n extranjera directa, pero el Estado est&aacute; recuperando una visi&oacute;n. Y las empresas p&uacute;blicas son empresas p&uacute;blicas que no pueden considerarse como monopolios, esa fue la &uacute;ltima reforma constitucional.</p>
+
+<p>Entonces, J&oacute;venes Construyendo el Futuro tiene que ver con eso, con dejar de ver a los j&oacute;venes como responsables de no tener empleo o no tener educaci&oacute;n, dejando al Estado, como se pensaba antes, como si no tuviera responsabilidad.</p>
+
+<p>La educaci&oacute;n es un derecho y la responsabilidad de que la educaci&oacute;n sea un derecho es del Estado mexicano. Eso es lo que recuperamos.</p>
+
+<p>Los j&oacute;venes tienen derecho al empleo. Claro, no todo el empleo lo da el gobierno, tambi&eacute;n y de manera muy importante la iniciativa privada, pero nosotros nos responsabilizamos de potenciar la econom&iacute;a para que haya empleo para las y los j&oacute;venes. Y no se asume que es un asunto de meritocracia, de que &ldquo;no tienes empleo porque eres flojo y entonces te llamo <em>nini</em>&rdquo;.</p>
+
+<p>Entonces, s&iacute; es importante recuperar esta parte fundamental, porque nosotros estamos aqu&iacute; por voluntad del pueblo de M&eacute;xico y nunca nos vamos a separar del pueblo de M&eacute;xico, porque apoy&oacute; este modelo de desarrollo.</p>
+
+<p><strong>PREGUNTA: Presidenta, est&aacute; ya la imagen que hab&iacute;a solicitado. No s&eacute; si quiera referirse a ella antes de mi segunda pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &ldquo;Crece 11.2% &ndash;ah, esto es&ndash; valor de las exportaciones en octubre; logran monto hist&oacute;rico&rdquo;.</p>
+
+<p>Eso no va a parar. Eso no va a parar.</p>
+
+<p><strong>PREGUNTA: Perd&oacute;n, en mi segunda pregunta, Presidenta, ya se refer&iacute;a usted a la gratuidad en la educaci&oacute;n, que est&aacute; garantizada por el Estado desde los niveles b&aacute;sicos hasta la educaci&oacute;n superior. Sin embargo, en la Universidad Nacional Aut&oacute;noma de M&eacute;xico y otras instituciones de educaci&oacute;n superior, hay cobros por diplomados, por seminarios, por procesos de titulaci&oacute;n que alcanzan los miles de pesos.</strong></p>
+
+<p><strong>Recientemente, el d&iacute;a de antier, publicamos precisamente en <em>Luces del Siglo</em> una determinaci&oacute;n, un fallo de la Suprema Corte de Justicia de la Naci&oacute;n, donde, bueno, se se&ntilde;ala de que, despu&eacute;s de un proceso iniciado por un alumno de la Facultad de Derecho para ampararse en contra de un cobro precisamente de este tipo, determina &mdash;sobre la gratuidad de la educaci&oacute;n&mdash; determina que tiene la raz&oacute;n, precisamente, el joven y que la universidad no tendr&iacute;a que estar realizando este tipo de cobros.</strong></p>
+
+<p><strong>Sin embargo, abundan. Para pr&aacute;cticamente cualquier tipo de diplomado, de seminario, se tienen que pagar estos costos e incluso, hay facultades en las que dise&ntilde;an maestr&iacute;as, doctorados, es decir, posgrados exclusivos para empresas donde no hay ni quisiera examen de admisi&oacute;n formal, sino que hay un acuerdo entre la empresa y la facultad y la universidad. Eso solamente por poner ejemplo de la UNAM, pero ocurre en otras universidades p&uacute;blicas del pa&iacute;s.</strong></p>
+
+<p><strong>En ese sentido, si es que se tiene que garantizar la educaci&oacute;n para los j&oacute;venes, hombres y mujeres, tambi&eacute;n en la educaci&oacute;n superior, &iquest;qu&eacute; se puede hacer desde su administraci&oacute;n, precisamente, para impulsar la anulaci&oacute;n de este tipo de cobros en la educaci&oacute;n superior?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Est&aacute; en el 3o. constitucional muy claramente que la educaci&oacute;n superior, como otros niveles educativos, debe ser gratuita.</p>
+
+<p>Toda mi juventud me dediqu&eacute; a luchar por la educaci&oacute;n gratuita y la educaci&oacute;n como un derecho. Hay universidades, en efecto, que cobran colegiaturas o algunas otras cuotas.</p>
+
+<p>En la Ley de Educaci&oacute;n Superior qued&oacute; que deber&iacute;a de haber un fondo.</p>
+
+<p>&iquest;Qu&eacute; hemos planteado nosotros? Con respeto a las autonom&iacute;as universitarias, es importante que se haga una revisi&oacute;n de &ldquo;&iquest;en qu&eacute; se gasta el dinero?&rdquo;, porque ha habido un crecimiento muy grande de las burocracias universitarias.</p>
+
+<p>Entonces, &iquest;depende de la propia UNAM?, s&iacute;, pero tiene que haber tambi&eacute;n una Austeridad Republicana para que los recursos se destinen a las tres tareas fundamentales: educaci&oacute;n, investigaci&oacute;n y difusi&oacute;n de la cultura. Y no se requieren grandes aparatos.</p>
+
+<p>Entonces, s&iacute;, el presupuesto p&uacute;blico tiene que destinarse a la educaci&oacute;n, pero tambi&eacute;n todas las instituciones tenemos la responsabilidad de utilizar ese recurso para lo que estamos destinadas. El recurso del pueblo es del pueblo, no es de ning&uacute;n privilegio.</p>
+
+<p>Entonces, &iquest;qu&eacute; vamos a hacer nosotros? Con los nuevos espacios universitarios que vamos a crear, van a ser gratuitos y vamos a seguir trabajando con las universidades.</p>
+
+<p>&ldquo;Rosario Castellanos&rdquo;, Universidad de la Salud, las Universidades &ldquo;Benito Ju&aacute;rez&rdquo; son gratuitas. Aqu&iacute; en la Ciudad creamos la Universidad de la Salud, la Universidad &ldquo;Rosario Castellanos&rdquo;.</p>
+
+<p>Que el lunes, por cierto, les adelanto, vamos a firmar el decreto de la Universidad Nacional &ldquo;Rosario Castellanos&rdquo;, a hacer nacional, para que a partir del pr&oacute;ximo a&ntilde;o inicien, ya las nuevas universidades para dar opci&oacute;n a por lo menos 300 mil j&oacute;venes m&aacute;s a que estudien la educaci&oacute;n superior gratuita, de calidad, cient&iacute;fica, humanista, y que permita que las y los j&oacute;venes tengan empleo y tengan educaci&oacute;n, que es un derecho.</p>
+
+<p><strong>PREGUNTA: Presidenta, aqu&iacute; el asunto es de que no solamente ser&iacute;a de presupuesto y de austeridad a las que estar&iacute;an obligadas tambi&eacute;n las burocracias universitarias, sino de cumplimiento de la ley; porque si est&aacute; establecido precisamente ya en la propia ley mexicana la gratuidad este tipo de cobros podr&iacute;an caer entonces en la ilegalidad.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, pero es un asunto de la autonom&iacute;a y ah&iacute;, tienen que revisarse internamente. Y qu&eacute; bueno que gan&oacute; el amparo este joven.</p>
+
+<p><strong>PREGUNTA: Finalmente, Presidenta. Aqu&iacute; se present&oacute; la semana pasada el Plan H&iacute;drico, donde se estableci&oacute; el saneamiento de tres r&iacute;os, de los m&aacute;s contaminados del pa&iacute;s, conocidos incluso como &ldquo;infiernos ambientales&rdquo; por la cantidad precisamente de contaminaci&oacute;n que padecen.</strong></p>
+
+<p><strong>Sin embargo, no se mencion&oacute; el r&iacute;o Sonora, considerado el mayor desastre ambiental en la historia de la miner&iacute;a en M&eacute;xico. Se vertieron desechos t&oacute;xicos equivalentes a 10 veces el contenido del Estadio Azteca y que no ha sido remediado hasta este momento.</strong></p>
+
+<p><strong>Incluso, la administraci&oacute;n pasada, del Presidente L&oacute;pez Obrador, pues realiz&oacute; una investigaci&oacute;n que deriv&oacute; en una denuncia de car&aacute;cter penal en contra de una empresa filial de Grupo M&eacute;xico y en contra de servidores p&uacute;blicos, porque hab&iacute;an simulado que hab&iacute;a una especie de resarcimiento cuando pr&aacute;cticamente no se dijo nada. En esa denuncia penal, incluso, se se&ntilde;ala que hoy la contaminaci&oacute;n est&aacute;, como si ese derrame hubiera ocurrido hace 15 d&iacute;as.</strong></p>
+
+<p><strong>En ese sentido, preguntarle, Presidenta: &iquest;qu&eacute; se va a hacer para sanear el r&iacute;o Sonora? Si, &iquest;se est&aacute; hablando con Grupo M&eacute;xico a pesar de esta denuncia que tiene?, porque gener&oacute; preocupaci&oacute;n entre las comunidades de que no hubiera di&aacute;logo con ellas y hubiera di&aacute;logo con Grupo M&eacute;xico, cuando todav&iacute;a tiene estos saldos pendientes.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, las empresas tienen que cumplir y hay mecanismos administrativos, incluso, penales, si es que no se cumplen. Y la Secretar&iacute;a, la Semarnat, tiene la responsabilidad de hacer que se cumpla lo que est&aacute; establecido en la ley y en las normas. Y hablar con las comunidades; eso no evita que tambi&eacute;n se pueda hablar con la empresa; para ver c&oacute;mo va a remediar lo que a&uacute;n no ha remediado. Y la denuncia penal tiene su curso en la Fiscal&iacute;a.</p>
+
+<p>Pero, s&iacute;, Semarnat tiene que hablar con las comunidades y tambi&eacute;n con la empresa, decir: &ldquo;A ver, &iquest;c&oacute;mo se va a sanear lo que a&uacute;n no se ha remediado del r&iacute;o?&rdquo;</p>
+
+<p>Gracias.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Soy Yesenia Peralta, de <em>Gaceta Business Energy</em>, de Tabasco.</strong></p>
+
+<p><strong>Presidenta, la inseguridad en Tabasco se ha detonado en los &uacute;ltimos d&iacute;as, por lo que el Gobierno de Tabasco, encabezado por Javier May, ha implementado una estrategia de seguridad en los tres &oacute;rdenes de gobierno, apoyados de igual manera con la intervenci&oacute;n inmediata de la Secretar&iacute;a de la Defensa y Guardia Nacional, as&iacute; como de la Polic&iacute;a estatal. </strong></p>
+
+<p><strong>Esto, debido a los &uacute;ltimos acontecimientos presentados la semana pasada, en donde perdieron la vida gente inocente debido a la disputa entre organizaciones delictivas, que han puesto en foco rojo la seguridad en el estado.</strong></p>
+
+<p><strong>Las actividades en el estado est&aacute;n siendo normales y con tranquilidad, incluso, el trabajo con el pueblo, visitando las comunidades para detonar los programas de desarrollo social en el estado. Y esto, pese a estos acontecimientos, no ha dejado de hacerse, pues la poblaci&oacute;n necesita que siga todo en curso.</strong></p>
+
+<p><strong>Las autoridades estatales est&aacute;n garantizando la seguridad a la poblaci&oacute;n y exhortan a no perder la calma, as&iacute; como aportar cualquier tipo de informaci&oacute;n entre la poblaci&oacute;n, que permita anticipar cualquier tipo de actividad delictiva, guardando su integridad f&iacute;sica.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; mensaje le da al pueblo de Tabasco, Presidenta, para que se encuentren tranquilos, y el apoyo federal que habr&aacute; al estado?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Primero, Javier es un gran gobernador, es un hombre de mucha convicci&oacute;n, honesto, dedicado y, adem&aacute;s, est&aacute; muy pendiente y coordinando las Mesas de Seguridad todos los d&iacute;as. Y lo estamos apoyando y estamos apoyando al pueblo de Tabasco.</p>
+
+<p><strong>PREGUNTA: Incluso, no ha dejado de visitar ninguna comunidad, pese a todo.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, es un hombre muy cercano al pueblo, muy cercano. Y lo estamos apoyando en muchos temas, entre otros, la seguridad.</p>
+
+<p>Vamos a apoyar a Tabasco en infraestructura. El programa que &eacute;l tiene de Cr&eacute;dito a la Palabra para desarrollo agropecuario, lo vamos a apoyar. Estamos apoyando conjuntamente en un programa de mejoramiento de vivienda, particularmente, rural. Se est&aacute; trabajando en el Interoce&aacute;nico.</p>
+
+<p>Entonces, vamos a apoyar al pueblo de Tabasco y a Javier. Est&aacute; el tema del desazolve de los r&iacute;os, que es un trabajo permanente, no puede parar. En todo vamos a apoyar a Tabasco.</p>
+
+<p>Y hay&hellip; Para que sepan, aqu&iacute; en el Gabinete de Seguridad estamos pendientes, cada semana vemos, un d&iacute;a a la semana distinto, y orientamos, revisamos qu&eacute; m&aacute;s trabajos tenemos que hacer.</p>
+
+<p>Hay trabajo de inteligencia, de investigaci&oacute;n para las detenciones a partir de &oacute;rdenes de aprehensi&oacute;n. Cada semana vemos, una vez a la semana vemos Tabasco para darle la revisi&oacute;n, y estamos apoyando a Javier en todo lo que requiera y al pueblo de Tabasco.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>En otro tema, y en relaci&oacute;n a la pol&iacute;tica arancelaria que anuncia Trump a M&eacute;xico, no deja exento al petr&oacute;leo, lo que se reflejar&iacute;a en una afectaci&oacute;n a los consumidores estadounidenses debido a esta estrategia que se pudiera implementar en este caso.</strong></p>
+
+<p><strong>Hay que recordar que M&eacute;xico es el segundo pa&iacute;s, despu&eacute;s de Canad&aacute;, en exportar a Estados Unidos crudo pesado. De aplicarse la pol&iacute;tica del aumento de aranceles al petr&oacute;leo, el principal afectado ser&aacute; este pa&iacute;s del norte, ya que ser&iacute;a l&oacute;gico que entonces, la exportaci&oacute;n de este crudo ser&iacute;a hacia otros pa&iacute;ses del mundo.</strong></p>
+
+<p><strong>&iquest;Tiene implementada una estrategia para anticiparse a este tipo de aranceles al petr&oacute;leo mexicano?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Si, lo que estamos haciendo es el di&aacute;logo, la carta que enviamos; porque hay tambi&eacute;n quien dice que &ldquo;enviamos la carta y luego habl&aacute;bamos, y entonces ya cambiamos&rdquo;. No, enviamos la carta y sostenemos lo que dice la carta; y adem&aacute;s, hablamos con el presidente Trump.</p>
+
+<p>Si se fijan, en la carta lo primero que planteo es lo que M&eacute;xico ha estado haciendo en materia de atender el fen&oacute;meno migratorio, que fue lo mismo que habl&eacute; por tel&eacute;fono con el presidente Trump.</p>
+
+<p>En la carta tambi&eacute;n planteo lo que hemos estado haciendo, por si &eacute;l no lo conoc&iacute;a, en materia del combate al narcotr&aacute;fico y particularmente, al fentanilo, que fue parte de la conversaci&oacute;n; incluso, hablamos de la campa&ntilde;a que se hizo en M&eacute;xico, que le interes&oacute; mucho.</p>
+
+<p>Y si se fijan, en su primera publicaci&oacute;n, &eacute;l pone eso como el tema, y que por eso pondr&iacute;a aranceles.</p>
+
+<p>Entonces, nosotros colaboramos, nunca nos subordinamos. Si logramos coordinarnos en eso, no va a haber aranceles.</p>
+
+<p><strong>PREGUNTA: El petr&oacute;leo que se exporta, el crudo pesado, el 56 por ciento de la exportaci&oacute;n es del petr&oacute;leo mexicano. Yo creo que ellos ser&iacute;an los m&aacute;s afectados en caso de los aranceles.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Eso lo saben ellos. Ellos saben lo que present&oacute; aqu&iacute; el secretario de Econom&iacute;a, Marcelo Ebrard, de qu&eacute; pasar&iacute;a si aumenta el precio de un veh&iacute;culo por un arancel.</p>
+
+<p>M&eacute;xico ya exporta mucho menos petr&oacute;leo; eso es parte de un proyecto de soberan&iacute;a, de que el petr&oacute;leo que producimos se refine en M&eacute;xico para venderse en M&eacute;xico. Entonces, la gran mayor&iacute;a del petr&oacute;leo que producimos se refina en M&eacute;xico y el segundo tren de la Refiner&iacute;a Olmeca est&aacute; ya pr&aacute;cticamente funcionando.</p>
+
+<p>Entonces, nos vamos a poner de acuerdo, yo estoy convencida, sin&hellip; defendiendo nuestra soberan&iacute;a, con el respeto a las y los mexicanos, con el respeto a M&eacute;xico, y en la colaboraci&oacute;n que tiene que tener un gobierno con otro, y un socio comercial con otro, tan importantes socios comerciales.</p>
+
+<p>Entonces, si llegara a ocurrir, de todas maneras, tenemos plan, pero el objetivo es que no ocurra.</p>
+
+<p><strong>PREGUNTA: As&iacute; es. Le conviene m&aacute;s, por la cercan&iacute;a territorial; inclusive traer el crudo pesado de Asia o de otros pa&iacute;ses les es m&aacute;s caro.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pero no es el tema del petr&oacute;leo, ya ni siquiera, te digo, ya ni siquiera es el tema del petr&oacute;leo.</p>
+
+<p>O sea, M&eacute;xico lleg&oacute; a&hellip; En la &eacute;poca de Fox se produjeron en M&eacute;xico, llegaron a producirse 3., si mal no me equivoco, 3 millones de barriles diarios. &iquest;C&oacute;mo lograron eso? Sobreexplotando Cantarell; Cantarell, el principal yacimiento que le dio a M&eacute;xico un desarrollo enorme e ingresos enormes.</p>
+
+<p>Para que Fox le enviara m&aacute;s petr&oacute;leo a Estados Unidos, pues sobreexplotaron nuestros yacimientos.</p>
+
+<p>Lo m&aacute;s incre&iacute;ble de todo, aparte de que malbarataron y sobreexplotaron Cantarell, inyectando nitr&oacute;geno, y al inyectar nitr&oacute;geno contaminaron el gas. Supuestamente se iba a construir una planta de nitr&oacute;geno, que ah&iacute; est&aacute;, pero que en realidad no opera como debe operar, que es parte del problema de la contaminaci&oacute;n todav&iacute;a del gas con nitr&oacute;geno de esa zona.</p>
+
+<p>La pregunta es &iquest;en qu&eacute; usaron el recurso? El barril de petr&oacute;leo estaba en 100 d&oacute;lares el barril; hay un cap&iacute;tulo ah&iacute; del libro <em>&iexcl;Gracias!</em>, del Presidente L&oacute;pez Obrador, que habla de esto.</p>
+
+<p>Adem&aacute;s, de todo&hellip; D&iacute;ganme una obra de Fox que recuerden, una obra de infraestructura que recuerden que digan: &ldquo;los recursos petroleros se usaron para el desarrollo del pa&iacute;s&rdquo;. &iquest;Se acuerdan de alguna?</p>
+
+<p>Ahora, de Calder&oacute;n, que tambi&eacute;n vivi&oacute; un periodo de ingresos petroleros enormes; ahora, d&iacute;ganme: &iquest;qu&eacute; obra recuerdan de Calder&oacute;n?</p>
+
+<p><strong>PREGUNTA: La &ldquo;Suavicrema&rdquo;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> La &ldquo;Suavicrema&rdquo;, el monumento a la corrupci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Le barda de&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> La media barda.</p>
+
+<p><strong>PREGUNTA: Hospitales inacabados.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong>&nbsp; Hospitales inacabados. &iexcl;Ah!, pero eso s&iacute;, el gobierno creci&oacute;: directores generales, directores generales adjuntos, bla, bla, bla.</p>
+
+<p>Cuando llega el Presidente L&oacute;pez Obrador, pues cambia el modelo.</p>
+
+<p>&iexcl;Ah! y Pe&ntilde;a. O sea, hacen la reforma energ&eacute;tica, supuestamente iban a llegar las grandes inversiones petroleras. &iquest;Y qu&eacute; pasa?, baja la producci&oacute;n, se endeuda Pemex, o sea, incre&iacute;ble, sobreexplota. El recurso del petr&oacute;leo, qui&eacute;n sabe d&oacute;nde qued&oacute;, y aparte endeudan a Pemex.</p>
+
+<p>Entonces, &iquest;cu&aacute;l es la pol&iacute;tica ahora, que es la que inicia del 2018 al 2024? Una producci&oacute;n, mantener una producci&oacute;n de 1.8 millones de barriles diarios y que en vez de que ese petr&oacute;leo se venda al extranjero &mdash;todav&iacute;a hay un peque&ntilde;o porcentaje de exportaci&oacute;n&mdash; se quede en M&eacute;xico; que las refiner&iacute;as mexicanas funcionen bien; y que se venda la gasolina, el di&eacute;sel en nuestro pa&iacute;s, con mejor combustible. Para eso se hicieron las coquizadoras, porque las coquizadoras permiten que en vez de que se produzca combust&oacute;leo se produzca m&aacute;s gasolina y, adem&aacute;s, tenga menos contenido de azufre; entonces sea gasolina que provoca menos contaminaci&oacute;n y ah&iacute; se queda.</p>
+
+<p>Y lo que sigue, que es lo que hemos planteado nosotros, particularmente para la generaci&oacute;n el&eacute;ctrica y poco a poco hacia el transporte, pues que sean m&aacute;s fuentes renovables de energ&iacute;a para evitar o para contribuir a disminuir el cambio clim&aacute;tico.</p>
+
+<p>Y sobre el otro tema, la relaci&oacute;n siempre va a ser&hellip; vamos a buscar una relaci&oacute;n de respeto, de no subordinaci&oacute;n, eso nunca, nunca. Nosotros no nos subordinamos, somos un pa&iacute;s grandioso y cercanos al pueblo siempre, siempre, ese es nuestro mandato. Y de esa manera vamos a salir adelante.</p>
+
+<p>&ndash;En un ratito viene una sorpresa aqu&iacute; a &ldquo;La Ma&ntilde;anera. &iquest;Ya est&aacute;?&ndash;.</p>
+
+<p>A ver, vamos a poner el&hellip; &iquest;cu&aacute;nto dura? A ver, vamos a poner el &ldquo;Detector&rdquo; tres minutos; luego el homenaje a Silvia; y luego una sorpresa que tenemos aqu&iacute; atr&aacute;s.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE LA SECCI&Oacute;N &ldquo;DETECTOR DE MENTIRAS&rdquo; SOBRE LA DESAPARICI&Oacute;N DE LOS &Oacute;RGANOS AUT&Oacute;NOMOS)</strong></p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO &ldquo;HOMENAJE A LA ACTRIZ SILVIA PINAL&rdquo;)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Saludos a&hellip; Nuestro p&eacute;same a su familia, familiares, amigos.</p>
+
+<p>Y viene la sorpresa.</p>
+
+<p><strong>CAMPE&Oacute;N MUNDIAL DE BOXEO, SA&Uacute;L &ldquo;CANELO&rdquo; &Aacute;LVAREZ:</strong> Buenos d&iacute;as.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Mauricio, &iquest;c&oacute;mo est&aacute;s?</p>
+
+<p><strong>PRESIDENTE DEL CONSEJO MUNDIAL DE BOXEO, MAURICIO SULAIM&Aacute;N SALD&Iacute;VAR: &ndash;</strong>Su cintur&oacute;n de campeona mundial. Ah&iacute; lo firma, con la firma del &ldquo;Canelo&rdquo;&ndash;.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> V&eacute;nganse para ac&aacute;, para que&hellip;</p>
+
+<p><strong>PREGUNTA: &iexcl;Arriba el campe&oacute;n!</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iexcl;Arriba!</p>
+
+<p>&ndash;&iquest;Quieres comentar algo?&ndash;.</p>
+
+<p><strong>PRESIDENTE DEL CONSEJO MUNDIAL DE BOXEO, MAURICIO SULAIM&Aacute;N SALD&Iacute;VAR: </strong>S&iacute;, claro.</p>
+
+<p>&mdash;V&eacute;ngase, campe&oacute;n&mdash;.</p>
+
+<p><strong>CAMPE&Oacute;N MUNDIAL DE BOXEO, SA&Uacute;L &ldquo;CANELO&rdquo; &Aacute;LVAREZ:</strong> No, pues, buenos d&iacute;as a todos. Gusto de verlos.</p>
+
+<p>Muchas gracias, Presidenta, por recibirme y es un honor estar aqu&iacute; con usted. Muchas felicidades por todo.</p>
+
+<p>Y gracias a todos los que est&aacute;n aqu&iacute;. Y espero que pasen felices fiestas. Muchas gracias por emocionarse al verme.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTE DEL CONSEJO MUNDIAL DE BOXEO, MAURICIO SULAIM&Aacute;N SALD&Iacute;VAR:</strong> Yo quisiera, a nombre de toda la comunidad del boxeo de M&eacute;xico, del mundo, felicitarla, se&ntilde;ora Presidenta, porque usted es la campeona de las mujeres, la campeona del mundo, la campeona de la paz.</p>
+
+<p>Y todo inici&oacute; hace muchos a&ntilde;os porque, cuando tuvimos nuestra Convenci&oacute;n Anual, abri&oacute; la Convenci&oacute;n, ante todo el mundo y desde ese momento se llev&oacute;, todos los miembros del Consejo Mundial de 178 pa&iacute;ses, un pedacito de Claudia en su coraz&oacute;n.</p>
+
+<p>Eventualmente, se hizo la clase masiva en el Z&oacute;calo, se rompi&oacute; un r&eacute;cord incre&iacute;ble, el R&eacute;cord Guinness; ver el Z&oacute;calo de esa manera fue algo muy emocionante. Se repiti&oacute; al a&ntilde;o siguiente.</p>
+
+<p>Y quisi&eacute;ramos hacerle entrega de estos guantes, &ldquo;Guantes blancos de la paz&rdquo;.</p>
+
+<p>Y pedirle que nos apoye para hacer otra clase, pero a nivel nacional. Estamos hablando con Miguel Torruco, con la Conade, con todos los gobernadores para que, en una plaza, simult&aacute;neamente, en todos los estados, estemos juntos por el deporte.</p>
+
+<p>As&iacute; como el &ldquo;Canelo&rdquo; ha llevado a nuestro M&eacute;xico por todos los rincones del mundo, cuando se habla de boxeo se habla de M&eacute;xico, se habla del &ldquo;Canelo&rdquo;; y ahora, se habla de nuestra campeona Claudia Sheinbaum.</p>
+
+<p>Entonces, le queremos hacer entrega de estos &ldquo;Guantes de la paz&rdquo;.</p>
+
+<p>Y nuestro agradecimiento, por siempre estar al pendiente de los j&oacute;venes.</p>
+
+<p>El deporte es el mejor medio para una vida digna, para una vida saludable, para estar afuera de las calles; y el Consejo Mundial de Boxeo, nuestra familia, nos unimos incondicionalmente a todos los programas que durante estos seis a&ntilde;os podamos apoyar.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PREGUNTA: &iquest;Hay planes de impulsar el boxeo femenil, as&iacute; como en el f&uacute;tbol ya se est&aacute; logrando ese impacto medi&aacute;tico?</strong></p>
+
+<p><strong>PRESIDENTE DEL CONSEJO MUNDIAL DE BOXEO, MAURICIO SULAIM&Aacute;N SALD&Iacute;VAR: </strong>S&iacute;, en el boxeo femenil, el mexicano es el m&aacute;s fuerte a nivel mundial.</p>
+
+<p>&ldquo;Canelo&rdquo; me estaba precisamente comentando que est&aacute; armando su empresa para promover el talento.</p>
+
+<p>Hay much&iacute;simas mujeres que lo &uacute;nico que necesitan es una oportunidad, y &ldquo;Canelo&rdquo;, siempre de manera muy calladita, le regresa al boxeo mucho de lo que &eacute;l ha recibido. &Eacute;l es un joven ejemplar, con acciones altruistas que no pone en redes, que no los grita, lo hace del coraz&oacute;n y por eso, yo admiro mucho a nuestro campe&oacute;n.</p>
+
+<p>Pero la mujer, sin duda alguna. Precisamente, hoy en Canc&uacute;n, &ldquo;Lul&uacute;&rdquo; Ju&aacute;rez contra &ldquo;La Ni&ntilde;a&rdquo; G&oacute;mez, van por el t&iacute;tulo mundial minimosca, dos mujeres.</p>
+
+<p>Y todas las semanas est&aacute;n ah&iacute; representando a nuestro boxeo de mujeres, y creemos en el poder de la mujer.</p>
+
+<p><strong>PREGUNTA: &ldquo;Canelo&rdquo;, un mensaje para las, los j&oacute;venes de Sinaloa, de M&eacute;xico, un mensaje a la juventud que anda un poquito p&eacute;rdida.</strong></p>
+
+<p><strong>CAMPE&Oacute;N MUNDIAL DE BOXEO, SA&Uacute;L &ldquo;CANELO&rdquo; &Aacute;LVAREZ:</strong> No, primero que nada, creo es de sus padres, &iquest;no?, viene desde ah&iacute;; pero el deporte es muy importante, como dice Mauricio, el deporte es muy importante para poder salir de eso.</p>
+
+<p>Yo, en lo personal, vi muchos muchachos que se drogaban y que estaban perdidos; se metieron al boxeo y tienen totalmente otra vida muy diferente. Y creo que el deporte, impulsar el deporte, es algo muy importante, y confiamos en que as&iacute; ser&aacute;.</p>
+
+<p>As&iacute; que, nada, decirles eso: que busquen cualquier deporte que les llame la atenci&oacute;n, porque eso es muy sano para todos.</p>
+
+<p><strong>PREGUNTA: Sa&uacute;l, &iquest;estar&iacute;as en alguna campa&ntilde;a (inaudible) del gobierno mexicano respecto a este tema, estar&iacute;as en una campa&ntilde;a?</strong></p>
+
+<p><strong>CAMPE&Oacute;N MUNDIAL DE BOXEO, SA&Uacute;L &ldquo;CANELO&rdquo; &Aacute;LVAREZ:</strong> Claro. Obviamente, siempre, si es para ayudar a la gente, si es para apoyar a M&eacute;xico, si es para apoyar a los j&oacute;venes, siempre, el poner mi granito de arena, siempre voy a estar ah&iacute; al 100 por ciento.</p>
+
+<p><strong>PREGUNTA: &iquest;Alguna pelea de exhibici&oacute;n en M&eacute;xico?</strong></p>
+
+<p><strong>CAMPE&Oacute;N MUNDIAL DE BOXEO, SA&Uacute;L &ldquo;CANELO&rdquo; &Aacute;LVAREZ:</strong> No, siempre para m&iacute;, el pensar en pelear en M&eacute;xico siempre me pone muy feliz, &iquest;no?, y me pone de buenas, porque me recuerda muchas cosas. Y siempre para m&iacute; es un honor el poder pensar el tener una pelea aqu&iacute; en M&eacute;xico.</p>
+
+<p><strong>PREGUNTA: &iquest;Te sumas a la Cuarta Transformaci&oacute;n, a trav&eacute;s del deporte?</strong></p>
+
+<p><strong>CAMPE&Oacute;N MUNDIAL DE BOXEO, SA&Uacute;L &ldquo;CANELO&rdquo; &Aacute;LVAREZ BARRAG&Aacute;N:</strong> Pues, mira, siempre el apoyar el deporte, sea quien sea, siempre voy a estar al 100 por ciento apoyando.</p>
+
+<p><strong>PREGUNTA: De ese apoyo, &iquest;algo en espec&iacute;fico para el pueblo de Sinaloa? De ese apoyo, &iquest;algo en espec&iacute;fico para el pueblo de Sinaloa que tiene, de repente, condiciones complicadas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Nos da mucho gusto tener aqu&iacute; a la familia Sulaim&aacute;n, a Mauricio, y, particularmente, al &ldquo;Canelo&rdquo;; es orgullo de M&eacute;xico por muchas razones, no solamente porque es un campe&oacute;n que pone en alto en nombre de nuestro pa&iacute;s, sino que adem&aacute;s, &eacute;l es un hombre muy completo.</p>
+
+<p>He tenido, la verdad, el gran privilegio de poder platicar con &eacute;l, varias veces, y en estas pl&aacute;ticas he conocido al hombre, m&aacute;s all&aacute; del boxeador, del deportista; y es un hombre muy completo en el sentido de, no solamente la disciplina y la excelencia que tiene en su trabajo deportivo, sino que tiene muchos valores que los transmite no solamente a su familia, sino a todo el pueblo de M&eacute;xico.</p>
+
+<p>Y el Consejo Mundial de Boxeo, pues hemos trabajado con Mauricio desde la Jefatura de Gobierno en muchos temas. Y particularmente, en &ldquo;dos, uno&rdquo;, fue la clase m&aacute;s grande del mundo, la clase de box m&aacute;s grande del mundo. Pero tambi&eacute;n tuvimos o hay un programa en la Ciudad &ndash;lo mantiene Clara&ndash; que se llamaba &ldquo;PILARES&rdquo;, que son centros comunitarios; hicimos 300 centros comunitarios en colonias, en barrios para que ah&iacute; hubiera de manera gratuita educaci&oacute;n, cultura y deporte.</p>
+
+<p>Y algunos de los PILARES se especializaron en box, pero lo m&aacute;s incre&iacute;ble, es que m&aacute;s all&aacute; de sacar&hellip; o sea, que fueron semillero, que son semilleros para futuros boxeadores, como tambi&eacute;n la escuela que est&aacute; en Tepito, que inaugur&oacute; el Presidente L&oacute;pez Obrador y que hicimos conjuntamente, sino que el box se convierte en una disciplina.</p>
+
+<p>Y entonces, en los PILARES logramos que la rutina &mdash;&iquest;no?, les llaman rutinas&mdash; las hicieran toda la familia, desde los peque&ntilde;itos, peque&ntilde;itas, hasta adultos y adultas mayores, en algo muy emocionante en donde juntos y juntas practicaban la rutina.</p>
+
+<p>Ahora, nos vamos a reunir.</p>
+
+<p>Estando en contacto con Mauricio, me dijo: &ldquo;Nos vemos&hellip;&rdquo; Bueno, quedamos de vernos el viernes, y le dije: &ldquo;Pues, &iquest;por qu&eacute; no vienen a &acute;La Ma&ntilde;anera&acute; primero, a que pueda el &acute;Canelo&acute; dar un mensaje a todas y todos los j&oacute;venes mexicanos, mexicanas?</p>
+
+<p>Y ahora, nos vamos a poner de acuerdo en c&oacute;mo vamos a colaborar, no solamente en la propia disciplina y lo que requiere, sino en que esta disciplina se vuelva un mensaje de paz en todo nuestro pa&iacute;s.</p>
+
+<p>Y entre otras, queremos hacer la &ldquo;Clase de Box m&aacute;s Grande del Mundo&rdquo; en abril del pr&oacute;ximo a&ntilde;o en cada plaza del pa&iacute;s. Entonces, ese, creo que es el 6 de abril&hellip;</p>
+
+<p><strong>PRESIDENTE DEL CONSEJO MUNDIAL DE BOXEO, MAURICIO SULAIM&Aacute;N SALD&Iacute;VAR:</strong> 6 de abril.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> 6 de abril.</p>
+
+<p><strong>PRESIDENTE DEL CONSEJO MUNDIAL DE BOXEO, MAURICIO SULAIM&Aacute;N SALD&Iacute;VAR:</strong> Es el D&iacute;a Internacional.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Queremos que, en los municipios, los presidentes y presidentas municipales se sumen, que los gobernadores y gobernadoras de los estados se sumen.</p>
+
+<p>Y que ese d&iacute;a, as&iacute; como fue en el Z&oacute;calo de la Ciudad de M&eacute;xico, que se puso la Bandera de M&eacute;xico con los colores al mismo tiempo que se hizo la clase de box, est&eacute; en cada plaza de nuestro pa&iacute;s, y para eso nos tenemos que preparar.</p>
+
+<p>Y lo queremos proponerle al &ldquo;Canelo&rdquo; es que nos ayude a la promoci&oacute;n de este programa, y otros, que en su disciplina, evidentemente, &eacute;l tiene poco tiempo, pero siempre un mensaje de aliento a las y a los j&oacute;venes es algo que se lleva en el coraz&oacute;n.</p>
+
+<p>Entonces, muchas gracias, &ldquo;Canelo&rdquo;; muchas gracias, Mauricio.</p>
+
+<p><strong>PRESIDENTE DEL CONSEJO MUNDIAL DE BOXEO, MAURICIO SULAIM&Aacute;N SALDIVAR:</strong> &iquest;Qu&eacute; les parece si nos pone el primer ejercicio ahorita? &iquest;Cu&aacute;l ser&iacute;a la primera?</p>
+
+<p><strong>CAMPE&Oacute;N MUNDIAL DE BOXEO, SA&Uacute;L &ldquo;CANELO&rdquo; &Aacute;LVAREZ:</strong> Ya no me acuerdo.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> A la siguiente. Lo preparamos con&hellip;</p>
+
+<p><strong>PREGUNTA: Con alg&uacute;n reportero.</strong></p>
+
+<p><strong>CAMPE&Oacute;N MUNDIAL DE BOXEO, SA&Uacute;L &ldquo;CANELO&rdquo; &Aacute;LVAREZ:</strong> &ndash;&iquest;Contigo? Necesito uno&ndash;.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Mejor lo preparamos, para estar bien entrenados. &iquest;Les parece? &ndash;Una foto all&aacute;, s&iacute;. Una, para que no sea&hellip;</p>
+
+<p><strong>(TOMA DE FOTOGRAF&Iacute;A)</strong></p>
+
+<p><strong>PREGUNTA:</strong> <strong>(Inaudible) con Roc&iacute;o Nahle.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, vamos: Coahuila, Nuevo Le&oacute;n y luego, el domingo vamos a estar con Roc&iacute;o en Veracruz.</p>
+
+<p>Gracias a todos y a todas.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+</div>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-11-29 08:49:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de noviembre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-noviembre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-noviembre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de noviembre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-noviembre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-noviembre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de noviembre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-noviembre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-noviembre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-noviembre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

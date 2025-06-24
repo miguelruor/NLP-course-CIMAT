@@ -1,0 +1,1858 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de enero de 2025 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de enero de 2025" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152814/matutina.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-enero-de-2025?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152814/matutina.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="xmvHkRI4SG0sInVHy5XXJlp37KTQpD2P0v+UkMW5uNI=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nn567jbez44jywq-f-5d3de1dd8-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":23,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"b9382f2","ak.r":46322,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62505,"ak.gh":"189.247.210.14","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296877","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==QZ5fjcuE1vAgdU72z6TgIFH1+EO+mmU8ShLrngFhBjCs1LwMM8aZG0I+df1wdt6N1MYnjlCYWwK5WYlavjbHJjb850anAsnWnmpmrpwXlDGk8DapIJFxBr2nk5pZPduk5lG5KVIZx55vWKf103iIXB9hoc7cO1CDHR00/ht7XdKZAtKrpGcvcKTmFoBvw/C5zN9xUujBhsSAuSXu/sS+le88GJDxeVbr+MM+hd/mN3g5OYU8mOCydSywUxerInLRWCqu7PDgxrlfQF2UeED+a+tCOLL4z+OUPKpNqy6Mum19xEfpmphgxHTVSUsJ82i6VTLyfNDJilmTKhjWqFfjpgDqP9KAl7cOZy6mH3PI7umA1leDVUwpPtDPBgfJaix/J1/ehUpK6EHPBJqMMrEO4V1ukisr5Hx2/Br2kIGHLcM=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de enero de 2025</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 14 de enero de 2025</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/152814/matutina.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p>&nbsp;</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Buenos d&iacute;as.</p>
+
+<p>El d&iacute;a de hoy tenemos muchos anuncios, mucha informaci&oacute;n.</p>
+
+<p>Vamos a iniciar, primero, con una comunicaci&oacute;n a distancia, con Laura Vel&aacute;zquez, que est&aacute; en Los &Aacute;ngeles, California, para informarles del trabajo que est&aacute;n haciendo los combatientes forestales y el equipo de Protecci&oacute;n Civil, y la Sedena, los miembros de la Sedena, del Plan DN-III-E. Una comunicaci&oacute;n breve.</p>
+
+<p>Despu&eacute;s, tenemos muy buenas noticias.</p>
+
+<p>Est&aacute; con nosotros el equipo de Amazon. Los va a presentar Marcelo, Marcelo Ebrard, secretario de Econom&iacute;a, pero est&aacute; el CEO de Infraestructura Global de Amazon, est&aacute; el CEO para Am&eacute;rica Latina de Amazon, el CEO de Pol&iacute;tica P&uacute;blica para las Am&eacute;ricas, y para M&eacute;xico, es el equipo completo, que anuncia una inversi&oacute;n muy importante para nuestro pa&iacute;s.</p>
+
+<p>Terminamos con esa informaci&oacute;n, ellos se van a retirar.</p>
+
+<p>Y despu&eacute;s, viene una informaci&oacute;n muy importante del plan del ISSSTE, que nos lo va a dar Mart&iacute; Batres.</p>
+
+<p>Bueno, empezamos con la comunicaci&oacute;n con Laura.</p>
+
+<p>&mdash;Muy buenos d&iacute;as, Laura&mdash;.</p>
+
+<p><strong>TITULAR DE LA COORDINACI&Oacute;N NACIONAL DE PROTECCI&Oacute;N CIVIL, LAURA VEL&Aacute;ZQUEZ ALZ&Uacute;A (ENLACE VIDEOLLAMADA A LOS &Aacute;NGELES, CALIFORNIA): </strong>Que tal, Presidenta. Muy buenos d&iacute;as. Me da mucho gusto saludarla.</p>
+
+<p>Muchas gracias, Presidenta, por esta importante instrucci&oacute;n que usted nos ha dado, a una delegaci&oacute;n mexicana, para estar en California, en los Estados Unidos, en apoyo al combate de los incendios en California.</p>
+
+<p>Me permito presentar a usted, Presidenta, y al pueblo de M&eacute;xico un breve informe de las tareas que hemos realizado en estos d&iacute;as:</p>
+
+<p>Los incendios forestales en el sur de California comenzaron el 7 de enero de 2025, cerca de la localidad de Palisades, en Los &Aacute;ngeles; fueron el resultado de una combinaci&oacute;n de factores clim&aacute;ticos extremos y condiciones ambientales adversas. Durante los d&iacute;as previos, la regi&oacute;n experiment&oacute; una intensa ola de calor acompa&ntilde;ada de vientos fuertes, lo que cre&oacute; un ambiente propenso para la propagaci&oacute;n r&aacute;pida de las llamas. Esta es la informaci&oacute;n que nos han dado en el gobierno de California.</p>
+
+<p>Al momento, se ha emitido una alerta roja derivada del pron&oacute;stico de vientos fuertes entre 80 a 110 kil&oacute;metros por hora hasta el d&iacute;a mi&eacute;rcoles, y una humedad muy baja en gran parte del sur de California, desde San Luis Obispo hasta San Diego. Estas condiciones podr&iacute;an incrementar el riesgo de una r&aacute;pida propagaci&oacute;n del fuego.</p>
+
+<p>Asimismo, con informaci&oacute;n del gobierno de California, hay tres puntos en donde est&aacute;n ubicados los incendios. El m&aacute;s grande que est&aacute; ubicado en Palisades, con una afectaci&oacute;n superior a las 9 mil 596 hect&aacute;reas con un control apenas del 14 por ciento; en Eaton, con una afectaci&oacute;n de 5 mil 703 hect&aacute;reas, un control de 33 por ciento; en Hurst, con una afectaci&oacute;n de 323 hect&aacute;reas, con un control del 95 por ciento.</p>
+
+<p>Las afectaciones por estos tres eventos relevantes, hay una suma total de 15 mil 632 hect&aacute;reas afectadas y, con el reporte que nos entrega el gobierno de California, 3 mil 644 da&ntilde;os a la infraestructura hidr&aacute;ulica y de energ&iacute;a, as&iacute; como en vivienda.</p>
+
+<p>Asimismo, informamos a ustedes que se han evacuado m&aacute;s de 70 mil personas.</p>
+
+<p>Los recursos del gobierno de los Estados Unidos de Am&eacute;rica son de 15 mil elementos, mil 460 camiones de bomberos, 80 aeronaves, 170 pipas y 175 maquinaria pesada.</p>
+
+<p>Paso a ustedes a informar que, el pasado 11 de enero, por instrucciones de la Presidenta de M&eacute;xico, la Doctora Claudia Sheinbaum, dos aeronaves de la Fuerza A&eacute;rea Mexicana despegaron de la Base A&eacute;rea de Santa Luc&iacute;a rumbo a Los &Aacute;ngeles, California, con una delegaci&oacute;n del Gobierno de M&eacute;xico integrada por la Defensa, la Conafor, la Coordinaci&oacute;n Nacional de Protecci&oacute;n Civil y la Secretar&iacute;a de Relaciones Exteriores, a fin de apoyar en las acciones de respuesta ante los incendios forestales, a trav&eacute;s de una fuerza de tarea de 72 elementos especializados.</p>
+
+<p>Somos la primera delegaci&oacute;n internacional, Presidenta, en sumarse a las labores de respuesta para el combate de los incendios en California.</p>
+
+<p>Asimismo, ese mismo s&aacute;bado, el s&aacute;bado 11 de enero, la delegaci&oacute;n mexicana arrib&oacute; al Aeropuerto Internacional de Los &Aacute;ngeles. Fue recibida por el gobernador de California, Gavin Newsom, quien agradeci&oacute; el apoyo del Gobierno de M&eacute;xico y de su Presidenta, la Doctora Claudia Sheinbaum, en la atenci&oacute;n de los incendios.</p>
+
+<p>Se cont&oacute; con la participaci&oacute;n de representantes del Departamento de Silvicultura y Protecci&oacute;n Contra Incendios del gobierno de California; asimismo, con la presencia de los c&oacute;nsules de M&eacute;xico en Los &Aacute;ngeles y Sacramento, California.</p>
+
+<p>Ese mismo s&aacute;bado, Presidenta, nos trasladamos al centro log&iacute;stico instalado en Beaumont, California. Este est&aacute; completamente equipado, donde se dan todos los suministros esenciales para brindar el apoyo al personal que atiende la emergencia.</p>
+
+<p>Al d&iacute;a siguiente, el domingo 12 de enero, la delegaci&oacute;n mexicana de combatientes del fuego y especialistas en protecci&oacute;n civil nos reportamos preparados para el Puesto de Comando de Incidentes, donde el gobierno de California complement&oacute; el equipamiento para el combate terrestre del equipo mexicano.</p>
+
+<p>El mismo domingo, 12 de enero, hubo una sesi&oacute;n informativa dirigida por el personal t&eacute;cnico del Departamento contra Incendios del gobierno de California, en donde se pudo dar un protocolo. Esto forma parte del protocolo de coordinaci&oacute;n binacional y tuvo como objetivo optimizar las estrategias conjuntas en el combate de incendios. Ah&iacute; se pudieron compartir experiencias por ambos pa&iacute;ses y poder enfrentar estos incendios aqu&iacute; en California de manera conjunta, en unidad y respeto.</p>
+
+<p>Asimismo, nos trasladamos al &Aacute;rea de Monitoreo y de Supervisi&oacute;n, donde se coordina el despliegue de recursos a&eacute;reos y terrestres con el objetivo de conocer los protocolos de operaci&oacute;n.</p>
+
+<p>El d&iacute;a lunes, el d&iacute;a de ayer, lunes 13 de enero, la delegaci&oacute;n mexicana arrib&oacute; al Puesto de Comando integr&aacute;ndose a la estructura operativa para apoyar las acciones de respuesta de la evaluaci&oacute;n de las capacidades del equipo mexicano, en donde se asignaron las siguientes operaciones:</p>
+
+<p>La Comisi&oacute;n Nacional Forestal, para realizar las tareas de manejo del fuego. Y la Secretar&iacute;a de la Defensa Nacional, para llevar a cabo labores de b&uacute;squeda y rescate.</p>
+
+<p>Este es un mapa en donde presentamos a ustedes en d&oacute;nde est&aacute;n ubicados nuestros compa&ntilde;eros especialistas de la Conafor y de la Sedena.</p>
+
+<p>Conafor, evidentemente, participa en las labores de respuesta en el combate de los incendios forestales, contribuyendo a la protecci&oacute;n de las comunidades, del ecosistema y de los recursos naturales del estado de California.</p>
+
+<p>La Defensa, reforzando las labores de b&uacute;squeda y rescate en las zonas de dif&iacute;cil acceso y contribuyendo a la localizaci&oacute;n y extracci&oacute;n de personas afectadas por los incendios.</p>
+
+<p>La Coordinaci&oacute;n Nacional de Protecci&oacute;n Civil, coordinando todas las acciones de respuesta de la delegaci&oacute;n mexicana con el prop&oacute;sito de colaborar en las labores de mitigaci&oacute;n de los incendios forestales, en conjunto con las autoridades locales.</p>
+
+<p>Por &uacute;ltimo, Presidenta, informo a usted que el Batall&oacute;n de Atenci&oacute;n de Emergencias de la Defensa est&aacute; contribuyendo con el Departamento contra Incendios del gobierno de California de una manera coordinada, con tareas espec&iacute;ficas.</p>
+
+<p>El d&iacute;a de hoy, Presidenta, se prev&eacute; un despliegue para realizar labores de b&uacute;squeda y rescate en la infraestructura y viviendas afectadas.</p>
+
+<p>Asimismo, las brigadas de la Conafor, que est&aacute;n avanzando en la construcci&oacute;n, en la ampliaci&oacute;n de brechas cortafuego, esto se hace con motosierras, con herramienta manual y, asimismo, haciendo la apertura de nuevas brechas.</p>
+
+<p>Estamos trabajando en unidad, Presidenta, conforme a sus instrucciones. Es una coordinaci&oacute;n absoluta con el gobierno de California a favor de la poblaci&oacute;n, y refrendando nuestra hermandad y solidaridad entre los pueblos de M&eacute;xico y de los Estados Unidos.</p>
+
+<p>Quedo a sus &oacute;rdenes, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias, Laura.</p>
+
+<p>Y nuestro agradecimiento a todos los compa&ntilde;eros que est&aacute;n all&aacute;.</p>
+
+<p>&mdash;Ahora s&iacute;, Marcelo, por favor&mdash;.</p>
+
+<p><strong>SECRETARIO DE ECONOM&Iacute;A, MARCELO EBRARD CASAUBON:</strong> Con su permiso, se&ntilde;ora Presidenta.</p>
+
+<p>Muy buenos d&iacute;as.</p>
+
+<p>Quiero, en primer lugar, dar la m&aacute;s cordial bienvenida a Shannon Kellogg, es el CEO de Pol&iacute;tica P&uacute;blica para las Am&eacute;ricas de Amazon Web Services. <em>Welcome, Shannon.</em> <em>Thank you for join us.</em></p>
+
+<p>Prasad Kalyanaraman, CEO de Infraestructura Global de Amazon Web Services.</p>
+
+<p>Paulina Bellizia, CEO para Am&eacute;rica Latina de Amazon.</p>
+
+<p>Y Rub&eacute;n Mug&aacute;rtegui, CEO de Amazon para M&eacute;xico.</p>
+
+<p>Muchas gracias por estar aqu&iacute;.</p>
+
+<p>El d&iacute;a de hoy se trata de lo siguiente: nos van a compartir en un momento m&aacute;s una inversi&oacute;n que se acord&oacute; con la Presidenta Claudia Sheinbaum en el pasado CEO Dialogue, que tuvo verificativo en Palacio Nacional, inversi&oacute;n por 5 mil millones de d&oacute;lares, que tendr&aacute; como sede el estado de Quer&eacute;taro.</p>
+
+<p>Significa la creaci&oacute;n de una regi&oacute;n digital; M&eacute;xico ser&aacute; la sede de esa regi&oacute;n digital.</p>
+
+<p>Significa m&aacute;s o menos una contribuci&oacute;n a nuestro Producto Interno Bruto del orden de 10 mil millones de d&oacute;lares en los pr&oacute;ximos 15 a&ntilde;os a partir de este a&ntilde;o.</p>
+
+<p>Se generar&aacute;n en promedio m&aacute;s de 7 mil empleos por a&ntilde;o.</p>
+
+<p>Y va a significar capacitar, entrenar y dar oportunidad al talento mexicano en todo el sistema de Amazon a nivel mundial. M&aacute;s o menos est&aacute;n estimando que se sumar&aacute;n 400 mil personas en M&eacute;xico, capacitadas, entrenadas, para manejar una &ldquo;regi&oacute;n&rdquo; denominada as&iacute; porque es el conjunto de centros de datos que ahora nos van a presentar con sede en Quer&eacute;taro.</p>
+
+<p>Es una muy buena noticia para M&eacute;xico. Es una de las inversiones m&aacute;s importantes que se han registrado.</p>
+
+<p>Y le cedo la palabra a Paula Bellizia, que nos va a hacer favor de explicarnos esta inversi&oacute;n.</p>
+
+<p><strong>CEO PARA AM&Eacute;RICA LATINA DE AMAZON WEB SERVICES, PAULA BELLIZIA:</strong> Se&ntilde;ora Presidenta Claudia Sheinbaum, muy buenos d&iacute;as.</p>
+
+<p>Secretario Ebrard, gracias por la introducci&oacute;n.</p>
+
+<p>Muy buenos d&iacute;as tambi&eacute;n a todas las autoridades, ministros, secretarios.</p>
+
+<p>Y tambi&eacute;n muy buenos d&iacute;as tengan todos los mexicanos y mexicanas que nos escuchan hoy.</p>
+
+<p>Es un gran honor para nosotros estar ac&aacute;, a&uacute;n m&aacute;s rodeados de mujeres en cargos de liderazgo.</p>
+
+<p>Presidenta Sheinbaum:</p>
+
+<p>Su liderazgo como la primera mujer en ocupar la Presidencia de M&eacute;xico no solo es hist&oacute;rico, sino que tambi&eacute;n es inspirador. Cuando las mujeres ocupan posiciones de liderazgo, autoliderazgo, se abren nuevas perspectivas y se incursiona el cambio que es positivo en la sociedad.</p>
+
+<p>En Amazon Web Services compartimos esta visi&oacute;n de diversidad e inclusi&oacute;n, y estamos comprometidos a fomentar el liderazgo y contribuyendo tambi&eacute;n a M&eacute;xico con este liderazgo para que seamos a&uacute;n m&aacute;s justos, equitativos y pr&oacute;speros.</p>
+
+<p>Bueno, quisiera iniciar present&aacute;ndome. Yo soy Paula Bellizia, yo soy la vicepresidenta para Am&eacute;rica Latina de Amazon Web Services; este es el negocio de servicios de c&oacute;mputo en nube de Amazon.</p>
+
+<p>La nube AWS est&aacute; por detr&aacute;s, por ejemplo, del procesamiento de an&aacute;lisis m&eacute;dicos, de los servicios de videoconferencias &mdash;que ahora mismo los utilizamos&mdash;, de cada compra en l&iacute;nea que hacemos, de cada transacci&oacute;n bancaria, incluso, de cada pel&iacute;cula o serie que vemos en las plataformas de transmisi&oacute;n en directo.</p>
+
+<p>As&iacute; como se renta una casa para vivir, desde los gobiernos hasta las peque&ntilde;as y grandes empresas, podemos rentar diferentes recursos tecnol&oacute;gicos en la nube seg&uacute;n los necesiten. De esta forma, Amazon Web Services es la plataforma de servicios en la nube m&aacute;s grande y m&aacute;s usada globalmente, y que ofrece m&aacute;s de 440 servicios tecnol&oacute;gicos. Algunos de estos son, por ejemplo: el almacenamiento en la nube, el poder c&oacute;mputo, la base de datos y la inteligencia artificial.</p>
+
+<p>Para todo esto se necesitan los Centros de Datos. Hoy estamos ac&aacute; junto con ustedes de la mano, se&ntilde;ora Presidenta, para lanzar las operaciones de nuestros Centros de Datos en M&eacute;xico, es decir, para inaugurar la infraestructura de servicios de c&oacute;mputo en la nube de Amazon Web Services para que se ofrezcan desde ac&aacute;, s&iacute;, desde M&eacute;xico.</p>
+
+<p>De la mano con usted, en este momento estamos encendiendo nuestros centros de datos, que representa una inversi&oacute;n &mdash;como dijo el secretario&mdash; de 5 mil millones de d&oacute;lares.</p>
+
+<p>Se&ntilde;ora Presidenta:</p>
+
+<p>Llegamos a M&eacute;xico para quedarnos, porque esta inversi&oacute;n es mucho m&aacute;s que la construcci&oacute;n de centros de datos de vanguardia; se trata de una apuesta decisiva y sostenida por el crecimiento socioecon&oacute;mico y el futuro digital de este gran pa&iacute;s y de todos los mexicanos.</p>
+
+<p>Ahora, ser&iacute;a natural que surja la pregunta: &iquest;C&oacute;mo puede el lanzamiento de una regi&oacute;n de Amazon Web Services contribuir de manera tangible a mejorar un pa&iacute;s tan diverso, tan complejo y tan grande como M&eacute;xico?</p>
+
+<p>La respuesta, Presidenta Sheinbaum, va mucho m&aacute;s all&aacute; de la infraestructura tecnol&oacute;gica. Nuestra visi&oacute;n&mdash;como comentaba el secretario&mdash; es de que seamos en M&eacute;xico un catalizador del progreso nacional, porque tendr&aacute; muchos beneficios, que los quiero mencionar, solamente dos:</p>
+
+<p>El primero, estimamos que en los pr&oacute;ximos a&ntilde;os 15 a&ntilde;os nuestra inversi&oacute;n contribuir&aacute; con m&aacute;s de 10 mil millones de d&oacute;lares en el Producto Interno Bruto de M&eacute;xico, y respaldar&aacute; un promedio anual de 7 mil empleos altamente calificados y de tiempo completo.</p>
+
+<p>Por ejemplo, una manera de acelerar el impacto en la econom&iacute;a mexicana es la adopci&oacute;n de la inteligencia artificial, y sabemos que esto es central para el gobierno de la Presidenta Claudia Sheinbaum. Un estudio reciente apunta que la adopci&oacute;n de inteligencia artificial habilitada por la nube contribuir&aacute; con m&aacute;s de 19 mil millones de d&oacute;lares a la econom&iacute;a del pa&iacute;s hasta 2030, se estima que las ganancias de productividad por la IA generar&aacute;n 900 d&oacute;lares por trabajador, tambi&eacute;n hasta 2030.</p>
+
+<p>El segundo beneficio, nuestras inversiones vienen acompa&ntilde;adas de nuestro esfuerzo, compromiso de continuar formando a la siguiente generaci&oacute;n de talento mexicano digital.</p>
+
+<p>Desde el 2017, Amazon Web Services ha capacitado a m&aacute;s de 500 mil mexicanos en las habilidades de la nube y tenemos el firme prop&oacute;sito de formar a 200 mil mexicanos m&aacute;s hasta el final del pr&oacute;ximo a&ntilde;o.</p>
+
+<p>Recientemente concluimos la capacitaci&oacute;n de 138 mil mexicanos, a trav&eacute;s del programa &ldquo;Impulsando Talento a la Nube&rdquo;. Esto no solo crear&aacute; oportunidad de empleo, sino que tambi&eacute;n empoderar&aacute; la pr&oacute;xima generaci&oacute;n de innovadores mexicanos, y esto queremos verlo.</p>
+
+<p>Nuestra visi&oacute;n de formaci&oacute;n de talentos mexicanos se centra en colaborar con instituciones educativas del pa&iacute;s que tienen presencia verdaderamente nacional, llegando as&iacute; a todos los rincones de M&eacute;xico. En este sentido, hemos priorizado alianzas estrat&eacute;gicas con instituciones como el Conalep y el Sistema del Tecnol&oacute;gico Nacional de M&eacute;xico.</p>
+
+<p>Nuestro compromiso es democratizar el conocimiento, las habilidades y el acceso a tecnolog&iacute;as de vanguardia, como la computaci&oacute;n en nube y la inteligencia artificial.</p>
+
+<p>El impacto social de la inversi&oacute;n de Amazon Web Services en M&eacute;xico ser&aacute; profundo.</p>
+
+<p>A trav&eacute;s de nuestro programa AWS in Communities hemos apoyado a 32 iniciativas lideradas por las propias comunidades, cada una dise&ntilde;ada para abordar necesidades locales espec&iacute;ficas y fomentar el desarrollo de las comunidades locales.</p>
+
+<p>Se&ntilde;ora Presidenta:</p>
+
+<p>La inversi&oacute;n de Amazon Web Services es por m&aacute;s de 5 mil millones de d&oacute;lares en nuestra regi&oacute;n. Es una suma de esfuerzos que demuestra nuestro compromiso hol&iacute;stico con M&eacute;xico.</p>
+
+<p>Buscamos ser catalizadores de un cambio positivo, contribuyendo al futuro donde la tecnolog&iacute;a, la sustentabilidad, el desarrollo, converjan para crear un M&eacute;xico que al tiempo se puede ser m&aacute;s equitativo, pero tambi&eacute;n puede, sin duda alguna, ser m&aacute;s innovador y competitivo a nivel mundial.</p>
+
+<p>Nuestra infraestructura de c&oacute;mputo en la nube contribuir&aacute; a que M&eacute;xico se posicione con un nodo digital en las Am&eacute;ricas y un l&iacute;der en Am&eacute;rica Latina. Sentar&aacute; las bases para modernizar y digitar a los gobiernos, a las micro, peque&ntilde;as, medianas y tambi&eacute;n a las grandes empresas, a reducir costos, a mejorar la eficiencia. Y todas estas organizaciones hoy pueden contar con la tecnolog&iacute;a de punta m&aacute;s segura y m&aacute;s confiable para desarrollar sus soluciones aqu&iacute;, en y desde M&eacute;xico.</p>
+
+<p>Todo esto solo es posible porque estamos impulsados por un compromiso, en un prop&oacute;sito, y el compromiso de AWS tiene ra&iacute;ces profundas aqu&iacute; en M&eacute;xico, en nuestro equipo de talento mexicano que conoce y entiende como nadie no solo las necesidades, sino el enorme potencial del pa&iacute;s.</p>
+
+<p>S&iacute;, el prop&oacute;sito y el compromiso cambian vidas. A partir de hoy, Amazon Services lo est&aacute; haciendo con mexicanos, para los mexicanos y desde M&eacute;xico para el mundo.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Listo.</p>
+
+<p>&mdash;&iquest;Tienen alguna pregunta sobre este tema muy brevemente? Marcelo, para que&hellip;&mdash;</p>
+
+<p>A ver, vamos a tomar dos, si les parece, sobre este tema para poder pasar a lo del ISSSTE.</p>
+
+<p>&mdash;A ver, ac&aacute;&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Hola, qu&eacute; tal. Er&eacute;ndira Reyes, de <em>Expansi&oacute;n</em>.</strong></p>
+
+<p><strong>Quer&eacute;taro ya se ha convertido en un <em>hub</em> de digitalizaci&oacute;n y <em>data centers</em>. &iquest;Qu&eacute; se planea hacer a escala econ&oacute;mica dentro del plan justo para el tema de semiconductores, tambi&eacute;n impulsando un <em>hub</em> similar en otras entidades?</strong></p>
+
+<p><strong>Y, una segunda pregunta: &iquest;todas est&aacute;n, igual, capacitando las otras empresas, adem&aacute;s de AWS a talento mexicano?, &iquest;y cu&aacute;nta perspectiva de capacitaci&oacute;n tienen?</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>SECRETARIO DE ECONOM&Iacute;A, MARCELO EBRARD CASAUBON:</strong> Si. Muchas gracias.</p>
+
+<p>Bueno, ahora le voy a pedir a Paula que nos haga un comentario sobre &ldquo;&iquest;por qu&eacute; Quer&eacute;taro?&rdquo;, pero yo te dir&iacute;a que, en efecto, est&aacute; previsto as&iacute; en los corredores que ha planteado la Presidenta Sheinbaum. Es compatible, es coincidente con lo que se ha venido planeando.</p>
+
+<p>Precisamente ayer se presentaba el Plan M&eacute;xico con las diferentes regiones. Bueno, esos son el tipo de inversiones de las que estamos hablando, cuando decimos el Plan M&eacute;xico van a ser 277 mil millones de d&oacute;lares, estos son 5 mil de esos 277 mil.</p>
+
+<p>Entonces es compatible, tiene un gran impacto no solo por la infraestructura, vamos a decir, f&iacute;sica o de datos, sino por el n&uacute;mero de personas que vas a entrenar y capacitar, m&aacute;s de 200 mil. Nos parece muy importante el impacto de eso.</p>
+
+<p>Si sumamos, si sumamos &mdash;lo vamos a ir informando&mdash;, pero si sumamos lo que va a hacer Nvidia y Foxconn en Jalisco, lo que van a hacer otras empresas que est&aacute;n en el listado de proyectos, probablemente llegue a ser, el manejo de datos, uno de los sectores que aporten m&aacute;s empleos de calidad a M&eacute;xico, sin lugar a dudas, dentro del plan que ayer presentamos</p>
+
+<p>Vamos a ir dando las cifras. En este caso son 200 mil, o sea, es un n&uacute;mero enorme, va a tener un gran impacto, no solo de Quer&eacute;taro, estamos hablando de todo el pa&iacute;s.</p>
+
+<p>&mdash;No s&eacute; si quieras complementar&mdash;.</p>
+
+<p><strong>CEO PARA AM&Eacute;RICA LATINA DE AMAZON WEB SERVICES, PAULA BELLIZIA:</strong> Gracias por la pregunta.</p>
+
+<p>S&iacute;, Quer&eacute;taro es una decisi&oacute;n puramente t&eacute;cnica, se encuentra en el centro del pa&iacute;s, tambi&eacute;n hay todos los recursos de log&iacute;stica, de acceso a aeropuertos, infraestructura y tambi&eacute;n de talentos; entonces, para nosotros fue una decisi&oacute;n, por el equipo de nuestro l&iacute;der de Infraestructura Global. Entonces, ah&iacute; estamos muy contentos con todo lo que ofrece.</p>
+
+<p>Y tambi&eacute;n, complementando a lo que el secretario mencion&oacute;, para nosotros entrenar al talento mexicano desde todos los rincones de M&eacute;xico &mdash;como he comentado&mdash; es superimportante. Entonces estamos haciendo las <em>partnership</em> estrat&eacute;gicas, las alianzas estrat&eacute;gicas con diferentes partes para garantizar que eso pase alrededor de todo el pa&iacute;s.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PREGUNTA: Qu&eacute; tal, muy buenos d&iacute;as a todos y a todas. Juan Hern&aacute;ndez, de <em>Diario</em> <em>Basta, Tabasco Hoy, Campeche Hoy y Quintana Roo Hoy, </em>de Grupo Cant&oacute;n.</strong></p>
+
+<p><strong>Un poquito m&aacute;s espec&iacute;fico la pregunta ser&iacute;a: &iquest;Por qu&eacute; apostarle a M&eacute;xico? Me gustar&iacute;a preguntarle a la gente de Amazon: &iquest;Por qu&eacute; apostarle al talento de la gente?, &iquest;por qu&eacute; apostarle?</strong></p>
+
+<p><strong>Bueno, quisiera ver: &iquest;qu&eacute; cualidades vieron aqu&iacute; en M&eacute;xico, cualidades t&eacute;cnicas, cualidades de territorio, cualidades de &mdash;vaya&mdash; de invertir y de apostarle aqu&iacute; al pa&iacute;s y no fijarse en otros lugares, como, no s&eacute;, China, la India?</strong></p>
+
+<p><strong>O sea, s&iacute; quisiera preguntarles: &iquest;el hecho de haber volteado hacia ac&aacute; y &mdash;vaya&mdash; hacer una gran inversi&oacute;n que va a generar empleos, y que va a situar al pa&iacute;s como punta de lanza a nivel estrat&eacute;gico en lo que es la cuesti&oacute;n tecnol&oacute;gica?</strong></p>
+
+<p><strong>Esa ser&iacute;a mi &uacute;nica pregunta. Gracias.</strong></p>
+
+<p><strong>CEO PARA AM&Eacute;RICA LATINA DE AMAZON WEB SERVICES, PAULA BELLIZIA:</strong> Gracias por la pregunta.</p>
+
+<p>Nosotros estamos presentes en M&eacute;xico hace algunos a&ntilde;os, estamos ac&aacute; con que seis a&ntilde;os, estamos muy comprometidos. Y porque estamos presentes en el pa&iacute;s, estamos observando desde muy de cerca: la calidad y el talento, el potencial que hay de desarrollo tecnol&oacute;gico, el posicionamiento del pa&iacute;s hacia todas las negociaciones globales.</p>
+
+<p>Para nosotros, vemos las oportunidades de modernizaci&oacute;n tambi&eacute;n a todas las industrias de M&eacute;xico. Existe ac&aacute; una calidad de educaci&oacute;n que nos ofrece una base para que este <em>investimento</em>, esta inversi&oacute;n florezca y que traiga muy buenos resultados.</p>
+
+<p>Entonces, estamos ciertos de que, al elegir M&eacute;xico como una prioridad de inversiones, veremos el funcionar el pa&iacute;s. Entonces, es por el talento, por la calidad de educaci&oacute;n que vemos.</p>
+
+<p>Tenemos Centros, en M&eacute;xico, de Desarrollo Tecnol&oacute;gico.</p>
+
+<p>Tenemos la oportunidad, tambi&eacute;n, de ayudar a transformar a las industrias desde empresas de todos tama&ntilde;os.</p>
+
+<p>Y nos sentimos muy fuertes con la decisi&oacute;n de elegir a M&eacute;xico.</p>
+
+<p><strong>PREGUNTA: &iquest;Ustedes s&iacute; ver&iacute;an al pa&iacute;s como una d&eacute;cima potencia econ&oacute;mica?</strong></p>
+
+<p><strong>CEO PARA AM&Eacute;RICA LATINA DE AMAZON WEB SERVICES, PAULA BELLIZIA:</strong> Vemos, cierto, por cierto, una gran potencia.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;A ver, la &uacute;ltima&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Con esta inversi&oacute;n multimillonaria que hace esta empresa a M&eacute;xico, pr&aacute;cticamente la oposici&oacute;n se quedar&aacute; callada, porque dice que &ldquo;el pa&iacute;s no es apto para que vengan inversiones&rdquo;.</strong></p>
+
+<p><strong>Yo quisiera preguntarle, si me lo permite, a la CEO para Am&eacute;rica Latina: &iquest;cu&aacute;l ser&iacute;a el consejo que le dar&iacute;a a empresas extranjeras? Si &iquest;es recomendable o no invertir en M&eacute;xico, dada su experiencia?</strong></p>
+
+<p><strong>CEO PARA AM&Eacute;RICA LATINA DE AMAZON WEB SERVICES, PAULA BELLIZIA:</strong> Pero me encanta la pregunta, porque la respuesta es que, desde nuestro punto de vista: es muy importante hacer inversiones en M&eacute;xico, porque &mdash;como dijo&mdash; representa una gran oportunidad, est&aacute; muy bien posicionado.</p>
+
+<p>C&oacute;mo decimos: No solo para M&eacute;xico, pero desde M&eacute;xico a otras partes del mundo y a nivel mundial. M&eacute;xico tiene las condiciones de ser competitivo en varias industrias, en varias partes del segmento de negocios y hacer las inversiones ac&aacute;. Nosotros tenemos muy buenas expectativas.</p>
+
+<p>Y &mdash;como dijo&mdash; nosotros estamos haciendo no por el corto plazo, pero para el largo plazo, una inversi&oacute;n de esta magnitud traduce nuestra visi&oacute;n de futuro para M&eacute;xico.</p>
+
+<p>Entonces, desde nuestro punto de vista: S&iacute;, hacer inversiones a M&eacute;xico.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, lo vamos a dejar aqu&iacute;.</p>
+
+<p>Yo quiero personalmente agradecerle a Amazon el que vean a M&eacute;xico como el lugar para poder desarrollar esta inversi&oacute;n.</p>
+
+<p>Es importante para nosotros por muchas razones:</p>
+
+<p>Primero, por lo que significa el tipo de inversi&oacute;n que est&aacute; haciendo y la oportunidad de empleo para muchos ingenieros, ingenieras mexicanas, o especialistas, matem&aacute;ticos en datos y permite, adem&aacute;s, potenciar ese desarrollo para la educaci&oacute;n en nuestro pa&iacute;s.</p>
+
+<p>Segundo, por lo que significa no solamente la propia inversi&oacute;n, sino estos Centros de Datos, la oportunidad que le dan a las empresas mexicanas para poderse desarrollar; es decir, es una inversi&oacute;n que potencia otras inversiones en nuestro pa&iacute;s.</p>
+
+<p>Y, finalmente, por sus palabras para M&eacute;xico. Estamos muy orgullosos del momento que estamos viviendo; y la inversi&oacute;n que presentan el d&iacute;a de hoy muestra justamente eso, que M&eacute;xico no solo tiene gran presente, sino gran futuro.</p>
+
+<p>Muchas gracias.</p>
+
+<p>&mdash;Los invito a que nos tomemos una foto aqu&iacute;&mdash;.</p>
+
+<p><strong>(TOMA DE FOTOGRAF&Iacute;A)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias.</p>
+
+<p>Bueno, muy buenas noticias para nuestro pa&iacute;s. Es un compromiso con M&eacute;xico. Y adem&aacute;s, lo que siempre hemos dicho: Hay confianza en nuestro pa&iacute;s para invertir.</p>
+
+<p>Y el Plan que presentamos ayer es un Plan de largo plazo, no solamente del sexenio, sino un Plan de desarrollo equitativo, sustentable para M&eacute;xico.</p>
+
+<p>Bueno, ahora vamos a hablar de salud. Vamos a presentar. Primero &mdash;David, &iquest;quieres?&mdash; primero el secretario de Salud.</p>
+
+<p>Despu&eacute;s, Clark muy r&aacute;pidamente nos va a decir c&oacute;mo va el avance de la compra de medicamentos.</p>
+
+<p>Y Mart&iacute; va a hacer tambi&eacute;n una presentaci&oacute;n muy, pero muy importante para todos los trabajadores y trabajadoras del Estado. Son varias reformas que nos va a plantear para el fortalecimiento del sistema de salud y tambi&eacute;n para la mejora del FOVISSSTE, que le he pedido a Mart&iacute; que pueda coordinar tambi&eacute;n los trabajos relacionados con el FOVISSSTE.</p>
+
+<p>&mdash;Entonces, muy r&aacute;pidamente, David&mdash;.</p>
+
+<p><strong>SECRETARIO DE SALUD, DAVID KERSHENOBICH STALNIKOWITZ:</strong> Gracias. Buenos d&iacute;as a todas y todos.</p>
+
+<p>Y, en primer lugar, agradecerle a la Presidenta la oportunidad de que el d&iacute;a de hoy presentemos avances en lo que tiene que ver con la compra y el ISSSTE, pero que haya ocurrido en el marco de esta presentaci&oacute;n, de la importancia que tienen los avances tecnol&oacute;gicos para el pa&iacute;s.</p>
+
+<p>Yo quisiera nada m&aacute;s mencionar brevemente que la compra de medicamentos tiene dos vertientes distintas.</p>
+
+<p>Una &mdash;que escuchar&aacute;n dentro de unos momentos de parte de nuestro subsecretario Eduardo Clark&mdash; tiene que ver con que hay que diferenciar dos compras distintas:</p>
+
+<p>Una que es la compra complementaria de medicamentos que ocurre a fin de a&ntilde;o, y la cual empieza ya a estar siendo distribuida; por ejemplo, la dapagliflozina para diabetes est&aacute; ya siendo distribuida en todo el pa&iacute;s.</p>
+
+<p>Y la otra, que tiene que ver con la compra bianual. Y quisiera resaltar el concepto de &ldquo;bianual&rdquo;, porque eso nos va a permitir de tal manera que podamos que, en el caso de que haga falta un medicamento, se pueda comprar en forma anticipada; o en caso de que haya un exceso, se pueda hacer un ajuste a los medicamentos.</p>
+
+<p>El otro punto que quisiera resaltar es el di&aacute;logo que se ha establecido con la industria farmac&eacute;utica, que ha permitido tambi&eacute;n ir avanzando en lo que tiene que ver en c&oacute;mo hacer mucho m&aacute;s &oacute;ptimo el proceso de la compra de medicamentos.</p>
+
+<p>Entonces, los dejo con eso para pedirle a nuestro subsecretario que presente el estado que llevamos en la compra. Y posteriormente escucharemos &mdash;como dijo la Presidenta&mdash; a Mart&iacute; Batres mostr&aacute;ndonos los avances tan importantes que tiene el ISSSTE.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Adelante, Eduardo&mdash;.</p>
+
+<p><strong>SUBSECRETARIO DE INTEGRACI&Oacute;N Y DESARROLLO DEL SECTOR SALUD, EDUARDO CLARK GARC&Iacute;A DOBARGANES:</strong> Con su permiso, Presidenta.</p>
+
+<p>Buenos d&iacute;as a todos.</p>
+
+<p>Es un gusto poder acompa&ntilde;arlos y platicarles de manera muy breve c&oacute;mo va el proceso de la compra consolidada de medicamentos e insumos para la salud para este a&ntilde;o 2025 y para el a&ntilde;o 2026.</p>
+
+<p>Nada m&aacute;s para recordar, esta compra consolidada involucra la participaci&oacute;n de 26 instituciones del Estado mexicano que incluyen: el IMSS, el ISSSTE, el IMSS-Bienestar, los Institutos Nacionales de Salud, Hospitales Nacionales de referencia, la Secretar&iacute;a de Marina y los Servicios de Salud de Pemex.</p>
+
+<p>En t&eacute;rminos generales, cuando iniciamos el proceso de evaluaci&oacute;n de la demanda, es decir, las necesidades de sector, entre todas las instituciones que les mencionaba se identific&oacute; la necesidad de adquirir 4 mil 982 millones de piezas, esto a un precio hist&oacute;rico similar o relativamente en t&eacute;rminos de 338 mil millones de pesos.</p>
+
+<p>Derivado de los procesos de licitaci&oacute;n, m&aacute;s los procesos de negociaci&oacute;n de las Claves de Fuente &Uacute;nica y Patente, de los medicamentos de m&aacute;s alto costo, hemos tenido ofertas para el 97.6 por ciento de las piezas solicitadas por el sector, es decir, pr&aacute;cticamente la totalidad de lo que est&aacute; demandando el sector.</p>
+
+<p>En t&eacute;rminos de procedimiento as&iacute; es como vamos:</p>
+
+<p>Ayer en la noche y hasta hoy en la madrugada se dio a cabo el fallo de la primera licitaci&oacute;n p&uacute;blica para esta compra de medicamentos. Aunado a las claves y medicamentos que se adquirieron v&iacute;a las mesas de fuente &uacute;nica y patente, tenemos ya adjudicado: 3 mil 649 mil millones de piezas, que representan 73 por ciento de las piezas de medicamentos a adquirirse durante este periodo que requieren las instituciones.</p>
+
+<p>Pero adicionalmente tenemos mil 218 piezas, que son el 24.4 por ciento, en donde tenemos ofertas; es decir, hay un proveedor o m&aacute;s de un proveedor que quiere proveerlas, que tiene capacidad de hacerlo, que en la licitaci&oacute;n le falt&oacute; hacer alguna correcci&oacute;n documental o t&eacute;cnica. Es decir, tenemos la capacidad, estaremos adjudic&aacute;ndolas en los siguientes d&iacute;as, pero lo importante, es decir: tenemos oferta para el 97.6 por ciento de las piezas solicitadas de manera conjunta por todas las instituciones.</p>
+
+<p>Es importante mencionar que esta compra incluye tambi&eacute;n la distribuci&oacute;n directa a almacenes estatales y a hospitales directamente, por parte de las empresas farmac&eacute;uticas.</p>
+
+<p>En t&eacute;rminos globales, lo que ya est&aacute; adjudicado representa, hasta ahora, una compra de 213 mil millones de pesos que, comparado a lo que hubiera costado a los mismos precios unitarios de a&ntilde;os previos, es un ahorro de m&aacute;s de 30 mil millones de pesos que podemos utilizar para el mismo sector.</p>
+
+<p>Eso nos llevar&iacute;a a una necesidad todav&iacute;a de encontrar proveedur&iacute;a y les daremos estrategias para el 3.2 por ciento de las piezas, 162 millones de piezas, que detallar&eacute; adelante.</p>
+
+<p>&iquest;Qu&eacute; podemos esperar en t&eacute;rminos de la entrega de estas piezas?</p>
+
+<p>Recuerden, y como mencionaba el secretario, el proceso de compra de medicamentos se divide en dos grandes procesos: la compra complementaria que se hizo a finales del a&ntilde;o de 2024 y la compra bianual para garantizar el abasto en los siguientes dos a&ntilde;os.</p>
+
+<p>De este segundo ejercicio, de la compra bianual, todo esto que se est&aacute; fallando hoy en la madrugada, en los proveedores que recibir&aacute;n notificaci&oacute;n el d&iacute;a de hoy, tienen 14 d&iacute;as, de acuerdo a lo que marca la Ley de Adquisiciones para formalizar los contratos; es decir, los contratos quedar&aacute;n formalizados entre el 14 de enero y el 28 de enero.</p>
+
+<p>A partir de eso, vamos a dividir los medicamentos en dos:</p>
+
+<p>Medicamentos que tengan urgencia de entrega, que se pueden a empezar a solicitar desde el 28 de enero, y estamos contemplando entregas a partir del 12 de febrero en la mayor parte de los estados para los medicamentos que sean considerados de urgencia.</p>
+
+<p>Medicamentos restantes, otros tipos de materiales, como material de curaci&oacute;n, dispositivos m&eacute;dicos y reactivos &mdash;que est&aacute;n incluidos en esta compra&mdash;, que entren sin ning&uacute;n tipo de urgencia en este momento, se van a empezar a solicitar, como qued&oacute; en el anexo t&eacute;cnico de la compra, a partir del 1o. de marzo para estar llegando a cada uno de los estados y hospitales a partir del 15 de marzo, en promedio, aunque pueden entregarse m&aacute;s r&aacute;pido; es el tiempo m&aacute;ximo estos 15 d&iacute;as.</p>
+
+<p>As&iacute; es como se ve el proceso que llevamos a cabo de la licitaci&oacute;n que se fall&oacute; ayer en la tarde.</p>
+
+<p>&ldquo;Fallo&rdquo;, me refiero, evidentemente, que hubo un fallo, es decir, una asignaci&oacute;n de proveedores.</p>
+
+<p>La empezamos el 13 de enero, el d&iacute;a de ayer, con el fallo de la licitaci&oacute;n.</p>
+
+<p>Hoy se publica en Compranet durante el transcurso de la ma&ntilde;ana el dictamen t&eacute;cnico de cada oferta que requiera correcciones, esto es para las mil 200 millones de piezas que requerimos hacer una correcci&oacute;n.</p>
+
+<p>Es decir, para las piezas que todav&iacute;a tenemos que completar el proceso administrativo, que representa el 24 por ciento, hoy se publica el dictamen de, para cada una de esas propuestas que hicieron, qu&eacute; documento les falt&oacute;; en muchos casos son temas que se pueden solventar muy r&aacute;pidamente.</p>
+
+<p>Vamos a dar una ventana de siete d&iacute;as, de aqu&iacute; al 20 de enero, para solventar documentaci&oacute;n t&eacute;cnica y la propuesta t&eacute;cnica que anexa.</p>
+
+<p>Van a poder estas empresas cargar sus propuestas en una plataforma digital a partir del 21 de enero.</p>
+
+<p>Y de esta manera, nuestro objetivo es evaluarlas entre el 21 al 26 de enero.</p>
+
+<p>Y adjudicarlas entre el 27 al 29 de enero, esto para las piezas que todav&iacute;a falta adjudicar, pero que ya tenemos una oferta solvente en t&eacute;rminos de una proveedur&iacute;a potencial.</p>
+
+<p>&iquest;Qu&eacute; estrategias tenemos y queremos compartir con ustedes para las claves en las cuales no recibimos propuesta? Este 3.2 por ciento de las piezas.</p>
+
+<p>En primer lugar, estamos haciendo con las instituciones toda esta semana &mdash;como l&iacute;mite tenemos el 19 de enero&mdash; una compactaci&oacute;n de insumos.</p>
+
+<p>&iquest;A qu&eacute; me refiero con esto?</p>
+
+<p>Aqu&iacute; les pongo un ejemplo. Muchas veces tenemos insumos, presentaciones que tienen oferta y presentaciones m&aacute;s peque&ntilde;as que pueden ser perfectamente sustituibles de las que no hubo oferta. Por ejemplo, aqu&iacute; les pongo un caso: La Sitagliptina, que es un medicamento antidiab&eacute;tico, se pidieron entre todas las instituciones para dos a&ntilde;os, mil 300 unidades de Sitagliptina de 100 mil miligramos en envase de 14 comprimidos. Ah&iacute; no tuvimos una propuesta en la licitaci&oacute;n, &iquest;por qu&eacute;?, porque es una clave de muy peque&ntilde;o volumen.</p>
+
+<p>Sin embargo, para otra clave, la Sitagliptina de 28 comprimidos, es decir, lo mismo, pero un bote de 28 en vez de 14, estamos fallando hoy, tuvimos una adjudicaci&oacute;n para 9 millones de piezas; es decir, estas claves son relativamente compactables. As&iacute; como esta, hay bastantes de ellas que podemos hacer.</p>
+
+<p>En segundo lugar, estamos haciendo tambi&eacute;n esta semana con las instituciones una compactaci&oacute;n terap&eacute;utica, es decir, medicamentos que son exactamente iguales que podemos compactar, una cosa que sirve para lo mismo.</p>
+
+<p>En tercer lugar, hay un n&uacute;mero importante de piezas de medicamentos, de insumos, de medicamentos, de material de curaci&oacute;n que las instituciones piden en muy bajo volumen, estamos hablando de pedir en dos a&ntilde;os menos de 5 mil piezas.</p>
+
+<p>En este caso lo que hemos hablado con la mayor parte de las C&aacute;maras de la industria farmac&eacute;utica es que cuando son muy pocas piezas el esquema de entrega directa en los estados no es necesariamente conveniente para muchos proveedores. En este caso, que tenemos ya identificada la proveedur&iacute;a, estaremos haciendo invitaciones restringidas a cuando menos tres, para poder comprar estos insumos, pero con entrega a nuestro Centro Nacional de Distribuci&oacute;n aqu&iacute; en el centro del pa&iacute;s, en Huehuetoca.</p>
+
+<p>Y a partir de esto, que no podamos y si todav&iacute;a existen claves pendientes, estaremos haciendo una segunda vuelta de una licitaci&oacute;n p&uacute;blica para esas claves pendientes. Todo manteniendo las fechas de entrega a partir del 1o. de marzo.</p>
+
+<p>Es importante mencionar que siempre ha ocurrido esto en las compras consolidadas en los &uacute;ltimos a&ntilde;os, en la administraci&oacute;n pasada y previamente, es decir, m&aacute;s de una ronda de licitaci&oacute;n para encontrar insumos que tal vez no obtuvieron una propuesta en la primera ronda.</p>
+
+<p>Pero s&iacute; quisiera enfatizar que, en esta primera etapa, en esta primera ronda que iniciamos en octubre y que estamos concluyendo el d&iacute;a de hoy, tenemos propuesta para m&aacute;s del 97 por ciento de las piezas que est&aacute; solicitando de manera integral el sector.</p>
+
+<p>Y, finalmente, quiero tambi&eacute;n poder informarles sobre el estatus de la compra complementaria que se ejecut&oacute; en diciembre. Son los insumos que las instituciones nos pidieron con mayor apremio temporal:</p>
+
+<p>En este proceso, de diciembre, contratamos 244 millones de piezas de medicamentos, material de curaci&oacute;n, reactivos y dispositivos m&eacute;dicos distribuidos en m&aacute;s o menos mil 600 claves de medicamentos de insumos para la salud.</p>
+
+<p>Se hizo la adjudicaci&oacute;n, el 28 de diciembre fue la m&aacute;s tard&iacute;a. Entre el 28 y el 30 de diciembre, perd&oacute;n.</p>
+
+<p>Se est&aacute;n formalizando los contratos de ese d&iacute;a y esperamos concluir todos los contratos antes del 17 de enero.</p>
+
+<p>Se empezaron a pedir &oacute;rdenes de suministro de parte de las instituciones, de los proveedores desde el 28 de diciembre, y contin&uacute;an durante esta semana.</p>
+
+<p>Y empezamos a recibir los primeros insumos a partir del 5 de enero. Estos insumos incluyen algunas claves de alt&iacute;simo volumen, ya las mencionaba el secretario; por ejemplo, la dapagliflozina, de la cual se adquirieron y recibieron 4.3 millones de piezas; y estaremos entregando todo el mes de enero y todo el mes de febrero estas piezas de mayor urgencia.</p>
+
+<p>Adem&aacute;s, hay todav&iacute;a un n&uacute;mero de claves que, posterior a esta compra, siguen siendo de urgencia m&aacute;s inmediata, y estas ser&aacute;n adjudicadas y compradas &mdash;ya tenemos proveedur&iacute;a para ellas en esta fase 5 de la compra complementaria&mdash; este 17 de enero.</p>
+
+<p>Es decir, todo lo de la bianual, que es el proceso de abasto de dos a&ntilde;os, ya estamos muy, muy avanzados, como pueden ver; pero, adem&aacute;s, tambi&eacute;n estamos ya comenzando a recibir las piezas, los medicamentos, los insumos para la salud en general de esta compra complementaria que se hizo a final del a&ntilde;o 2024.</p>
+
+<p>Eso ser&iacute;a lo m&aacute;s importante para destacar.</p>
+
+<p>Y reiterar otra vez:</p>
+
+<p>De parte de la Secretar&iacute;a de Salud y de las instituciones que hemos consolidado, hemos tenido una muy buena propuesta de la industria mexicana, en particular, hemos tenido casi el doble de propuestas de las que se ha tenido en una licitaci&oacute;n normal. Normalmente participaban 190, 180 proveedores; recibimos 400 propuestas de proveedur&iacute;a.</p>
+
+<p>Y estamos muy contentos de poder dar estos n&uacute;meros.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Mart&iacute;, ahora s&iacute;&mdash;.</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), MART&Iacute; BATRES GUADARRAMA: </strong>Muy buenos d&iacute;as, Presidenta. Buenos d&iacute;as, amigos de los medios de comunicaci&oacute;n.</p>
+
+<p>Para la Presidenta Claudia Sheinbaum es muy importante darle un gran apoyo al ISSSTE, un buen empuj&oacute;n al ISSSTE. Por eso, hemos venido trabajando una serie de lineamientos que nos ha dado la Presidenta y los expresamos en estos 25 puntos para la Transformaci&oacute;n del ISSSTE.</p>
+
+<p>Esto es en el marco del Segundo Piso de la Cuarta Transformaci&oacute;n para que el ISSSTE tenga una nueva etapa de mejoras sustantivas. El objetivo es fortalecer los siguientes cuatro ejes y derechos: salud; vivienda; seguridad social integral y combate a la corrupci&oacute;n; y fortalecimiento financiero.</p>
+
+<p>En materia de salud son los siguientes puntos:</p>
+
+<p>1. Poner en el centro a la derechohabiencia, garantizando cercan&iacute;a y buen trato en la atenci&oacute;n, que ese es un tema fundamental; son los destinatarios de todo lo que hacemos, los derechohabientes.</p>
+
+<p>Segundo, homologar los salarios del personal m&eacute;dico y de enfermer&iacute;a del ISSSTE con los del IMSS de forma gradual.</p>
+
+<p>Tercero, aumentar la plantilla de personal m&eacute;dico, de enfermer&iacute;a y de especialistas de diversas especialidades.</p>
+
+<p>4. Implementar en el ISSSTE el programa La Cl&iacute;nica es Nuestra, que ya tuvo mucho &eacute;xito en las cl&iacute;nicas del IMSS-Bienestar para dar mantenimiento, equipamiento, con participaci&oacute;n social.</p>
+
+<p>Luego, en quinto lugar, llevar a cabo obras de mantenimiento mayor; en algunas Unidades hacen falta obras grandes para su rehabilitaci&oacute;n.</p>
+
+<p>6. Ampliar la nacionalizaci&oacute;n de hospitales, atenciones y servicios m&eacute;dicos. Como ustedes saben, se han nacionalizado varios hospitales; falta el de Tl&aacute;huac. Y hay servicios integrales m&eacute;dicos que se nacionalizaron, como el de imagenolog&iacute;a, el de hemodinamia, el de anestesia, pero est&aacute;n pendientes otros como osteos&iacute;ntesis, laboratorios, banco de sangre y otros m&aacute;s.</p>
+
+<p>En s&eacute;ptimo lugar, disminuir los tiempos de espera para consultas, atenci&oacute;n m&eacute;dica especializada y cirug&iacute;a, que es un reclamo importante de la derechohabiencia.</p>
+
+<p>8. Garantizar la distribuci&oacute;n y el abasto de medicamentos, y material de curaci&oacute;n.</p>
+
+<p>9. Fortalecer la prevenci&oacute;n y promoci&oacute;n de la salud en los Centros de Trabajo. Aqu&iacute; la idea es, el ISSSTE, estar presente en las diversas dependencias, fomentando unidades laborales.</p>
+
+<p>10. Concretar acuerdos con el IMSS, IMSS-Bienestar y otras instituciones p&uacute;blicas de salud para que las personas puedan ser atendidas en la Unidad M&eacute;dica m&aacute;s cercana, sobre todo, en casos de urgencia. As&iacute;, por ejemplo, si alguien tiene un problema de salud por un accidente y su cl&iacute;nica del ISSSTE queda lejos y hay una del IMSS que est&aacute; m&aacute;s cerca, entonces se le atiende en el IMSS. Son convenios interinstitucionales.</p>
+
+<p>En el caso de vivienda, tenemos los siguientes puntos muy importantes:</p>
+
+<p>Uno, priorizar el acceso a la vivienda para los trabajadores de menores ingresos, porque con la tendencia neoliberal los trabajadores de menores ingresos estaban fuera, porque solo se daban cr&eacute;ditos, ya no hab&iacute;a otras opciones y el trabajador no encontraba c&oacute;mo colocar su cr&eacute;dito en el mercado inmobiliario, sobre todo, el de m&aacute;s bajos ingresos.</p>
+
+<p>Luego, en siguiente lugar, beneficiar a m&aacute;s de 400 mil acreditados de FOVISSSTE con las siguientes medidas:</p>
+
+<p>Una, eliminaci&oacute;n de requisitos. Por ejemplo, cuando quiere liquidar un trabajador su cr&eacute;dito, tiene que llevar otra vez sus papeles, un mont&oacute;n de cosas que vamos a quitar. Pero, tambi&eacute;n, con liquidaciones, congelamientos, quitas y condonaciones.</p>
+
+<p>El FOVISSSTE tiene algo m&aacute;s de 800 mil cr&eacute;ditos activos, pero estos beneficios van a llegar a m&aacute;s de 400 mil, o sea, se va a beneficiar a la mitad de los acreditados del FOVISSSTE.</p>
+
+<p>De estos puntos, uno muy sensible es condonar las deudas de los derechohabientes que ya pagaron m&aacute;s de dos veces su vivienda. Ah&iacute; lo que se va a hacer es una condonaci&oacute;n, es decir, que ya no paguen m&aacute;s, cancelarles lo que reste de adeudo.</p>
+
+<p>14. Facilitar la construcci&oacute;n de vivienda para las y los trabajadores que viven en suelo de propiedad social. Esta es una demanda de trabajadores, sobre todo, del sureste del pa&iacute;s.</p>
+
+<p>Luego, 15. Promover acuerdos amistosos para solucionar cr&eacute;ditos de personas que dejaron de ser derechohabientes. Hay quien trabajaba en el Estado, luego dej&oacute; de trabajar ya en una dependencia de gobierno, pero se qued&oacute; con un cr&eacute;dito del FOVISSSTE; cambiaron sus ingresos, deja de pagar, y ni el FOVISSSTE recibe recursos, ni la persona tiene la liquidaci&oacute;n de su cr&eacute;dito y obtiene su vivienda. Entonces, ah&iacute; vamos a generar acuerdos &ldquo;amistosos&rdquo;, se les llama, para que puedan pagarle algo al FOVISSSTE y entrar en un esquema que permita que lleguen a liquidar su pago.</p>
+
+<p>Luego, 16. Proponer la reforma al ISSSTE, a la Ley del ISSSTE, para que el FOVISSSTE pueda adquirir, rehabilitar, mejorar y construir vivienda que sea adquirida por los trabajadores o rentada a bajo costo.</p>
+
+<p>Esta es una reforma fundamental de gran inter&eacute;s para la Presidenta y, obviamente, para las y los derechohabientes, porque en la etapa neoliberal le quitaron al FOVISSSTE la atribuci&oacute;n para poder contratar la construcci&oacute;n de viviendas; solo pod&iacute;a dar cr&eacute;ditos, era la funci&oacute;n que ten&iacute;a nada m&aacute;s. Y esto va a ayudar tambi&eacute;n a la econom&iacute;a.</p>
+
+<p>En materia de seguridad social integral hay varios puntos.</p>
+
+<p>Uno de ellos es garantizar que todas las personas trabajadoras que soliciten pr&eacute;stamo individual lo obtengan. Podr&iacute;amos decir que en este momento todas las personas que solicitan pr&eacute;stamo personal lo est&aacute;n obteniendo; pero luego hay gestores que hacen, dan a entender que es gracias a ellos que tienen un cr&eacute;dito los trabajadores, y no es as&iacute;; entonces, se va a dar cr&eacute;dito a aquel que lo solicite.</p>
+
+<p>Y la figura del sorteo solo la vamos a mantener en caso de que haya sobredemanda. O sea, cuando tengamos much&iacute;simas solicitudes y, en efecto, no alcance, se utilizar&iacute;a la figura del sorteo; pero si no es as&iacute;, no se va a utilizar el sorteo, se da el cr&eacute;dito directamente.</p>
+
+<p>Luego, 18. Garantizar el otorgamiento de pensi&oacute;n de viudez a trabajadoras y trabajadores en activo, porque hab&iacute;a algo en el reglamento que lo imped&iacute;a. Entonces, una trabajadora quedaba viuda, y como era trabajador en activo se le negaba la pensi&oacute;n de viudez, pero ahora, ya va a hacerse la modificaci&oacute;n para que, si una trabajadora o un trabajador que est&aacute; en activo queda viudo, pueda tener el acceso a la pensi&oacute;n de viudez, independientemente de que siga siendo trabajador.</p>
+
+<p>19. Impulsar un paquete de turismo social para aprovechar la infraestructura construida por la Cuarta Transformaci&oacute;n. Ustedes saben que con el Presidente Andr&eacute;s Manuel L&oacute;pez Obrador se construy&oacute; mucha infraestructura.</p>
+
+<p>Y a esto le hemos llamado el &ldquo;Paquete Tur&iacute;stico 4T&rdquo;: sales del AIFA, viajas en Mexicana de Aviaci&oacute;n, llegas al aeropuerto de Tulum, te hospedas en los hoteles Tren Maya, viajas por el Tren Maya; todo es infraestructura de la Cuarta Transformaci&oacute;n y ya el ISSSTE va a tener, ya tiene, de hecho, el &ldquo;Paquete Tur&iacute;stico 4T&rdquo;.</p>
+
+<p>Luego, 20. Fortalecer las tiendas que tiene SuperISSSTE. Aqu&iacute; quiero decirles que en el lapso que nos ha tocado ahora, ya las Tiendas SuperISSSTE mejoraron ventas en un 33 por ciento. Y le vamos a incorporar perecederos, otros productos b&aacute;sicos a bajo costo, incorporar proveedores locales y el mantenimiento integral de los establecimientos, eso es en las tiendas que tiene actualmente el ISSSTE.</p>
+
+<p>21. Este es un tema muy importante. Vamos a hacer una revisi&oacute;n integral y el estudio necesario para mejorar las pensiones m&aacute;s bajas. Ya con la Presidenta, en la Mesa de Salud, estamos analizando escenarios, pero todav&iacute;a falta puntualizar algunas cosas.</p>
+
+<p>Luego, en el combate de corrupci&oacute;n y fortalecimiento financiero tenemos la revisi&oacute;n de las pensiones que superan el l&iacute;mite m&aacute;ximo legal para ajustarlas o, en su caso, cancelarlas.</p>
+
+<p>Aqu&iacute;, obviamente, es un problema de inequidad y de violentaci&oacute;n de la legislaci&oacute;n, de la ley. Aqu&iacute; quiero poner unos ejemplos: estas son las 10 pensiones m&aacute;s altas que hemos detectado. El l&iacute;mite m&aacute;ximo que marca la ley son 10 UMAs. La UMA debe estar este a&ntilde;o como en 33 mil, 34 mil&hellip; Bueno, 10 UMAs, perd&oacute;n, 10 UMAs son como 34 mil pesos.</p>
+
+<p>Pero si ustedes observan, hay una pensi&oacute;n de 309 mil pesos &mdash;que el ISSSTE paga desde el a&ntilde;o 2002&mdash;, 267 mil, 210 mil, 179 mil, 172 mil, 147 mil, 139 mil. Bueno, de estas 10, como siete, son superiores al ingreso de la Presidenta de M&eacute;xico.</p>
+
+<p>Y aqu&iacute;, bueno, ponemos qu&eacute; instituci&oacute;n es la que otorg&oacute;. En varios casos de estos 10: cuatro, el ISSSTE otorg&oacute; estas pensiones directamente y en seis casos fueron &oacute;rganos del Poder Judicial.</p>
+
+<p>Bueno, ac&aacute; est&aacute; cu&aacute;l era la plaza de adscripci&oacute;n correspondiente. Como ver&aacute;n, en algunos casos no tiene l&oacute;gica ni siquiera el ingreso.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Juzgado S&eacute;ptimo de Distrito en Materia Administrativa, &uacute;ltimo puesto: maestra de jard&iacute;n de ni&ntilde;os.</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), MART&Iacute; BATRES GUADARRAMA: </strong>Maestra de jard&iacute;n de ni&ntilde;os, ense&ntilde;anza de secundaria t&eacute;cnica.</p>
+
+<p>Pero ac&aacute; hay otro caso, el secretario general de la Junta Federal de Conciliaci&oacute;n y Arbitraje; antes de irse garantiz&oacute; esta pensi&oacute;n.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Desde el &acute;95 cobra.</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), MART&Iacute; BATRES GUADARRAMA: </strong>Entonces esto lo vamos a revisar. La Ley del ISSSTE nos da facultades porque se&ntilde;ala que en cualquier momento el ISSSTE puede revisar la legalidad de las pensiones y, adem&aacute;s, ajustarlas o cancelarlas, en su caso.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&iquest;Se puede revertir?</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), MART&Iacute; BATRES GUADARRAMA:</strong> Se puede revertir. De hecho, estamos ahorita en el proceso de revisi&oacute;n y se est&aacute; cuidando el debido proceso, el derecho de audiencia, para poder llevar a cabo el procedimiento adecuado.</p>
+
+<p>Luego, 23. Es recuperar espacios f&iacute;sicos del ISSSTE que indebidamente ocupan fundaciones privadas que lucran con el nombre de la instituci&oacute;n. Entonces, se presentan como si fueran una fundaci&oacute;n del ISSSTE y obtienen determinadas donaciones, y el ISSSTE no tiene el menor conocimiento de ello. Entonces, aqu&iacute; tenemos 27 espacios de una fundaci&oacute;n; ya recuperamos 12, faltan 15.</p>
+
+<p>Incluso hay sentencias en algunos casos y no las ha cumplido esta fundaci&oacute;n privada, que &iquest;qu&eacute; hace? Es m&aacute;s, algunos de esos espacios los subarrendaron; entonces, bueno, esto lo estamos corrigiendo para que el ISSSTE pueda aprovechar su patrimonio adecuadamente.</p>
+
+<p>24. Recuperar adeudos que diversas entidades y dependencias tienen con el ISSSTE y con el FOVISSSTE. Ya estamos en esa tarea, por ah&iacute; tambi&eacute;n podemos recuperar recursos.</p>
+
+<p>Y 25. Que este es un tema fundamental, que tiene que ver con todo lo anterior, &iquest;c&oacute;mo resolvemos mucho de lo planteado? Bueno, impulsando una reforma a la Ley del ISSSTE para el caso de los seguros de salud, para que las cuotas de los servidores p&uacute;blicos con m&aacute;s altos ingresos y las aportaciones correspondientes que tiene que dar las entidades federativas, perd&oacute;n, las entidades y las dependencias, se calculen sobre el salario integrado. Aqu&iacute;, como saben, hay salario base y salario integrado.</p>
+
+<p>Quiero mostrar, el ISSSTE cuenta con poco m&aacute;s de 3 millones de afiliados en activo; el 9.7, menos del 10 por ciento, gana m&aacute;s de 10 UMAs, y el 90.3 por ciento gana menos de 10 UMAs. Entonces, a este 9.7, en lugar de que se le cobren las cuotas sobre la base del salario base, ser&iacute;a sobre el salario integrado; en el resto, que es la gran mayor&iacute;a, m&aacute;s del 90 por ciento, se seguir&iacute;a haciendo sobre su salario base.</p>
+
+<p>Ahora, quiero decir que quien aportar&aacute; m&aacute;s ser&aacute; el gobierno. &iquest;Por qu&eacute;? Estos son los seguros de salud, estos son los que el gobierno aporta, tiene dos aportaciones el gobierno: una de 7.375 por ciento, otra de 0.72 por ciento, que actualmente para todos se calculan sobre la base del salario base; y en el caso de ese 9.7 por ciento de servidores p&uacute;blicos se calcular&iacute;a sobre el salario integrado.</p>
+
+<p>Y los servidores p&uacute;blicos de todos los niveles aportan el 3.375 por ciento de su ingreso. El 90 por ciento lo seguir&aacute; haciendo de su salario base; y en el caso de 9.7 por ciento ser&aacute; sobre su salario integrado, o sea, los de m&aacute;s altos ingresos. Es una medida &mdash;como se dice&mdash; de progresividad: quien m&aacute;s tiene, ayuda m&aacute;s.</p>
+
+<p>Pero finalmente es el gobierno el que va a aportar &mdash;aqu&iacute;&mdash; varios miles de millones de pesos para la mejor&iacute;a del ISSSTE.</p>
+
+<p>Aqu&iacute; quiero se&ntilde;alar que en la administraci&oacute;n del Presidente Andr&eacute;s Manuel L&oacute;pez Obrador se incorporaron 192 equipos &mdash;como hemos dicho aqu&iacute;&mdash; de hemodinamia, anestesia, tom&oacute;grafos, mast&oacute;grafos, resonadores magn&eacute;ticos, en fin, en 135 unidades m&eacute;dicas de 30 estados.</p>
+
+<p>Tambi&eacute;n se construyeron &mdash;como saben&mdash; las Cl&iacute;nicas Hospitales de Los Cabos, Baja California y de Palenque en Chiapas.</p>
+
+<p>Se iniciaron otras obras y &mdash;ahorita comento&mdash; se concret&oacute; recientemente la nacionalizaci&oacute;n de los hospitales de Villahermosa, Tabasco; Tepic, Nayarit; y M&eacute;rida, Yucat&aacute;n, que comenz&oacute; en la administraci&oacute;n pasada y se concret&oacute; ya en esta.</p>
+
+<p>Y en este a&ntilde;o se van a inaugurar y poner en operaci&oacute;n cinco nuevos hospitales: el de Pachuca, Hidalgo; Torre&oacute;n, Coahuila; el de Tlajomulco, Jalisco; el de Tampico, Tamaulipas; y Acapulco, Guerrero.</p>
+
+<p>Ahora bien, con todo esto, no obstante, el ISSSTE s&iacute; requiere una renovaci&oacute;n en su infraestructura.</p>
+
+<p>De las Unidades M&eacute;dicas del ISSSTE: 265 tienen m&aacute;s de 30 a&ntilde;os, 225 m&aacute;s de 40 a&ntilde;os, 185 m&aacute;s de 50 a&ntilde;os, y 45 m&aacute;s de 60 a&ntilde;os. Eso quiere decir que hace falta una inversi&oacute;n para la renovaci&oacute;n de nuestra infraestructura.</p>
+
+<p>Y el ISSSTE o los m&eacute;dicos del ISSSTE tienen los ingresos m&aacute;s bajos del sector salud, entonces hace falta la homologaci&oacute;n, que tiene que ver con esta unificaci&oacute;n que nos ha planteado la Presidenta, de tal forma que cada vez sea m&aacute;s un solo Sistema de Salud.</p>
+
+<p>Por las razones expuestas estamos desarrollando estas 25 acciones que se rigen por ejes como progresividad, austeridad republicana, la formaci&oacute;n de nuestro personal, innovaci&oacute;n tecnol&oacute;gica, la simplificaci&oacute;n administrativa, la igualdad de g&eacute;nero, y amor al pueblo y Humanismo.</p>
+
+<p>Esos son los 25 puntos, Presidenta.</p>
+
+<p>Estamos a la orden.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias, Mart&iacute;.</p>
+
+<p>Quisiera nada m&aacute;s hacer dos comentarios sobre lo que se present&oacute; ahora:</p>
+
+<p>Uno, sobre la compra de medicamentos, que es importante. Casi todos los medicamentos que se est&aacute;n adquiriendo son directamente con los laboratorios fabricantes de medicamentos.</p>
+
+<p><strong>PREGUNTA: &iquest;Todos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Todos. Recuerden que en el pasado, antes de que llegara el Presidente L&oacute;pez Obrador, la mayor&iacute;a de las compras eran a intermediarios que se encargaban de proveer los medicamentos y distribuirlos.</p>
+
+<p>Eso se rompi&oacute; en el sexenio pasado y ahora, esta compra complementaria y bianual, es decir, que garantiza los medicamentos hasta el 2026, se hace directamente a los laboratorios.</p>
+
+<p>Y la distribuci&oacute;n se hace, ya sea con la contrataci&oacute;n directa de la distribuci&oacute;n o a trav&eacute;s de los estados que nos est&aacute;n ayudando para la distribuci&oacute;n de la &uacute;ltima milla, que se llama: del almac&eacute;n estatal directamente al centro de salud o el hospital.</p>
+
+<p>Y el centro de almacenamiento y lo que se llam&oacute; la &ldquo;Superfarmacia&rdquo; de Huehuetoca nos sigue funcionando, y va a ser principalmente para la zona centro del pa&iacute;s, que es para donde puede ayudar much&iacute;simo m&aacute;s la distribuci&oacute;n de medicamentos.</p>
+
+<p>Entonces, ha sido un esfuerzo muy importante que ha hecho el secretario, el subsecretario de Salud, todas las entidades, para quitar a todos los intermediarios &mdash;que muchos de ellos ya sabemos qui&eacute;nes son, que hasta televisoras tienen&mdash; y comprarlos directamente a los que fabrican los medicamentos; ellos los ponen en lugares y ya se encarga de la distribuci&oacute;n.</p>
+
+<p>Esto est&aacute; permitiendo tambi&eacute;n un ahorro adicional al que ya se hab&iacute;a conseguido.</p>
+
+<p>A todas las personas que llegan a su Centro de Salud y por alguna raz&oacute;n no hay un medicamento o al hospital, eso: el objetivo es resolverlo en estos dos meses con la compra complementaria que se hizo, que ya comienza a distribuirse, y con la nueva compra para los siguientes dos a&ntilde;os. De tal manera que estamos trabajando para que, en el muy corto plazo, pueda haber abasto de medicamentos en todos los Centros de Salud y en todos los hospitales, y tambi&eacute;n pues todo el material de curaci&oacute;n que se requiere.</p>
+
+<p>Y sobre el tema del ISSSTE, que es muy importante, Mart&iacute; planteaba&hellip; Aqu&iacute; sali&oacute; en la conferencia, &iquest;se acuerdan?, de uno de ustedes, un reportero que me pregunt&oacute; &mdash;ah, t&uacute; fuiste&mdash; que por qu&eacute;, por ejemplo, el salario de la Presidenta, que se compone de un salario base y un salario complementario, en el caso del salario complementario no aport&aacute;bamos al ISSSTE.</p>
+
+<p>Entonces, el objetivo es que ahora ese salario complementario aporte al ISSSTE, el porcentaje que tiene que ver exclusivamente con los servicios de salud. No impacta en todo lo dem&aacute;s que aportamos en el FOVISSSTE, en la pensi&oacute;n, etc&eacute;tera, en eso no impacta, solamente en los servicios de salud.</p>
+
+<p>Eso va a permitir que quienes ganamos m&aacute;s y somos trabajadores del Estado aportemos un porcentaje adicional de alrededor del 2.7 por ciento para poder ayudar al ISSSTE.</p>
+
+<p>Y el gobierno tiene que aportar el 8.3 por ciento. Es decir, si se consiguen mil millones de pesos, en t&eacute;rminos generales, por esta aportaci&oacute;n, el gobierno estar&aacute; aportando alrededor de 6 mil millones de pesos adicionales, que ya tenemos los recursos.</p>
+
+<p>Una de las propuestas es que, cuando se resuelvan los amparos, pues el fideicomiso, los fideicomisos de la Corte, se vayan a mejorar pues el sistema de salud de los trabajadores del Estado, que es justamente donde van a atenderse la mayor&iacute;a de los trabajadores del Poder Ejecutivo, del Poder Legislativo y del Poder Judicial.</p>
+
+<p>Entonces, esta es la propuesta. Y como ven, es una propuesta integral.</p>
+
+<p>En campa&ntilde;a mucha gente me dijo de lo que paga por FOVISSSTE, que ya pagaron y pagaron y pagaron, y siguen aumentando las deudas, similar a lo que estaba ocurriendo en el Infonavit, y todav&iacute;a en una parte que vamos a corregir con la Ley del Infonavit.</p>
+
+<p>Y Mart&iacute;, ha estado trabajando mucho, es una persona que conoce el servicio p&uacute;blico, honesto, que ama a su pueblo, y que es un servidor p&uacute;blico de primera, justamente, se fija ah&iacute; en eso que le duele a la gente. Entonces ya encontr&oacute; la manera de que se puedan condonar muchas de las deudas de FOVISSSTE que ya fueron pagadas; o como hicimos en el Infonavit, que se congelen, que se quiten etc&eacute;tera, etc&eacute;tera para ayudar a todos los trabajadores, que son alrededor de 400 mil que est&aacute;n en esta condici&oacute;n.</p>
+
+<p>Esta es la informaci&oacute;n. Como ven, muy nutrida &ldquo;La Ma&ntilde;anera del pueblo&rdquo; del d&iacute;a de hoy.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Muy buenos d&iacute;as, se&ntilde;ora Presidenta. Buenos d&iacute;as, secretarios.</strong></p>
+
+<p><strong>Con respecto a esta presentaci&oacute;n que se acaba de hacer, &iquest;qu&eacute; va a pasar con las denuncias que ya hab&iacute;a sobre algunos funcionarios, precisamente, en el ISSSTE que, bueno, se estuvieron abusando de su cargo y que estuvieron haciendo saqueos y dando contratos para tratar de privatizarlo? Por un lado.</strong></p>
+
+<p><strong>Y por otro lado, en cuanto a la lista que se nos acaba de presentar, bueno, el ejemplo que se nos acaba de dar, &iquest;cu&aacute;ntos casos son los que aproximadamente se va a tener que revisar? &iquest;y qu&eacute; es lo que va a proceder con respecto a esto?</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), MART&Iacute; BATRES GUADARRAMA:</strong> &iquest;De cu&aacute;l?</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> De lo de las pensiones altas.</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), MART&Iacute; BATRES GUADARRAMA:</strong> Sobre el primer tema, bueno, hay &oacute;rganos que realizan las investigaciones correspondientes sobre esos procesos.</p>
+
+<p>Cabe decir que todo el proceso de privatizaci&oacute;n que se dio en el neoliberalismo lleg&oacute; hasta la m&eacute;dula del sector salud, en el caso del ISSSTE: en un hospital, afuera dec&iacute;a &ldquo;ISSSTE&rdquo;, pero adentro una empresa ten&iacute;a el servicio de hemodinamia, otra de la anestesia, otra el de los Rayos X. En realidad, ya se estaba convirtiendo en un cascar&oacute;n.</p>
+
+<p>Y con el Presidente Andr&eacute;s Manuel L&oacute;pez Obrador empez&oacute; este proceso de nacionalizaci&oacute;n.</p>
+
+<p>Entonces, aparte del tema de las responsabilidades, hubo tambi&eacute;n una serie de modificaciones normativas. Y todo eso, ahora, se est&aacute; corrigiendo para fortalecer lo p&uacute;blico que, en este caso, en el caso de salud es fundamental para garantizar un derecho, el derecho a la salud.</p>
+
+<p>Ahora, sobre el tema de las pensiones altas, hemos detectado aproximadamente 8 mil que pudieran estar por arriba de lo que marca la ley.</p>
+
+<p>Hay un procedimiento que ya se anunci&oacute;, sali&oacute; publicado en el Diario Oficial de la Federaci&oacute;n, y se va a citar a cada uno, se le cita con sus papeles, su expediente, para comprobar si hubo legalidad o no en la asignaci&oacute;n de la pensi&oacute;n.</p>
+
+<p>Afortunadamente, la Ley del ISSSTE &mdash;como dec&iacute;a&mdash; nos da facultades para hacer la revisi&oacute;n correspondiente, analizar si se apega a la legalidad y, en su caso, determinar un ajuste o una cancelaci&oacute;n. En muchos casos se ajustar&iacute;a la pensi&oacute;n a lo que corresponde; y en algunos otros, si se advirtiera una total ilegalidad, se cancelar&iacute;a.</p>
+
+<p>Pero eso se va a hacer respetando el derecho de audiencia con el debido proceso. Lleva varios meses, no se va a tomar ninguna medida apresurada ni se va a cometer ninguna injusticia, todo se va a analizar como marca la ley.</p>
+
+<p>Aqu&iacute; pusimos unos casos para que se vea qu&eacute; es lo que queremos resolver porque, como ven ustedes, es una gran disparidad. Si la ley dice que la pensi&oacute;n m&aacute;xima son 10 UMAs y se cumple para el conjunto de los trabajadores, &iquest;por qu&eacute; tenemos casos as&iacute;?, que no deber&iacute;a haber.</p>
+
+<p>Seguramente ah&iacute; encontraremos otros que s&iacute; est&eacute;n ajustados a lo que marca la ley, pero por eso se va a hacer el an&aacute;lisis correspondiente.</p>
+
+<p><strong>PREGUNTA: Ok. Much&iacute;simas gracias, secretario.</strong></p>
+
+<p><strong>Presidenta, en otro tema, sabemos que son pocos d&iacute;as de que&hellip; de inicio del Plan Nacional de Desarrollo, pero ya el d&iacute;a de ayer tambi&eacute;n en Tamaulipas se present&oacute; la Secretar&iacute;a de Energ&iacute;a, ya empez&oacute; tambi&eacute;n con un foro para dar la consulta y usar energ&iacute;as&hellip; usar energ&iacute;as&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Renovables.</p>
+
+<p><strong>PREGUNTA: Renovables y sustentables, exactamente. Hacia esto &iquest;cu&aacute;l es el informe y los avances que a usted le han llegado ya en torno a este Plan Nacional de Desarrollo?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ma&ntilde;ana viene Jes&uacute;s para informar de los foros. Iba a venir hoy, pero ya era todav&iacute;a m&aacute;s informaci&oacute;n.</p>
+
+<p>Entonces, ma&ntilde;ana viene a informarnos c&oacute;mo van los foros, cu&aacute;ntas propuestas tenemos &mdash;tanto que se han enviado en l&iacute;nea como las que se han recibido&mdash;, cu&aacute;ntas personas han participado, cu&aacute;les foros faltan. Entonces, ma&ntilde;ana, si gustas, podemos dar mucho m&aacute;s informaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: <em>Ok. </em>Much&iacute;simas gracias.</strong></p>
+
+<p><strong>Y, bueno, finalmente, hace rato platicaban de todo lo que ha avanzado y el papel de la mujer, que ya se le toma en cuenta. Sin embargo, a veces hay abusos de mujeres.</strong></p>
+
+<p><strong>&iquest;C&oacute;mo mediar este papel? &iquest;C&oacute;mo mediar esta situaci&oacute;n para que la mujer no, precisamente no abuse de su papel, y que diga: &ldquo;pues porque soy mujer&rdquo;? Porque, finalmente, por ejemplo, en casos de situaciones de divorcios, de este tipo de cosas, que ella diga: &ldquo;pues sabes qu&eacute;&hellip;&rdquo; y abuse tambi&eacute;n del poder econ&oacute;mico que ella tenga.</strong></p>
+
+<p><strong>&iquest;C&oacute;mo mediar esta situaci&oacute;n para que no se d&eacute; y que, de verdad, haya cierta igualdad?</strong></p>
+
+<p><strong>Ser&iacute;a todo, Presidenta. Gracias.</strong></p>
+
+<p><strong>Perd&oacute;n, perd&oacute;n, no present&eacute;, creo. Janet Galindo, de <em>Grupo Transmedia La Chispa</em>.</strong></p>
+
+<p><strong>Much&iacute;simas gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Son dos temas. Cuando se pone en la ley, por ejemplo, que la mitad del Congreso deben ser mujeres, es porque hay una situaci&oacute;n de desigualdad hist&oacute;rica. Y si no se legisla, se mantiene esa condici&oacute;n de desigualdad.</p>
+
+<p>Hubo una &eacute;poca en que era, al menos, el 20 por ciento, imag&iacute;nense, o, al menos, el 30 por ciento; hasta que se dijo &ldquo;la mitad de la poblaci&oacute;n somos mujeres, pues la mitad de la poblaci&oacute;n tiene que estar representada en el Congreso de la Uni&oacute;n&rdquo;.</p>
+
+<p>Y hay otras medidas que se llaman &ldquo;afirmativas&rdquo;, que buscan compensar esta desigualdad hist&oacute;rica, a partir de poner un porcentaje, que en M&eacute;xico pr&aacute;cticamente ya es la mitad.</p>
+
+<p>Hay sectores que tienen menor representaci&oacute;n de mujeres. Por ejemplo, el sector empresarial tiene menos mujeres que son directivas de empresas que hombres, y es un sector donde tiene que seguir, se tiene que seguir avanzando.</p>
+
+<p>En la representaci&oacute;n social, comunidades, ejidos, n&uacute;cleos agrarios, tambi&eacute;n tenemos que seguir avanzando.</p>
+
+<p>Entonces, esa es una parte, y yo estoy de acuerdo adem&aacute;s, de que se garantice la equidad.</p>
+
+<p>Cuando hay un asunto de un juicio, a quien le corresponde es a un juez. Y si hay una falsedad de alguna declaraci&oacute;n o algo, a quien le corresponde decidirlo es al juez. Hist&oacute;ricamente ha sido en contra de las mujeres.</p>
+
+<p>Puede haber un caso de alguna mujer que pueda decir &ldquo;como soy mujer, debe ocurrir esto&rdquo;, cuando en realidad no es una situaci&oacute;n que corresponda a la equidad o a una visi&oacute;n o a un enfoque de g&eacute;nero; en general, es lo menos, pero, en todo caso, frente a un juicio civil, un juicio penal, un juicio de abuso pues es al juez al que le corresponde.</p>
+
+<p>Y, por eso es importante la capacitaci&oacute;n y la formaci&oacute;n de la visi&oacute;n que tienen que tener los jueces, porque en general es al rev&eacute;s: A una mujer, que hay much&iacute;simos casos de mujeres, por ejemplo, que en un divorcio, como el caso que pusiste, no les permiten ver a los hijos, que se lleg&oacute; a catalogar como &ldquo;violencia vicaria&rdquo;; o que no se da una pensi&oacute;n; o casos en donde el ministerio p&uacute;blico &mdash;ya no los jueces&mdash; no levanta una denuncia por abuso sexual o de otro tipo a las mujeres, porque no tiene la visi&oacute;n que corresponde, y se victimiza a la mujer.</p>
+
+<p>Pero para eso tenemos que tener mejores ministerios p&uacute;blicos y mejores jueces.</p>
+
+<p>&mdash;Bueno, a ver, &iquest;qui&eacute;n m&aacute;s?, por ac&aacute;&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Rodrigo Mu&ntilde;oz, de <em>NX Noticias.</em></strong></p>
+
+<p><strong>Quisiera preguntar un par de temas sobre Am&eacute;rica del Norte. El primero es, su opini&oacute;n al respecto del candidato, bueno, l&iacute;der del Partido Conservador en Canad&aacute;, Pierre Poilievre, que es el mayor contendiente, hasta con 20 puntos de ventaja, para ser&hellip; ocupar el puesto de Justin Trudeau.</strong></p>
+
+<p><strong>Sin embargo, en las &uacute;ltimas semanas ha encabezado una campa&ntilde;a digamos&hellip; De hecho, se llama &ldquo;Canada first&rdquo;, que es m&aacute;s nacionalista. Y algunos medios locales hablan sobre un posible deslinde, igual del Tratado de Libre Comercio en Am&eacute;rica del Norte.</strong></p>
+
+<p><strong>Entonces, mucho le han preguntado sobre: &iquest;c&oacute;mo se va a llevar con el presidente Donald Trump?, pero poco sobre este nuevo personaje en Canad&aacute;, que tambi&eacute;n pareciera tendr&iacute;a una relaci&oacute;n no tanto amigable con nuestro pa&iacute;s. &iquest;Su opini&oacute;n al respecto?</strong></p>
+
+<p><strong>&iquest;Y si su equipo de trabajo ya tambi&eacute;n ha dise&ntilde;ado un plan para dialogar con este posible&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Bueno, primero tiene que haber elecciones en Canad&aacute;. Y como saben, M&eacute;xico tiene una posici&oacute;n en donde no hay intromisi&oacute;n en una u otra decisi&oacute;n; corresponde al pueblo de Canad&aacute; decidir qui&eacute;n va a ser su primer ministro.</p>
+
+<p>Entonces, hasta que no ocurra esa elecci&oacute;n pues no estar&iacute;amos opinando.</p>
+
+<p>Lo que hemos dicho siempre, lo dije en el Z&oacute;calo y lo he dicho siempre, es que el Tratado Comercial de los tres pa&iacute;ses ha beneficiado a los tres pa&iacute;ses.</p>
+
+<p>Y ayer present&oacute; de manera muy clara el secretario de Hacienda c&oacute;mo es necesaria esta alianza y conservar el Tratado para poder competir con otras regiones del mundo, incluso, ampliarlo a todo el continente.</p>
+
+<p><strong>PREGUNTA: Gracias.</strong></p>
+
+<p><strong>El segundo, ahora, en Estados Unidos, s&eacute; que ya se ha hablado aqu&iacute; en este espacio y ya lo ha comentado, de hecho, ya present&oacute; un informe bastante detallado, pero, ahora, es el mismo <em>New York Times</em> quien publica que, en caso de que Donald Trump repatriara a todos los migrantes que seg&uacute;n &eacute;l promete, se generar&iacute;a un d&eacute;ficit de 20 mil millones de d&oacute;lares al sistema de jubilaci&oacute;n, puesto que ellos aportan al menos est&aacute; cantidad, los connacionales mexicanos...</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Es m&aacute;s, es bastante m&aacute;s.</p>
+
+<p><strong>PREGUNTA: Aj&aacute;, sin recibir nada a cambio. Entonces&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Imag&iacute;nese que es&hellip; 65 mil millones de d&oacute;lares llegaron de remesas, y eso es el 20 por ciento de todo lo que ellos aportan o de todo lo que ellos reciben o ahorran.</p>
+
+<p>Entonces, el 80 por ciento se queda en Estados Unidos. Y ellos pagan impuestos y muchos de ellos est&aacute;n en la seguridad social. Entonces, hay una aportaci&oacute;n de las y los mexicanos a Estados Unidos muy grande.</p>
+
+<p>Por eso, nuestro reconocimiento por lo que hacen las y los migrantes para M&eacute;xico; la solidaridad que tienen con sus familias, la fraternidad que significa el que no abandones a tu familia, el que siempre est&eacute;s atento de tu familia, que son estas remesas y el apoyo que le dan a nuestro pa&iacute;s con ello, pero aportan m&aacute;s a la econom&iacute;a de Estados Unidos.</p>
+
+<p>Ya nada m&aacute;s 7 de cada 10 trabajadores del campo son mexicanos o de origen mexicano, por poner un ejemplo de un sector. En el sector de la construcci&oacute;n, much&iacute;simos mexicanos; en el sector servicios, bueno, Nueva York, por ejemplo, la migraci&oacute;n de Puebla, de Oaxaca, hace funcionar en muy buena parte una ciudad tan importante para Estados Unidos.</p>
+
+<p>Entonces, esta idea de que &ldquo;los migrantes son &mdash;no estamos de acuerdo&mdash; son delincuentes&rdquo;, digo, habr&aacute; alguna persona que podr&aacute; haber delinquido, pero eso no quiere decir que los migrantes no aporten a la econom&iacute;a de los Estados Unidos. Y eso lo vamos a decir siempre, mantenerlo, y cuando estemos en pl&aacute;ticas formales con el gobierno de Estados Unidos tambi&eacute;n lo haremos.</p>
+
+<p><strong>PREGUNTA: Gracias.</strong></p>
+
+<p><strong>Y para cerrar el tema de Norteam&eacute;rica, en los &uacute;ltimos d&iacute;as se han registrado muchos agradecimientos por parte, precisamente, de los connacionales que radican en espec&iacute;fico en la ciudad de Los &Aacute;ngeles.</strong></p>
+
+<p><strong>Ya nos present&oacute; el avance completo al inicio de la conferencia, pero preguntarle su opini&oacute;n sobre estos agradecimientos, en especial el que ayer &mdash;fue muy sonado&mdash; del vocalista de KISS, Gene Simmons, que, incluso, le agradeci&oacute; por enviar este apoyo a la ciudad de Los &Aacute;ngeles.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Primero, nuestro gobierno es humanista, ante todo, eso es nuestra visi&oacute;n, nuestro pensamiento. Y corresponde al pueblo de M&eacute;xico, el pueblo de M&eacute;xico es generoso y fraterno.</p>
+
+<p>Y hoy el gobierno tiene como sustento el Humanismo Mexicano. Y ah&iacute; donde podamos siempre vamos a ayudar.</p>
+
+<p>Y particularmente la ciudad de Los &Aacute;ngeles ha recibido a much&iacute;simos mexicanos y mexicanas. Bueno, recuerden que eso era M&eacute;xico. Pero, adem&aacute;s, durante mediados y finales del siglo XIX, todo el siglo XX y ahora, ha recibido a much&iacute;simos mexicanos.</p>
+
+<p>Entonces, es de alguna manera, de manera muy peque&ntilde;a, porque son 72 combatientes forestales y miembros de la Sedena, de la Defensa, que son parte del Plan DN-III-E, y que son especialistas, pues est&aacute;n ayudando.</p>
+
+<p>Entonces, siempre nuestra solidaridad y apoyo, y particularmente a esta ciudad, que somos hermanos.</p>
+
+<p><strong>PREGUNTA: &iquest;(inaudible) inmigrantes mexicanos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues, s&iacute;, tambi&eacute;n. Digo, en su momento, cuando se d&eacute; el proceso de reconstrucci&oacute;n, por supuesto, van a requerir mucha mano de obra, y no hay mejores trabajadores de la construcci&oacute;n que las y los mexicanos.</p>
+
+<p>&mdash;A ver, vamos por ac&aacute;&mdash;.</p>
+
+<p>Vamos a &mdash;les voy a dar otra&mdash; Vamos a cerrar hoy.</p>
+
+<p>&mdash;&iquest;Hoy o ma&ntilde;ana la vamos a&hellip;? &iquest;Hoy?&mdash;</p>
+
+<p>Viene la segunda parte de la serie de fentanilo.</p>
+
+<p><strong>PREGUNTA: Hola, Presidenta, buenos d&iacute;as. Mayte Baena, de <em>Infobae M&eacute;xico</em>.</strong></p>
+
+<p><strong>Retomando un poco el tema de los incendios en Los &Aacute;ngeles. Recientemente se dijo que &ldquo;un mexicano en situaci&oacute;n de calle hab&iacute;a sido el presunto responsable de estos acontecimientos&rdquo;. Si bien, se dijo que no hab&iacute;a motivos para se&ntilde;alarlo a &eacute;l, pues el sujeto fue arrestado.</strong></p>
+
+<p><strong>&iquest;Cu&aacute;l es su postura al respecto? Ya que eso afecta, pues si bien, la imagen de M&eacute;xico en Estados Unidos, pues tambi&eacute;n de los migrantes a quien ahorita su gobierno se ha enfocado mucho en defender.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Pues que hagan la investigaci&oacute;n, &iquest;no? Y que no prejuzguen, sino que hagan su investigaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: <em>Ok</em>. Gracias, Presidenta.</strong></p>
+
+<p><strong>En otros temas y aprovechando la visita de&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Y si hay alguna injusticia, siempre est&aacute; el Consulado para apoyar.</p>
+
+<p><strong>PREGUNTA: Claro. Gracias, Presidenta.</strong></p>
+
+<p><strong>Bueno, en otros temas y aprovechando que est&aacute;&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, siempre est&aacute; para apoyar, porque es presunto.</p>
+
+<p><strong>PREGUNTA: S&iacute;, claro, es presunci&oacute;n de inocencia.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si fue detenido, siempre est&aacute; para apoyar el Consulado.</p>
+
+<p><strong>PREGUNTA: Gracias.</strong></p>
+
+<p><strong>Esta pregunta es para el doctor David Kershenobich, que el d&iacute;a de ayer se habl&oacute; sobre un caso particular en el estado de Puebla, sobre el deceso de un hombre de 53 a&ntilde;os quien presuntamente perdi&oacute; la vida por metapneumovirus.</strong></p>
+
+<p><strong>En Nuevo Le&oacute;n se confirm&oacute; la semana pasada dos casos de este virus, y Tamaulipas ten&iacute;a un caso sospechoso.</strong></p>
+
+<p><strong>De ser este caso confirmado con este virus, el deceso, que tenga que ver con este virus, pues &iquest;cu&aacute;l es su postura, si hay como alguna alerta a la poblaci&oacute;n? Y tambi&eacute;n, de ser el caso, si &iquest;ya se tiene como una campa&ntilde;a de vacunaci&oacute;n?</strong></p>
+
+<p><strong>SECRETARIO DE SALUD, DAVID KERSHENOBICH STALNIKOWITZ:</strong> Si. Primero, no hay motivo para emitir una alerta. Yo mencion&eacute; en esta misma, en una &ldquo;Ma&ntilde;anera&rdquo;, que es un virus habitual en este periodo de gripe.</p>
+
+<p>No hay un tratamiento espec&iacute;fico y tampoco hay una vacuna para el mismo.</p>
+
+<p>Yo m&aacute;s bien, el caso este, mencionar dos cosas:</p>
+
+<p>Una, que el sistema de vigilancia est&aacute; activo, de tal manera que podemos detectar aquellos casos que ocurren.</p>
+
+<p>Segundo, el hecho de que no existen m&aacute;s all&aacute; de los cuidados generales para cuidar a las personas, es decir, la buena alimentaci&oacute;n, el separarse si uno tiene un cuadro gripal.</p>
+
+<p>En este enfermo en particular, de Puebla, se sospecha que puede haber tenido el virus y la Direcci&oacute;n General de Epidemiolog&iacute;a de cualquier manera lo va a ratificar, pero, aunque lo ratifique, no tiene motivo de alerta.</p>
+
+<p>Y tenemos que ver. El reporte dice que no tiene ninguna comorbilidad, pero tenemos que ver el caso en particular.</p>
+
+<p>Pero no hay motivo de emitir una alerta y tampoco de alarma para la poblaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: &iquest;La postura de la dependencia sigue siendo la misma?</strong></p>
+
+<p><strong>SECRETARIO DE SALUD, DAVID KERSHENOBICH STALNIKOWITZ:</strong> Sigue siendo la misma.</p>
+
+<p>E igual, como mencion&eacute; el d&iacute;a anterior, la Organizaci&oacute;n Mundial de la Salud sigue exactamente con la misma postura. Y realmente tenemos muy pocos casos detectados en M&eacute;xico.</p>
+
+<p><strong>PREGUNTA: Gracias, secretario.</strong></p>
+
+<p><strong>&iquest;Hay alg&uacute;n n&uacute;mero de casos espec&iacute;ficos? Ahorita se hablaba de dos en Nuevo Le&oacute;n, uno en el estado de Puebla y uno sospechoso en Tamaulipas, pero &iquest;hay otras entidades que tengan esta alerta en espec&iacute;fico o sospechas?</strong></p>
+
+<p><strong>SECRETARIO DE SALUD, DAVID KERSHENOBICH STALNIKOWITZ:</strong> Primero, no hay alerta.</p>
+
+<p><strong>PREGUNTA: Claro. Sospecha de casos.</strong></p>
+
+<p><strong>SECRETARIO DE SALUD, DAVID KERSHENOBICH STALNIKOWITZ:</strong> Sospecha de casos. Y en todos ellos est&aacute; investigando, la Direcci&oacute;n General de Epidemiolog&iacute;a, si existe o no la infecci&oacute;n.</p>
+
+<p>Pero insisto en el hecho de que no hay un tratamiento espec&iacute;fico para esto y tampoco tenemos una vacuna para lo mismo.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Y que no es un cuadro grave.</p>
+
+<p><strong>SECRETARIO DE SALUD, DAVID KERSHENOBICH STALNIKOWITZ:</strong> Y que no es un cuadro grave, efectivamente, es un cuadro gripal habitual que ocurre en estas fechas en el pa&iacute;s. Muchos de ustedes podr&aacute;n haber tenido ya un cuadro gripal, y ni siquiera saber, y haber podido tener ese virus.</p>
+
+<p><strong>PREGUNTA: Perfecto. Gracias, secretario.</strong></p>
+
+<p><strong>Finalmente, Presidenta, en otros temas, el d&iacute;a de ayer aparecieron lonas en el municipio de Elota, en el estado de Sinaloa, en donde la mencionan a usted. Son mantas firmadas por un grupo criminal, esta c&eacute;lula de los &ldquo;Chapitos&rdquo;, en donde supuestamente se&ntilde;alan v&iacute;nculos entre militares y otro grupo delictivo de los &ldquo;Mayos&rdquo;.</strong></p>
+
+<p><strong>No s&eacute; si usted tiene alg&uacute;n posicionamiento.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En este y en otros casos, siempre se revisan los casos &mdash;esas mantas a veces no necesariamente dicen la verdad, sino que mandan otros mensajes&mdash; y eso lo hace la Secretar&iacute;a de Seguridad, la propia Defensa, Marina, el Gabinete de Seguridad.</p>
+
+<p>Bueno, vamos a cerrar, son las 09:10.</p>
+
+<p>De hecho, nos estamos reuniendo, a partir de hoy y toda la semana, a distancia con los gobernadores que son parte del IMSS-Bienestar, con los 23 gobernadores para hacer una revisi&oacute;n general sobre el IMSS-Bienestar.</p>
+
+<p>Hoy iniciamos con el noroeste, con la regi&oacute;n noroeste, y empieza a las 9:30 la reuni&oacute;n.</p>
+
+<p>Entonces, los dejamos el d&iacute;a de hoy.</p>
+
+<p>De hecho, el fentanilo yo creo que lo dejamos para ma&ntilde;ana, la siguiente serie.</p>
+
+<p><strong>PREGUNTA: &iquest;Ya la invit&oacute; Trump?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Perd&oacute;n?</p>
+
+<p><strong>PREGUNTA: &iquest;Ya la invit&oacute; Trump, a su investidura?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, pero no pasa nada, pues, o sea, no pasa nada. Estar&aacute; ah&iacute; el embajador de M&eacute;xico en Estados Unidos, no hay problema.</p>
+
+<p>Bueno, gracias a todos y a todas por hoy.</p>
+
+<p>Gracias.</p>
+
+<p style="margin-left:70px;"><strong>&mdash;000&mdash;</strong></p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2025-01-14 09:55:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de enero de 2025";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-enero-de-2025";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-enero-de-2025" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de enero de 2025"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-enero-de-2025" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-enero-de-2025&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de enero de 2025";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-enero-de-2025" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-enero-de-2025";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-enero-de-2025" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

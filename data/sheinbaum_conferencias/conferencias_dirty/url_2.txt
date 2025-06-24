@@ -1,0 +1,1832 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de enero de 2025 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de enero de 2025" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152975/2025-01-21_Conferencia_de_prensa_matutina_-_Palacio_Nacional_08.jpg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-enero-de-2025?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152975/2025-01-21_Conferencia_de_prensa_matutina_-_Palacio_Nacional_08.jpg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="lWBLdEmPiPK4GuQomQ2gaGnfvaCAqx2yn/88Ej9e2do=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nn567jbez44jx6q-f-468a5edcd-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":18,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c31cba14","ak.r":46322,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62411,"ak.gh":"189.247.210.21","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296829","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==84A9B9Me8HwUNiIQhT/5oN0r+D5unO/Zsuycs2MxYaAys1TftUz8LaleMNFF+/4zxMO6wVK+uvUfGqECyxLkfG/5onquHzyLb9ELEMXY+YCp5IJ+fPTYaylAC5WR3V3sa1cJdzW+6e7TYloAfOi9XEM01E1Ksg5yQiz1/n2hd/W76GX4gi6j7dDhCSupOLIGrKU6qJZPYCRzjA59fQ1NCwdkL/fWIW7JMhfU7o/yMDAVfTnM+NiFgw8V8PUf6MKd/HkKQbtJFgNHhBMRZX/xabahsDP3x0wcCF4pP6MU1uiJxLhSVHC7/risLszn6sTvlhvbKgctmthCn/EaizVpORpBoCGCV/62bc27IfAF9e5nEOCy6VZs7ahpt+7TV6AbeJ6OCbBxjCRnp9F6bety5sUi8SSn7WLQn71kgd4ZlFk=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de enero de 2025</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 21 de enero de 2025</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/152975/2025-01-21_Conferencia_de_prensa_matutina_-_Palacio_Nacional_08.jpg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><div>&nbsp;</div>
+
+<div>
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muy buenos d&iacute;as a todos, a todas.</p>
+
+<p>Hoy me acompa&ntilde;an el canciller Juan Ram&oacute;n de la Fuente; la secretaria de Gobernaci&oacute;n, Rosa Icela Rodr&iacute;guez; el subsecretario para Am&eacute;rica del Norte, Roberto. Y nos toca salud, vamos a seguir hablando de salud, el doctor Kershenobich; y el doctor Ramiro, subsecretario de Salud.</p>
+
+<p>Bueno, antes que cualquier cosa, sobre los decretos, porque es importante referirse a los decretos que firm&oacute; ayer el presidente Donald Trump, quisiera mencionar lo siguiente:</p>
+
+<p>Primero, que tenga la certeza el pueblo de M&eacute;xico que siempre vamos a defender nuestra soberan&iacute;a y nuestra independencia, eso es un principio m&aacute;ximo a la que la Presidenta tiene que cumplir, que la Presidenta tiene que cumplir.</p>
+
+<p>Lo segundo es que siempre vamos a apoyar a las y los mexicanos que est&aacute;n en Estados Unidos, a nuestros connacionales, a nuestros paisanos.</p>
+
+<p>Esos dos principios son fundamentales y elementales para un Presidente, una Presidenta de la Rep&uacute;blica.</p>
+
+<p>El tercero, que nosotros actuamos en el marco de nuestra Constituci&oacute;n y nuestras leyes que juramos defender cuando jur&eacute; ser Presidenta de la Rep&uacute;blica frente al Congreso de la Uni&oacute;n y el pueblo de M&eacute;xico.</p>
+
+<p>Ahora, es importante siempre tener la cabeza fr&iacute;a y referirnos a los decretos firmados, m&aacute;s all&aacute; del propio discurso; o sea, lo que vale en el sentido estricto de la ley son los decretos que firma el presidente Trump. Entonces, vamos a poner todo en contexto porque es importante que lo conozca el pueblo de M&eacute;xico, y todas y todos.</p>
+
+<p>N&uacute;mero 1. El decreto que &eacute;l firma &mdash;me voy a referir a cinco temas&mdash; el decreto &mdash;que son los principales y que tienen que ver con M&eacute;xico&mdash; el decreto de zona de emergencia de la frontera sur que firm&oacute; el d&iacute;a de ayer es muy similar, pr&aacute;cticamente el mismo que el decreto que &eacute;l firm&oacute; en su primer periodo, en el 2019.</p>
+
+<p>&mdash;Este es de la declaraci&oacute;n de una emergencia nacional con respecto a la frontera sur de los Estados Unidos, el 20 de febrero de 2019&mdash;. Si ustedes comparan los dos decretos, tiene sus diferencias, pero es muy similar.</p>
+
+<p>&iquest;Por qu&eacute; digo esto?</p>
+
+<p>Porque esto ya ocurri&oacute;, no es algo nuevo, ocurri&oacute; en el 2019. Entonces, eso es importante que se conozca, ya hubo un marco de actuaci&oacute;n, una cooperaci&oacute;n entre el gobierno de Estados Unidos y M&eacute;xico en aquel entonces del presidente Trump y del presidente Andr&eacute;s Manuel L&oacute;pez Obrador. Entonces, no es algo novedoso, sino que ya exist&iacute;a.</p>
+
+<p>&Eacute;l est&aacute;&hellip; Este decreto, cuando entra el presidente Biden lo quita.</p>
+
+<p>&iquest;Y qu&eacute; hace ahora el presidente Trump? Lo reinstala, esencialmente. Incluso, eso dice en el &uacute;ltimo p&aacute;rrafo el decreto.</p>
+
+<p>Es importante que se conozca esto.</p>
+
+<p>Lo segundo, la declaraci&oacute;n del MPP, del &ldquo;MPP&rdquo; en ingl&eacute;s, que ellos le llaman el &ldquo;Qu&eacute;date en M&eacute;xico&rdquo;, eso lo instaur&oacute; el presidente Donald Trump en su primer periodo, en diciembre del 2018.&nbsp; &ldquo;Anuncia protocolo de protecci&oacute;n de migraci&oacute;n&rdquo;. Entonces, es el mismo decreto que hizo en 2018, es un decreto de ellos, del gobierno de Estados Unidos.</p>
+
+<p>&iquest;Qu&eacute; significa este decreto?</p>
+
+<p>Que a las personas que solicitan asilo en los Estados Unidos, Estados Unidos no los deja que permanezcan en su territorio, mientras est&aacute;n pidiendo asilo. Eso es lo que dice en esencia el MPP.</p>
+
+<p>&iquest;Qu&eacute; hace M&eacute;xico?, &iquest;qu&eacute; hizo en su momento y qu&eacute; hacemos nosotros?</p>
+
+<p>Nosotros tenemos nuestra propia pol&iacute;tica migratoria, pero tambi&eacute;n somos un gobierno humanitario. Si hay una persona que est&aacute; en la frontera, m&aacute;s ahora, que hay tanto fr&iacute;o, evidentemente, actuamos de manera humanitaria; no vamos a dejar a la gente en la intemperie.</p>
+
+<p>Entonces, se act&uacute;a de manera humanitaria y se busca la repatriaci&oacute;n a sus pa&iacute;ses en caso de ser extranjeros.</p>
+
+<p>Pero el MPP es algo que se instaur&oacute; por el presidente Trump en su primer periodo y que ahora, lo est&aacute; reinstalando.</p>
+
+<p>&iquest;Qu&eacute; quiere decir? Repito, que a las personas que solicitan asilo no les permiten permanecer en los Estados Unidos.</p>
+
+<p>&iquest;Qu&eacute; hace M&eacute;xico? Act&uacute;a de manera humanitaria, pero tenemos nuestra pol&iacute;tica migratoria tambi&eacute;n y buscamos la repatriaci&oacute;n de esas personas que no son mexicanas a sus pa&iacute;ses de origen.</p>
+
+<p>Y en un momento, voy a informar, &iquest;por qu&eacute;? Tiene que haber un di&aacute;logo con las agencias de Estados Unidos que se dedican a esto para poder encontrar todos los protocolos y mecanismos.</p>
+
+<p>Esto no tiene nada que ver con &ldquo;tercer pa&iacute;s seguro&rdquo; y todo esto, sino es una declaraci&oacute;n del gobierno de Estados Unidos.</p>
+
+<p>&iquest;Qu&eacute; hacemos nosotros frente a ello?</p>
+
+<p>Pues actuar de manera humanitaria y despu&eacute;s, de acuerdo a nuestra pol&iacute;tica exterior, nuestra pol&iacute;tica migratoria, buscar la repatriaci&oacute;n de estas personas a sus pa&iacute;ses de origen en caso de que no sean mexicanos; si son mexicanos, obviamente, se mueven en territorio nacional con toda libertad, porque as&iacute; lo dice nuestra Constituci&oacute;n y nuestras leyes.</p>
+
+<p>Ese es el segundo, que es el MPP. Pero s&iacute; es importante que se vea que es lo mismo que se instaur&oacute; en diciembre del 2018.</p>
+
+<p>Ahora, el tercero, que en realidad est&aacute; hacia el final, es el tema del Golfo de M&eacute;xico, que s&iacute; es importante que se lea lo que dice el decreto.</p>
+
+<p>Dice que: le va a llamar &ldquo;Golfo de Am&eacute;rica&rdquo; en su plataforma continental.</p>
+
+<p>O sea, lo que corresponde a la plataforma continental de Estados Unidos ellos le llaman &ldquo;Golfo de Am&eacute;rica&rdquo;, para nosotros sigue siendo Golfo de M&eacute;xico y para el mundo entero sigue siendo Golfo de M&eacute;xico.</p>
+
+<p>Entonces, s&iacute; es importante que se vea lo que dice el decreto, por eso digo que siempre hay que actuar con respecto a lo que est&aacute; escrito. Entonces, es a su plataforma continental, para nosotros y para el mundo entero se sigue llamando: Golfo de M&eacute;xico.</p>
+
+<p>Bueno, cuatro, que es, digamos, lo nuevo, que no hab&iacute;a ocurrido: los c&aacute;rteles como organizaciones terroristas.</p>
+
+<p>En este caso, &iquest;qu&eacute; planteamos nosotros?</p>
+
+<p>El decreto establece que ellos tienen dos semanas por lo menos para estudiar a qui&eacute;n llamar&iacute;an &ldquo;organizaci&oacute;n terrorista&rdquo;.</p>
+
+<p>&iquest;Qu&eacute; decimos nosotros?</p>
+
+<p>Ellos pueden actuar en su territorio, en su marco de actuaci&oacute;n y de su Constituci&oacute;n. Nosotros lo que decimos es, la defensa de nuestra soberan&iacute;a y nuestra independencia. Por eso, siempre dijimos: Nos coordinamos, pero somos un pa&iacute;s libre, independiente y soberano, y lo que vamos a buscar es la coordinaci&oacute;n.</p>
+
+<p>Como mencion&oacute; en su momento el hoy secretario de Estado, Marco Rubio, es, si recuerdan, en su toma de&hellip; o en su entrevista en el Senado, &eacute;l dice: &ldquo;Vamos a buscar la coordinaci&oacute;n con M&eacute;xico&rdquo;. Y eso es lo que vamos a buscar nosotros, la coordinaci&oacute;n en materia de seguridad con respeto a nuestra soberan&iacute;a. Eso es lo que estamos planteando y tiene que abrirse el espacio de comunicaci&oacute;n a partir de ahora.</p>
+
+<p>Repito, ellos hacia adentro de su territorio pueden actuar y deben actuar. Que lo hemos dicho aqu&iacute; otras veces, que dentro de Estados Unidos tambi&eacute;n operan organizaciones criminales que son las que venden el fentanilo y otras drogas. Entonces, en su territorio ellos act&uacute;an. Frente a M&eacute;xico, la defensa de nuestra soberan&iacute;a y buscar siempre el di&aacute;logo para la cooperaci&oacute;n sin subordinaci&oacute;n, como lo hemos manifestado en otras ocasiones.</p>
+
+<p>Y lo otro que es muy relevante, es lo del Tratado. F&iacute;jense, en lo que se refiere al Tratado. Esto lo menciona&hellip; &mdash;no, lo anterior, por favor, es muy relevante lo que viene antes&mdash;.</p>
+
+<p>&mdash;&iquest;Recuerdas, Roberto?, &iquest;cu&aacute;l es el punto? Con que nos digas el&hellip; Secci&oacute;n 2-E&hellip; D, ah&iacute;&mdash;.</p>
+
+<p>&mdash;Pr&eacute;stame el&hellip; Porque vale la pena&mdash;.</p>
+
+<p>F&iacute;jense lo que dice respecto al Tratado Comercial:</p>
+
+<p>&ldquo;El Representante Comercial de los Estados Unidos iniciar&aacute; el proceso de consulta p&uacute;blica establecido en la secci&oacute;n 4611(b), del t&iacute;tulo 19, C&oacute;digo de los Estados Unidos, con respecto al Acuerdo Estados Unidos-M&eacute;xico-Canad&aacute;, USMCA &mdash;que nosotros le llamamos el T-MEC&mdash;, en preparaci&oacute;n para la revisi&oacute;n de julio de 2026&rdquo;.</p>
+
+<p>O sea, en el decreto que firma est&aacute; instruyendo al representante comercial de los Estados Unidos para que inicie las pl&aacute;ticas para la revisi&oacute;n del Tratado en 2026, est&aacute; establecido dentro de lo que se firm&oacute;.</p>
+
+<p>Y despu&eacute;s &mdash;ahora s&iacute; lo que&hellip;&mdash;, ya menciona:</p>
+
+<p>&ldquo;El Secretario de Comercio, el Secretario de Seguridad Nacional evaluar&aacute;n la migraci&oacute;n ilegal y los flujos de fentanilo desde Canad&aacute;, M&eacute;xico y la Rep&uacute;blica Popular China y cualquier otra jurisdicci&oacute;n relevante, y recomendar&aacute;n medidas comerciales y de seguridad nacional apropiadas para resolver &mdash;en todo caso&mdash; esta emergencia&rdquo; que llegar&aacute; a ocurrir un (inaudible) entre Estados Unidos y M&eacute;xico.</p>
+
+<p>Entonces, nuevamente: vamos a actuar siempre en la defensa de nuestra soberan&iacute;a y nuestra independencia.</p>
+
+<p>2. En la protecci&oacute;n, apoyo, solidaridad, a nuestros connacionales, a las y los mexicanos que viven en Estados Unidos.</p>
+
+<p>3. Actuamos en el marco de nuestra Constituci&oacute;n y nuestras leyes.</p>
+
+<p>4. Siempre con la cabeza fr&iacute;a. Y lo que hay que resaltar en este caso son los decretos que firma el presidente Trump:</p>
+
+<p>Firm&oacute; el decreto de emergencia en la frontera sur similar al de 2019, ya lo vivimos en 2019.</p>
+
+<p>Firma el decreto del MPP, que ya lo vivimos en diciembre del 2018, y M&eacute;xico act&uacute;a de manera humanitaria y de acuerdo a nuestras leyes, nuestra Constituci&oacute;n.</p>
+
+<p>Ahora, aqu&iacute; es importante se&ntilde;alar que est&aacute;n llegando muchos menos personas migrantes a la frontera norte de lo que llegaban, incluso, en aquel momento, por la pol&iacute;tica integral que hemos estado siguiendo, humanitaria, para evitar que las personas lleguen a la frontera norte.</p>
+
+<p>3. Lo del Golfo de M&eacute;xico, m&aacute;s all&aacute; de cualquier cosa, lo establecen para su plataforma continental; para nosotros sigue siendo Golfo de M&eacute;xico y para el mundo entero sigue siendo Golfo de M&eacute;xico.</p>
+
+<p>4. Los c&aacute;rteles declarados como &ldquo;organizaciones terroristas&rdquo;. Nosotros vamos a actuar en defensa de nuestra soberan&iacute;a, y a buscar la coordinaci&oacute;n y la colaboraci&oacute;n. Y ellos, en todo caso, act&uacute;an en el marco de su soberan&iacute;a en su territorio.</p>
+
+<p>Y el quinto, con relaci&oacute;n al Tratado Comercial, lo que est&aacute;n diciendo es que contin&uacute;e el Tratado Comercial.</p>
+
+<p>&iquest;Y qu&eacute; hay? Un proceso de revisi&oacute;n que est&aacute; establecido en el propio Tratado para su revisi&oacute;n en el 2026. Y que, en todo caso, el secretario de Comercio establecer&aacute; medidas, en caso de no haber acuerdo, con relaci&oacute;n a temas como el fentanilo o algunos otros temas de seguridad.</p>
+
+<p>Entonces, es importante poner calma y leer los decretos como tal para poder hacer una interpretaci&oacute;n.</p>
+
+<p>Y que sepan que la Presidenta de la Rep&uacute;blica siempre va a defender a M&eacute;xico por encima de todo.</p>
+
+<p>Ahora, queremos presentarles dos cosas importantes, que es un poco la ampliaci&oacute;n de lo que presentamos ayer:</p>
+
+<p>El canciller nos va a presentar de nuevo la gr&aacute;fica de c&oacute;mo ha disminuido la migraci&oacute;n a la frontera norte.</p>
+
+<p>Y tambi&eacute;n, para quien no nos escuch&oacute; el d&iacute;a de ayer, sobre todo, las y los mexicanos que viven en Estados Unidos, todo el apoyo que les vamos a dar desde los Consulados: apoyo legal, jur&iacute;dico y todo lo que requieran.</p>
+
+<p>Y la secretaria Rosa Icela va a presentar ahora s&iacute;, para en caso de que haya estas deportaciones, c&oacute;mo vamos a recibir a nuestros connacionales, con todo el apoyo que merecen y el abrazo que merecen de su pa&iacute;s.</p>
+
+<p>&mdash;Entonces, Juan Ram&oacute;n&mdash;.</p>
+
+<p><strong>SECRETARIO DE RELACIONES EXTERIORES, JUAN RAM&Oacute;N DE LA FUENTE RAM&Iacute;REZ:</strong> Con mucho gusto, Presidenta.</p>
+
+<p>Buenos d&iacute;as tengan todas y todos.</p>
+
+<p>En efecto, yo voy a reiterar tres puntos que en este momento resultan muy pertinentes para justamente se&ntilde;alar lo que estamos haciendo: &iquest;c&oacute;mo estamos preparados y cu&aacute;l es la situaci&oacute;n que prevalece en la frontera?</p>
+
+<p>&mdash;Si me pasa la primera, por favor&mdash;.</p>
+
+<p>Como ven ustedes, estamos, y esto no se ha modificado, en los niveles m&aacute;s bajos de cruces en la frontera norte del pa&iacute;s, con una disminuci&oacute;n del 78 por ciento. Esto quiere decir que las condiciones que prevalecen en nuestra frontera no representan en este momento vol&uacute;menes inmanejables; al contrario, son los flujos m&aacute;s bajos.</p>
+
+<p>Y esto es resultado de que el modelo implementado en M&eacute;xico desde el gobierno del Presidente L&oacute;pez Obrador, y fortalecido por el gobierno de la Presidenta Sheinbaum, ha logrado contener de una manera muy eficaz los flujos migratorios en nuestra frontera norte. Esta es la situaci&oacute;n que prevalece.</p>
+
+<p>&iquest;C&oacute;mo vamos y estamos atendiendo a nuestros paisanos y a nuestras paisanas?</p>
+
+<p>Pues con la red consular m&aacute;s grande que existe en un pa&iacute;s en cualquier parte del mundo, que es la red consular de M&eacute;xico en los Estados Unidos, con 53 Consulados que cubren todo el territorio y que han estado reforzados, por instrucciones de la Presidenta, b&aacute;sicamente en tres &aacute;reas:</p>
+
+<p>Primero, las asesor&iacute;as legales. Entre los contratos que se han suscrito y las alianzas que se han logrado, tenemos equipos jur&iacute;dicos de 2 mil 610 personas, distribuidos en el territorio de los Estados Unidos.</p>
+
+<p>Pero, adem&aacute;s, ha habido un avance significativo en la parte que tiene que ver con los servicios que ahora, de manera digital est&aacute;n ya empezando a funcionar para dar un servicio m&aacute;s &aacute;gil, m&aacute;s oportuno, a nuestras y nuestros paisanos.</p>
+
+<p>Ya todo lo que tiene que ver con Registro Civil est&aacute;, pr&aacute;cticamente, digitalizada. Y en algunas visitas de cortes&iacute;a de supervisi&oacute;n yo he tenido, a nombre de la Presidenta, la posibilidad de entregar directamente algunos de estos documentos, producto ya de la digitalizaci&oacute;n que est&aacute; en marcha.</p>
+
+<p>Y, finalmente, la construcci&oacute;n de toda esta serie de alianzas comunitarias que nos est&aacute; permitiendo arropar y acompa&ntilde;ar a nuestras y nuestros paisanos.</p>
+
+<p>Y tenemos un mecanismo, que aqu&iacute; lo quiero reiterar para el conocimiento de quienes a&uacute;n no lo conozcan: tenemos un <em>call center,</em> un centro de informaci&oacute;n y asistencia, el CIAM, que tiene una l&iacute;nea directa, que est&aacute; funcionando 24 por 7, que tenemos ya todo un equipo de refuerzos.</p>
+
+<p>Si el n&uacute;mero de operadoras y operadores que tenemos all&aacute; llegase a saturarse, que no ha sido el caso, se han estado atendiendo todas las llamadas y todas las solicitudes, pero si hubiese un volumen mayor, ya est&aacute; previsto tambi&eacute;n el que haya un mecanismo que permita reforzar toda parte de los operadores.</p>
+
+<p>Y una aplicaci&oacute;n que ya pueden bajar en el sistema Android, que permite que conozcan de manera muy did&aacute;ctica, muy clara cu&aacute;les son sus derechos, cu&aacute;les son los contactos que cada uno preselecciona para que en un momento dado se les pueda notificar, y d&oacute;nde est&aacute; su Consulado m&aacute;s cercano.</p>
+
+<p>Todo esto activado a trav&eacute;s de un bot&oacute;n de contacto que &mdash;quiero subrayar&mdash; solamente funciona en los Estados Unidos, pero est&aacute; funcionando en los t&eacute;rminos previstos.</p>
+
+<p>As&iacute; que finalmente concluir&iacute;a, Presidenta, mandando nuevamente el mensaje a nuestras y nuestros paisanos: No est&aacute;n solos, no van a estar solos, ah&iacute; est&aacute; nuestra red consular, estamos permanentemente en contacto con ellos y estaremos atentos para tratar de asistirles a la brevedad posible en funci&oacute;n de las circunstancias que se vayan presentando.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>SECRETARIA DE GOBERNACI&Oacute;N, ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:</strong> Con su permiso, Presidenta.</p>
+
+<p>Buenos d&iacute;as a todas y todos.</p>
+
+<p>Hoy nos corresponde presentar m&aacute;s completo la estrategia nacional de repatriaci&oacute;n &ldquo;M&eacute;xico te abraza&rdquo;.</p>
+
+<p>Nosotros tenemos muchos meses, varios meses, prepar&aacute;ndonos para que la repatriaci&oacute;n de mexicanas y mexicanos que se encuentran en Estados Unidos, que sepan que el gobierno cuenta con una estrategia nacional de repatriaci&oacute;n: &ldquo;M&eacute;xico te abraza&rdquo;, para brindar a nuestros compatriotas una recepci&oacute;n adecuada y darles certeza de las oportunidades para una vida digna en su pa&iacute;s natal.</p>
+
+<p>Mexicanas y mexicanos en Estados Unidos, nuestros paisanos, se fueron en busca de mejores condiciones para ellos y sus familias. En ese pa&iacute;s salieron adelante porque el pueblo de M&eacute;xico es muy trabajador, honesto y solidario.</p>
+
+<p>Y todos sabemos que las personas migrantes no son criminales.</p>
+
+<p>Y ahora, el Gobierno de M&eacute;xico est&aacute; listo para recibirlos con los brazos abiertos. El pa&iacute;s que dejaron es diferente al que estamos construyendo, que hoy es m&aacute;s justo e igualitario.</p>
+
+<p>Para nosotros, la repatriaci&oacute;n es un regreso al hogar, a nuestras ra&iacute;ces, a nuestra cultura y a la hermandad que nos une.</p>
+
+<p>Reafirmamos nuestra identidad como el pueblo que no solo acoge, sino tambi&eacute;n protege y respeta los derechos y dignidad de quienes retornan.</p>
+
+<p>&iquest;Cu&aacute;les son los objetivos de esta Estrategia Nacional de Repatriaci&oacute;n &ldquo;M&eacute;xico te abraza&rdquo;?</p>
+
+<p>El objetivo general es recibir a mexicanas y mexicanos repatriados con calidad y humanismo. Los objetivos espec&iacute;ficos:</p>
+
+<p>Es articular un trabajo interinstitucional de todo el Gobierno de M&eacute;xico y los gobiernos estatales, y otras instancias para recibir y atender a los connacionales.</p>
+
+<p>Tambi&eacute;n vigilar el cumplimiento de tratados y acuerdos internacionales y bilaterales, en materia de repatriaci&oacute;n, para estar preparados ante acciones que violen los derechos de nuestros paisanos.</p>
+
+<p>Tambi&eacute;n garantizar, por supuesto, la bienvenida y la reintegraci&oacute;n a sus comunidades de origen.</p>
+
+<p>Son tres componentes de la estrategia de recepci&oacute;n digna:</p>
+
+<p>1. A la que ya se refiero el canciller, que es la Asistencia y Protecci&oacute;n Consular.</p>
+
+<p>2. La Recepci&oacute;n y el Apoyo, que consiste en que los seis estados fronterizos se establecer&aacute;n, se est&aacute;n estableciendo ya Centros de Atenci&oacute;n.</p>
+
+<p>Tambi&eacute;n, en el n&uacute;mero 3 vemos la Reintegraci&oacute;n, donde se atender&aacute;n las necesidades b&aacute;sicas mediante jornadas de servicios sociales, y se ofertar&aacute; empleo y la incorporaci&oacute;n a Programas de Bienestar.</p>
+
+<p>&iquest;Cu&aacute;les son los puntos oficiales de repatriaci&oacute;n?</p>
+
+<p>Aqu&iacute; los vemos, es donde com&uacute;nmente se da el retorno de mexicanos por estos 11 puntos establecidos en los acuerdos locales de repatriaci&oacute;n.</p>
+
+<p>Coordinaci&oacute;n con el Gobierno de M&eacute;xico. Por instrucciones de la Presidenta de M&eacute;xico, se da con todas las Secretar&iacute;as, todas las dependencias federales que participan en esta Estrategia Nacional de Repatriaci&oacute;n &ldquo;M&eacute;xico te abraza&rdquo;, al igual que las seis entidades locales de la frontera norte, as&iacute; como otra entidades del centro, del sur del pa&iacute;s, a donde llegar&aacute;n finalmente como punto de destino los mexicanos repatriados. Aqu&iacute; est&aacute;n algunos.</p>
+
+<p>Y tambi&eacute;n la Coordinaci&oacute;n general de la Estrategia de Repatriaci&oacute;n &ldquo;M&eacute;xico te abraza&rdquo; que, por instrucci&oacute;n de la Presidenta de M&eacute;xico, est&aacute; a cargo de la Secretar&iacute;a de Gobernaci&oacute;n.</p>
+
+<p>Tambi&eacute;n el trabajo aqu&iacute; muy importante que se har&aacute;, que se hace diariamente con el Instituto Nacional de Migraci&oacute;n, que es quien proporciona las cartas, los documentos, la carta de repatriaci&oacute;n, el apoyo a otros estados, as&iacute; como la recepci&oacute;n.</p>
+
+<p>Tambi&eacute;n estaremos trabajando con el Registro Nacional de Poblaci&oacute;n para los documentos de identidad, el CURP, la coordinaci&oacute;n con otros Registros Civiles para cuestiones de actas de nacimiento y dem&aacute;s.</p>
+
+<p>Tambi&eacute;n estaremos&hellip; Ya, ya, ya iniciaron los trabajos para la instalaci&oacute;n de nueve Centros de Atenci&oacute;n, y se van a ubicar en municipios colindantes a los puntos de repatriaci&oacute;n, con todos los servicios necesarios, como luz, agua, internet, drenaje, v&iacute;as de comunicaci&oacute;n.</p>
+
+<p>Y todo esto se hace en el arranque de esta Estrategia de Repatriaci&oacute;n &ldquo;M&eacute;xico te abraza&rdquo;. Y se contar&aacute; en Baja California con dos Centros de Atenci&oacute;n, uno en Tijuana y uno en Mexicali, con 250 servidores p&uacute;blicos del Gobierno Federal y tambi&eacute;n de los gobiernos estatales.</p>
+
+<p>Por ejemplo: en Sonora, un Centro de Atenci&oacute;n en Nogales; y en Chihuahua, un Centro de Atenci&oacute;n en Ciudad Ju&aacute;rez; en Coahuila, un Centro de Atenci&oacute;n en Nueva Rosita; en Nuevo Le&oacute;n, un Centro de Atenci&oacute;n en El Carmen; y en Tamaulipas, tres Centros de Atenci&oacute;n en Matamoros, Reynosa y Nuevo Laredo.</p>
+
+<p>Aqu&iacute; est&aacute;n las ubicaciones de los Centros de Atenci&oacute;n, donde personal de la Secretar&iacute;a de Gobernaci&oacute;n en coordinaci&oacute;n con la Secretar&iacute;a de la Defensa Nacional, de la Secretar&iacute;a de Marina, la Guardia Nacional, la Secretar&iacute;a de Bienestar, el Instituto Nacional de Migraci&oacute;n y los gobiernos de los estados, ya se verificaron las ubicaciones, los lugares, en donde estar&aacute;n estos Centros de Atenci&oacute;n.</p>
+
+<p>Estos Centros de Atenci&oacute;n fueron acordados con los gobernadores y gobernadora de los estados.</p>
+
+<p>Aqu&iacute; hay otra parte fundamental, en el cual la Presidenta de M&eacute;xico nos instruy&oacute; tambi&eacute;n a proveer el traslado de las personas que vienen de Estados Unidos hacia M&eacute;xico. Entonces, por entidad federativa, por punto de repatriaci&oacute;n ya est&aacute;n tambi&eacute;n preparados autobuses, en esta estrategia, para trasladarlos a los puntos de repatriaci&oacute;n fronterizos, a los nueve Centros de Atenci&oacute;n, y 100 autobuses m&aacute;s para llevarlos hasta las capitales en sus estados de origen.</p>
+
+<p>Los Centros de Atenci&oacute;n contar&aacute;n con esta organizaci&oacute;n. Aqu&iacute; en las l&aacute;minas se ve el registro y recepci&oacute;n, en donde se le dar&aacute; orientaci&oacute;n sobre las reglas, los servicios, la entrega de art&iacute;culos de higiene, uso personal, en fin, todo lo que sea necesario.</p>
+
+<p>Y tambi&eacute;n estar&aacute; la atenci&oacute;n a la salud. Agradecer mucho a la Secretar&iacute;a de Salud y a toda la coordinaci&oacute;n de esta &aacute;rea, del IMSS, del IMSS-Bienestar, del ISSSTE y por supuesto, de&hellip; para canalizar y atender a los migrantes, a los mexicanos y mexicanas repatriados.</p>
+
+<p>Tambi&eacute;n estamos pendientes de los servicios para la reintegraci&oacute;n, que consta de todos los documentos que sean necesarios, pero tambi&eacute;n la informaci&oacute;n y orientaci&oacute;n hacia los programas de gobierno; tambi&eacute;n, por supuesto que habr&aacute; garantizada la alimentaci&oacute;n y tambi&eacute;n estancia y alojamiento.</p>
+
+<p>Estar&aacute;n tambi&eacute;n, en cada Centro de Atenci&oacute;n, 18 dependencias del Gobierno Federal quienes realizar&aacute;n jornadas de servicios sociales. Aqu&iacute; podemos ver algunos, muy importante la atenci&oacute;n de la salud, que tambi&eacute;n est&aacute;n en acompa&ntilde;amiento para la Estrategia de Repatriaci&oacute;n &ldquo;M&eacute;xico te abraza&rdquo;.</p>
+
+<p>Ayer, por instrucci&oacute;n de la Presidenta Claudia Sheinbaum, se inform&oacute; de esto que es tan importante, que es la incorporaci&oacute;n al Instituto Mexicano del Seguro Social, de personas repatriadas. El IMSS afiliar&aacute; a personas repatriadas y a su n&uacute;cleo familiar, con todo lo que tiene que ver con atenci&oacute;n m&eacute;dica, vacunas.</p>
+
+<p>Tambi&eacute;n, muy importante el trabajo de la Secretar&iacute;a de Bienestar con los Programas de Bienestar que estar&aacute;n a disposici&oacute;n de mexicanas y mexicanos repatriados.</p>
+
+<p>La Tarjeta de Bienestar Paisano, esta tarjeta donde se entregar&aacute; una transferencia monetaria de 2 mil pesos a personas mexicanas repatriadas para cubrir sus gastos de traslado a sus comunidades de origen. Esta tarjeta estar&aacute; siendo entregada por la Secretar&iacute;a de Bienestar, quien realizar&aacute; el registro a la persona con los documentos para ayudar tambi&eacute;n en todo lo que sea, que todos tengan correctos los procedimientos.</p>
+
+<p>Tambi&eacute;n seguimos con la coordinaci&oacute;n de los gobiernos de la frontera norte.</p>
+
+<p>Hoy s&iacute; les decimos en qu&eacute; nos van a ayudar los estados: B&aacute;sicamente en proporcionar servicios de limpieza y servicios sanitarios, recolecci&oacute;n de basura, apoyo en la recepci&oacute;n y log&iacute;stica, suministrar agua potable y plantas de luz, y apoyar en las labores de protecci&oacute;n civil, as&iacute; como establecer seguridad perimetral y vial alrededor de los Centros de Atenci&oacute;n, as&iacute; como contribuir con personal para brigadas de difusi&oacute;n.</p>
+
+<p>Y tambi&eacute;n, la coordinaci&oacute;n con los gobiernos de los dem&aacute;s estados. Debo decir que nos falta entrevistarnos con algunos, pero lo que estamos aqu&iacute; acordando con ellos, quienes han manifestado toda su disposici&oacute;n, es ayudar a que en esta Estrategia de Repatriaci&oacute;n Nacional &ldquo;M&eacute;xico te abraza&rdquo; se asegure una c&aacute;lida bienvenida a los migrantes; por lo tanto, los gobiernos de los estados tambi&eacute;n ayudan a que desde la capital se lleve hasta los lugares donde&hellip; las diferentes poblaciones y municipios y comunidades a los hombres y mujeres que vienen de Estados Unidos.</p>
+
+<p>&iquest;En d&oacute;nde nos van a ayudar m&aacute;s?</p>
+
+<p>En la reintegraci&oacute;n, en el tema del empleo, de los documentos, de los estudios, ayudarnos mucho, esto es muy importante para darles una bienvenida en esta estrategia de &ldquo;M&eacute;xico te abraza&rdquo;.</p>
+
+<p>Muy importante el trabajo de la Secretar&iacute;a de la Defensa Nacional y de la Secretar&iacute;a de Marina. Tambi&eacute;n por instrucci&oacute;n de la Presidenta Claudia Sheinbaum, ellos ser&aacute;n los encargados de proporcionar alimentaci&oacute;n y seguridad en estos Centros de Atenci&oacute;n. Apoyar&aacute;n con cocinas m&oacute;viles, con las c&eacute;lulas de intendencia y tambi&eacute;n habr&aacute; apoyo en traslados y transportes.</p>
+
+<p>Aqu&iacute; vemos quienes son los encargados, precisamente, de este Plan de Alimentaci&oacute;n y Seguridad, y tambi&eacute;n, por supuesto, de la atenci&oacute;n de la Guardia Nacional.</p>
+
+<p>Bueno, debo decirles que estamos muy preparados y que ya se tienen tambi&eacute;n cinco men&uacute;s, que son los que se van a estar proporcionando en estos Centros de Atenci&oacute;n a nuestros paisanos y paisanas.&nbsp; &mdash;&iquest;Se los leemos, Presidenta?&mdash;</p>
+
+<p>Bueno, entonces ya est&aacute;n el desayuno, la comida y la cena listos, ya se han cuidado todos los detalles de manera que estos alimentos puedan ser proporcionados calientitos, que puedan ser proporcionados con mucha higiene, como todo lo que hacen las Fuerzas Armadas.</p>
+
+<p>Tambi&eacute;n habr&aacute; &mdash;y se ha pensado en todo&mdash; la parte de la comunicaci&oacute;n de nuestros paisanos repatriados, y se coordin&oacute; con los estados ya, la instalaci&oacute;n de antenas de internet, las cabinas telef&oacute;nicas para llamadas gratuitas, as&iacute; como la distribuci&oacute;n de chips.</p>
+
+<p>Bueno, en esta &uacute;ltima parte, precisamente, como parte de la log&iacute;stica para la instalaci&oacute;n de los Centros de Atenci&oacute;n, ante la ola g&eacute;lida, el personal designado para la atenci&oacute;n ya est&aacute; listo y capacitado. Adem&aacute;s, se encuentran coordinados ya de manera directa con los gobiernos de los estados y los municipios, supervisando que cuando lleguen nuestras hermanas y hermanos repatriados sean recibidos de manera c&aacute;lida y humana.</p>
+
+<p>Recordar que estamos coordinados con los organismos nacionales e internacionales como, por ejemplo, la Comisi&oacute;n Nacional de Derechos Humanos y tambi&eacute;n las Oficinas de Naciones Unidas.</p>
+
+<p>Tambi&eacute;n, bien fundamental, hemos encontrado un gran entusiasmo en la invitaci&oacute;n que se hizo al Consejo Coordinador Empresarial para la recepci&oacute;n y vinculaci&oacute;n laboral de las personas mexicanas repatriadas. Y tenemos mucha esperanza del trabajo que se est&aacute; haciendo ya en conjunto con el empresariado mexicano, que siempre ha sido solidario.</p>
+
+<p>Y bueno, finalmente, insistir que el Gobierno de M&eacute;xico cuenta con la capacidad operativa para atender a nuestras hermanas y hermanos que sean retornados, que no est&aacute;n solas ni solos. Y de este lado de la frontera ya estamos listos para recibirlos.</p>
+
+<p>La repatriaci&oacute;n es una oportunidad de regresar a casa y reencontrarse con la familia, y tambi&eacute;n de desarrollarse en M&eacute;xico, en un M&eacute;xico en transformaci&oacute;n, donde hay un gobierno comprometido con el bienestar de la gente.</p>
+
+<p>&ldquo;M&eacute;xico te abraza&rdquo;, paisano, paisana.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, para cerrar este tema, quiero&hellip; Despu&eacute;s, pasar a Salud.</p>
+
+<p>Estamos esperando ya la comunicaci&oacute;n entre el canciller y el secretario de Estado de los Estados Unidos, ya estamos en comunicaci&oacute;n, sea el d&iacute;a de hoy o de ma&ntilde;ana para iniciar las conversaciones bilaterales, que son indispensables con la llegada del presidente Trump para poder establecer ya toda la comunicaci&oacute;n, el di&aacute;logo respetuoso entre nuestros pa&iacute;ses.</p>
+
+<p>Entre otras cosas, al canciller, le he pedido que siempre manifieste nuestra posici&oacute;n frente al tema migratorio, que lo mejor es atender las causas, ir a invertir, a apoyar a las personas que tienen que migrar por necesidad. Eso lo vamos a seguir insistiendo con el gobierno de los Estados Unidos.</p>
+
+<p>Y dos, siempre el respeto a nuestra soberan&iacute;a, y la coordinaci&oacute;n y la colaboraci&oacute;n con el gobierno de Estados Unidos en distintos temas en una relaci&oacute;n de iguales entre M&eacute;xico y Estados Unidos.</p>
+
+<p>Entonces, esperamos que est&eacute; d&aacute;ndose esta comunicaci&oacute;n entre el d&iacute;a de hoy y ma&ntilde;ana, en estos d&iacute;as. Ya fue confirmado que van a empezar estas pl&aacute;ticas, que son indispensables, frente a la llegada de la nueva administraci&oacute;n del presidente Trump.</p>
+
+<p>Vamos con los otros dos temas de salud. Doctor Kershenobich y luego, Ramiro.</p>
+
+<p><strong>SECRETARIO DE SALUD, DAVID KERSHENOBICH STALNIKOWITZ:</strong> Con su permiso, se&ntilde;ora Presidenta.</p>
+
+<p>Yo quisiera &mdash;si me pasan la diapositiva&mdash; enfatizar y tomar como ejemplo de lo que est&aacute; pasando la manera en que la Presidenta nos ha instruido e indicado en la conveniencia de tener integrado todo el servicio de salud en sus distintos componentes, que son el IMSS, el IMSS-Bienestar, el ISSSTE, Pemex, Sedena y Semar. Y un ejemplo de ello, es la manera en que el sector salud est&aacute; respondiendo en los distintos albergues para poder brindar servicios de salud a nuestros connacionales.</p>
+
+<p>Otro de los prop&oacute;sitos fundamentales tiene que ver con dos aspectos muy importantes de salud p&uacute;blica: uno es la salud colectiva y otro es la atenci&oacute;n m&eacute;dica.</p>
+
+<p>La Salud Colectiva es aquello que involucra la atenci&oacute;n de las personas antes de que lleguen a buscar servicios m&eacute;dicos y para eso, es muy importante la participaci&oacute;n de los gobiernos locales, los secretarios de salud estatales y las jurisdicciones.</p>
+
+<p>Y, por otra parte, la Atenci&oacute;n M&eacute;dica involucra a los prestadores de servicios de salud, a los mismos que mencion&eacute;, los distintos componentes que est&aacute;n involucrados en la atenci&oacute;n de salud.</p>
+
+<p>Y el Servicio Nacional de Salud P&uacute;blica es el personal que colabora tanto con aquellas iniciativas de salud colectiva, como en las iniciativas de atenci&oacute;n m&eacute;dica.</p>
+
+<p>Hay una serie de redes que comparten los dos aspectos como son, por ejemplo, el Sistema de Laboratorios de Salud P&uacute;blica, el Sistema Nacional de Transfusi&oacute;n y Trasplantes, la Regulaci&oacute;n y Fomento Sanitario, la Promoci&oacute;n de Salud.</p>
+
+<p>El d&iacute;a de hoy les queremos presentar dos estrategias que ejemplifican tanto lo de Salud Colectiva, como lo de Atenci&oacute;n M&eacute;dica.</p>
+
+<p>En Salud Colectiva, el subsecretario de Promoci&oacute;n y Fomento a la Salud, Ramiro L&oacute;pez Elizalde, nos va a presentar el Plan Nacional de Dengue.</p>
+
+<p>Ese es un plan que estamos implementando no en el momento &aacute;lgido de los casos de dengue, sino ahora que precisamente el dengue va a la baja. Estamos empezando las medidas para tratar de contener el dengue y que no nos suceda, a fin de a&ntilde;o, la alta prevalencia que hemos tenido de dengue. Ese es un ejemplo de Salud Colectiva.</p>
+
+<p>Y el otro que les presentar&aacute; el subsecretario tiene que ver con la principal causa reversible de ceguera, que es la Atenci&oacute;n de Cataratas. Y les presentar&aacute; un programa que hemos integrado entre los distintos componentes, no nada m&aacute;s de servicios, sino de acad&eacute;micos, etc&eacute;tera, que tiene que ver en c&oacute;mo atender el rezago quir&uacute;rgico y hacerlo en forma oportuna.</p>
+
+<p>Entonces, son dos ejemplos: uno de Salud Colectiva y uno de Atenci&oacute;n M&eacute;dica. Le pido al doctor Ramiro Elizalde que los presente.</p>
+
+<p><strong>SUBSECRETARIO DE PROMOCI&Oacute;N Y FOMENTO A LA SALUD, RAMIRO L&Oacute;PEZ ELIZALDE:</strong> Buenos d&iacute;as a todas y a todos.</p>
+
+<p>Con permiso, se&ntilde;ora, nuestra Presidenta.</p>
+
+<p>Vamos a hablar sobre el Plan Nacional para el Control del Dengue y otras arbovirosis. Cuando decimos &ldquo;arbovirosis&rdquo; se refiere a enfermedades transmitidas por mosquitos y garrapatas; las que ustedes escuchan cotidianamente pues es el zika, el chikungunya y la fiebre amarilla.</p>
+
+<p>Vamos puntualmente a hablar sobre el dengue. Es una infecci&oacute;n causada por este vector, que es el <em>aedes aegypti</em>, es un mosquito que tiene un cuerpo negro y est&aacute; rallado, se dice que est&aacute; &ldquo;atigrado&rdquo;, y puede trasmitir la enfermedad viral que se clasifica, que tiene cuatro subtipos o tipos, para la poblaci&oacute;n en general.</p>
+
+<p>Estos cuatro&hellip; Aqu&iacute; es importante porque, de los subtipos est&aacute; en nuestro pa&iacute;s, est&aacute; predominando el tipo 3.</p>
+
+<p>Entonces, aqu&iacute; es muy importante decirle a la poblaci&oacute;n que, aunque se hayan contagiado, hayan tenido dengue &mdash;porque hay esa creencia, &ldquo;ya me contagi&eacute;, entonces ya no me va a dar&rdquo;&mdash;, te puede dar alguna de estas serotipos y puede ser inclusive m&aacute;s riesgoso a que te d&eacute; dengue grave.</p>
+
+<p>&iquest;C&oacute;mo se transmite?</p>
+
+<p>Hay un mosquito &mdash;ah&iacute;, en la parte superior&mdash; que pica a una persona con dengue. Una vez que pica a la persona con dengue, el mosquito se infecta. Y posteriormente, pica a una persona sana y esta persona adquiere la enfermedad.</p>
+
+<p>&iquest;Cu&aacute;les son los s&iacute;ntomas caracter&iacute;sticos? Los s&iacute;ntomas son fiebre alta, dolor de cabeza, normalmente lo refieren las personas retrooculares, es decir, atr&aacute;s de los ojos.</p>
+
+<p>Puede haber dolor muscular y de huesos, en las comunidades se conoce como fiebre quebrantahuesos o dolor quebrantahuesos, por la cantidad de dolor que produce.</p>
+
+<p>Puede haber otros s&iacute;ntomas, como salpullido en la piel, cansancio extremo y en los casos graves se puede sumar problemas abdominales severos y hemorragias.</p>
+
+<p>&iquest;Por qu&eacute; las hemorragias? Porque este virus afecta las plaquetas, que son las que de alguna manera que uno pueda&hellip; Nos evitan el sangrado.</p>
+
+<p>&iquest;Qu&eacute; es lo que hay que hacer? Hay que ir siempre, la recomendaci&oacute;n es al primer nivel de atenci&oacute;n, a buscar el apoyo de un m&eacute;dico, de una doctora. El plan es que se hidrate y se le den analg&eacute;sicos y que se pueda ir de manera oportuna a su casita.</p>
+
+<p>Aqu&iacute; es una recomendaci&oacute;n importante que no se automediquen, y menos medicamentos como la aspirina, los ibuprofenos, naproxeno, ketorolaco, porque estos medicamentos aumentan la posibilidad de que se complique el dengue y se puedan producir hemorragias. Normalmente se trata con hidrataci&oacute;n, paracetamol, dipirona, etc&eacute;tera, pero siempre la atenci&oacute;n debe ser vigilada por un m&eacute;dico. En dado caso que la evoluci&oacute;n sea t&oacute;rpida, el paciente o la persona tiene que ir a un hospital.</p>
+
+<p>&iquest;Por qu&eacute; la importancia de este tema?</p>
+
+<p>Ya lo dec&iacute;a el secretario de Salud: el panorama mundial del dengue, esto es a nivel mundial, y si ustedes se fijan el total, hay m&aacute;s de 14 millones en el mundo que tienen el diagn&oacute;stico de la enfermedad. Y en las Am&eacute;ricas, m&aacute;s del 90 por ciento de los casos han sido detectados, y dentro de las Am&eacute;ricas nuestro pa&iacute;s es el n&uacute;mero 3 en la cantidad de casos.</p>
+
+<p>Por eso nos estamos anticipando, porque la tendencia es que, una vez que vienen las lluvias empiezan las estrategias, y hoy justamente estamos teniendo esas precauciones.</p>
+
+<p>Muy bien, este es un mapa de calor. Lo m&aacute;s rojo&mdash;como ustedes ven&mdash; es donde m&aacute;s est&aacute;n acentuados los casos de dengue en nuestro pa&iacute;s. Pero aqu&iacute; quiero llamar la atenci&oacute;n, est&aacute; Jalisco como n&uacute;mero uno, le sigue Nuevo Le&oacute;n, Michoac&aacute;n, Guerrero, Veracruz.</p>
+
+<p>Anteriormente, cuando habl&aacute;bamos, uno de dengue, inmediatamente se trasladaba la mente de uno a la costa; es decir, en las partes donde hay playas, las partes donde hay humedad. Sin embargo, hoy por hoy, el dengue se est&aacute; localizando en partes suburbanas y urbanas.</p>
+
+<p>&iquest;Por qu&eacute;? Porque el mosquito tiene una adaptaci&oacute;n muy importante y, sobre todo, que hay criaderos artificiales.</p>
+
+<p>&iquest;Por qu&eacute;? Bueno, dejamos botes, dejamos cacharros, dejamos llantas, y ah&iacute; se localiza el agua. La larva se puede reproducir, los huevecillos, tanto en agua limpia como agua estancada.</p>
+
+<p>Aqu&iacute; es importante, porque los huevecillos pueden durar meses, y hasta que viene la siguiente lluvia se pueden reproducir.</p>
+
+<p>&iquest;Cu&aacute;l es el plan anual contra el dengue? Es en febrero-marzo, vamos a implementar el Plan Nacional.</p>
+
+<p>En abril se dota de insecticidas con transferencia de recursos.</p>
+
+<p>En mayo implementamos la&hellip; focalizar la estrategia dando larvicidas, rociado intradomiciliario y nebulizaciones.</p>
+
+<p>En junio a diciembre se intensifican las acciones donde hay presencia y riesgo entomol&oacute;gico, y la hibernaci&oacute;n de un mosquito contagiado con una bacteria para que infecte a otros mosquitos que puedan no ser transmisores de la enfermedad.</p>
+
+<p>Lo m&aacute;s importante de esto: esta estrategia no funciona si no hay participaci&oacute;n de la comunidad. Por eso, es importante que la poblaci&oacute;n nos ayude a contener la epidemia.</p>
+
+<p>&mdash;Y vamos a la de cataratas, por favor&mdash;.</p>
+
+<p>&quot;Ver por M&eacute;xico&quot; es la otra Estrategia Nacional de Cirug&iacute;a. Llevamos casi 40 mil cirug&iacute;as desde que inici&oacute; la gesti&oacute;n de nuestra Presidenta.</p>
+
+<p>&iquest;Qu&eacute; es una catarata? Es la opacidad de un lente, que es el cristalino, ubicado dentro del ojo. En la parte de arriba es como ve una persona y con catarata es como vieran un vidrio empa&ntilde;ado.</p>
+
+<p>Los signos son la vista nublada, colores opacos, dificultad para ver en la noche, sensibilidad a la luz y halos alrededor de las luces.</p>
+
+<p>&iquest;Por qu&eacute; es importante? Porque es la primera causa de ceguera reversible. Afecta a m&aacute;s de 760 mil personas en nuestro pa&iacute;s; y la tercera parte de estas personas no se operan debido a falta de recursos econ&oacute;micos y acceso a los servicios de salud.</p>
+
+<p>Es una estrategia intersectorial, est&aacute;n participando 176 hospitales, la cobertura es nacional.</p>
+
+<p>Hemos levantado una plataforma, ah&iacute; est&aacute; el registro, la p&aacute;gina [cataratas.atdt.gob.mx]. Pueden acceder a ella de manera muy sencilla, en 5 minutos se pueden registrar. Nosotros vamos a atender esas solicitudes para distribuir los procedimientos en la Rep&uacute;blica Mexicana.</p>
+
+<p>Ah&iacute; est&aacute;n los pasos: se asigna la unidad m&eacute;dica, hacemos estudios preoperatorios, planeamos la cirug&iacute;a, se realiza la cirug&iacute;a y le damos un seguimiento de cinco consultas posterior al procedimiento.</p>
+
+<p>&mdash;&iquest;Lo activas? Es un video de medio minuto&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE LA ESTRATEGIA NACIONAL DE CATARATA &ldquo;VER POR M&Eacute;XICO&rdquo;)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: &mdash;</strong>A ver, pon la plataforma, para que la gente conozca&mdash;.</p>
+
+<p>Son operaciones gratuitas, intervenciones gratuitas, en la estrategia &ldquo;Ver por M&eacute;xico&rdquo;, que es para todas las personas que requieren una cirug&iacute;a de cataratas: cataratas.atdt.gob.mx, para que puedan acceder a su cirug&iacute;a de manera gratuita, trabajado por especialistas de todas las instituciones.</p>
+
+<p>Bueno, ahora s&iacute;, vamos a las preguntas.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Nacional, a nivel nacional.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Para cualquier persona que tenga cataratas, s&iacute;.</p>
+
+<p>&mdash;Ahora s&iacute;. A ver, &iquest;con cu&aacute;l empezamos? A ver aqu&iacute; en&hellip;&mdash;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Vicente Serrano, conductor de <em>Sin Censura</em>.</strong></p>
+
+<p><strong>Antes de iniciar con mis planteamientos, no s&eacute; si el canciller tenga entendido ya que algunos problemas con la <em>ConsulApp</em>, que nos est&aacute;n reportando en los chats en vivo y en directo de la transmisi&oacute;n.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> De inmediato lo vemos, s&iacute;. Que hablen a los tel&eacute;fonos, porque ah&iacute; hay suficientes telefonistas y hoy mismo consultamos con Pepe Merino para que est&eacute; funcionando.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta.</strong></p>
+
+<p><strong>Habla de &ldquo;mantener la cabeza fr&iacute;a&rdquo; para negociar con el presidente de Estados Unidos. &iquest;C&oacute;mo mantener la cabeza fr&iacute;a, Presidenta, ante declaraciones como &ldquo;dejar abierta la posibilidad de una operaci&oacute;n militar en nuestro pa&iacute;s&rdquo;?</strong></p>
+
+<p><strong>&iquest;C&oacute;mo mantener la cabeza fr&iacute;a, cuando habla de que &ldquo;Estados Unidos no necesita a Am&eacute;rica Latina como nosotros necesitamos de Estados Unidos&rdquo;?</strong></p>
+
+<p><strong>&iquest;C&oacute;mo mantener la cabeza fr&iacute;a, cuando uno de sus m&aacute;s cercanos colaboradores como Elon Musk, que el due&ntilde;o de X, hace un saludo fascista &mdash;y eso no fue una inocentada, Presidenta&mdash;? </strong></p>
+
+<p><strong>&iquest;Cu&aacute;ndo, Stephen Miller, el asesor senior de Donald Trump, habla de que &ldquo;se acab&oacute; la invasi&oacute;n&rdquo;, y ah&iacute; vamos muchos, millones de mexicanos y mexicanas?</strong></p>
+
+<p><strong>Presidenta, en esto de la estrategia &iquest;no es momento tambi&eacute;n, a pesar de nuestros retos en M&eacute;xico, de retomar la grandeza de nuestro pa&iacute;s y hablar del &ldquo;sue&ntilde;o mexicano&rdquo;? &iquest;Que los mexicanos ya no le tengan miedo a ser repatriados, a pesar de que sea en contra de su voluntad?</strong></p>
+
+<p><strong>Hablar del &ldquo;sue&ntilde;o mexicano&rdquo; es retomar algo, que en alg&uacute;n momento muchos dec&iacute;amos: que la Cuarta Transformaci&oacute;n no ser&iacute;a posible sin los mexicanos y mexicanas en Estados Unidos.</strong></p>
+
+<p><strong>Presidenta, &iquest;sus reflexiones en este momento hist&oacute;rico, tambi&eacute;n, para nuestro pa&iacute;s en esta relaci&oacute;n de amor y odio, hist&oacute;rica entre ambas naciones?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si. Nosotros tenemos que evitar confrontaciones, es una responsabilidad; al mismo tiempo, relacionarnos como iguales, nunca subordinados, defender nuestra soberan&iacute;a, nuestra independencia, y defender a las y a los mexicanos. Pero eso es algo que es una responsabilidad.</p>
+
+<p>Ahora, retomo tu propuesta, claro que es el &ldquo;sue&ntilde;o mexicano&rdquo;. M&eacute;xico es un pa&iacute;s grandioso.</p>
+
+<p>Ahora, las y los mexicanos en Estados Unidos sostienen una buena parte de la econom&iacute;a de Estados Unidos, y eso lo sabe el gobierno de Estados Unidos.</p>
+
+<p>Entonces, en caso de deportaciones, aqu&iacute; son bien recibidos. Y, adem&aacute;s, M&eacute;xico es un pa&iacute;s que est&aacute; en crecimiento, en desarrollo y que los abraza; nosotros abrazamos a las y a los mexicanos.</p>
+
+<p>Y en efecto, M&eacute;xico est&aacute; viviendo un momento de Transformaci&oacute;n que es el &ldquo;sue&ntilde;o mexicano&rdquo;. En eso retomo tus palabras, pero hay que ser responsables siempre y buscar la colaboraci&oacute;n sin subordinaci&oacute;n siempre.</p>
+
+<p>Y referirnos &mdash;por eso dije: &ldquo;la cabeza fr&iacute;a&rdquo;&mdash; a lo que firm&oacute; en los decretos el presidente Trump, porque finalmente es lo que es legal, lo que se establece jur&iacute;dicamente. Entonces, en todos los casos, hay que leer los decretos; de hecho, los seguimos estudiando, porque ayer hasta muy noche subieron los &uacute;ltimos decretos. Tenemos un equipo que est&aacute; trabajando sobre ellos.</p>
+
+<p>Y la comunicaci&oacute;n inmediata con el gobierno de Estados Unidos.</p>
+
+<p><strong>PREGUNTA: Hay un decreto, Presidenta &mdash;no s&eacute; si lo va a acompa&ntilde;ar el Gobierno de M&eacute;xico, creo que va a terminar en la Suprema Corte de Justicia de Estados Unidos&mdash;, que es terminar con la ciudadan&iacute;a autom&aacute;tica, la ciudadan&iacute;a de los beb&eacute;s nacidos en Estados Unidos de padres, por ejemplo, indocumentados que afectar&iacute;a a muchos.</strong></p>
+
+<p><strong>&iquest;Se le va a dar seguimiento?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Se le va a dar seguimiento&hellip;</p>
+
+<p><strong>PREGUNTA: Porque este decreto ser&iacute;a inconstitucional.</strong></p>
+
+<p><strong>Y dicen que el que no conoce su historia est&aacute; condenado a repetirla. Esto ya ocurri&oacute;, le ocurri&oacute; a mi abuela y a millones que seguramente est&aacute;n viendo &ldquo;La Ma&ntilde;anera&rdquo; que se van a identificar con esto de las repatriaciones.</strong></p>
+
+<p><strong>Durante la Gran Depresi&oacute;n en Estados Unidos, muchos ciudadanos nacidos en Estados Unidos fueron repatriados inconstitucionalmente, ilegalmente, hacia nuestro pa&iacute;s, y se han quedado en muchas comunidades olvidados.</strong></p>
+
+<p><strong>&iquest;C&oacute;mo ser&aacute; el acompa&ntilde;amiento en este sentido para los hijos de mexicanos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO</strong>: Total, es el acompa&ntilde;amiento total.</p>
+
+<p>Que sepan nuestras paisanas y paisanos que ah&iacute; estamos, que no est&aacute;n solos, que los Consulados est&aacute;n ah&iacute;, y todo el apoyo que requieran, para cualquier tipo de acci&oacute;n legal y de apoyo de cualquier tipo.</p>
+
+<p>Si por alguna raz&oacute;n son devueltos a M&eacute;xico o quieren regresar de manera voluntaria, aqu&iacute; son bien recibidos siempre.</p>
+
+<p>Y all&aacute; los apoyamos con todo, desde el tema de la ciudadan&iacute;a, hasta otros temas, jur&iacute;dicos, legales, siempre.</p>
+
+<p><strong>PREGUNTA: Presidenta, haciendo referencia a una expresi&oacute;n que us&oacute; hace unos d&iacute;as&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Son h&eacute;roes y hero&iacute;nas de la patria, as&iacute; los vamos a tratar siempre, siempre. Agradecidos y, adem&aacute;s, apoy&aacute;ndolos siempre.</p>
+
+<p>El otro d&iacute;a pregunt&eacute; en Puebla, en la Mixteca, en una de las asambleas: &iquest;Qui&eacute;n aqu&iacute; tiene familiares que viven en Estados Unidos? Y todos levantamos la mano, tengo una hermana que vive all&aacute; desde hace 35 a&ntilde;os.</p>
+
+<p>Entonces, lo tenemos que hacer porque es nuestra obligaci&oacute;n, nuestra responsabilidad, pero tambi&eacute;n hay que tener la cabeza fr&iacute;a. Y ellos saben eso, ellos tampoco quieren ninguna confrontaci&oacute;n entre los gobiernos. Lo que necesitamos es establecer la comunicaci&oacute;n y la coordinaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Precisamente por eso creo que estar&aacute; de acuerdo que va a ser insuficiente la tarjeta con 2 mil pesos para las personas que regresen.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> A ver, es importante, porque es un apoyo.</p>
+
+<p>Supongamos que llega una familia o que llega una persona a M&eacute;xico. Algunos de ellos tienen veh&iacute;culo, otros, much&iacute;simos, no tienen veh&iacute;culo. Llegan a la frontera, que tiene que haber un acuerdo con el gobierno de Estados Unidos a qu&eacute; frontera van a llegar. Ah&iacute; va a haber personal del Gobierno de M&eacute;xico.</p>
+
+<p>Y los va a orientar a dirigirse al Centro de Atenci&oacute;n.</p>
+
+<p>&iquest;En el Centro de Atenci&oacute;n qu&eacute; van a tener?</p>
+
+<p>De inmediato todos los apoyos del Bienestar, todos; de inmediato su afiliaci&oacute;n al Instituto Mexicano del Seguro Social; de inmediato, si quieren, regresar a su lugar de origen, un veh&iacute;culo, un autob&uacute;s que los va a llevar a su lugar de origen; y un peque&ntilde;o apoyo que les permita, si tienen alg&uacute;n gasto, en el traslado, es un gasto en el traslado, pero los vamos a apoyar en el traslado.</p>
+
+<p>&iquest;Qu&eacute; m&aacute;s? Empleo. Ah&iacute;, agradecemos al Consejo Coordinador Empresarial, porque llevamos trabajando esto ya varios meses.</p>
+
+<p>Hay much&iacute;simas empresas que dicen: &ldquo;Nosotros necesitamos ch&oacute;feres de tractocami&oacute;n, necesitamos personas en servicios, necesitamos personas&hellip;&rdquo;, entonces, estamos abriendo nuestras puertas para que de inmediato, incluso, en el Centro de Atenci&oacute;n puedan saber en d&oacute;nde pueden tener lugar para un empleo.</p>
+
+<p>Y todos los Programas de Bienestar, incluso, el apoyo para el mejoramiento de vivienda o para la vivienda.</p>
+
+<p>Por eso es un programa integral que se llama &ldquo;M&eacute;xico te abraza&rdquo;, porque es&hellip; no es que le damos una tarjeta y &ldquo;a ver resuelve tu problema&rdquo;, no; estamos atendiendo de manera integral a las familias o a las personas.</p>
+
+<p><strong>PREGUNTA: Presidenta, y ya para cerrar y agradecerle su generosidad, retomando sus palabras de hace unos d&iacute;as aqu&iacute; en &ldquo;La Ma&ntilde;anera del pueblo&rdquo; usted dec&iacute;a: &ldquo;&iquest;C&oacute;mo se le llama a&hellip;?&rdquo;</strong></p>
+
+<p><strong>Y yo pregunto: &iquest;c&oacute;mo se le llama a empresarios que hacen negocio con los paisanos y paisanas que &ldquo;est&aacute;n con el Jes&uacute;s en la boca&rdquo; y que se convierten en los patrocinadores principales de la fiesta hispana de la victoria de Donald Trump en Washington, y me refiero a Ricardo Salinas Pliego y su Grupo Salinas?</strong></p>
+
+<p><strong>&iquest;C&oacute;mo se le llama a las Lilly T&eacute;llez, que no cierran filas con usted y prefieren cerrar filas con Donald Trump?</strong></p>
+
+<p><strong>&iquest;C&oacute;mo se le llama al PRI de &ldquo;Alito&rdquo; Moreno, que dice que hay que ver si su gobierno va a estar a la altura ante esta situaci&oacute;n, cuando en su momento el Presidente Andr&eacute;s Manuel L&oacute;pez Obrador en campa&ntilde;a cerr&oacute; filas con quien era el presidente y era presidente priista, Enrique Pe&ntilde;a Nieto, ante la misma complejidad que era Donald Trump?</strong></p>
+
+<p><strong>&iquest;Qu&eacute; piensa de esta falta de ganas de cerrar filas con el gobierno que usted encabeza o con usted como Presidenta?</strong></p>
+
+<p><strong>Para cerrar.</strong></p>
+
+<p><strong>Muchas gracias, Presidenta Claudia Sheinbaum.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> A ver, el tema central aqu&iacute;, en todo caso, en algunos personajes de la oposici&oacute;n es celebrar que hubiera una intervenci&oacute;n, eso s&iacute; es traici&oacute;n a la patria.</p>
+
+<p>Bueno, cualquier mexicano que celebre una intervenci&oacute;n de cualquier tipo de un pa&iacute;s extranjero pues es &ldquo;Miram&oacute;n&rdquo;, es los que fueron a buscar a Maximiliano para que viniera a gobernar a M&eacute;xico o que aplaud&iacute;an la intervenci&oacute;n francesa.</p>
+
+<p>Ahora, cualquier mexicano o mexicana tiene derecho a pensar como quiera pensar.</p>
+
+<p>&iquest;Qui&eacute;n los eval&uacute;a? El pueblo de M&eacute;xico, el pueblo de M&eacute;xico.</p>
+
+<p>&iquest;Por qu&eacute; nosotros tenemos fuerza? &iquest;Por qu&eacute; nuestro movimiento tiene fuerza?</p>
+
+<p>Porque el pueblo de M&eacute;xico sabe que tiene un gobierno y que tiene una Presidenta que siempre va a estar de su lado.</p>
+
+<p>Porque el pueblo de M&eacute;xico sabe que tiene una Presidenta y un gobierno que va a defender la soberan&iacute;a.</p>
+
+<p>Porque el pueblo de M&eacute;xico sabe que tiene un gobierno y tiene una Presidenta que va a defender a los mexicanos y las mexicanas.</p>
+
+<p>Porque el pueblo de M&eacute;xico sabe que tiene una Presidenta y un gobierno que va a actuar con responsabilidad.</p>
+
+<p>Porque el pueblo de M&eacute;xico sabe que tiene una Presidenta y un gobierno que act&uacute;a con responsabilidad y buscando siempre la coordinaci&oacute;n, la colaboraci&oacute;n sin subordinaci&oacute;n.</p>
+
+<p>Por eso, el pueblo de M&eacute;xico est&aacute; con el movimiento de Transformaci&oacute;n y va a seguir estando mientras no lo traicionemos. Y nosotros no vamos a traicionar al pueblo, ni a nuestra naci&oacute;n.</p>
+
+<p>Eso s&iacute;, a cada momento hay que actuar con responsabilidad, con cabeza fr&iacute;a, para poder establecer las relaciones que tengamos que establecer; porque nuestra prioridad es la no confrontaci&oacute;n, la defensa de nuestra soberan&iacute;a de las y los mexicanos.</p>
+
+<p>Y por eso esta estrategia integral.</p>
+
+<p>Quien decida apoyar o no a otra persona, pues los va a evaluar el pueblo de M&eacute;xico. &iquest;Qui&eacute;n mejor que el pueblo de M&eacute;xico y la historia para evaluarlos?</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta.</strong></p>
+
+<p><strong>V&iacute;ctor Lagunas, director de <em>M&eacute;xico Comunica</em> y <em>Tijuana Comunica</em>.</strong></p>
+
+<p><strong>Vengo a hablarle aparte, como periodista, de las problem&aacute;ticas que hemos tenido en el pasado en Tijuana, en espec&iacute;fico, con la&hellip; Primero, en la caravana migrante que pues nunca hab&iacute;a pasado que llegara tanta gente.</strong></p>
+
+<p><strong>Y en ese gobierno municipal hicieron una estancia en una unidad deportiva. En su momento eran 3 mil personas ah&iacute; que hubo, igual, como una comunidad, venta de drogas, hubo una violaci&oacute;n de una ni&ntilde;a, un homicidio; terminaron por sacarlos, &iquest;no?</strong></p>
+
+<p><strong>Despu&eacute;s, pas&oacute; algo que fue noticia internacional, que intentaron cruzar todos corriendo.</strong></p>
+
+<p><strong>Y eso nos sigue afectando, porque desde ese momento los Estados Unidos cerraron las filas, las 35 filas las hicieron como embudo.</strong></p>
+
+<p><strong>Y todos los d&iacute;as los que cruzamos todos los d&iacute;as, pues seguimos sufriendo esa problem&aacute;tica, pusieron la malla esa de p&uacute;as y todo eso.</strong></p>
+
+<p><strong>Ya por &uacute;ltimo, en la pasada administraci&oacute;n municipal se pusieron al Chaparral igual, mil 500, 2 mil personas, y nos afect&oacute; porque cerraron por un a&ntilde;o una de las entradas peatonales a Estados Unidos.</strong></p>
+
+<p><strong>Mi pregunta es, &iquest;qu&eacute; va a hacer usted para que no nos siga afectando?</strong></p>
+
+<p><strong>Est&aacute; excelente plan que est&aacute; haciendo, creo que no se hab&iacute;a hecho en otro gobierno, pero &iquest;qu&eacute; va a hacer para las personas de Tijuana para que no nos siga afectando estas problem&aacute;ticas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Es que, mira, es importante&hellip;</p>
+
+<p>&mdash;&iquest;Por qu&eacute; no ponen la gr&aacute;fica que puso el canciller? A ver si Migraci&oacute;n les puede enviar una de m&aacute;s tiempo, hay una de varios presidentes que est&aacute; por ah&iacute;, a ver si la tienen&mdash;.</p>
+
+<p>Miren, esto es en diciembre de 2023, que hubo una concentraci&oacute;n mayor de personas migrantes en la frontera norte del pa&iacute;s. A partir de ah&iacute;, el Presidente L&oacute;pez Obrador estableci&oacute; un mecanismo integral y en colaboraci&oacute;n, en su momento, con la administraci&oacute;n Biden.</p>
+
+<p>Pero f&iacute;jense lo que ha ocurrido: hay una disminuci&oacute;n muy grande, hasta llegar a un n&uacute;mero que no exist&iacute;a hace d&eacute;cadas de concentraci&oacute;n de personas migrantes, principalmente extranjeras, en la frontera norte de nuestro pa&iacute;s o en la frontera sur de los Estados Unidos, en la frontera entre ambas naciones.</p>
+
+<p>Una parte de esto eran personas, pr&aacute;cticamente la mitad, que llegaban con la cita esta de CBP 1; o sea, que llegaban de manera, digamos, ya con una cita para poder ser valorados como asilados. &mdash;&ldquo;Asilados&rdquo; se dice, &iquest;verdad?&mdash;</p>
+
+<p>La otra es personas que llegaban o que llegan a la frontera.</p>
+
+<p>&iquest;De qui&eacute;n son estos datos? De CBP de Estados Unidos, de una agencia de los Estados Unidos.</p>
+
+<p>Entonces, en la frontera norte ha disminuido mucho la presi&oacute;n de personas migrantes. De hecho, no ha llegado ninguna caravana; desde que nosotros llegamos en octubre a la fecha no ha llegado ninguna caravana, y una buena parte previa del Presidente L&oacute;pez Obrador.</p>
+
+<p>&mdash;Bueno, estos son repatriados, de mexicanos&mdash;</p>
+
+<p>F&iacute;jense en la &eacute;poca de Bill Clinton.</p>
+
+<p>La &eacute;poca de George Bush.</p>
+
+<p>De Barack Obama.</p>
+
+<p>De Donald Trump.</p>
+
+<p>Y del presidente Biden.</p>
+
+<p>Estamos hablando de repatriaci&oacute;n.</p>
+
+<p>&mdash;Es otra, que es la llegada, porque esto es m&aacute;s bien la repatriaci&oacute;n solo de mexicanos&mdash;.</p>
+
+<p>Entonces, s&iacute; es importante esto.</p>
+
+<p>Porque, &iquest;qu&eacute; quiere decir esto? Que hay personas que llegan a la frontera buscando su asilo.</p>
+
+<p>Entonces, &iquest;qu&eacute; dice de manera unilateral el gobierno de Estados Unidos?</p>
+
+<p>El presidente Trump firm&oacute; un decreto y dice: &ldquo;Se instala el MPP&rdquo;. Le llaman &ldquo;Qu&eacute;date en M&eacute;xico&rdquo;. Es de manera&hellip; ellos lo hacen. Pero resulta que los que est&aacute;n llegando a la frontera norte ya son pocos.</p>
+
+<p>Entonces, &iquest;qu&eacute; hace el Gobierno de M&eacute;xico? Por razones humanitarias atiende, pero busca tambi&eacute;n, en t&eacute;rminos de su ley migratoria, repatriar a aquellos que no son mexicanos.</p>
+
+<p>Entonces, s&iacute; es importante esto porque para las y los mexicanos que viven en la frontera, que durante cierto periodo vivieron tambi&eacute;n una presi&oacute;n de muchos migrantes que estaban llegando a la frontera norte, pues hay una estrategia integral que evita que lleguen personas de otros pa&iacute;ses a la frontera norte de nuestro pa&iacute;s.</p>
+
+<p>Y va a continuar esa estrategia.</p>
+
+<p><strong>PREGUNTA: Justamente ayer cuando se cerr&oacute; el CBP One, estaban los compa&ntilde;eros de la prensa ah&iacute;, y fueron alrededor de 300 personas. Evidentemente, Tijuana.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ellos ya ten&iacute;an cita. Entonces, estaban esperando con su cita y el gobierno de Estados Unidos dijo: &ldquo;No, se cancelan todas las citas&rdquo;, se cancel&oacute; el llamado CBP One.</p>
+
+<p><strong>PREGUNTA: Justamente cuando&hellip; Se quedaron ah&iacute; horas esperando, los trasladaron ya a un albergue federal, fueron alrededor de 300 personas y se quedaron ah&iacute;.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. Por eso les digo: son pocas personas, no es que hubiera much&iacute;simas personas, &iquest;por qu&eacute;?, porque nosotros los atendemos previamente, desde la frontera sur hasta principalmente en los estados fronterizos. Y es importante porque no han llegado caravanas.</p>
+
+<p><strong>PREGUNTA: Y ya, por &uacute;ltimo, Presidenta, en el tema de seguridad p&uacute;blica: hay incertidumbre, que se dice que van a sacar a los mexicanos que est&aacute;n en las c&aacute;rceles y los van a transportar masivamente a las fronteras.</strong></p>
+
+<p><strong>&iquest;Quisiera saber si esto es verdad, saber algo sobre esto?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Para todo esto hay protocolos y hay tratados.</p>
+
+<p>O sea, si hubiera una persona que est&aacute; cubriendo una sentencia en Estados Unidos por alg&uacute;n delito en Estados Unidos, hay protocolos para que puedan ser enviados a M&eacute;xico. O sea, no es nada m&aacute;s as&iacute;, que una persona la liberen y la ponen en la frontera.</p>
+
+<p>Entonces, por eso, es muy importante el di&aacute;logo que vamos a establecer, porque todo esto requiere pues coordinaci&oacute;n, colaboraci&oacute;n con el gobierno de Estados Unidos, y eso es lo que a partir de ahora, vamos a estar haciendo.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Buenos d&iacute;as. Nancy Flores, de la revista <em>Contral&iacute;nea</em>. Buenos d&iacute;as a todas y a todos.</strong></p>
+
+<p><strong>Presidenta con estas presiones que vienen desde Estados Unidos se avizoran tiempos complejos, tiempos dif&iacute;ciles. </strong></p>
+
+<p><strong>Y el pueblo de M&eacute;xico, las mexicanas, los mexicanos, estar&aacute;n, estaremos a la altura de acompa&ntilde;arla a usted en todas las pol&iacute;ticas y tambi&eacute;n en las decisiones que tenga que tomar para la defensa de nuestro pueblo, de nuestra soberan&iacute;a, de nuestra independencia, de nuestra patria y de nuestros connacionales, eso es un hecho, la mayor&iacute;a de los mexicanos, las mexicanas la acompa&ntilde;ar&aacute;n en estos tiempos complejos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Te voy a interrumpir tanto, Nancy...</p>
+
+<p>&mdash;F&iacute;jense, &iquest;por qu&eacute; es importante?, porque hay algunas gentes que &mdash;como bien mencionas&mdash; &ldquo;tienen sus ojos en otro lado&rdquo;.</p>
+
+<p>Pero, por ejemplo, del Consejo Coordinador Empresarial hemos recibido much&iacute;simo apoyo.</p>
+
+<p>Eso muestra que hay unidad de la gran mayor&iacute;a de los mexicanos; habr&aacute; sus excepciones, pero ellos, de inmediato, cuando les pedimos que nos ayudaran en este proceso, estuvieron ah&iacute; muchos empresarios, diciendo &ldquo;Con gusto, &iquest;qu&eacute; necesitan para apoyar a las y los mexicanos?, lo que se necesite&rdquo;.</p>
+
+<p>Entonces, eso muestra que hay una unidad entre muchos sectores en este proceso.</p>
+
+<p>Perd&oacute;n, Nancy.</p>
+
+<p><strong>PREGUNTA: S&iacute;, y seguramente la mayor&iacute;a de los mexicanos, las mexicanas, estaremos ah&iacute; a la altura de estas circunstancias.</strong></p>
+
+<p><strong>Presidenta, usted dec&iacute;a que no se buscar&aacute; desde M&eacute;xico la confrontaci&oacute;n.</strong></p>
+
+<p><strong>Y yo quisiera consultarle &iquest;qu&eacute; precauciones est&aacute; tomando nuestro pa&iacute;s? O si, &iquest;hay alguna estrategia en espec&iacute;fico sobre este decreto o esta orden ejecutiva que se firma ayer sobre los c&aacute;rteles mexicanos para denominarlos &ldquo;terroristas&rdquo; con independencia de que se tenga este periodo de dos semanas para la consulta a distintos Departamentos para ver qu&eacute; es lo que ellos proponen?</strong></p>
+
+<p><strong>Esto se lo pregunto porque usted nos dec&iacute;a: &ldquo;Se va a defender nuestra soberan&iacute;a y que ellos apliquen sus leyes en su pa&iacute;s&rdquo;. Sin embargo, Estados Unidos tiene leyes que les considera extraterritoriales y esto pues podr&iacute;a significar en alg&uacute;n momento la violaci&oacute;n a nuestra soberan&iacute;a y, sobre todo, si tenemos en cuenta el caso del Mayo &ldquo;Zambada&rdquo;, este secuestro que se dio en condiciones en las cuales Estados Unidos no ha querido informarle a M&eacute;xico.</strong></p>
+
+<p><strong>Entonces, si &iquest;existe alg&uacute;n plan en espec&iacute;fico para contener o para responder a una violaci&oacute;n a nuestra soberan&iacute;a mediante la entrada de operativos de car&aacute;cter militar o car&aacute;cter armado, o el uso de drones asesinos con objetivos espec&iacute;ficos?</strong></p>
+
+<p><strong>Y tambi&eacute;n, sobre el tema del dinero, porque se sabe que estas leyes extraterritoriales empiezan a confiscar dinero de todo mundo; bueno, no de todo el mundo, sino de algunas personas, y que no necesariamente acaban demostrando que se comet&iacute;a lavado de dinero o financiamiento al terrorismo.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a esperar.</p>
+
+<p>Por eso digo que el canciller va a entrar en contacto con el secretario de Estado de los Estados Unidos, porque lo que estamos buscando es una coordinaci&oacute;n y una colaboraci&oacute;n, para que no llegue a presentarse una situaci&oacute;n as&iacute;. Siempre hay que privilegiar el di&aacute;logo y la coordinaci&oacute;n.</p>
+
+<p>Entonces, hay que entrar en comunicaci&oacute;n; al entrar en comunicaci&oacute;n y colaborar, no es necesaria una situaci&oacute;n como la que planteas.</p>
+
+<p>Entonces, vamos paso a pasito, no necesitamos adelantarnos, sino lo primero es el di&aacute;logo, la colaboraci&oacute;n.</p>
+
+<p>Y dadas las declaraciones que dio el, hoy, secretario de Estado en su primera entrevista en el Senado de Estados Unidos, que dijo: &ldquo;Nosotros vamos a privilegiar la coordinaci&oacute;n con M&eacute;xico&rdquo;.</p>
+
+<p>Pues nosotros tambi&eacute;n.</p>
+
+<p>Entonces, estamos esperando que se d&eacute; esa coordinaci&oacute;n y colaboraci&oacute;n.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Claro. En otro tema, Presidenta&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>O sea, todos queremos combatir a los c&aacute;rteles de la droga, eso es evidente. Entonces, &iquest;qu&eacute; hay que hacer?, hay que coordinar esfuerzos, hay que colaborar, ellos en su territorio, nosotros en nuestro territorio.</p>
+
+<p>&iquest;En qu&eacute; colaboras? En inteligencia, en investigaci&oacute;n, en informaci&oacute;n, que permita que cada uno actuemos en nuestro marco de actuaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Claro, y siempre respetando eso, la soberan&iacute;a de los pueblos.</strong></p>
+
+<p><strong>Presidenta, en otro tema, en la revista <em>Contral&iacute;nea</em> documentamos &mdash;y esto lo traigo a colaci&oacute;n por esta lucha contra la corrupci&oacute;n que se lleva actualmente en el Infonavit&mdash; nosotros documentamos que en 2016 el expresidente Felipe Calder&oacute;n recibi&oacute; una transferencia de 8.3 millones de pesos del Infonavit, precisamente, de una cuenta del Infonavit. Esto lo tiene documentado la Unidad de Inteligencia Financiera, y nosotros obtuvimos esta informaci&oacute;n y la dimos a conocer en su momento.</strong></p>
+
+<p><strong>Estos 8.3 millones de pesos se destinaron a una sociedad an&oacute;nima que est&aacute; radicada en Panam&aacute; y que se llama Hicue Iberoam&eacute;rica. </strong></p>
+
+<p><strong>Aqu&iacute; la pregunta es, Presidenta: ahora que se est&aacute; haciendo esta limpieza del Infonavit, que se est&aacute;n viendo todos estos casos de corrupci&oacute;n y que se tiene este plan para la vivienda, un mill&oacute;n de viviendas para los mexicanos, las mexicanas, de escasos recursos, preguntar &iquest;si tambi&eacute;n se pudiera recuperar esta informaci&oacute;n de la UIF?</strong></p>
+
+<p><strong>Y determinar &iquest;por qu&eacute; se le dio en la &eacute;poca de David Penchyna este recurso y adem&aacute;s, se traslad&oacute; a esta empresa, al parecer, fachada?, &iquest;y si fue legal este tema; y si no, en su caso se denuncie la irregularidad?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues qu&eacute; bueno que lo mencionas. Vamos a decirle al director del Infonavit, a Octavio, que lo revise, Octavio Romero.</p>
+
+<p>Y decirles que ya se presentaron las denuncias ante la Fiscal&iacute;a General de la Rep&uacute;blica de lo que&hellip; de las dos, tres, cuatro casos que present&oacute; aqu&iacute;; porque no es solo presentarlo p&uacute;blicamente, que es uno de los sustentos principales para el cambio a la Ley del Infonavit, sino tambi&eacute;n que haya las denuncias correspondientes.</p>
+
+<p>Entonces, revisamos lo que nos est&aacute;n planteando.</p>
+
+<p>Un tema que no dije antes es &mdash;relacionado con lo anterior&mdash;: A nosotros nos interesa mucho que no pasen armas a M&eacute;xico, eso lo hemos dicho en varias ocasiones.</p>
+
+<p>Recuerden que recientemente el Departamento de Justicia de Estados Unidos reconoci&oacute; que una buena parte de las armas de los grupos criminales vienen de los Estados Unidos. Entonces, es uno de los temas importantes a plantear en este di&aacute;logo bilateral, porque a nosotros nos interesa la seguridad y la paz en nuestro pa&iacute;s.</p>
+
+<p>Ah, se me olvidaba...</p>
+
+<p>&mdash;A ver, pongan la gr&aacute;fica del Inegi&mdash;.</p>
+
+<p>Esta sali&oacute; hoy, est&aacute; fresquecita. Es, los datos del primer semestre del 2024, de acuerdo al Inegi, de homicidios. Hay una reducci&oacute;n, del 2018 al 2024, de acuerdo con el Inegi, del 14.2 por ciento.</p>
+
+<p>Para los incr&eacute;dulos.</p>
+
+<p>Y, bueno, ya va a venir, no hoy, dentro de 15, dentro de una semana viene el Informe de Seguridad porque &mdash;como lo dije&mdash; la Estrategia de Seguridad est&aacute; funcionando y va a funcionar, y vamos a reducir todav&iacute;a m&aacute;s el n&uacute;mero de homicidios dolosos en el pa&iacute;s.</p>
+
+<p><strong>PREGUNTA: Y ya, muy r&aacute;pido, y aprovechando, Presidenta, en el caso del campo mexicano, en la revista <em>Contral&iacute;nea</em> hicimos un reportaje seriado sobre las implicaciones, o m&aacute;s bien, los impactos que ya est&aacute; teniendo el cambio clim&aacute;tico.</strong></p>
+
+<p><strong>En ese sentido, encontramos que ya se est&aacute; afectando la producci&oacute;n de alimentos, porque est&aacute;n cambiando los ciclos de lluvia, los ciclos de sequ&iacute;as y tambi&eacute;n de heladas.</strong></p>
+
+<p><strong>Preguntarle, si &iquest;dentro de sus programas a futuro se tiene contemplado revisar este tema?, sobre todo, porque los cient&iacute;ficos que hemos consultado, ellos avizoran que nos esperan tiempos mucho peores, que cada a&ntilde;o vamos a entrar en circunstancias m&aacute;s dif&iacute;ciles, y que es muy dif&iacute;cil como humanidad superarlo porque no hemos podido encontrar la manera de que los ultrarricos ya pongan atenci&oacute;n tambi&eacute;n en el cambio clim&aacute;tico, Presidenta.</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si.</p>
+
+<p>Por cierto, ayer el presidente Trump sale del Acuerdo de Par&iacute;s, es uno de los decretos que firma. Y plantea de nuevo la explotaci&oacute;n del petr&oacute;leo, &iquest;no?, principalmente, que s&iacute; es&hellip; En eso, evidentemente, imag&iacute;nense&hellip; yo me dediqu&eacute; a estudiar cambio clim&aacute;tico durante toda mi vida.</p>
+
+<p>Entre todos los pa&iacute;ses deber&iacute;amos de trabajar para reducir los impactos del cambio clim&aacute;tico. Hay dos formas, que son importantes:</p>
+
+<p>Una es la mitigaci&oacute;n, es decir, evitar que se sigan emitiendo gases que provocan el cambio clim&aacute;tico, que esa debe ser una cooperaci&oacute;n internacional; porque un gas que se emita, es global, no es que si baja un pa&iacute;s, o sea, en un pa&iacute;s disminuya los efectos del cambio en el clima, sino que es un tema global.</p>
+
+<p>Y la segunda es la adaptaci&oacute;n al cambio clim&aacute;tico, y en eso est&aacute; trabajando tanto la Secretar&iacute;a de Medio Ambiente como el secretario de Agricultura y Desarrollo Rural, y bueno, en general, todas las Secretar&iacute;as. De hecho, Alicia B&aacute;rcena est&aacute; en Davos, justamente por ese tema, fue nuestra enviada a Davos.</p>
+
+<p>&mdash;Bueno, vamos con la &uacute;ltima pregunta del d&iacute;a. A ver, ac&aacute; la compa&ntilde;era&mdash;.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. Quer&iacute;a preguntarle una serie de puntualizaciones de migraci&oacute;n y otra pregunta econ&oacute;mica, si me permite.</strong></p>
+
+<p><strong>Sobre migraci&oacute;n. Usted&hellip; quer&iacute;a saber: los centros que se han habilitado, los que estaba contando la secretaria, &iquest;van a ser exclusivamente para mexicanos o ah&iacute; tambi&eacute;n van a tener cabida a personas que sean retornadas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Hay otros tres albergues que est&aacute;n desde hace tiempo, que son para personas que no son mexicanas. Y en ese caso, por eso planteamos&hellip;&nbsp; Obviamente, hay una atenci&oacute;n humanitaria y buscamos tambi&eacute;n, en caso de ser posible, la repatriaci&oacute;n a sus pa&iacute;ses; y si no, la integraci&oacute;n a M&eacute;xico.</p>
+
+<p>Pero son menores, son menores los casos. Por eso es la gr&aacute;fica.</p>
+
+<p>&mdash;Ahora, p&oacute;nganme la otra gr&aacute;fica, la que ya sali&oacute;&mdash;.</p>
+
+<p>Ese punto muy bajo que est&aacute; aqu&iacute; es la pandemia, recuerdan que la pandemia fue el t&iacute;tulo 42 y adem&aacute;s, hubo un periodo, incluso, de cierre de fronteras.</p>
+
+<p>Pero miren c&oacute;mo est&aacute; el n&uacute;mero verde. O sea, estamos en los n&uacute;meros m&aacute;s bajos desde pr&aacute;cticamente el 2020-&rsquo;21.</p>
+
+<p>Entonces, por eso digo que las personas que est&aacute;n llegando hoy a la frontera a hacer su aplicaci&oacute;n para ser asiladas son much&iacute;simo menores que las que llegaban antes, y nosotros continuamos con esa estrategia.</p>
+
+<p><strong>PREGUNTA: Disc&uacute;lpeme que no me present&eacute;, Mar&iacute;a Verza, de la <em>Agencia AP</em>.</strong></p>
+
+<p><strong>Usted ha dicho que recibir&aacute;n a los retornados por el programa MPP.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> M&aacute;s que recibir, es un asunto de atenci&oacute;n humanitaria.</p>
+
+<p>Es una decisi&oacute;n de Estados Unidos el MPP; entonces el asunto es, si est&aacute;n en territorio mexicano esas personas, &iquest;los atendemos?, pues los atendemos por razones humanitarias, pero buscamos, en el marco de nuestra pol&iacute;tica migratoria &mdash;siendo extranjeros&mdash; su retorno a su pa&iacute;s de origen.</p>
+
+<p><strong>PREGUNTA: O sea, se retornar&iacute;an todos. &iquest;Y eso qu&eacute;&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Buscar&iacute;amos los mecanismos a trav&eacute;s de la pol&iacute;tica migratoria y de pol&iacute;tica exterior de retorno a sus pa&iacute;ses de origen.</p>
+
+<p>Por ejemplo, hay acuerdo con Guatemala, hay acuerdo con, pr&aacute;cticamente, todos los pa&iacute;ses centroamericanos; de hecho, hubo una reuni&oacute;n el viernes pasado para ello. Hay acuerdo con Cuba, hay acuerdo con otros pa&iacute;ses para el retorno de personas que no son mexicanas.</p>
+
+<p><strong>PREGUNTA: Y &iquest;esos retornos los pagar&iacute;a M&eacute;xico o habr&iacute;a alguna aportaci&oacute;n de Estados Unidos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Es lo que vamos a platicar con el gobierno de Estados Unidos.</p>
+
+<p><strong>PREGUNTA: La &uacute;ltima, un detalle de migraci&oacute;n: &iquest;Qu&eacute; piensa M&eacute;xico o c&oacute;mo va a gestionar M&eacute;xico a todas estas personas con CBP One? Y no hablo solamente de la frontera que, evidentemente, ahora mismo no hay muchas &mdash;como usted ha mostrado&mdash;, pero s&iacute; en el sur, s&iacute; en Ciudad de M&eacute;xico, &iquest;qu&eacute; se va a hacer con ellas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo mismo, atenci&oacute;n humanitaria o, en su caso, el retorno a su pa&iacute;s de origen, en acuerdo con sus pa&iacute;ses.</p>
+
+<p><strong>PREGUNTA: &iquest;Retornos voluntarios o retornos&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Claro que son retornos voluntarios.</p>
+
+<p>Pero es importante informarles a ellos &mdash;como lo hacemos desde que llegamos en octubre y por eso, esta pol&iacute;tica integral humanitaria que seguimos&mdash;&nbsp; de que llegando a la frontera no van a poder entrar a Estados Unidos, que es mucho mejor que retornen a su pa&iacute;s de origen.</p>
+
+<p><strong>PREGUNTA: Y sobre el tema de los aranceles, usted ha dejado claro que, de momento, se iba a referir a los decretos, que est&aacute;n estudi&aacute;ndolos, pero hay gente, incluso, empresarios, sobre todo, en la frontera que ya est&aacute;n pregunt&aacute;ndose: &ldquo;&iquest;qu&eacute; va a hacer el Gobierno de M&eacute;xico ante este anuncio de imposiciones de aranceles a partir del 1o. de febrero?, &iquest;c&oacute;mo va a responder M&eacute;xico a eso?&rdquo;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Hay que referirse a los decretos por el momento. Por eso digo que hay que tener calma y la cabeza fr&iacute;a, y actuar paso por paso.</p>
+
+<p>Entonces, en este momento lo que firm&oacute; el presidente Donald Trump es que contin&uacute;a el Tratado Comercial, que abren las consultas para la revisi&oacute;n que se va a hacer en el 2026, eso lo dice. Y en todo caso, ah&iacute; hay un parrafito que dice que el Departamento de Comercio podr&aacute; determinar algunas acciones en caso de temas como el fentanilo u otros temas.</p>
+
+<p>Por eso es el di&aacute;logo con el gobierno de Estados Unidos. Y, por eso, es muy importante que todos y todas, todos y todas, medios, el pueblo de M&eacute;xico, empresarios, todos, estemos con calma y estemos unidos, y evaluando paso por paso, sin adelantarnos.</p>
+
+<p>Lo que firm&oacute; hoy el&hellip; ayer, perd&oacute;n, el presidente de Estados Unidos, Donald Trump, es lo que presentamos hace un momento.</p>
+
+<p><strong>PREGUNTA: &iquest;Se sigue sin descartar la posibilidad de reaccionar tambi&eacute;n por parte de M&eacute;xico con aranceles?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Paso por paso, paso por paso. Hasta ahora, eso es lo que firm&oacute; el presidente Donald Trump.</p>
+
+<p><strong>PREGUNTA: Y si me permite un &uacute;ltimo detalle y, de verdad: el canciller coment&oacute; que ya se hab&iacute;a, durante el d&iacute;a de ayer, el primer d&iacute;a, hab&iacute;a funcionado este bot&oacute;n de alerta de los Consulados. No s&eacute; si nos podr&iacute;a decir que&hellip; &iquest;tiene algunas cifras de gente que lo haya&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Les pasamos las cifras, si quieren, m&aacute;s adelante. Y revisamos, adem&aacute;s, de que, en efecto, est&eacute; funcionando bien la aplicaci&oacute;n.</p>
+
+<p>La aplicaci&oacute;n funciona en Estados Unidos, pero qu&eacute; bueno que nos dicen si alguien no la ha podido bajar.</p>
+
+<p>&mdash;Yo creo que terminamos por hoy&mdash;.</p>
+
+<p>Muchas gracias a todas y a todos. Nos vemos ma&ntilde;ana, ma&ntilde;ana&hellip;</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Perd&oacute;n?</p>
+
+<p><strong>PREGUNTA: (inaudible) </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Van a tener una conversaci&oacute;n el canciller con el secretario de Estado, y a partir de ah&iacute;, ya iniciar&aacute; el proceso de di&aacute;logo.</p>
+
+<p>Gracias, compa&ntilde;eros y compa&ntilde;eras. Buenos d&iacute;as.</p>
+
+<p>No olviden el programa de cataratas, que es muy importante.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+
+<p>&nbsp;</p>
+</div>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2025-01-21 09:37:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de enero de 2025";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-enero-de-2025";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-enero-de-2025" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de enero de 2025"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-enero-de-2025" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-enero-de-2025&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de enero de 2025";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-enero-de-2025" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-enero-de-2025";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-enero-de-2025" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

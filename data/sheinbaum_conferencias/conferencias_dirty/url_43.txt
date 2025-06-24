@@ -1,0 +1,1930 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de diciembre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de diciembre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152372/Conferencia_matutina_9.00.30_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-diciembre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152372/Conferencia_matutina_9.00.30_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="JmiTxJkedBroO3L3GhkKfe+HwlAtnQ6Y7jWuCv3LoCQ=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7h3gz44jymq-f-6f1488d9b-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":18,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"de3456d","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62461,"ak.gh":"23.47.207.151","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296857","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==N345ASeyu98MdfgVMrFUxfRm0hWQgp7ZvjAQ1ESHKfuJHxaTn6SydHQTeLP0B/oQlUTXxunLM/76zM1Gthec4WkzSCJgaU+CMctea9Z4zOMCaf24E78wBlpfI/iGCquzLySGdl/wICMLD3d6lQGJPwERJqoD2vTIpncmEbQPoOX9Q6a8uELQvQTjlBidcMw07vCWFDapuMy9DVI5WehkRfLGLBfYLd3j7PX8gVIcd3Q/9F8xsU0VjPpgLAoFvu7yxZp2klFpUCmJMkiO2/y6SRllk91Wzyr2k9g8NsMwGSTTJ2a0hdgH4/kRBL9G9q/QogBUJRYDX+Ai4jwvWZScMSAyXGUyc37dej9CFGCaPw8Ug3eIWvF1KzHqc/SdYC831eZ4yLd0wR/cJv5rO2HOfOlGiKo222YSJPI7lhkRwFM=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de diciembre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 20 de diciembre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/152372/Conferencia_matutina_9.00.30_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Buenos d&iacute;as. &iquest;C&oacute;mo est&aacute;n? Ya es viernes.</p>
+
+<p>El d&iacute;a de hoy vamos a hablar de dos temas:</p>
+
+<p>El General Pastor, director general del Aeropuerto Internacional &quot;Felipe &Aacute;ngeles&quot;, nos viene a platicar de la cantidad de pasajeros que han viajado a trav&eacute;s de este hermoso aeropuerto &mdash;a algunos les da coraje, as&iacute;, tremendo&mdash; &iexcl;Hermoso aeropuerto!, que gan&oacute; el premio como uno de los aeropuertos m&aacute;s bonitos del mundo.</p>
+
+<p>Y tambi&eacute;n est&aacute; con nosotros Enrique &Aacute;lvarez Tostado, coordinador nacional de Asuntos Jur&iacute;dicos del INAH, porque se recuperaron piezas muy importantes el d&iacute;a de ayer y nos va a platicar sobre eso.</p>
+
+<p>Y, bueno, de una vez lo comento.</p>
+
+<p>Al rato vamos a Chihuahua, el d&iacute;a de hoy, para hacer entrega &mdash;que es algo muy hermoso realmente, s&iacute;mbolo de lo que representa la Transformaci&oacute;n en M&eacute;xico&mdash;, vamos a entregar un Decreto de Resarcimiento, Restituci&oacute;n y Titulaci&oacute;n de mil 485 hect&aacute;reas de tierras como propiedad comunal tradicional.</p>
+
+<p>Esta caracter&iacute;stica de &ldquo;propiedad comunal tradicional&rdquo; se desprende de la reforma al 2o.&nbsp; Constitucional de reconocimiento de los pueblos como sujetos de derecho, pueblos originarios, a favor de la comunidad ind&iacute;gena de Guasachique, perteneciente al pueblo rar&aacute;muri. Ese es uno de los decretos que vamos a entregar.</p>
+
+<p>Es una historia de despojo, la historia de Chihuahua, de despojo a los pueblos originarios, y por primera vez hay entrega de tierras al pueblo rar&aacute;muri.</p>
+
+<p>Y el otro decreto, por el que se titula la superficie de 693 hect&aacute;reas de tierras como propiedad comunal tradicional a favor de la comunidad ind&iacute;gena de Bosques de San El&iacute;as Repechique, perteneciente tambi&eacute;n al pueblo rar&aacute;muri, en la Sierra Tarahumara.</p>
+
+<p>Vamos a ir a la Sierra Tarahumara a entregar estos t&iacute;tulos de propiedad y es parte de la continuidad que estamos dando a los Planes de Justicia.</p>
+
+<p>Bueno, vamos al informe del Aeropuerto Internacional &ldquo;Felipe &Aacute;ngeles&rdquo;.</p>
+
+<p>&mdash;Adelante, General&mdash;.</p>
+
+<p><strong>DIRECTOR GENERAL DEL AEROPUERTO INTERNACIONAL &ldquo;FELIPE &Aacute;NGELES&rdquo;, ISIDORO PASTOR ROM&Aacute;N:</strong> Con su permiso, se&ntilde;ora Presidenta. Buenos d&iacute;as a las distinguidas y distinguidos representantes de los medios masivos de informaci&oacute;n.</p>
+
+<p>Me voy a permitir hacer una breve rese&ntilde;a de c&oacute;mo ha evolucionado el Aeropuerto &ldquo;Felipe &Aacute;ngeles&rdquo;, a partir del d&iacute;a de su inauguraci&oacute;n.</p>
+
+<p>&mdash;Como se puede observar en esta gr&aacute;fica&mdash; en el a&ntilde;o 2022, durante los primeros nueve meses de operaci&oacute;n se transportaron 912 mil 415 pasajeros; durante 2023, esta cantidad ascendi&oacute; a 2.63 millones de pasajeros.</p>
+
+<p>Durante este a&ntilde;o 2024, tenemos un dato importante, que es el pico m&aacute;ximo que hemos tenido durante los primeros 11 meses del a&ntilde;o, destacando que en noviembre se han transportado 624 mil 883 pasajeros. Esto posiciona al Aeropuerto &ldquo;Felipe &Aacute;ngeles&rdquo; como el aeropuerto n&uacute;mero 6 de los 80 que existen en el Sistema Aeroportuario Mexicano.</p>
+
+<p>Y es importante mencionar que vamos nosotros a cerrar este a&ntilde;o con m&aacute;s de 6.2 millones de pasajeros.</p>
+
+<p>Iniciamos operaciones el 21 de marzo de 2022 con seis rutas, ten&iacute;amos: Tijuana, Canc&uacute;n, Guadalajara, Monterrey, M&eacute;rida y Villahermosa.</p>
+
+<p>Y como pueden ustedes observar en esta l&aacute;mina, son 37 destinos nacionales con los que ya estamos operando, donde est&aacute;n las principales ciudades de negocios de este pa&iacute;s y tambi&eacute;n los principales destinos tur&iacute;sticos.</p>
+
+<p>El 21 de marzo de 2022, tambi&eacute;n iniciamos &uacute;nicamente con una ruta internacional, que era a Caracas, Venezuela; y actualmente tenemos nueve rutas &mdash;como pueden ver en esta l&aacute;mina&mdash; destacando que en el mes de mayo pr&oacute;ximo pasado iniciamos operaciones a Europa, a la ciudad de Sof&iacute;a, en Bulgaria.</p>
+
+<p>Por lo que respecta a la carga, desde el &uacute;ltimo trimestre del a&ntilde;o pasado, 2023, el Aeropuerto &ldquo;Felipe &Aacute;ngeles&rdquo; se convirti&oacute; en el primer aeropuerto de los 80 que existen en el pa&iacute;s en la transportaci&oacute;n de carga, lo que nos ha permitido, hasta el mes de diciembre, haber transportado 581 mil toneladas. Y esto ha permitido que, gracias a estas operaciones de comercio exterior, el Sistema de Administraci&oacute;n Tributaria de nuestro pa&iacute;s ha logrado recaudar m&aacute;s de 118 mil millones de pesos.</p>
+
+<p>&iquest;Qu&eacute; significan estas 581 mil toneladas?</p>
+
+<p>En el a&ntilde;o 2022, en el Aeropuerto de la Ciudad de M&eacute;xico, que fue el &uacute;ltimo a&ntilde;o en que se manej&oacute; la carga dedicada, se transportaron 250 mil toneladas. Como pueden ustedes ver, gracias a la infraestructura de este aeropuerto hemos duplicado la capacidad de estas operaciones y, obviamente, de la actividad productiva que representan estas operaciones de comercio exterior.</p>
+
+<p>Por lo que respecta a la situaci&oacute;n financiera, el Aeropuerto &ldquo;Felipe &Aacute;ngeles&rdquo;, como pueden ver en la gr&aacute;fica, en 2022 fue deficitario; 2023, tambi&eacute;n; y este a&ntilde;o, 2024, estamos considerando facturar 2 mil 700 millones de pesos contra un gasto de operaci&oacute;n de 2 mil 350 millones de pesos.</p>
+
+<p>Aqu&iacute; pueden ustedes ver la evoluci&oacute;n del punto de equilibrio. Desde el primer trimestre de este a&ntilde;o el Aeropuerto &ldquo;Felipe &Aacute;ngeles&rdquo; super&oacute; el punto de equilibrio, es decir, la rentabilidad est&aacute; manifestada ah&iacute;, y as&iacute; vamos a terminar este a&ntilde;o 2024, con saldo a favor.</p>
+
+<p>Regularmente un aeropuerto, cuando se inaugura en el mundo, logra rebasar su punto de equilibrio hasta el quinto o sexto a&ntilde;o; aqu&iacute; se logr&oacute; en el Aeropuerto &ldquo;Felipe &Aacute;ngeles&rdquo;, a partir del primer trimestre de este a&ntilde;o, es decir, a dos a&ntilde;os de su operaci&oacute;n.</p>
+
+<p>Finalmente, vamos a exponer qu&eacute; signific&oacute; la vialidad de este proyecto:</p>
+
+<p>Se contribuye, ha cumplido con su objetivo para atender el incremento de la demanda del transporte a&eacute;reo.</p>
+
+<p>Ha contribuido al desarrollo de la industria aeroportuaria en su conectividad y movilidad.</p>
+
+<p>Se han generado m&aacute;s de 17 mil 400 empleos directos y m&aacute;s de 150 mil indirectos alrededor del pol&iacute;gono aeroportuario.</p>
+
+<p>En tan solo dos a&ntilde;os se ha superado el punto de equilibrio.</p>
+
+<p>Y brinda servicios de calidad, seguridad y oportunidad.</p>
+
+<p>Est&aacute;n cordialmente invitados a conocer su aeropuerto. Como ya lo ha expresado la se&ntilde;ora Presidenta de M&eacute;xico: es un aeropuerto de todos los mexicanos.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p>A continuaci&oacute;n, para cerrar, es un video.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE LA INFRAESTRUCTURA Y OPERACIONES EN EL AEROPUERTO INTERNACIONAL &quot;FELIPE &Aacute;NGELES&quot;)</strong></p>
+
+<p><strong><em>VOZ MUJER: </em></strong><em>El Aeropuerto Internacional &ldquo;Felipe &Aacute;ngeles&rdquo; inici&oacute; operaciones el 21 de marzo de 2022. Tiene como prop&oacute;sito brindar servicios aeroportuarios complementarios y comerciales con altos est&aacute;ndares de calidad y seguridad.</em></p>
+
+<p><em>Su edificio terminal de pasajeros fue concebido con un dise&ntilde;o arquitect&oacute;nico enfocado al aprovechamiento de iluminaci&oacute;n natural, tiene la capacidad de recibir hasta 20 millones de pasajeros al a&ntilde;o que, de conformidad con el Programa Maestro del Desarrollo, estos se alcanzar&aacute;n en el a&ntilde;o 2032.</em></p>
+
+<p><em>El AIFA cuenta con dos pistas paralelas de concreto hidr&aacute;ulico, de 4 mil 500 metros de longitud por 45 metros de ancho y mil 600 metros de separaci&oacute;n, lo que permite realizar operaciones simult&aacute;neas. Cuenta con cuatro plataformas: comercial, carga, helic&oacute;ptero y aviaci&oacute;n privada que, en conjunto, dotan al aeropuerto con la capacidad de recibir hasta 100 aeronaves de forma simult&aacute;nea.</em></p>
+
+<p><em>Desde su apertura, por este aeropuerto han viajado m&aacute;s de 9 millones de pasajeros, ofreciendo cada d&iacute;a m&aacute;s destinos nacionales e internacionales. A la fecha, se cuenta con 37 destinos nacionales y nueve destinos internacionales.</em></p>
+
+<p><em>En materia de conectividad terrestre, se cuenta con 22 puntos de conexi&oacute;n con la zona del Valle de M&eacute;xico, complementando con 18 destinos for&aacute;neos, destacando ciudades como Acapulco, Quer&eacute;taro, Puebla, Morelia, Tampico y Tuxpan.</em></p>
+
+<p><em>Por su infraestructura y operaciones, el AIFA se ha convertido en el principal aeropuerto del pa&iacute;s para el transporte de carga. A la fecha, se han movilizado m&aacute;s de 581 mil toneladas lo que ha generado una recaudaci&oacute;n fiscal de m&aacute;s de 109 mil millones de pesos. </em></p>
+
+<p><em>Debido a este incremento de las operaciones a&eacute;reas, se tiene proyectado en este a&ntilde;o ampliar la capacidad de manejo de carga con la construcci&oacute;n de seis almacenes m&aacute;s.</em></p>
+
+<p><em>El nivel de satisfacci&oacute;n de los pasajeros al iniciar operaciones era de un 73 por ciento; y gracias a las acciones de mejora continua durante este a&ntilde;o se ha registrado una operaci&oacute;n general del 90 por ciento por parte de los usuarios.</em></p>
+
+<p><em>El Aeropuerto Internacional &ldquo;Felipe &Aacute;ngeles&rdquo;, comprometido con el desarrollo de la econom&iacute;a y de la aviaci&oacute;n nacional e internacional, contin&uacute;a trabajando diariamente en beneficio del pueblo de M&eacute;xico.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>COORDINADOR NACIONAL DE ASUNTOS JUR&Iacute;DICOS DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA, ENRIQUE &Aacute;LVAREZ TOSTADO:</strong> Con su permiso, Presidenta. Muchas gracias.</p>
+
+<p>Muy buenos d&iacute;as a todas y a todos. Es un gusto y un honor estar con ustedes el d&iacute;a de hoy para compartir esta informaci&oacute;n.</p>
+
+<p>Vengo en representaci&oacute;n del antrop&oacute;logo Diego Prieto Hern&aacute;ndez, director general del Instituto Nacional de Antropolog&iacute;a e Historia.</p>
+
+<p>Como ustedes saben, uno de los grandes recursos que tiene nuestra naci&oacute;n es su patrimonio cultural, y esto se logra gracias a la participaci&oacute;n decidida, activa de la Secretar&iacute;a de Cultura, la Secretar&iacute;a de Relaciones Exteriores, a trav&eacute;s de sus Embajadas y Consulados, la Fiscal&iacute;a General de la Rep&uacute;blica y el propio Instituto Nacional de Antropolog&iacute;a e Historia.</p>
+
+<p>Destaco tambi&eacute;n la participaci&oacute;n de ciudadanos y de personas morales que participan en esta acci&oacute;n de repatriaci&oacute;n de bienes culturales.</p>
+
+<p>Y nos da un enorme gusto manifestar esto porque da cuenta de la consciencia que ha tomado la comunidad internacional para la restituci&oacute;n de los bienes que son propiedad de los pueblos.</p>
+
+<p>Este trabajo se inici&oacute; arduamente con el expresidente L&oacute;pez Obrador, Andr&eacute;s Manuel L&oacute;pez Obrador, con un programa que se denomin&oacute; &ldquo;Mi patria no se vende&rdquo;. Y, efectivamente, es nuestro deber defender nuestra patria, porque no se vende; y este programa lo ha continuado de manera muy acertada, con mucho dinamismo, nuestra Presidenta Claudia Sheinbaum.</p>
+
+<p>En este sentido, llevamos aproximadamente 14 mil piezas arqueol&oacute;gicas e hist&oacute;ricas que han sido restituidas para nuestro pa&iacute;s por diversos pa&iacute;ses.</p>
+
+<p>Adicionalmente de la expresi&oacute;n voluntaria de las personas f&iacute;sicas y morales, tambi&eacute;n el Instituto en coordinaci&oacute;n con la Secretar&iacute;a de Cultura, Relaciones Exteriores y la Fiscal&iacute;a General de la Rep&uacute;blica, lleva a cabo diversas acciones jurisdiccionales e inclusive, de denuncias de car&aacute;cter penal, para contar con el imperio de la ley y buscar esta repatriaci&oacute;n de bienes culturales.</p>
+
+<p>Estos bienes culturales han provenido de distintos continentes. De Am&eacute;rica, de distintos pa&iacute;ses: Argentina, Guatemala; tambi&eacute;n de Europa, Europa ha participado muy activamente con nosotros y es una de las repatriaciones m&aacute;s recientes que en un momento comentar&eacute;; del continente de Ocean&iacute;a, igualmente, ha habido acciones de restituci&oacute;n de bienes arqueol&oacute;gicos.</p>
+
+<p>Debo destacar la participaci&oacute;n y la intervenci&oacute;n de los especialistas en materia de arqueolog&iacute;a e historia del Instituto Nacional de Antropolog&iacute;a, que gracias a ellos se logra la identificaci&oacute;n, dataci&oacute;n y restauraci&oacute;n de los bienes que son recuperados.</p>
+
+<p>En este sentido, el 18 de noviembre del presente a&ntilde;o se llev&oacute; a cabo una ceremonia de restituci&oacute;n v&iacute;a remota con el subsecretario de Estado del Ministerio de Relaciones Exteriores y de Cooperaci&oacute;n Internacional de Italia; ceremonia en la cual se logr&oacute; la restituci&oacute;n de 101 piezas arqueol&oacute;gicas que fueron aseguradas en diversos operativos, con la participaci&oacute;n del Grupo Carabinieri de Tutela del Patrimonio Cultural, con quienes tenemos una relaci&oacute;n ya de muchos a&ntilde;os, es una relaci&oacute;n no solamente de participaci&oacute;n activa en la incautaci&oacute;n de estos bienes, sino tambi&eacute;n acad&eacute;mica.</p>
+
+<p>Tenemos varios cursos que hemos compartido con los Carabinieri, han venido a M&eacute;xico, ha habido algunos especialistas que han asistido a Italia a compartir nuestros conocimientos que son de una gran riqueza.</p>
+
+<p>Igualmente, en este ejercicio de restituci&oacute;n, podemos se&ntilde;alar los 594 exvotos religiosos que fueron recuperados recientemente y m&aacute;s de 70 piezas arqueol&oacute;gicas que se suman a este ejercicio, junto con el gobierno italiano.</p>
+
+<p>El 11 de diciembre, tambi&eacute;n hubo una restituci&oacute;n muy importante, se recuper&oacute; un bien hist&oacute;rico, una imagen que es la representaci&oacute;n de Santa Rosa de Lima, que fue robada desde el a&ntilde;o 2007 y gracias al ejercicio de cooperaci&oacute;n se logr&oacute; su recuperaci&oacute;n.</p>
+
+<p>Se acaba de recibir &mdash;dec&iacute;a&mdash; el 11 de diciembre en condiciones de maltrato, le faltaba un brazo; est&aacute; en este momento en un proceso de restauraci&oacute;n en la Coordinaci&oacute;n Nacional de Conservaci&oacute;n del Patrimonio Cultural, que depende del INAH. Esta figura religiosa proviene del estado de Hidalgo; y estamos en el proceso de restauraci&oacute;n para determinar en qu&eacute; museo se puede exhibir, o bien, conversar con la comunidad para determinar cu&aacute;l ser&aacute; el destino de esta importante pieza religiosa.</p>
+
+<p>Tambi&eacute;n se suman seis piezas arqueol&oacute;gicas que fueron restituidas por la Embajada de Estados Unidos en M&eacute;xico.</p>
+
+<p>Estamos en proceso de recibir 600 piezas m&aacute;s. Estamos en pl&aacute;ticas y en acciones tambi&eacute;n legales y de convencimiento con algunas otras naciones y particulares, para que se lleve a cabo esta restituci&oacute;n.</p>
+
+<p>Las figurillas que se recuperaron, los bienes arqueol&oacute;gicos que se recuperaron son b&aacute;sicamente manufacturadas en cer&aacute;mica, y tienen formas humanoides o humanas, y formas tambi&eacute;n de animales. Est&aacute; en proceso esta investigaci&oacute;n sobre estas piezas porque todav&iacute;a no llegan a M&eacute;xico; sin embargo, hemos solicitado fotograf&iacute;as de alta resoluci&oacute;n para determinar su procedencia.</p>
+
+<p>Este es un problema que enfrentamos los mexicanos que da cuenta, precisamente, del profundo da&ntilde;o que se causa con el expolio, con el robo de bienes arqueol&oacute;gicos, que es la descontextualizaci&oacute;n de estos bienes. Una vez que son extra&iacute;dos del lugar en donde se encuentran, se pierde informaci&oacute;n valios&iacute;sima que es muy dif&iacute;cil de recuperar; no obstante, ello, se est&aacute;n haciendo esfuerzos muy importantes para que logremos la identificaci&oacute;n de estos bienes, su ubicaci&oacute;n, su localizaci&oacute;n y su dataci&oacute;n.</p>
+
+<p>Hasta este momento, se tiene como dato de su antig&uuml;edad entre 900 a&ntilde;os antes de Cristo y el siglo XVI. La variedad de estas 101 piezas es m&uacute;ltiple, como dec&iacute;amos, est&aacute;n manufacturadas en cer&aacute;mica y provienen, de acuerdo a los primeros an&aacute;lisis que se han realizado: del altiplano central, del occidente de M&eacute;xico, de Oaxaca, del Golfo de M&eacute;xico y algunas, tal parece que provienen tambi&eacute;n de la cultura maya.</p>
+
+<p>Tambi&eacute;n estos bienes tienen como prop&oacute;sito el ayudar y consolidar esta cohesi&oacute;n social que es muy importante en este momento y que nuestra Presidenta ha se&ntilde;alado en diversas ocasiones.</p>
+
+<p>De tal manera que estos bienes han sido exhibidos en algunos de los museos de la red de museos del Instituto Nacional de Antropolog&iacute;a. Algunos de los nombres de estas exposiciones son &ldquo;La grandeza de M&eacute;xico&rdquo; y &ldquo;Un halo de esplendor. Repatriaci&oacute;n y conservaci&oacute;n de bienes culturales mexicanos&rdquo;.</p>
+
+<p>Se&ntilde;ora Presidenta, muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues ahora s&iacute; pasamos a las preguntas.</p>
+
+<p>&mdash;Ac&aacute;&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Qu&eacute; tal, muy buenos d&iacute;as a todas y a todos. Juan Hern&aacute;ndez, de <em>Diario</em> <em>Basta</em>, <em>Tabasco Hoy</em>, <em>Campeche Hoy</em> y <em>Quintana Roo Hoy,</em> de Grupo Cant&oacute;n.</strong></p>
+
+<p><strong>S&iacute; me gustar&iacute;a, de los dos temas, en este caso primero del aeropuerto y despu&eacute;s de lo que es la recuperaci&oacute;n arqueol&oacute;gica. </strong></p>
+
+<p><strong>Por un lado: &iquest;qu&eacute; representa para ustedes el hecho de que este aeropuerto, este aeropuerto que fue atacado y fue una de las obras a las que m&aacute;s se le interpuso denuncias, amparos, todo tipo de acciones precisamente para frenarlo, que hoy, bueno, dos a&ntilde;os, con todos los altibajos, pero con los altibajos derivados de otras situaciones, est&eacute; empezado a rendir frutos?</strong></p>
+
+<p><strong>&iquest;Realmente ustedes cu&aacute;ndo piensen que ya est&eacute; al 100, 100 por ciento ya bien conectado, ya todo?, precisamente para que se demuestre realmente la visi&oacute;n de largo plazo que se tuvo sobre esta obra. Y que, bueno, de alguna manera tambi&eacute;n demostrar que lo que iba a hacer&hellip; que lo que se iba a hacer en Texcoco realmente iba a ser una obra que tarde o temprano iba a terminar por hundirse.</strong></p>
+
+<p><strong>Y en el caso de lo que es la recuperaci&oacute;n de piezas arqueol&oacute;gicas, &iquest;qu&eacute; pa&iacute;ses ustedes han visto que han tenido mayor recepci&oacute;n, que realmente han querido cooperar? &mdash;Porque ah&iacute; ve&iacute;amos el caso de Espa&ntilde;a en donde s&iacute; hab&iacute;a ciertas resistencias, pero, vaya, no es en general&mdash;, pero &iquest;s&iacute; ha habido esa recepci&oacute;n de recuperar y devolver parte de lo que saquearon de aqu&iacute; de M&eacute;xico?</strong></p>
+
+<p><strong>Ser&iacute;a esa mi primera pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;General, &iquest;quiere platicar hacia adelante, todos los planes?&mdash;</p>
+
+<p><strong>DIRECTOR GENERAL DEL AEROPUERTO INTERNACIONAL &ldquo;FELIPE &Aacute;NGELES&rdquo;, ISIDORO PASTOR ROM&Aacute;N:</strong> S&iacute;. Muchas gracias. Con su permiso nuevamente.</p>
+
+<p>La Secretar&iacute;a de la Defensa Nacional tuvo esa responsabilidad de hab&eacute;rsele asignado el proyecto, primero, para que se construyera el &ldquo;Felipe &Aacute;ngeles&rdquo; en dos a&ntilde;os con cinco meses.</p>
+
+<p>Es un estudio de caso, dif&iacute;cilmente en el mundo tenemos un antecedente en el que un aeropuerto se haya construido en ese tiempo y con ese presupuesto, que fue de 75 mil millones de pesos: 19 mil promedio para la ciudad militar, para demoler y construir nuevamente la base a&eacute;rea e instalaciones militares y los museos con los que actualmente contamos; y 56 mil millones de pesos promedio para el aeropuerto.</p>
+
+<p>El Programa Maestro de Desarrollo, que es un documento mandatorio ante la Agencia Federal de Aviaci&oacute;n Civil para que opere un aeropuerto, establece que en el a&ntilde;o 2032 vamos a llegar a los 20 millones de pasajeros, con la evoluci&oacute;n que ustedes vieron hace un momento.</p>
+
+<p>Consideramos que, si mantenemos ese nivel de incremento en pasajeros y de carga, esto va a ocurrir tres a&ntilde;os antes, quiz&aacute;; es decir, en el a&ntilde;o 2028, 2029, especialmente con el apoyo de la se&ntilde;ora Presidenta, estaremos desdoblando la terminal como un espejo, para pasar de 20 a 40 millones de pasajeros.</p>
+
+<p>Este es un proyecto estrat&eacute;gico que est&aacute; planeado hasta el a&ntilde;o 2050, en donde estamos considerando que podr&iacute;amos llegar a transportar por ese pol&iacute;gono aeroportuario hasta 100 millones de pasajeros.</p>
+
+<p>Si ahorita somos el octavo aeropuerto de los 80 que existen en el pa&iacute;s&hellip; perd&oacute;n, el sexto de los 80 que existen, seguramente en el mediano plazo estaremos ocupando el tercer lugar y en el largo plazo ser&aacute; el principal aeropuerto en el Valle de M&eacute;xico, y del Sistema Aeroportuario Mexicano, y de Am&eacute;rica Latina.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo importante aqu&iacute; es que sigue creciendo el n&uacute;mero de pasajeros, siguen creciendo las rutas nacionales e internacionales de diversas aerol&iacute;neas. Es el principal aeropuerto de carga ya en el pa&iacute;s.</p>
+
+<p>Y como se plane&oacute;, en el 2024, ya no requiere presupuesto del presupuesto de la Federaci&oacute;n para poderse mantener y operar, sino que ya es no solamente sustentable, sino que adem&aacute;s tiene ingresos adicionales.</p>
+
+<p>Entonces, todos aquellos que apostaban a lo contrario, pues esta es la mejor demostraci&oacute;n de que fue lo mejor que se pudo haber hecho, con el adicional&hellip; Y, adem&aacute;s, qu&eacute; bueno que lo pones as&iacute;, el aeropuerto de Texcoco o el que llamaban &ldquo;el Internacional de la Ciudad de M&eacute;xico&rdquo; &mdash;que ni en la Ciudad de M&eacute;xico iba a estar&mdash; se hubiera hundido tal cual, en t&eacute;rminos econ&oacute;micos y en t&eacute;rminos f&iacute;sicos, porque es una zona de hundimientos.</p>
+
+<p>Y hoy tenemos el Parque Ecol&oacute;gico del Valle de Texcoco, del Lago de Texcoco &mdash;que adem&aacute;s vamos a potenciar todav&iacute;a m&aacute;s&mdash; que es el parque m&aacute;s grande que hay en la Zona Metropolitana del Valle de M&eacute;xico.</p>
+
+<p>Entonces, es una visi&oacute;n distinta.</p>
+
+<p>En los gobiernos del pasado era la visi&oacute;n del negocio por el negocio en manos privadas.</p>
+
+<p>Y ahora, pues la visi&oacute;n es que es un aeropuerto del pueblo de M&eacute;xico y de la naci&oacute;n, y que da perspectiva de futuro, no solamente para el propio aeropuerto, sino para la zona.</p>
+
+<p>Ah&iacute; en esa zona estamos pensando en uno de los Polos de Bienestar con &mdash;ya lo vamos a informar en su momento&mdash; con cierta orientaci&oacute;n, porque vamos a aprovechar las ventajas competitivas del AIFA como aeropuerto de carga. Entonces, es una muy buena noticia.</p>
+
+<p>Y sobre el tema de&hellip;</p>
+
+<p><strong>COORDINADOR NACIONAL DE ASUNTOS JUR&Iacute;DICOS DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA, ENRIQUE &Aacute;LVAREZ TOSTADO: </strong>Muchas gracias. Con todo gusto.</p>
+
+<p>En general, consideramos que ha habido muy importante participaci&oacute;n del conjunto de pa&iacute;ses en el mundo. Podemos destacar Italia, que participa muy activamente con nosotros, no solamente en esta b&uacute;squeda de bienes que son patrimonio de los mexicanos; Estados Unidos ha cooperado con nosotros; Per&uacute; ha cooperado con nosotros.</p>
+
+<p>Y yo creo que esto es consecuencia del fortalecimiento de la imagen de nuestro pa&iacute;s y de los mexicanos, lo cual, como ha se&ntilde;alado nuestra Presidenta, insistentemente y de lo cual nos debemos de sentir profundamente orgullosos: somos una gran naci&oacute;n. Y la recuperaci&oacute;n de estos bienes contribuye s&oacute;lidamente a esta imagen tan positiva que estamos generando y que est&aacute; encabezando nuestra Presidenta.</p>
+
+<p>Seguiremos contribuyendo en estas acciones.</p>
+
+<p>Dec&iacute;a hace un momento nuestra Presidenta que va a Chihuahua para la restituci&oacute;n de algunas tierras. Nosotros tambi&eacute;n estamos colaborando en estas acciones porque necesitamos que esto se consolide, y es fundamental la recuperaci&oacute;n de la imagen y el fortalecimiento de nuestros pueblos originarios.</p>
+
+<p>Estamos trabajando muy, muy fuertemente junto con usted, Presidenta.</p>
+
+<p><strong>PREGUNTA: &iquest;Tiene un aproximado de cu&aacute;nto es el valor &mdash;no s&eacute; si se pueda decir&mdash; el valor econ&oacute;mico de lo que se ha venido recuperando hasta la fecha?</strong></p>
+
+<p><strong>COORDINADOR NACIONAL DE ASUNTOS JUR&Iacute;DICOS DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA, ENRIQUE &Aacute;LVAREZ TOSTADO:</strong> Bueno, en el comercio s&iacute; se les otorga un valor. Para nosotros no tienen valor; de hecho, nuestra propia legislaci&oacute;n establece que son bienes alejados del comercio totalmente, porque entonces perder&iacute;an ese sentido cultural que nos da sentido de d&oacute;nde venimos, en d&oacute;nde estamos parados y hacia d&oacute;nde vamos.</p>
+
+<p>El camino que ha tomado hoy nuestro pa&iacute;s, considero que es el camino de la recuperaci&oacute;n de nuestra gran naci&oacute;n.</p>
+
+<p>Entonces, establecer un monto no &ldquo;casa&rdquo; con los prop&oacute;sitos del gobierno federal.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&iquest;Se desvirtuar&iacute;a lo que estar&iacute;a diciendo entonces?</strong></p>
+
+<p><strong>COORDINADOR NACIONAL DE ASUNTOS JUR&Iacute;DICOS DEL INAH, ENRIQUE &Aacute;LVAREZ TOSTADO:</strong> As&iacute; es.</p>
+
+<p>Muchas gracias.</p>
+
+<p>Gracias, Presidenta.</p>
+
+<p><strong>PREGUNTA: Y, r&aacute;pidamente, en una segunda pregunta, Doctora&hellip; Disculpe. Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Tercera.</p>
+
+<p><strong>PREGUNTA: Sobre el caso, bueno, ayer hicieron un anuncio de combatir lo que es la pirater&iacute;a, el contrabando, todas estas acciones, bueno, en el caso de proteger la industria textil mexicana.</strong></p>
+
+<p><strong>Hoy lo voy a trasladar un poquito m&aacute;s a la Ciudad de M&eacute;xico. Se han venido dando una serie de presiones por parte de comerciantes que&hellip; bueno, por la acci&oacute;n que se realiz&oacute; ah&iacute; en Izazaga, en donde tambi&eacute;n hubo un fuerte golpe a la pirater&iacute;a de pa&iacute;ses asi&aacute;ticos y algunos de estos comerciantes est&aacute;n haciendo bloqueos como forma de presi&oacute;n.</strong></p>
+
+<p><strong>Algunos alegan que les est&aacute;n quitando sus fuentes de empleo, pero lo que no se est&aacute; tocando de fondo es, precisamente, este combate a la pirater&iacute;a y a la protecci&oacute;n de lo que es los verdaderos comerciantes, la verdadera industria nacional.</strong></p>
+
+<p><strong>Entonces preguntarle: &iquest;c&oacute;mo se va a, o c&oacute;mo se debe de trabajar, precisamente, para, si bien es cierto, no afectar a los comerciantes, pero tambi&eacute;n de otro lado seguir protegiendo, en este caso a la industria nacional de importaciones, de abuso en importaciones, de contrabando? O sea, realmente es una tarea complicada, tit&aacute;nica, pero que de alguna manera usted ha decidido, bueno, su gobierno ha decidido afrontarlo bien y, digamos, en beneficio de todos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Ayer hicimos dos anuncios: uno, de los aranceles, particularmente, para ciertos productos de la industria textil; que algunos medios hoy lo toman como si fuera un mensaje a China o&hellip; No.</p>
+
+<p><strong>PREGUNTA: A Trump incluso.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No. Tiene que ver con la protecci&oacute;n de la industria nacional. Es parte de lo que llamamos el &ldquo;Plan M&eacute;xico&rdquo;, que lo vamos a presentar a principios de enero.</p>
+
+<p>Durante toda la campa&ntilde;a, particularmente, en Guanajuato, en Jalisco, en la zona del Baj&iacute;o, aunque no solamente, hay much&iacute;simas empresas familiares, familiares &mdash;ni siquiera son las grandes empresas&mdash;, empresas familiares que tienen d&eacute;cadas trabajando la maquila de productos o haciendo sus propias marcas.</p>
+
+<p>Y tiene ya varios a&ntilde;os que han venido cerrando por la entrada de productos que en realidad utilizan esquemas de &mdash;como ayer lo explicaba Marcelo&mdash;, de facilidades para la exportaci&oacute;n que en realidad no tienen ese fin.</p>
+
+<p>Entonces, la industria de exportaci&oacute;n no tiene ciertos impuestos que se le colocan a la importaci&oacute;n, porque despu&eacute;s tiene exportaci&oacute;n. Esa caracter&iacute;stica &mdash;cuando en realidad no se exporta, sino que se vende en el pa&iacute;s&mdash;, pues est&aacute; siendo una trampa, en realidad.</p>
+
+<p>&iquest;Y a qui&eacute;n afecta? Pues a todas estas empresas familiares que dan much&iacute;simo empleo en la zona.</p>
+
+<p>Entonces, lo que ayer se hizo fue evitar esta trampa que se estaba utilizando. Que, en realidad, si ustedes lo ven, pues es una forma de corrupci&oacute;n.</p>
+
+<p>Y la otra fue este control que se est&aacute; poniendo a los agentes aduanales. Que hay agentes aduanales que hacen su trabajo, pero hay agentes aduanales que tambi&eacute;n aprovechan estos resquicios para utilizar formas de pago ilegal &mdash;vamos a llamarle as&iacute;&mdash; para dar permisos.</p>
+
+<p>Entonces, ahora se les hace corresponsables. Y al hacer este an&aacute;lisis, pues se est&aacute; viendo que hay agentes aduanales que no est&aacute;n cumpliendo.</p>
+
+<p>&iquest;Esto en qu&eacute; va a repercutir? Pues va a repercutir en el fortalecimiento de estas industrias que perdieron mucho en la &uacute;ltima d&eacute;cada, vamos a decir. Y, por otro lado, evitar la corrupci&oacute;n, en pocas palabras.</p>
+
+<p>Entonces, eso es lo que se anunci&oacute; el d&iacute;a de ayer, m&aacute;s all&aacute; de un tema en particular a productos asi&aacute;ticos, que no es el tema, &iquest;no?</p>
+
+<p>Y, por otro lado, lo que ayer ocurri&oacute; en la Ciudad, en particular, en Bellas Artes y eso, pues tiene otros objetivos por parte de la Ciudad.</p>
+
+<p><strong>PREGUNTA: Perfecto. O sea, &iquest;respalda las acciones que est&aacute; haciendo Clara Brugada en este aspecto?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, pues est&aacute;, digamos, ordenando.</p>
+
+<p>Y tambi&eacute;n, porque eso es muy importante, no se puede criminalizar al comercio en v&iacute;a p&uacute;blica, son gente que se gana la vida.</p>
+
+<p>Entonces, lo que hay que hacer es un ordenamiento, de tal manera que se pueda convivir este comercio; claro que todos queremos caminar hacia la formalizaci&oacute;n, pero las personas que se dedican a ello buscan una forma de vida.</p>
+
+<p>Entonces, hay que ordenar. No es un asunto de que est&aacute;n cometiendo un delito o algo as&iacute;, sino sencillamente ordenar para que se pueda apreciar el patrimonio cultural de M&eacute;xico, los peatones puedan caminar y al mismo tiempo, que pueda haber mercanc&iacute;as que puedan ser utilizadas por mexicanos y mexicanas. Es un asunto de ordenamiento.</p>
+
+<p><strong>PREGUNTA: Finalmente &mdash;perd&oacute;n, disc&uacute;lpenme todos&mdash; nada m&aacute;s para preguntarle: &iquest;el 24 y el 25, el 30 y el 31 no va a haber &ldquo;Ma&ntilde;anera&rdquo;?, porque como que hay una cierta confusi&oacute;n; entonces para ir viendo, s&iacute;. Para preguntarle: &iquest;c&oacute;mo va a estar?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Les vamos a dar vacaciones 24 y 25.</p>
+
+<p><strong>PREGUNTA: &iquest;C&oacute;mo van a estar las &ldquo;Ma&ntilde;aneras&rdquo;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> 24 y 25 no vamos a tener.</p>
+
+<p>26, 27, 28 &mdash;D&iacute;a de los Inocentes&mdash;, 29 y 30 s&iacute;.</p>
+
+<p>31 y 1o. no.</p>
+
+<p>Pueden tomar dos d&iacute;as&hellip; cuatro d&iacute;as de vacaciones.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. Muy buenos d&iacute;as. Olga Ojeda Lajud, corresponsal del <em>Diario del Istmo</em> y de <em>Imagen, de Veracruz</em>.</strong></p>
+
+<p><strong>Se&ntilde;ora Presidenta, hemos visto diversos operativos en los que se va en contra de elementos de las polic&iacute;as y funcionarios por hechos il&iacute;citos. Un ejemplo fue el Operativo Enjambre, que dio como resultado un golpe importante al crimen organizado en el Estado de M&eacute;xico, pero tambi&eacute;n hemos visto la detenci&oacute;n de 92 polic&iacute;as en Chiapas y Veracruz, el pasado lunes se detuvo a tres elementos de la Polic&iacute;a estatal por delitos de desaparici&oacute;n forzada.</strong></p>
+
+<p><strong>Me gustar&iacute;a saber si &iquest;en estos casos tienen colaboraci&oacute;n con los gobiernos de los estados y si esto forma parte de una estrategia integral de seguridad, de limpieza de las polic&iacute;as en el pa&iacute;s?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No se puede hablar de &ldquo;limpieza&rdquo;, no, no es una palabra, la verdad, que no, no&hellip; Bueno, a m&iacute; no me parece que sea la palabra correcta, porque puede tener connotaciones de discriminaci&oacute;n, de otro tipo. Aqu&iacute; es el cumplimiento de la ley; ah&iacute; donde se encuentra que hay colusi&oacute;n entre la autoridad y el crimen, pues se tiene que actuar.</p>
+
+<p>Y no es asunto de que &ldquo;ahora es consigna de que se va a ir&rdquo;, sino sencillamente parte de las investigaciones que se hacen para disminuir violencia en los distintos lugares o territorios de nuestro pa&iacute;s donde todav&iacute;a existen altos niveles de violencia. Lo que queremos es un M&eacute;xico en paz, eso es lo que buscamos.</p>
+
+<p>Entonces, ah&iacute; donde se encuentra &mdash;por las investigaciones que se hacen&mdash; que hay colusi&oacute;n con la autoridad, pues tiene que actuarse.</p>
+
+<p>En algunos casos lo hacen las Fiscal&iacute;as estatales, de hecho, en la mayor&iacute;a de los casos lo han hecho las Fiscal&iacute;as estatales, y ellos piden apoyo, en todo caso, a las fuerzas federales o en algunos casos se pide coordinaci&oacute;n, colaboraci&oacute;n a la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana para hacer investigaci&oacute;n, se apoya con ello. Y si hay investigaciones que resulten en ello, se hace la carpeta de investigaci&oacute;n, se va a un juez, se pide la orden de aprehensi&oacute;n; si se otorga esta orden, pues entonces se procede.</p>
+
+<p>Entonces, es parte, pues, de las investigaciones que se hacen. Y ah&iacute; donde se encuentra que hay colusi&oacute;n con alguna autoridad, se act&uacute;a.</p>
+
+<p><strong>PREGUNTA: Muy bien, Presidenta. Muchas gracias.</strong></p>
+
+<p><strong>Bueno, tambi&eacute;n le queremos comentar: ya es un hecho lo de las elecciones de jueces, magistrados, magistradas.&nbsp; Me gustar&iacute;a saber si &iquest;hay posibilidades o qu&eacute; llamado har&iacute;a usted para no incluir en pr&aacute;cticas que generan desencanto a los votantes, para verdaderamente involucrar a la ciudadan&iacute;a dentro de esta pr&oacute;xima elecci&oacute;n de junio del 2025, y particularmente a aquellos que vienen justamente con cargos p&uacute;blicos muy distintos a la Carrera Judicial?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> C&oacute;mo, &iquest;c&oacute;mo que &ldquo;vienen con cargos p&uacute;blicos&rdquo;?</p>
+
+<p><strong>PREGUNTA: S&iacute;, o sea, &iquest;que no se han dedicado espec&iacute;ficamente a la Carrera Judicial o parte del Poder Judicial?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, hay muchos candidatos o candidatas que no se han dedicado a la Carrera Judicial.</p>
+
+<p><strong>PREGUNTA: Por eso. &iquest;Cu&aacute;l ser&iacute;a su mensaje hacia a los ciudadanos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues que sean honestos.</p>
+
+<p><strong>PREGUNTA: Pero, &iquest;a los que votan como para que no tengan&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues que haya informaci&oacute;n del d&iacute;a de la votaci&oacute;n. Eso lo puede hacer cualquier persona, mientras no orientes a la votaci&oacute;n de una u otra persona.</p>
+
+<p>El llamar a votar el 1o. de junio en esta elecci&oacute;n hist&oacute;rica que se va a realizar, pues es muy importante; que las personas que van a ejercer su derecho al voto, se informen qui&eacute;nes son los candidatos y candidatas, que se sepa cu&aacute;l es su historial, cu&aacute;l es su historia.</p>
+
+<p>Y ser&iacute;a muy bueno que los Comit&eacute;s tuvieran lugares en donde se pusiera la historia de cada uno de los candidatos y candidatas. Son muchos, much&iacute;simos, que se van a elegir.</p>
+
+<p>Se va a hacer por circuito la elecci&oacute;n. El INE tiene que informar cu&aacute;l va a ser el procedimiento de elecci&oacute;n de acuerdo con lo que dice la Constituci&oacute;n.</p>
+
+<p>Pero creo que entre todos y todas lo que tenemos que buscar es la honestidad; s&iacute; la formaci&oacute;n, que haya buenos abogados y abogadas que vayan a realizar su trabajo. Pero lo que buscamos es quitar el r&eacute;gimen de corrupci&oacute;n y privilegios, y separar el poder econ&oacute;mico del Poder Judicial, que no haya estos v&iacute;nculos que est&aacute;n asociados a la protecci&oacute;n de ciertos grupos.</p>
+
+<p>Entonces, eso es lo que se est&aacute; buscando con la elecci&oacute;n y estamos convencidos, o yo estoy convencida, de que el pueblo de M&eacute;xico sabr&aacute; elegir.</p>
+
+<p><strong>PREGUNTA: Muchas gracias.</strong></p>
+
+<p><strong>Una &uacute;ltima pregunta, Presidenta: se ha mencionado la posible incorporaci&oacute;n del senador Miguel &Aacute;ngel Yunes M&aacute;rquez a Morena. Llega, de que fue expulsado del PAN, por votar a favor de la reforma judicial; ha sido arropado por el presidente del Senado y por el presidente de la Jucopo. Sin embargo, la gobernadora Roc&iacute;o Nahle dijo no sentirse c&oacute;moda con ellos y que no est&aacute; dispuesta a sentarse con &eacute;l o su familia por la violencia de g&eacute;nero que sufri&oacute; durante la &uacute;ltima campa&ntilde;a.</strong></p>
+
+<p><strong>Presidenta, me gustar&iacute;a saber su opini&oacute;n, si &iquest;usted cree que tendr&iacute;an los Yunes abierta la puerta para integrarse a la Cuarta Transformaci&oacute;n o el pasado que tienen en Veracruz va a pesarles?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo que entiendo es que fue una decisi&oacute;n de ellos.</p>
+
+<p>Y tambi&eacute;n se ha dicho que &ldquo;fue para quitarles las &mdash;iba a decir averiguaciones&mdash; las carpetas de investigaci&oacute;n que llegaron a tener&rdquo;.</p>
+
+<p>Es una decisi&oacute;n de ellos haber votado en su momento a favor de la reforma al Poder Judicial. No hubo una negociaci&oacute;n &mdash;hasta donde yo s&eacute;&mdash; de que iban a entrar o no a un partido pol&iacute;tico. Y en todo caso, es una decisi&oacute;n que tiene que tomar la dirigencia de Morena, de si, de acuerdo a los estatutos pudieran entrar o no a Morena.</p>
+
+<p>Pero no es que haya sido una &mdash;hasta donde yo conozco&mdash; una negociaci&oacute;n en ese sentido. Es una decisi&oacute;n de ellos el haber votado por las propuestas que envi&oacute; en su momento el Presidente y que hemos estado enviando.</p>
+
+<p>Entonces, la decisi&oacute;n de si entran o no a Morena le corresponde a la dirigencia.</p>
+
+<p><strong>PREGUNTA: (Inaudible) </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues, le corresponde a la dirigencia, no voy a meterme yo en ese tema.</p>
+
+<p>Nosotros tenemos que cuidar siempre al movimiento del que venimos. A m&iacute; me toca, ahora, desde el gobierno garantizar que no haya corrupci&oacute;n, que no regrese el r&eacute;gimen de privilegios, que quede perfectamente claro la separaci&oacute;n del poder pol&iacute;tico y el poder econ&oacute;mico.</p>
+
+<p>Me corresponde tambi&eacute;n gobernar con los principios del Humanismo Mexicano, estar cerca del pueblo siempre. Saber que nuestra base, nuestro sustento es el pueblo de M&eacute;xico.</p>
+
+<p>Y que haya honestidad, honradez para dar resultados y mucho amor al pueblo. As&iacute; fue mi consigna en la campa&ntilde;a: &ldquo;honestidad, resultados y amor al pueblo&rdquo;, y eso es lo que a m&iacute; me corresponde desde el gobierno garantizar.</p>
+
+<p>A la dirigencia del partido le corresponde tambi&eacute;n lo mismo.</p>
+
+<p>Entonces, pues tienen que evaluar en este marco.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta de la Rep&uacute;blica, funcionarios, compa&ntilde;eros, compa&ntilde;eras. Z&oacute;simo Camacho, de <em>Luces del Siglo</em>.</strong></p>
+
+<p><strong>Presidenta, usted present&oacute; hace unos d&iacute;as un programa educativo muy, muy importante: la generaci&oacute;n de 330 mil nuevos espacios de educaci&oacute;n superior; sin embargo, no vimos que en el propio programa se est&eacute; citando a las Escuelas Normales Rurales.</strong></p>
+
+<p><strong>Si hay un modelo educativo en las ant&iacute;podas del neoliberalismo, el modelo neoliberal, es de las Normales Rurales por las caracter&iacute;sticas no solamente de gratuidad que tienen, sino porque albergan a los estudiantes m&aacute;s pobres de este pa&iacute;s. Por principio fueron, como usted sabe, construidas bajo el esquema &mdash;en su momento&mdash; de educaci&oacute;n socialista de L&aacute;zaro C&aacute;rdenas.</strong></p>
+
+<p><strong>Y en estos momentos todav&iacute;a siguen arrastrando muchos problemas derivados del modelo neoliberal que pr&aacute;cticamente las llev&oacute; a la inanici&oacute;n casi, incluso, digamos hasta a la extinci&oacute;n. No en vano ocurri&oacute; la desaparici&oacute;n de los 43 de Ayotzinapa en un contexto de represi&oacute;n, de acoso, de criminalizaci&oacute;n de la propia lucha estudiantil.</strong></p>
+
+<p><strong>En ese sentido, preguntarle, Presidenta, si &iquest;est&aacute;n consideradas las Escuelas Normales Rurales en este programa de apertura, incluso, de mayores espacios?</strong></p>
+
+<p><strong>Usted ha citado a las nuevas universidades que est&aacute; creando, pero tambi&eacute;n a las que ya existen: la propia Universidad, el Tecnol&oacute;gico Nacional, el Polit&eacute;cnico.</strong></p>
+
+<p><strong>En ese sentido, &iquest;qu&eacute; papel podr&iacute;an jugar, en este momento, las Normales Rurales? Cuando tambi&eacute;n hubo un proyecto, el sexenio anterior, que ya no se consolid&oacute; de que se protegiera al normalismo rural desde la Constituci&oacute;n, por lo que significa para la alfabetizaci&oacute;n del M&eacute;xico campesino, por un lado.</strong></p>
+
+<p><strong>Y, por otro, tambi&eacute;n algo que les preocupa a los normalistas rurales es precisamente que tengan la oportunidad de acceder a plazas de maestros, una vez que egresen, como tambi&eacute;n hab&iacute;a sido un compromiso desde la pasada administraci&oacute;n y que solamente, me parece, se logr&oacute; en dos escuelas.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Est&aacute; pendiente la Normal de Hidalgo.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&ldquo;El Mexe&rdquo;.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>&ldquo;El Mexe&rdquo;, que lo hemos estado platicando en las reuniones con la Coordinadora, que ya est&aacute; el edificio y que tiene que cumplirse ese compromiso que se hizo, en su momento, con el Presidente L&oacute;pez Obrador y lo vamos a cumplir, y tambi&eacute;n la garant&iacute;a de la permanencia de las Normales Rurales.</p>
+
+<p>En particular, los 330 espacios que planteamos, m&aacute;s que en las Normales Rurales, est&aacute; planteado en las Universidades &ldquo;Benito Ju&aacute;rez&rdquo;, en la Universidad Nacional &ldquo;Rosario Castellanos&rdquo;, la Universidad de la Salud, el Tecnol&oacute;gico Nacional de M&eacute;xico y el Instituto Polit&eacute;cnico Nacional, pero eso no quiere decir que no se trabaje tambi&eacute;n en las Normales.</p>
+
+<p>Estamos trabajando en el esquema, yo propuse en los 100 puntos, porque es algo que se ha venido trabajando en las mesas con el SNTE y con la CNTE de la modificaci&oacute;n del USICAMM, que es la manera de ingresar.</p>
+
+<p>La reforma educativa planteaba, incluso, la permanencia evaluada a trav&eacute;s del modelo de la reforma educativa. Eso se elimin&oacute; y cambiaron muchas cosas, tan es as&iacute; que hoy est&aacute;n basificados pr&aacute;cticamente un mill&oacute;n de maestros de educaci&oacute;n y maestras de educaci&oacute;n b&aacute;sica.</p>
+
+<p>Entonces estamos trabajando para cambiar la USICAMM famosa, que es la manera de ingreso y evaluaci&oacute;n de carrera. Hay quien plantea que no deber&iacute;a de existir en el 3o. constitucional, hay quien plantea que s&iacute;, lo estamos evaluando, pero la idea de que se incorporen normalistas rurales.</p>
+
+<p>Vimos la posibilidad de que los egresados de educaci&oacute;n, de profesores, de profesoras, de formaci&oacute;n de profesores de las &ldquo;Benito Ju&aacute;rez&rdquo; ingresen ya tambi&eacute;n con plaza o que tengan la capacidad, la posibilidad de ingresar con plaza a ser maestras y maestras de educaci&oacute;n b&aacute;sica p&uacute;blica.</p>
+
+<p>Entonces, se est&aacute; trabajando junto con el magisterio nacional para poderlo definir.</p>
+
+<p><strong>PREGUNTA: Entiendo que ha habido alguna reuni&oacute;n de los normalistas rurales en las que estuvo presente tambi&eacute;n el secretario de Educaci&oacute;n, Mario Delgado, con la Federaci&oacute;n de Estudiantes Campesinos Socialistas de M&eacute;xico, que es la que aglutina precisamente a todos los integrantes de estas Normales. </strong></p>
+
+<p><strong>Ellos han solicitado tambi&eacute;n di&aacute;logo con usted. Le digo, no ha habido un di&aacute;logo entre esta organizaci&oacute;n desde la &eacute;poca de L&aacute;zaro C&aacute;rdenas.</strong></p>
+
+<p><strong>Nada m&aacute;s preguntarle, si &iquest;usted estar&iacute;a dispuesta a platicar con ellos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues yo creo que&hellip; Digo, siempre estamos dispuestos a platicar con cualquier compa&ntilde;ero, compa&ntilde;era, organizaci&oacute;n, pero creo que se est&aacute;n entendiendo con Mario. Entonces, vamos a esperar.</p>
+
+<p><strong>PREGUNTA: Muy bien, gracias, Presidenta.</strong></p>
+
+<p><strong>En otra informaci&oacute;n, preguntarle si &iquest;dentro de la perspectiva de su gobierno, est&aacute; revisar algunos de los nombramientos que se hicieron con respecto de embajadores, por supuesto, representantes de M&eacute;xico en el mundo, y que se otorgaron a exgobernadores?</strong></p>
+
+<p><strong>En su momento, no se sab&iacute;an datos o no se ten&iacute;an datos, que ahora ya se tienen. Y, en ese sentido, ejemplificarle con un caso, el de Carlos Joaqu&iacute;n Gonz&aacute;lez, exgobernador de Quintana Roo quien, bueno, ahora se sabe, despu&eacute;s de los trabajos de la Auditor&iacute;a Superior de la Federaci&oacute;n, que hay irregularidades por 7 mil millones de pesos en las cuentas del estado. Y que, adem&aacute;s, mucho de lo que pod&iacute;a haber recuperado o investigar prescribi&oacute; porque tampoco hubo acci&oacute;n en su momento de las propias autoridades.</strong></p>
+
+<p><strong>Hoy es embajador &eacute;l en Canad&aacute; y tampoco lo vimos muy activo en la defensa, digamos, del pa&iacute;s frente a estas declaraciones surgidas en Canad&aacute; que buscaban hasta dejar a M&eacute;xico fuera del Tratado de Libre Comercio.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En general, las observaciones de la Auditor&iacute;a tienen que demostrarse. Primero viene la observaci&oacute;n y luego viene la contestaci&oacute;n de las autoridades correspondientes y, en todo caso, de quien estuvo participando en un gobierno.</p>
+
+<p>Entonces, hay que esperar antes de&hellip; a que termine el proceso de las observaciones y ver si realmente se confirman o no se confirman.</p>
+
+<p>Y, por lo pronto, sigue siendo embajador.</p>
+
+<p>Apenas estamos revisando el tema de las Embajadas, Consulados.</p>
+
+<p>Rutilio se fue &mdash;el exgobernador de Chiapas&mdash; a Miami y se nombraron otras dos c&oacute;nsules que vienen del Servicio Exterior Mexicano; se ratific&oacute; un nombramiento que se hab&iacute;a hecho, que hab&iacute;a quedado pendiente en el Senado, por parte del entonces Presidente L&oacute;pez Obrador.</p>
+
+<p>Pero apenas estamos haciendo una revisi&oacute;n de nuestros embajadores y embajadoras.</p>
+
+<p><strong>PREGUNTA: Y, finalmente, Presidenta: se inform&oacute; aqu&iacute; acerca de la recuperaci&oacute;n de bienes arqueol&oacute;gicos, un esfuerzo muy importante para repatriar estas, sobre todo, piezas arqueol&oacute;gicas.</strong></p>
+
+<p><strong>Y se dijo tambi&eacute;n qui&eacute;nes son los pa&iacute;ses que han estado colaborando de manera muy cercana a M&eacute;xico, destac&aacute;ndose el caso de Italia; pero tambi&eacute;n si nos pudieran decir &iquest;qu&eacute; pa&iacute;ses son los que est&aacute;n renuentes a colaborar, a entregar piezas arqueol&oacute;gicas?</strong></p>
+
+<p><strong>De manera desafortunada, piezas arqueol&oacute;gicas de M&eacute;xico hay pr&aacute;cticamente en toda Europa y que, de manera, incluso, masiva.</strong></p>
+
+<p><strong>Si &iquest;tienen alg&uacute;n mandato sobre qu&eacute; pa&iacute;ses se niegan a participar en esta entrega de bienes hacia M&eacute;xico?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;&iquest;Quieres comentar o no? &iquest;S&iacute;?&mdash;.</p>
+
+<p><strong>COORDINADOR NACIONAL DE ASUNTOS JUR&Iacute;DICOS DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA, ENRIQUE &Aacute;LVAREZ TOSTADO:</strong> No es precisamente una negaci&oacute;n absoluta, pero s&iacute; ciertas actuaciones reticentes, por la historia que tienen estas propias naciones, como es el caso de la Gran Breta&ntilde;a que, a pesar de ello, bueno, hemos tenido colaboraci&oacute;n con ellos. Son muy rigurosos en el intercambio cultural, por obvias razones, pero hemos encontrado f&oacute;rmulas que nos han permitido generar este intercambio con Gran Breta&ntilde;a.</p>
+
+<p>Lo mismo sucede con Alemania. Alemania tambi&eacute;n es un pa&iacute;s que nos apoya, pero tiene ciertas reglas, que son muy estrictas, &iquest;no?, por esta tradici&oacute;n que tienen de acumulaci&oacute;n de bienes. Que, de alguna forma, tambi&eacute;n hay que decirlo, hacen un trabajo de conservaci&oacute;n muy importante, pero sus reglas son muy r&iacute;gidas para los intercambios culturales.</p>
+
+<p><strong>PREGUNTA: Nada m&aacute;s tambi&eacute;n, en ese sentido&hellip;</strong></p>
+
+<p><strong>COORDINADOR NACIONAL DE ASUNTOS JUR&Iacute;DICOS DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA, ENRIQUE &Aacute;LVAREZ TOSTADO:</strong> &mdash;Espa&ntilde;a, tambi&eacute;n, Presidenta&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias. Muy amable. Nada m&aacute;s, si, en ese sentido &iquest;se han detectado redes de tr&aacute;fico de este tipo de bienes entre empresas, precisamente, privadas?</strong></p>
+
+<p><strong>COORDINADOR NACIONAL DE ASUNTOS JUR&Iacute;DICOS DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA, ENRIQUE &Aacute;LVAREZ TOSTADO: </strong>Bueno, colaboramos con la Polic&iacute;a Cibern&eacute;tica para identificar a las compa&ntilde;&iacute;as que ponen en venta bienes arqueol&oacute;gicos.</p>
+
+<p>En el momento en el cual detectamos que hay piezas mexicanas o presuntivamente mexicanas arqueol&oacute;gicas o hist&oacute;ricas, hacemos un procedimiento, a trav&eacute;s del cual nos apoya la Secretar&iacute;a de Relaciones, para evitar la venta de estos bienes arqueol&oacute;gicos o hist&oacute;ricos, y buscar la restituci&oacute;n de ellos.</p>
+
+<p>Ese es el trabajo que fundamentalmente estamos haciendo.</p>
+
+<p><strong>PREGUNTA: &iquest;Alguna vez se recuperar&aacute; este bien que en el &aacute;mbito popular pues es&hellip; digamos que es como un s&iacute;mbolo, que es el &ldquo;Penacho de Moctezuma&rdquo;? Y no porque sea mejor que otras piezas arqueol&oacute;gicas, pero, bueno, en el &aacute;mbito popular siempre se tiene ese sentimiento de alguna vez recuperar el &ldquo;Penacho de Moctezuma&rdquo;.</strong></p>
+
+<p><strong>COORDINADOR NACIONAL DE ASUNTOS JUR&Iacute;DICOS DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA, ENRIQUE &Aacute;LVAREZ TOSTADO:</strong> Claro.</p>
+
+<p>El bien cultural sali&oacute; legalmente, no es producto del expolio, del robo, el saqueo, etc&eacute;tera. Eso es muy complicado, porque hubo una voluntad por parte de las autoridades o gobierno mexicano, en su momento, y permiti&oacute; la salida.</p>
+
+<p>No obstante, ello, tenemos una cooperaci&oacute;n excelente. Recientemente fueron restauradoras mexicanas para llevar a cabo trabajos muy destacados en la restauraci&oacute;n del penacho, hicieron un trabajo ejemplar verdaderamente. Y, adem&aacute;s, se constituyeron nuestras restauradoras y restauradores mexicanos como uno de los mejores del mundo. La cooperaci&oacute;n sigue.</p>
+
+<p>Y, adem&aacute;s, bueno, el gobierno mantiene en condiciones, digamos, de excelencia clim&aacute;ticas, etc&eacute;tera. Y en esta cooperaci&oacute;n nos invitan a trabajar con ellos la restauraci&oacute;n porque, adem&aacute;s, en arte plumario M&eacute;xico tiene una gran tradici&oacute;n y excelentes restauradoras conservadoras.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;A ver pon el mapa de d&oacute;nde se han repatriado, que present&oacute;&hellip;&mdash;</p>
+
+<p>Todav&iacute;a falta muchos. Espa&ntilde;a ser&iacute;a muy bueno que enviara.</p>
+
+<p>El pr&oacute;ximo a&ntilde;o se conmemoran 700 a&ntilde;os de la fundaci&oacute;n de Tenochtitlan. Vamos a hacer muchas cosas relacionadas con los pueblos originarios de hoy y las culturas originarias, durante todo el 2025.</p>
+
+<p>Y les voy a adelantar, lo vamos a presentar el lunes, tiene que aprobarlo el Congreso &mdash;&iquest;c&oacute;mo le llaman?&mdash; en la Permanente, en la Comisi&oacute;n Permanente, pero queremos dedicarlo, as&iacute; como cada a&ntilde;o se dedica este a&ntilde;o es del Felipe Carrillo Puerto: el pr&oacute;ximo a&ntilde;o lo vamos a dedicar a las mujeres ind&iacute;genas, est&aacute; dedicado el 2025 a las mujeres ind&iacute;genas.</p>
+
+<p>Y vamos a hacer varias actividades y trabajos relacionados tambi&eacute;n con la fundaci&oacute;n de Tenochtitlan, porque es, no solamente las mujeres de entonces, de las culturas originarias, sino tambi&eacute;n las de hoy. Es un llamado en contra del racismo, del clasismo.</p>
+
+<p>En la Ciudad de M&eacute;xico, en su momento, hicimos una encuesta con la Comisi&oacute;n contra la Discriminaci&oacute;n, y en esta encuesta se pregunt&oacute;: &iquest;por qu&eacute; se discrimina m&aacute;s?, a trav&eacute;s de una metodolog&iacute;a. El primer lugar era el color de la piel, el segundo era origen de un pueblo originario ind&iacute;gena y el tercero era mujer.</p>
+
+<p>Entonces, las mujeres no blancas &mdash;vamos a ponerlo as&iacute;&mdash;, de un pueblo originario son las m&aacute;s discriminadas, y por eso, es una voz en contra de la discriminaci&oacute;n a las mujeres ind&iacute;genas. Por eso es as&iacute;.</p>
+
+<p>Y adem&aacute;s, tambi&eacute;n la historia poco habla sobre mujeres ind&iacute;genas que jugaron un papel muy importante en la resistencia, por ejemplo, de Tenochtitl&aacute;n.</p>
+
+<p>Entonces, lo vamos a dedicar a ello el pr&oacute;ximo a&ntilde;o.</p>
+
+<p>Aqu&iacute; en la Ciudad de M&eacute;xico tambi&eacute;n, aprovecho, porque monumentos, nombres de calles &mdash;que, por cierto, hubo ah&iacute; una cuesti&oacute;n pol&eacute;mica&mdash; reflejan un sentimiento y una recuperaci&oacute;n de la memoria hist&oacute;rica.</p>
+
+<p>Nosotros cambiamos, cuando fui Jefa de Gobierno, el nombre de &ldquo;Puente de Alvarado&rdquo; por &ldquo;M&eacute;xico Tenochtitl&aacute;n&rdquo;; o del &aacute;rbol o la &ldquo;Plaza del &Aacute;rbol de la Noche Triste&rdquo; por &ldquo;La Noche Victoriosa&rdquo;; o la estaci&oacute;n del Metro que dec&iacute;a solamente &ldquo;Z&oacute;calo&rdquo; por &ldquo;Z&oacute;calo-Tenochtitl&aacute;n&rdquo;.</p>
+
+<p>Y cambiamos tambi&eacute;n o aprovechamos el movimiento que se hizo de la estatua de Col&oacute;n para su restauraci&oacute;n, para que el Col&oacute;n se fuera a otro espacio &mdash;ah&iacute; estuvo Jos&eacute; Alfonso de manera muy importante&mdash;. Y ah&iacute; despu&eacute;s, hubo un tema de a qui&eacute;n se dedicaba, y hab&iacute;a grupos que hablaban de las mujeres en lucha, pero no por ello nosotros dijimos: &ldquo;aqu&iacute; tiene que haber una mujer ind&iacute;gena&rdquo;; porque son s&iacute;mbolos o es un s&iacute;mbolo del &ldquo;descubrimiento de Am&eacute;rica y lo reconoces&rdquo;; no, Am&eacute;rica fue descubierta para los europeos, pero lo que hoy llamamos &ldquo;M&eacute;xico&rdquo; ten&iacute;a culturas milenarias.</p>
+
+<p>Y entonces, ah&iacute; se puso &ldquo;La Joven de Amajac&rdquo;, no exactamente en el mismo lugar de la glorieta, pero s&iacute; a un lado de la glorieta, que es un reconocimiento tambi&eacute;n a una joven que fue gobernante, o por lo menos presuntamente se supone que fue gobernante de la Huasteca.</p>
+
+<p>Entonces, por eso lo vamos a dedicar a las mujeres ind&iacute;genas.</p>
+
+<p>&mdash;Adelante, &iquest;qui&eacute;n iba?, ac&aacute;&mdash;</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. Zenyazen Flores, de <em>Bloomberg L&iacute;nea</em>.</strong></p>
+
+<p><strong>Le quiero hacer una pregunta antes, r&aacute;pida, sobre esta potencializaci&oacute;n que quieren hacer del AIFA y la regi&oacute;n. El sexenio del expresidente L&oacute;pez Obrador habr&iacute;a planteado o se estaba analizando la construcci&oacute;n de un parque industrial para instalar empresas de bater&iacute;as de litio. &iquest;Sigue ese plan vigente?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Estamos viendo si es ese, hay varias opciones.</p>
+
+<p>Ah&iacute; cerca, no est&aacute; exactamente, est&aacute;n, digamos, en Hidalgo; hay un predio, que es el predio que es propiedad del Gobierno de Hidalgo, donde &mdash;en su momento&mdash; en el primer debate del aeropuerto de Texcoco, cuando Fox era presidente, el entonces gobernador de Hidalgo decidi&oacute; adquirir un predio muy importante en Tizayuca, porque hab&iacute;a el debate de si el aeropuerto se pon&iacute;a en Texcoco o en Tizayuca.</p>
+
+<p>Entonces se compr&oacute; un predio, en aquel momento, que hoy pertenece al gobierno de Hidalgo y ellos tienen el objetivo de desarrollarlo.</p>
+
+<p>Hay varias opciones ah&iacute;. Tambi&eacute;n est&aacute; una opci&oacute;n de desarrollo de industria farmac&eacute;utica, por ejemplo.</p>
+
+<p>Entonces, se est&aacute; viendo dentro de lo que llamamos el &ldquo;Plan M&eacute;xico&rdquo; las opciones para Hidalgo, pero, particularmente, hay que aprovechar pues la carga del Aeropuerto Internacional &ldquo;Felipe &Aacute;ngeles&rdquo;. Y, adem&aacute;s, que, en esa zona, si se hace bien la explotaci&oacute;n del agua de manera sustentable y se mantiene para Hidalgo en un proyecto integral, puede tener agua para poder hacer desarrollos ah&iacute;.</p>
+
+<p><strong>PREGUNTA: <em>Ok</em>, Presidenta. Muchas gracias.</strong></p>
+
+<p><strong>Siguiendo con el tema de nombramientos, le quiero preguntar sobre uno de Banco de M&eacute;xico, que la subgobernadora Irene Espinosa est&aacute; por terminar su periodo el 31, en 10 d&iacute;as. Y saber si &iquest;ya tiene listo el nombramiento para esta vacante?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, estamos en&hellip; Todav&iacute;a no tenemos listo qui&eacute;n puede estar ah&iacute;, estamos trabaj&aacute;ndolo con el secretario de Hacienda, nos est&aacute; ayudando. Y vamos a buscar un buen perfil con una visi&oacute;n &mdash;claro, que conozca de finanzas porque ese es el&hellip; tiene requisitos&mdash;, pero con una visi&oacute;n que tenga que ver con la autonom&iacute;a, s&iacute;, del Banco de M&eacute;xico, pero una visi&oacute;n de desarrollo del pa&iacute;s.</p>
+
+<p><strong>PREGUNTA: &iquest;Se mantiene que va a ser mujer?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Estamos en esas, esperemos que s&iacute; podamos encontrar.</p>
+
+<p><strong>PREGUNTA: &iquest;Y se buscar&iacute;a que fuera alguien de carrera de Banco de M&eacute;xico o proveniente de Secretar&iacute;a de Hacienda?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya, ya lo vamos a informar.</p>
+
+<p><strong>PREGUNTA: &iquest;Pero s&iacute; mandar&iacute;a el nombramiento antes del 31 de diciembre?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, hasta el pr&oacute;ximo a&ntilde;o.</p>
+
+<p><strong>PREGUNTA: Una segunda pregunta, Presidenta, es sobre: el Paquete Econ&oacute;mico finalmente ya est&aacute; aprobado, en general, fue bien recibido por el compromiso que est&aacute; haciendo de reducir el d&eacute;ficit fiscal, incluso, Standard and Poor&#39;s hace una semana ratific&oacute; la perspectiva de calificaci&oacute;n. Sin embargo, las calificadoras, analistas, varias voces insisten en que es necesario una reforma fiscal, que se necesita aumentar los ingresos.</strong></p>
+
+<p><strong>Preguntarle: &iquest;desde cu&aacute;ndo va a empezar a construir los consensos hacia una posible reforma fiscal en 2025?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Antes de pensar en una reforma fiscal&hellip; Porque, a ver, si aument&aacute;ramos el IVA &mdash;cosa que no vamos a hacer nunca, porque es el impuesto m&aacute;s regresivo que hay&mdash;, las calificadoras estar&iacute;an aplaudiendo, porque tambi&eacute;n tienen una visi&oacute;n.</p>
+
+<p>Nosotros, antes de pensar en una reforma fiscal, todav&iacute;a sabemos que hay muchas oportunidades de ingreso.</p>
+
+<p>F&iacute;jense, este a&ntilde;o &mdash;a ver si lo presentamos el lunes&mdash; el ingreso est&aacute; casi 6 por ciento arriba en t&eacute;rminos reales, estamos hablando de que este a&ntilde;o ingresaron a la Tesorer&iacute;a m&aacute;s de 400 mil millones de pesos respecto al 2023, y no hubo reforma fiscal; es decir, se sigue trabajando para que se paguen los impuestos que se tengan que pagar y erradicar cualquier forma de corrupci&oacute;n y privilegios.</p>
+
+<p>Entonces, todav&iacute;a hay muchas &aacute;reas de oportunidad &mdash;vamos a ponerlo as&iacute;&mdash; de mayores ingresos, y lo vamos a trabajar as&iacute; primero, antes de pensar en una reforma fiscal. Es una visi&oacute;n que nosotros hemos planteado, que en esencia es la econom&iacute;a moral: erradicar la corrupci&oacute;n.</p>
+
+<p>Entonces, vamos a seguir trabajando en ello. El Presidente L&oacute;pez Obrador avanz&oacute; much&iacute;simo, pero todav&iacute;a vamos a avanzar m&aacute;s.</p>
+
+<p>Ya en el 19 Constitucional, las factureras ya es delito con prisi&oacute;n preventiva oficiosa; todav&iacute;a, aunque ha disminuido mucho, todav&iacute;a hay facturaci&oacute;n falsa. Entonces, hay que entrar a eso.</p>
+
+<p>Hay que entrar al tema de las Aduanas, que lo hemos platicado aqu&iacute; varias veces.</p>
+
+<p>Y la propia simplificaci&oacute;n en el pago de impuestos que beneficia a todos, tambi&eacute;n da m&aacute;s ingresos.</p>
+
+<p>Estamos trabajando en todo ello, antes de estar pensando en una reforma fiscal.</p>
+
+<p><strong>PREGUNTA: &iquest;2025, entonces no habr&iacute;a una reforma fiscal? Digo, todav&iacute;a no empieza el a&ntilde;o, pero &iquest;no habr&iacute;a, no estar&iacute;a&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, pues se present&oacute; la Ley de Ingresos, que en todo caso ah&iacute; deber&iacute;a de haberse planteado.</p>
+
+<p><strong>PREGUNTA: Me refiero a si &iquest;en 2025 se construir&iacute;a el consenso hacia una reforma fiscal y que entrara en vigor 2026, no?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, no estamos pensando en eso. Y primero hay que seguir en esta tarea, antes de pensar aumentar tasas de impuestos.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Por lo pronto, no lo estamos considerando.</p>
+
+<p><strong>PREGUNTA: &mdash;No me levanto, porque estorbo aqu&iacute; las c&aacute;maras&mdash;. Gracias, Presidenta. Buenos d&iacute;as. Buenos d&iacute;as a los funcionarios que acompa&ntilde;an esta conferencia.</strong></p>
+
+<p><strong>Presidenta, tengo una pregunta: hoy va&nbsp; &mdash;bueno, dos le voy a hacer&mdash;, hoy va a Chihuahua.</strong></p>
+
+<p><strong>Quisiera que me pudiera aclarar: la administraci&oacute;n pasada el Presidente tambi&eacute;n fue con los rar&aacute;muris a entregarles grandes extensiones de tierra y, por supuesto, el tema del agua, que es principal para cualquier ser humano y est&aacute; establecido en el 4o. Constitucional de nuestra Carta Magna.</strong></p>
+
+<p><strong>En ese sentido, quisiera saber, si &iquest;los terrenos que hoy usted va a entregar con los t&iacute;tulos de propiedad son adicionales de su gobierno o forman parte de lo que fue el proyecto del Presidente?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vienen trabaj&aacute;ndose desde antes, pero no se hab&iacute;a entregado.</p>
+
+<p>Donde se entreg&oacute; una gran cantidad de tierra fue con los yaquis.</p>
+
+<p>Y sigue el Plan de Justicia, no es que con esto se cierre. Y vamos a hacer m&aacute;s Planes de Justicia para todos los pueblos.</p>
+
+<p>Tambi&eacute;n vamos a informar ya en enero, porque por primera vez los pueblos originarios van a recibir un presupuesto propio; vamos a iniciar con algo peque&ntilde;o y despu&eacute;s, lo vamos a ir incrementando, que es parte de la reforma al 2o. constitucional.</p>
+
+<p><strong>PREGUNTA: Correcto. En Chihuahua, el alcalde Marco Bonilla &mdash;es el segundo c&aacute;rtel inmobiliario que, digamos, existe en el pa&iacute;s, despu&eacute;s de Jorge Romero aqu&iacute; en la Ciudad de M&eacute;xico&mdash;, se ha dedicado a entregar obviamente permiso a diestra y siniestra para construir edificios, departamentos. </strong></p>
+
+<p><strong>Y aqu&iacute; el grave problema es el agua, Presidenta, donde desde mi punto de vista creo que su proyecto de Plan H&iacute;drico ser&aacute; un plan transexenal de su gobierno para que todos los mexicanos tengamos agua suficiente.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; har&iacute;a su gobierno, qu&eacute; est&aacute; planeando su gobierno para combatir estos c&aacute;rteles inmobiliarios? Que, adem&aacute;s, pululan por dondequiera. El Estado de M&eacute;xico, hay muchos que en este momento no voy a mencionar. Pero &iquest;cu&aacute;l es el proyecto de su gobierno para combatir estos c&aacute;rteles inmobiliarios?, que, adem&aacute;s, los liderean los panistas y la oposici&oacute;n. Y, bueno, entonces, si son muy puros, entonces, que demuestren lo contrario.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah&iacute; donde haya irregularidades, pues ah&iacute; se va a investigar, eso&hellip; Las irregularidades tienen que ver con fraudes, en algunos casos son delitos del fuero com&uacute;n que tienen que ver con las Fiscal&iacute;as estatales y en otros casos, delitos del fuero federal, que tienen que ver con la Fiscal&iacute;a General de la Rep&uacute;blica.</p>
+
+<p>Pero si hay denuncias, pues que se presenten para poder hacer la investigaci&oacute;n.</p>
+
+<p>Porque, en efecto, el que se permita violar el uso de suelo &mdash;que en esencia es eso&mdash;, a partir de corrupci&oacute;n, &mdash;eso fue lo que se le llam&oacute; &ldquo;c&aacute;rtel inmobiliario&rdquo; en la Ciudad de M&eacute;xico&mdash; pues tiene que pararse, por el desarrollo del pa&iacute;s y porque hay que erradicar la corrupci&oacute;n en cualquier lugar donde se encuentre. Entonces, ah&iacute; donde haya denuncias, pues se hace la investigaci&oacute;n.</p>
+
+<p>En Chihuahua hay otros temas relacionados con el agua, no solamente en las zonas urbanas, y ese es parte del proceso de regularizaci&oacute;n que est&aacute; haciendo la Comisi&oacute;n Nacional del Agua, que ya tiene avances, se han hecho investigaciones de&hellip; O sea, a trav&eacute;s de la revisi&oacute;n de las concesiones, de la base de datos de concesiones, pues se est&aacute;n encontrando irregularidades. Ah&iacute; se va a checar en territorio y sea que se clausure o se llama al di&aacute;logo para decir c&oacute;mo se puede resolver.</p>
+
+<p>Pero en Chihuahua hay muchos pozos, por ejemplo, que no tienen permisos, sobre todo, para la zona agr&iacute;cola. Y ah&iacute; lo que hay que hacer es trabajar con quien tiene estos pozos; ver si son necesarios, si no son necesarios, pero que, en todo caso, se regularice lo que se tenga que regularizar; y aquello que no se pueda regularizar, pues que se evite la explotaci&oacute;n del agua de manera ilegal.</p>
+
+<p><strong>PREGUNTA: Una &uacute;ltima pregunta, Presidenta: hablando del tema de las factureras, en Hidalgo sigue, s&eacute; de muchas empresas que siguen practicando el tema de entregar facturas falsas. Eso ya es un delito federal, como usted lo especific&oacute; y est&aacute; establecido en la Constituci&oacute;n con las reformas que se han emprendido en su gobierno.</strong></p>
+
+<p><strong>El tema del <em>outsourcing</em> tambi&eacute;n se combati&oacute; durante el gobierno del Presidente y, obviamente, en el de usted no se permite.</strong></p>
+
+<p><strong>En el tema del <em>outsourcing</em>, yo quisiera preguntarle de Ra&uacute;l Beyruti S&aacute;nchez, mejor conocido como &ldquo;el rey del <em>outsourcing</em>&rdquo;, que evadi&oacute; impuestos de ISR, el IVA, y hoy se encuentra pr&oacute;fugo; hay una investigaci&oacute;n en la Fiscal&iacute;a General de la Rep&uacute;blica.</strong></p>
+
+<p><strong>Yo no s&eacute; si su gobierno sigue con este tema, &iquest;o qu&eacute; va a pasar con &eacute;l?, porque adem&aacute;s este hombre, empresario, tambi&eacute;n prestaba servicios a m&uacute;ltiples empresas, que les manifestaba o les ayudaba con los pagos al SAT.</strong></p>
+
+<p><strong>Entonces, hoy estas empresas est&aacute;n metidas en un vericueto porque este empresario que, con su despacho, nunca report&oacute; al SAT todas las retenciones que se les detiene a los empleados cuando se trabaja en empresas, y est&aacute;n metidas en un grave problema con el SAT, pero, en realidad, el problema lo gener&oacute; este hombre, es &ldquo;el rey del <em>outsourcing</em>&rdquo;.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; va a pasar con estos personajes, Presidenta, que creen que y&eacute;ndose del pa&iacute;s ya est&aacute;n limpios, se purifican y despu&eacute;s, regresan al M&eacute;xico que vivimos como si no hubiesen hecho nada?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Algunas de las empresas de esta persona, fueron presentadas las denuncias ante el juez &mdash;de nuevo, el Poder Judicial&mdash; y no procedieron.</p>
+
+<p>Sigue, de todas maneras, la Fiscal&iacute;a, hay una mesa de trabajo entre el SAT y la Fiscal&iacute;a General de la Rep&uacute;blica. Y m&aacute;s ahora que es un delito federal y que tiene prisi&oacute;n preventiva oficiosa, pues se va a seguir investigando a todas las factureras, porque todos tenemos que pagar impuestos, esa es una parte de la responsabilidad como ciudadano y hay leyes que establecen cu&aacute;ntos impuestos debes pagar, de acuerdo con tus ingresos y de acuerdo con el giro mercantil que tengas, si eres una persona moral.</p>
+
+<p>Entonces, debe ser sancionado aquel que utiliza una forma de defraudar a los mexicanos y a las mexicanas, porque no es al fisco.</p>
+
+<p><strong>PREGUNTA: Es al pa&iacute;s.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Y al pueblo de M&eacute;xico, porque los recursos p&uacute;blicos de los impuestos, pues son para regresarlos al pueblo con obras de infraestructura para el desarrollo del pa&iacute;s, o con Programas de Bienestar, o con el cumplimiento de los grandes derechos: la educaci&oacute;n, la salud, el acceso a la vivienda.</p>
+
+<p>Ese es el objetivo del presupuesto p&uacute;blico, orientado a una visi&oacute;n de: &ldquo;Por el bien de todos, primero los pobres&rdquo;. Esa es la visi&oacute;n de la Cuarta Transformaci&oacute;n.</p>
+
+<p>Pero todos tenemos que pagar impuestos. Aquel que defraude al fisco, no es al fisco, no es al gobierno, es al pueblo, es a la naci&oacute;n.</p>
+
+<p>Entonces, estas investigaciones siguen.</p>
+
+<p>Y por eso tambi&eacute;n es importante la transformaci&oacute;n del Poder Judicial, porque hay muchos jueces que cuando se trata de estos temas pues aceptan amparos a diestra y siniestra. Entonces, no porque no deba existir el amparo, debe existir, pero no para que sea para garantizar privilegios en contra de la ley.</p>
+
+<p><strong>PREGUNTA: Perd&oacute;n, Presidenta. Y estas empresas que tienen problema a&uacute;n con el SAT, no porque no hayan querido pagar, sino que confiaron en este &ldquo;rey del <em>outsourcing</em>&rdquo; y al final los defraud&oacute;, &iquest;c&oacute;mo colaborar con ellas?, &iquest;o qu&eacute; se har&aacute; con esas empresas, que son deudoras, pero, digamos, no tienen la culpa, sino que confiaron en un tercero que tambi&eacute;n los defraud&oacute;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues tienen que acercarse al SAT. Y, adem&aacute;s, hay que ver pues, la responsabilidad tambi&eacute;n, porque una empresa cuando factura tambi&eacute;n sabe a qu&eacute; factura, &iquest;verdad? Porque si vas a comprar&hellip; eres una oficina y vas a comprar papel, pues tienes una factura de alguien que vende papel.</p>
+
+<p><strong>PREGUNTA: O l&aacute;pices.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> O l&aacute;pices o computadoras, o pagas tu conexi&oacute;n a internet o no s&eacute;, lo que tenga que ver&hellip; la luz. Entonces, si compraste &iquest;a qui&eacute;n le compraste el papel?</p>
+
+<p>Entonces, por eso, en todo caso, tienen que acercarse al SAT.</p>
+
+<p>Recuerden que ya no se pueden condonar impuestos, es constitucional, nadie puede condonar impuestos; lo que hay son esquemas que permiten que haya programas de pago, que pueda haber disminuci&oacute;n de los intereses y otros esquemas, a partir de acuerdos legales que tiene el Servicio de Administraci&oacute;n Tributaria.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Perd&oacute;n por no presentarme. Marco Antonio Olvera, del diario digital <em>Hidalgo News</em>.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. Yareth Arciniega, de revista <em>Fortuna</em>.</strong></p>
+
+<p><strong>El tema del pago de impuestos. Presidenta, la Comisi&oacute;n Nacional Bancaria y Valores mult&oacute; a Banco Azteca con 1.7 millones de pesos, por no informar a los inversionistas del mercado de valores que compr&oacute; acciones de su controladora Elektra.</strong></p>
+
+<p><strong>As&iacute;, este 27 de diciembre se reunir&aacute; la Asamblea de Elektra para cancelar su registro como emisora, saldr&aacute; del mercado de valores, luego de un periodo de poca informaci&oacute;n y conflictos con sus acreedores en el mercado de valores.</strong></p>
+
+<p><strong>Incluso, algunos de estos acreedores est&aacute;n llamando a una demanda colectiva por supuesta manipulaci&oacute;n en el precio de los t&iacute;tulos; mientras tanto, la Secretar&iacute;a de Hacienda dio a conocer que solo tenemos 140 emisoras.</strong></p>
+
+<p><strong>&iquest;Este tipo de casos como el de Elektra no representa un mal precedente para la nueva Ley del Mercado de Valores, que pretende simplificar la participaci&oacute;n de las compa&ntilde;&iacute;as para que tengan acceso a recursos, y que puedan invertir y generar empleos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues es una decisi&oacute;n de la Comisi&oacute;n Nacional Bancaria y Valores, son decisiones que toman, a partir de sus propios an&aacute;lisis t&eacute;cnicos. Entonces, pues es una decisi&oacute;n de ellos.</p>
+
+<p><strong>PREGUNTA: Presidenta, en otro tema. Ante la Cofepris, la empresa de productos hospitalarios filial de Grupo PISA, investigada &mdash;hasta donde se nos ha informado&mdash;, por su posible responsabilidad en la contaminaci&oacute;n de soluciones de nutrici&oacute;n parenteral total, que caus&oacute; la muerte de 17 beb&eacute;s, registra, al menos desde 2017, varias suspensiones en su operaci&oacute;n, en el marco del art&iacute;culo 411 de la Ley General de Salud, que establece que las autoridades sanitarias pueden ordenar la inmediata suspensi&oacute;n de trabajos o servicios cuando se ponga en peligro la salud de las personas.</strong></p>
+
+<p><strong>Sin embargo, en revista <em>Fortuna</em> hemos publicado que en un informe de la Auditor&iacute;a Superior de la Federaci&oacute;n, se advirti&oacute; que esta misma empresa ha desarrollado tambi&eacute;n en los &uacute;ltimos a&ntilde;os una gran penetraci&oacute;n en los contratos del IMSS.</strong></p>
+
+<p><strong>La alerta sanitaria provocada por la contaminaci&oacute;n de la bacteria <em>klebsiella oxytoca</em> concluy&oacute; este 16 de diciembre.</strong></p>
+
+<p><strong>La pregunta es, Presidenta: si bien, el doctor Kershenobich ha asegurado que el sector salud retomar&aacute; la actividad de las centrales de mezclas, &iquest;qu&eacute; podemos esperar de la Cofepris en cuanto al papel de los verificadores, que son responsables de vigilar la operaci&oacute;n de estas empresas? Porque tambi&eacute;n tenemos informaci&oacute;n de que exfuncionarios de la misma Cofepris, aplicando otra vez &ldquo;la puerta giratoria&rdquo;, pues ahora colaboran con este tipo de compa&ntilde;&iacute;as.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Yo creo que en Cofepris, Alejandro Svarch hizo un trabajo excepcional, limpi&oacute; mucho de corrupci&oacute;n esa instituci&oacute;n, de la cual dependen muchos temas, y ahora, la directora est&aacute; haciendo un buen trabajo.</p>
+
+<p>En cuanto a la empresa, tienen que venir las sanciones administrativas y las sanciones penales, porque provoc&oacute; la muerte de peque&ntilde;itos.</p>
+
+<p>Entonces, ah&iacute; est&aacute; llevando la fiscal&iacute;a del Estado de M&eacute;xico esta investigaci&oacute;n, y est&aacute; muy cerca el &aacute;rea jur&iacute;dica de Secretar&iacute;a de Salud y al mismo tiempo, la revisi&oacute;n que ahora est&aacute; haciendo la Cofepris de las centrales de mezcla de esta y de otras empresas.</p>
+
+<p>Y el IMSS, por ejemplo, ya ha avanzado en sus propias centrales de mezcla, que ya muy pronto van a estar listas.</p>
+
+<p>&iquest;Qu&eacute; quiere decir &ldquo;centrales de mezcla&rdquo;? Hay medicamentos que requieren, que no vienen&hellip; O sea, que de lo que se compone tienen que ser mezclados, a partir de cierta caracter&iacute;stica para poder generar un medicamento. Por ejemplo, los medicamentos contra el c&aacute;ncer requieren centrales de mezcla.</p>
+
+<p>Entonces, lo que se hizo durante todo el periodo neoliberal es que se acabaron las centrales de mezcla p&uacute;blicas y entonces se compraban los medicamentos a una empresa que mezclaba, ni siquiera que produc&iacute;a los medicamentos, sino que mezclaba. Y entonces, se fue monopolizando la venta de estos medicamentos a aquellos que ten&iacute;an centrales de mezcla.</p>
+
+<p>Entonces, ahora Cofepris est&aacute; analizando esas centrales de mezcla para que cumplan, porque tienen que tener ciertos requisitos sanitarios. Ah&iacute;, donde encuentre que hay problemas, pues evidentemente tiene que suspenderse.</p>
+
+<p>Y, adem&aacute;s, se est&aacute; haciendo la investigaci&oacute;n m&aacute;s profunda, en particular sobre este caso.</p>
+
+<p><strong>PREGUNTA: Por &uacute;ltimo, Presidenta, sobre el tema del AIFA, que ha sido reconocido como uno de los aeropuertos m&aacute;s hermosos del mundo. El turismo est&aacute; creciendo a doble d&iacute;gito, a tasas del 15 por ciento; pero ayer Ecatepec, que es una de las principales v&iacute;as de acceso o la principal v&iacute;a de acceso a esta zona, se paraliz&oacute; en cuanto a la circulaci&oacute;n, porque trabajadores del organismo</strong> <strong>SAPASE, encargado del mantenimiento de agua y drenaje, demandaban el pago de sueldos atrasados.</strong></p>
+
+<p><strong>&iquest;Cu&aacute;l es el mensaje para la alcaldesa a Azucena Cisneros en Ecatepec, que recibir&aacute; un municipio en estas condiciones, en donde adem&aacute;s las calles fueron abandonadas durante gobiernos Priistas, incluso, con el &uacute;ltimo gobierno del partido Morena, que dej&oacute; abandonados las m&aacute;quinas para pavimentar muchas avenidas?</strong></p>
+
+<p><strong>&iquest;No merecen los pobladores de esta zona mejores servicios p&uacute;blicos y con ello, una mejor calidad de vida, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, hay que revisar lo que mencionas, &iquest;no? Ya se resolvi&oacute; afortunadamente el tema de Ecatepec, que as&iacute; pasa tambi&eacute;n, pasa en otros lugares y, evidentemente, tiene que atenderse.</p>
+
+<p>Ahora, recuerden que vamos a hacer un programa integral para el oriente del Estado de M&eacute;xico. Quien est&aacute; encargado &mdash;les platico&mdash; a quien nombr&eacute; de responsable de este proyecto es a Germ&aacute;n Mart&iacute;nez, que antes era el director de la Conagua; &eacute;l va a estar encargado de integralidad de este proyecto, y est&aacute; participando la secretaria de Gobernaci&oacute;n, que se han estado reuniendo con los alcaldes que van a entrar en el 2025, con la gobernadora y su equipo, para hacer un programa integral de mejoramiento urbano de la zona oriente del Estado de M&eacute;xico.</p>
+
+<p>La zona oriente, estamos hablando principalmente de los municipios urbanos &mdash;porque tambi&eacute;n tiene municipios rurales&mdash; estamos hablando en la intervenci&oacute;n en los municipios urbanos.</p>
+
+<p>Esta zona durante muchos a&ntilde;os se caracteriz&oacute; por el clientelismo pol&iacute;tico de los gobiernos Priistas, que no hac&iacute;an nada durante sus gobiernos y despu&eacute;s&hellip; o hac&iacute;an poco y despu&eacute;s, ven&iacute;a la compra del voto, &iquest;no? Pero tambi&eacute;n tiene que ver con que creci&oacute; de una manera muy desordenada toda esta zona.</p>
+
+<p>En la Ciudad de M&eacute;xico hab&iacute;a menos oferta de vivienda y tambi&eacute;n una saturaci&oacute;n de la propia ciudad. Y se promovi&oacute;, principalmente durante el periodo de Salinas, el crecimiento de la zona oriente: Chalco, Chalco, Chimalhuac&aacute;n.</p>
+
+<p>Por cierto, en muchas zonas de &mdash;por eso se llama &ldquo;Solidaridad&rdquo;&mdash; en muchas zonas con problemas de inundaciones. Por eso, Chalco es un problema en donde creci&oacute; Chalco, porque tiene much&iacute;simos problemas hist&oacute;ricos de inundaciones, que ya se est&aacute;n atendiendo desde el gobierno del Presidente y nosotros le vamos a dar m&aacute;s.</p>
+
+<p>Pero ah&iacute; viven m&aacute;s de 10 millones de personas, viven m&aacute;s personas en el oriente de la Ciudad de M&eacute;xico, en estos municipios, que en la Ciudad de M&eacute;xico; la Ciudad de M&eacute;xico tiene 9.2 millones de habitantes, y esta zona, dependiendo de cu&aacute;ntos municipios tome uno en cuenta, pues puede ser de 10 a 12 millones de habitantes. Y a veces el recurso del propio municipio no alcanza, aunque tienen, a veces, presupuestos importantes, no alcanza para poder resolver pues problemas de un rezago hist&oacute;rico muy importante.</p>
+
+<p>Entonces, ahora el objetivo es que se pongan los recursos de los municipios, los recursos del Estado de M&eacute;xico y los recursos federales en un programa integral de planeaci&oacute;n de m&aacute;s largo plazo.</p>
+
+<p>&iquest;Qu&eacute; vamos a atender? Agua, acceso al agua potable, drenaje, saneamiento, iluminaci&oacute;n, vialidad, pavimentaci&oacute;n, movilidad.</p>
+
+<p>Entonces, es un programa integral de desarrollo urbano que va a permitir ir mejorando cada vez m&aacute;s la calidad de vida y disminuir tambi&eacute;n la pobreza; es una de las zonas que concentra la mayor pobreza urbana del pa&iacute;s.</p>
+
+<p>Entonces, es uno de los grandes proyectos o quiz&aacute; el principal proyecto que vamos a desarrollar, en conjunto con la maestra Delfina y los nuevos presidentes y presidentas municipales, en el Estado de M&eacute;xico.</p>
+
+<p><strong>PREGUNTA: De la colonia Cuarta Transformaci&oacute;n y el (inaudible) de calles.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues es decisi&oacute;n de ellos. La verdad, es que&hellip; Yo creo que es mejor poner nombre de&hellip; recuperar la memoria hist&oacute;rica de M&eacute;xico, pero, bueno, si as&iacute; le quisieron poner, pues tambi&eacute;n es decisi&oacute;n de ellos.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Jos&eacute; Manuel Fuentes, de <em>Capital 21</em>, el coraz&oacute;n de la capital.</strong></p>
+
+<p><strong>Preguntarle sobre el tema, bueno, ahorita que se mencionaba a la Cofepris, realiz&oacute; un estudio&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah, muchas felicidades a <em>Capital 21,</em> que sac&oacute; unos premios, por ah&iacute; andan &mdash;a ver si los ponen&mdash;.</p>
+
+<p>Felicidades a Alonso, que fue director de <em>Capital 21</em>, ahora es director de <em>Canal 22.</em> Ayer le dieron dos premios, de series que se hicieron con muy poquitos recursos y que fueron premiadas el d&iacute;a de ayer.&nbsp; &nbsp;</p>
+
+<p>&mdash;A ver si los tienen por ah&iacute;&mdash;.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>Y, bueno, preguntarle sobre este estudio de la Cofepris que realiz&oacute; sobre las playas, ahorita que est&aacute; el tema tur&iacute;stico. Los resultados arrojaron que, de las 289, 283 son adecuadas; sin embargo, seis lugares no son aptos para los visitantes.</strong></p>
+
+<p><strong>Preguntarle: &iquest;qu&eacute; opini&oacute;n le merece este estudio y qu&eacute; va a hacer su gobierno para seguir checando este tipo de playas que mostraron que tienen todav&iacute;a riesgos para los visitantes?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Cu&aacute;les son las playas?</p>
+
+<p><strong>PREGUNTA: Aqu&iacute; las tengo, una de ellas es Baja California, que es Playa Rosarito, Rosarito I, en Rosarito y Tijuana; as&iacute; como en la Playa de Tijuana I, en Tijuana.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, ah&iacute; se est&aacute; haciendo una planta de tratamiento, &iquest;si lo recuerdan? La est&aacute; haciendo la Secretar&iacute;a de la Defensa Nacional. Debe de estar lista en quiz&aacute; el primer semestre del pr&oacute;ximo a&ntilde;o.</p>
+
+<p>Se requieren tambi&eacute;n acciones adicionales.</p>
+
+<p>Estuvimos ah&iacute; cuando estuve recientemente en Baja California con la gobernadora, fuimos a visitar el avance de la planta de tratamiento, tiene que terminarse, y acciones adicionales para que se pueda utilizar esa playa.</p>
+
+<p><strong>PREGUNTA: Bueno, porque tambi&eacute;n, bueno, en Guerrero est&aacute;&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Acapulco, recuerden que en la bah&iacute;a de Acapulco uno de los programas m&aacute;s importantes de este a&ntilde;o y del pr&oacute;ximo es el saneamiento; ah&iacute; hay varias plantas de tratamiento.</p>
+
+<p>F&iacute;jense, ese es otro de los casos, que los municipios a veces no tienen suficiente recurso para poder pagar ni siquiera la electricidad de las plantas de tratamiento y viene una ca&iacute;da de las plantas. Entonces estamos trabajando para mejorar las plantas de tratamiento, un programa integral de saneamiento de Acapulco y al mismo tiempo, un programa de trabajo junto con el municipio para poder garantizar la operaci&oacute;n de las plantas.</p>
+
+<p><strong>PREGUNTA: Y, bueno, como mi siguiente pregunta, ahorita que mencionaba lo de los medios p&uacute;blicos y le agradecemos la felicitaci&oacute;n, Presidenta, preguntarle: &iquest;c&oacute;mo se van a fortalecer los medios p&uacute;blicos en su administraci&oacute;n?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Est&aacute;n trabajando.</p>
+
+<p>&mdash;Ah&iacute; est&aacute;n: Televisi&oacute;n de Am&eacute;rica Latina, Premios TAL, ganador 2024, categor&iacute;a Identidad en Pantalla. ESTO ES TV P&Uacute;BLICA,<em> Capital 21</em>, M&eacute;xico&mdash;.</p>
+
+<p>&mdash;Y creo que tiene otro, verdad&mdash;.</p>
+
+<p>Serie documental <em>Los hijos del ma&iacute;z</em>. Es una serie preciosa esa, debe de estar ah&iacute; en el portal de <em>Capital 21</em>.</p>
+
+<p>Y tambi&eacute;n televisi&oacute;n de Am&eacute;rica Latina.</p>
+
+<p>Muchas felicidades.</p>
+
+<p>Est&aacute;n trabajando coordinadamente. Por supuesto, cada canal tiene su caracter&iacute;stica, su orientaci&oacute;n, las radios tambi&eacute;n, pero la idea es trabajar en red, ellos lo est&aacute;n haciendo.</p>
+
+<p>Repito, lo dije el otro d&iacute;a: las televisiones p&uacute;blicas no son televisiones gubernamentales, no es propaganda gubernamental, tiene que ver con una visi&oacute;n distinta y de participaci&oacute;n de la sociedad tambi&eacute;n.</p>
+
+<p>Entonces, est&aacute;n trabajando en mejorar los noticieros, mejorar los programas de debate, y tambi&eacute;n en la parte cultural y de esparcimiento que tiene que tener cualquiera de estos canales. Y est&aacute;n trabajando en red tambi&eacute;n con muchos canales p&uacute;blicos de los estados.</p>
+
+<p>Esperemos que&hellip; &iquest;Por qu&eacute; no los invitamos en enero a que vengan a platicar cu&aacute;l es la nueva visi&oacute;n de los canales p&uacute;blicos, de la televisi&oacute;n p&uacute;blica, la radio p&uacute;blica, de incorporaci&oacute;n de muchas actividades?</p>
+
+<p>Vamos a hacer un esfuerzo especial para poderlos equipar, para que puedan tener&hellip;</p>
+
+<p>Se hizo un esfuerzo muy importante para poner las antenas en el gobierno del Presidente L&oacute;pez Obrador, para que tuvieran m&aacute;s cobertura y ahora, vamos a hacer un esfuerzo poco a poco, para poder equipar para su producci&oacute;n, que permita tambi&eacute;n darle m&aacute;s calidad a los programas y que tengan ellos &mdash;porque no se requieren a veces muchos recursos&mdash; la capacidad de crear y desarrollar sus propios programas.</p>
+
+<p>Por ejemplo, algunas de las c&aacute;psulas que se hacen aqu&iacute;, que presentamos, es con apoyo de <em>Canal 14</em> o de <em>Canal Once</em>, que tienen sus propias producciones.</p>
+
+<p><strong>PREGUNTA: Y, finalmente, Presidenta preguntarle: &iquest;c&oacute;mo van las obras de la estaci&oacute;n Observatorio del Tren Interurbano M&eacute;xico-Toluca, y si ya tiene una fecha para la inauguraci&oacute;n de todo el proyecto?</strong></p>
+
+<p><strong>Muchas gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Le decimos tambi&eacute;n a Jes&uacute;s que venga.</p>
+
+<p>Se est&aacute; apoyando al Gobierno de la Ciudad, porque qued&oacute; el proyecto en el Gobierno de la Ciudad, y falta todav&iacute;a una parte de&hellip;</p>
+
+<p>Hay un video muy bonito que vi en las redes del Tren Insurgente de un ni&ntilde;o que dice: &ldquo;Esto es como volar&rdquo;. Est&aacute; muy bonito, a ver si de casualidad lo&hellip; &mdash;no, no te lo envi&eacute;&mdash; a ver si de casualidad lo ven por ah&iacute;.</p>
+
+<p>Falta una parte para llegar a Observatorio; va avanzando el proyecto. En Observatorio pues tiene que combinarse con la L&iacute;nea 1 del Metro, toda la estaci&oacute;n. Y es, adem&aacute;s, un desarrollo integral.</p>
+
+<p>Y faltan ah&iacute; algunos&hellip; falta un puente tambi&eacute;n, que es un puente colgante que se est&aacute; haciendo antes de la entrada de la Cuarta Secci&oacute;n de Chapultepec, lo que era Industria Militar; y faltan ah&iacute;, pero se sigue trabajando.</p>
+
+<p>&mdash;Adelante. La &uacute;ltima, la &uacute;ltima la &uacute;ltima por hoy&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Buenos d&iacute;as. Citlalli Guerrero, de <em>Bajo Palabra</em>.</strong></p>
+
+<p><strong>Antes que nada, le quiero dar las gracias por el regalo el d&iacute;a mi&eacute;rcoles con el <em>Himno al Migrante</em>. O sea, ten&iacute;a a&ntilde;os que no sent&iacute;a el orgullo de ser mexicana. De verdad, much&iacute;simas gracias por eso.</strong></p>
+
+<p><strong>Y, bueno, tambi&eacute;n preguntarle: hace algunas semanas usted anunci&oacute; una inversi&oacute;n de 8 mil millones de pesos para proyectos de alto impacto en Acapulco, para la recuperaci&oacute;n del hurac&aacute;n &ldquo;Otis&rdquo; y del hurac&aacute;n &ldquo;John&rdquo;.</strong></p>
+
+<p><strong>Preguntarle si &iquest;en estos proyectos usted tiene considerada a las zonas arqueol&oacute;gicas de Palma Sola y de 5 de Mayo, en La Sabana?, ya que ha sido como intenci&oacute;n siempre ofrecer como &mdash;ese sitio&mdash; como un atractivo para los visitantes de Acapulco, pero por diversas razones nunca se ha podido concretar. Entonces, preguntarle si &iquest;lo tiene considerado en estos proyectos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, se est&aacute; trabajando con el INAH para ver c&oacute;mo recuperamos.</p>
+
+<p>Por cierto, se ha recuperado bastante el turismo en Acapulco. Se est&aacute; atendiendo el tema de seguridad, el tema de agua. Y hay mucho inter&eacute;s por la reuni&oacute;n que tuvimos tambi&eacute;n de diversas inversiones privadas; tambi&eacute;n Acapulco, vinculada con la inversi&oacute;n p&uacute;blica. Y s&iacute;, tenemos que incorporar esta parte tambi&eacute;n de recuperaci&oacute;n arqueol&oacute;gica.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>Una segunda pregunta: usted, el 20 de noviembre, aqu&iacute; pidi&oacute; a los pobladores de los municipios de Costa Chica que pudieran llamar de manera directa porque no fueron censados por el hurac&aacute;n &ldquo;John&rdquo;. Tal vez estos que no fueron censados se debi&oacute; a un error humano de los servidores de la naci&oacute;n. Entonces, a la fecha, no ha habido ninguna respuesta.</strong></p>
+
+<p><strong>Preguntarle, Presidenta, si &iquest;usted tiene considerado hacer el censo para el pr&oacute;ximo a&ntilde;o o definitivamente esos pobladores que ya no fueron censados, tal vez por un error de los servidores de la naci&oacute;n, ya no tendr&aacute;n el derecho a ser censados y a recibir el apoyo para la recuperaci&oacute;n de sus viviendas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Tiene que ser de manera individual, porque el tiempo del censo ya se cumpli&oacute;; entonces, ya no vamos a censar casa por casa, eso ya se hizo.</p>
+
+<p>Si en alg&uacute;n caso no estaba, por ejemplo, la persona en la vivienda, se buscan los mecanismos para que pueda conocerse la informaci&oacute;n; y si todav&iacute;a queda alguna persona, pues, repito, que puedan llamar a la l&iacute;nea y que puedan tener respuesta. Y buscamos la manera de, si hubo alguna falla, pues que se recupere, pero ya censo como tal, ya no se va a desarrollar.</p>
+
+<p><strong>PREGUNTA: Pero ya llamaron y no han tenido respuesta. &iquest;Cu&aacute;ndo usted cree que les van a responder?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Viene en principios de enero Ariadna a hablar sobre todos los temas de los Programas de Bienestar. Y vamos a pedirle una nota ahora, que nos diga a cu&aacute;ntas personas se ha atendido, que han llamado a la L&iacute;nea de Bienestar, que piden el apoyo porque no fueron censadas.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta.</strong></p>
+
+<p><strong>Una &uacute;ltima pregunta, Presidenta: en noviembre se detuvo al Capit&aacute;n retirado Germ&aacute;n Reyes, por el supuesto involucramiento en el asesinato de Alejandro Arcos Catal&aacute;n, presidente de Chilpancingo.</strong></p>
+
+<p><strong>El secretario de Seguridad P&uacute;blica, Omar Garc&iacute;a, dio a conocer que el capit&aacute;n retirado es parte del grupo criminal de &ldquo;Los Ardillos&rdquo;. </strong></p>
+
+<p><strong>Preguntarle, si &iquest;en su gobierno hay una investigaci&oacute;n m&aacute;s amplia, a m&aacute;s profundidad para saber si otros miembros del Ej&eacute;rcito Mexicano est&aacute;n involucrados en el crimen organizado en Guerrero?, sobre todo, por esta historia claroscura que ha tenido el Ej&eacute;rcito en el estado de Guerrero. O sea, preguntar si hay&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;C&oacute;mo que &ldquo;claroscura&rdquo;?</p>
+
+<p><strong>PREGUNTA: Pues porque hay veces que el Ej&eacute;rcito ha actuado en contra del pueblo de Guerrero.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, pero eso fue&hellip; Estamos hablando de la historia de&hellip;</p>
+
+<p><strong>PREGUNTA: Pero preguntarle porque no podemos soslayar que Germ&aacute;n Reyes es parte del Ej&eacute;rcito Mexicano.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pero una cosa es que haya un elemento.</p>
+
+<p><strong>PREGUNTA: &iquest;O si es un caso aislado o si hay una investigaci&oacute;n m&aacute;s profunda?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> A ver, una cosa es un elemento de las Fuerzas Armadas que haya estado involucrado en un acto il&iacute;cito y ah&iacute;, es cero impunidad, igual que en otros casos; y otra cosa es que la instituci&oacute;n como tal, es muy distinto. No es que sea la instituci&oacute;n que est&aacute; involucrada, sino que hay elementos, igual que en la Polic&iacute;a.</p>
+
+<p>Te puedo decir, en la Ciudad de M&eacute;xico se detuvo a 300 polic&iacute;as, en su momento, cuando fui Jefa de Gobierno, m&aacute;s de 300, que estaban involucrados con el crimen organizado o hab&iacute;an cometido graves actos de corrupci&oacute;n; eso no quer&iacute;a decir que el equipo que dirig&iacute;a la Polic&iacute;a de la Ciudad de M&eacute;xico estuviera involucrada.</p>
+
+<p>Caso, es similar. Si hay un elemento que particip&oacute; en alg&uacute;n acto il&iacute;cito, pues tiene que hacerse la investigaci&oacute;n de las propias fuerzas y del Ministerio P&uacute;blico, y un juez tiene que ordenar su detenci&oacute;n, si hay las suficientes pruebas. Pero es muy distinto a que la instituci&oacute;n como tal est&eacute; involucrada.</p>
+
+<p>Entonces, s&iacute; es importante que se haga la diferencia.</p>
+
+<p>Ahora, en el caso de los grupos delictivos que son muchos que act&uacute;an en Guerrero, siguen las investigaciones. Y si hay servidores p&uacute;blicos, sean de las Fuerzas Armadas, sean presidentes municipales, sean polic&iacute;as municipales o alg&uacute;n otro funcionario &mdash;porque no se le puede decir &ldquo;servidor&rdquo;, porque servidor p&uacute;blico es el que est&aacute; al servicio del pueblo, sino un delincuente que est&eacute; ocupando alg&uacute;n cargo de funcionario p&uacute;blico&mdash;, pues tiene que actuarse.</p>
+
+<p>Pero tiene que haber pruebas tambi&eacute;n. Pero es distinto a que sea la instituci&oacute;n, el que est&eacute; involucrado.</p>
+
+<p><strong>PREGUNTA: Sobre el mot&iacute;n en Tabasco, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, lo vimos hoy en el Gabinete de Seguridad. Vamos a pedir el que vengan&hellip; pues que haya un comunicado, a ver si se puede.</p>
+
+<p>El objetivo era trasladar a dos reos, dos personas privadas de la libertad a otro penal. Y al hacer el operativo, pues encontraron armas en el penal, y ah&iacute; hubo esta circunstancia de enfrentamiento.</p>
+
+<p>Pero tiene que darse toda la informaci&oacute;n. El propio gobierno de Tabasco &mdash;vimos hoy en el video&mdash; estuvo presente para dar informaci&oacute;n a las personas, que alg&uacute;n familiar est&aacute; privado de su libertad, para que se d&eacute; toda la informaci&oacute;n.</p>
+
+<p>Y se est&aacute; haciendo la investigaci&oacute;n tambi&eacute;n, para ver si fue correcto el operativo y por qu&eacute; se encontraban armas dentro del penal.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues eso es lo que se est&aacute; investigando.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Se est&aacute; investigando por qu&eacute;, se est&aacute; investigando por qu&eacute; fue esto, el propio operativo que se hizo por parte de las autoridades estatales y con apoyo de fuerzas federales; entonces, se est&aacute; investigando y se tiene que dar toda la informaci&oacute;n. Y si hay alguna colusi&oacute;n, tambi&eacute;n.</p>
+
+<p>El trabajo de pacificaci&oacute;n, porque es eso, de pacificaci&oacute;n y de cumplimiento de la ley es un trabajo permanente. Y ah&iacute;, donde ocurren estas situaciones, pues tiene que hacerse una investigaci&oacute;n, como en otras.</p>
+
+<p>&mdash;&iquest;Listo?&nbsp; Ah, mira s&iacute; lo encontraste. A ver&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE LA IMPRESI&Oacute;N DE UN NI&Ntilde;O VIAJANDO EN EL TREN &ldquo;EL INSURGENTE&rdquo;)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, con el permiso de la familia, pero es p&uacute;blico, est&aacute; ah&iacute; en TikTok. Y es algo, la verdad, muy hermoso.</p>
+
+<p>Vamos a &ldquo;Suave Patria&rdquo;.</p>
+
+<p><strong>DIVULGADOR DE LENGUAS IND&Iacute;GENAS, BULMARO JU&Aacute;REZ P&Eacute;REZ:</strong> Con su permiso, Presidenta.</p>
+
+<p><em>Kempanollo</em>, desde Palacio Nacional. Les acabo de saludar en la lengua n&aacute;huatl, una variante que a&uacute;n se habla en el municipio de Texcoco, en el Estado de M&eacute;xico.</p>
+
+<p>Hoy, en nuestra secci&oacute;n &ldquo;Suave Patria&rdquo;, vamos a presentarles y les traemos unas tradiciones m&aacute;s queridas y representativas del pueblo de M&eacute;xico ante el mundo: la pi&ntilde;ata, sin&oacute;nimo de alegr&iacute;a, fiestas, emoci&oacute;n, porque la pi&ntilde;ata nos une como familia y tambi&eacute;n como pueblo.</p>
+
+<p>Yo les pregunto: los mexicanos tenemos todo, todo, todo, en nuestra cultura, pero tambi&eacute;n tenemos muchas tradiciones y estas tradiciones es importante reflejarlas en la familia, en las hijas, en las nietas, en toda la familia en la expresi&oacute;n.</p>
+
+<p>Si me lo permite, Presidenta, les compartimos esta pieza especial hecha en el municipio de Acolman, &ldquo;cuna de la pi&ntilde;ata&rdquo;.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p>&mdash;Adelante con la c&aacute;psula&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE LA SECCI&Oacute;N &ldquo;SUAVE PATRIA&rdquo; SOBRE LAS PI&Ntilde;ATAS ELABORADAS EN ACOLMAN, ESTADO DE M&Eacute;XICO)</strong></p>
+
+<p><strong>DIVULGADOR DE LENGUAS IND&Iacute;GENAS, BULMARO JU&Aacute;REZ P&Eacute;REZ:</strong> &iquest;A poco no es emocionante ese momento en el que, sin importar nuestra edad, gritamos, cantamos, re&iacute;mos, cuando rompemos la pi&ntilde;ata? Como lo dice la se&ntilde;ora Josefina, &ldquo;vamos a romper las pi&ntilde;atas, pero nunca nuestras tradiciones&rdquo;.</p>
+
+<p>&mdash;Si me lo permite, Presidenta, un peque&ntilde;o obsequio que le manda la se&ntilde;ora Josefina: un par de aretitos&mdash;.</p>
+
+<p>Muchas gracias.</p>
+
+<p><em>Tlasohkamati miak</em>. Much&iacute;simas gracias.</p>
+
+<p>Con su permiso, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;&iexcl;Ay, se rompi&oacute;! Bueno, ahorita lo arreglamos. Se zaf&oacute;, m&aacute;s bien&mdash;.</p>
+
+<p><strong>DIVULGADOR DE LENGUAS IND&Iacute;GENAS, BULMARO JU&Aacute;REZ P&Eacute;REZ:</strong> &mdash;Ahorita lo arreglamos&mdash;.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Bueno aqu&iacute; est&aacute;. Son aretes&mdash;.</p>
+
+<p>Muchas gracias. Nos vemos el lunes.</p>
+
+<p>Rompan la pi&ntilde;ata, no las tradiciones.</p>
+
+<p>Gracias.</p>
+
+<p><strong>---000---</strong></p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-12-20 08:11:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de diciembre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-diciembre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-diciembre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de diciembre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-diciembre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-diciembre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 20 de diciembre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-diciembre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-diciembre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-20-de-diciembre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

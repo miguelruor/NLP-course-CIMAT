@@ -1,0 +1,1558 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de octubre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de octubre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/150622/Conferencia_mananera__8_.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-octubre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/150622/Conferencia_mananera__8_.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="/ScSdD/xyCIH99uSVdTmEO1mlUMeyPcVHPJr1HCYhN0=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7hzwz44jyka-f-0abdffedf-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"de32858","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62449,"ak.gh":"23.47.207.151","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296852","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==DYu/KnGj9tr/s6RQjRy5yTyXqto9mLMQLuUtljzaAaMPgNagK9ymZ/iFRMcaENxxkESG9i7GcTSXpEZG4t8nVN4XsVhLlUgAPdlG8NZYwc8Uoe8kTp0cAGACrpbTcHCPcZ1NKkDh6ZPNdFqeGAx+LkyiWQi/fYLW7qxipeRlb1Nqqq8ACC0OM+VuiXaYFUxlsRamwL3QLYoP0Zx9gd3GudKCe6ivkFrokW+kwPfvY2N99ndyA2Q/2uJ2DtZPrgOtXU/jeRgOL9ytlcj5WGi1gQ6UdwFbTVM2fF3WXep4ljuCBthWNyDOPLcJRkG6VRSY2f7P0Fp8RPfDUwMPhzD3rV6Lv37BH/PfKB1nl0bkou8BUA47elsugrxcGaIrQVRkGXjFEwS5az5VyekyBLMqIQaJZnFz2bK9mgVMigDAxl0=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de octubre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 21 de octubre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/150622/Conferencia_mananera__8_.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Buenos d&iacute;as. El d&iacute;a de hoy vamos a hablar sobre los avances en los nuevos Programas de Bienestar: mujeres de 63 y 64 a&ntilde;os que estamos registrando, y tambi&eacute;n de becas.</p>
+
+<p>Y tambi&eacute;n Mario nos va a presentar &mdash;quedamos el d&iacute;a de hoy&mdash; el tema de la desaparici&oacute;n de productos chatarra en las escuelas, nos va a platicar c&oacute;mo va a ser este proceso.</p>
+
+<p>Y despu&eacute;s, Rosa Icela va a hacer un recuento, nuevamente, de los problemas con el Poder Judicial y vamos a hacer una revisi&oacute;n de nuevo de c&oacute;mo es que se dio la reforma constitucional al Poder Judicial.</p>
+
+<p>Antes de ello, quisiera manifestar que lamentamos el homicidio, el asesinato del padre Marcelo P&eacute;rez P&eacute;rez en San Crist&oacute;bal de las Casas. Se est&aacute; haciendo la investigaci&oacute;n, el d&iacute;a de ayer la secretaria de Gobernaci&oacute;n estuvo en comunicaci&oacute;n, tanto con el gobierno estatal como con la di&oacute;cesis y las autoridades eclesi&aacute;sticas; estamos coordin&aacute;ndonos para poder avanzar en la investigaci&oacute;n y que este crimen no quede impune.</p>
+
+<p>Adelante, secretaria de Bienestar.</p>
+
+<p><strong>ARIADNA MONTIEL REYES, SECRETARIA DE BIENESTAR: </strong>Con el permiso de la presidenta, vamos a presentar los avances de los nuevos programas de Bienestar. En el caso de la pensi&oacute;n para mujeres adultas mayores, la Pensi&oacute;n Mujeres Bienestar, al d&iacute;a 20 de octubre, el d&iacute;a de ayer, tenemos registradas casi 705 mil mujeres. Nos da mucho gusto porque la informaci&oacute;n ha sido suficiente y ha llegado la gente, las personas que van a registrarse. El registro est&aacute; programado para dos meses, pero ya llevamos el 65 por ciento de la meta en dos semanas, as&iacute; que seguramente vamos a acabar antes del tiempo programado.</p>
+
+<p>Tenemos dos mil 600 m&oacute;dulos dispuestos para el registro, hay un m&oacute;dulo en cada municipio, pueden consultar la p&aacute;gina de la Secretar&iacute;a del Bienestar y ah&iacute; pican donde viene el estado y su municipio, y va a salir la ubicaci&oacute;n del m&oacute;dulo.</p>
+
+<p>Aqu&iacute; son im&aacute;genes de las mujeres tanto en las zonas ind&iacute;genas como en las zonas urbanas y rurales.</p>
+
+<p>Y, bueno, como ustedes han visto, este fin de semana la presidenta ha estado supervisando este trabajo en los m&oacute;dulos directamente visit&aacute;ndolos.</p>
+
+<p>Y en lo que tiene que ver con el programa Salud Casa por Casa, como saben, iniciamos un censo de los adultos mayores y de las personas con discapacidad a partir del d&iacute;a 7 de octubre. A este momento tenemos 502 visitas de adultos mayores a sus casas y 65 mil, casi 66 mil personas con discapacidad y hemos visitado 569 mil viviendas al d&iacute;a de ayer. Esta labor la estamos haciendo con un poco m&aacute;s de 18 mil servidores y servidoras de la naci&oacute;n que est&aacute;n yendo casa por casa. Este registro se va a hacer entre el mes de octubre, noviembre y diciembre, esta visita, as&iacute; que nos esperen, pronto vamos a pasar a visitarlos. Estas son im&aacute;genes de c&oacute;mo estamos pasando a visitar a las personas.</p>
+
+<p>Y el d&iacute;a de hoy comienza la contrataci&oacute;n del personal m&eacute;dico, de enfermeras, para realizar estas visitas el a&ntilde;o entrante, que se har&aacute;n cada dos meses, se har&aacute;n peri&oacute;dicamente, y se va a hacer un tratamiento personalizado a cada adulto mayor, a cada persona con discapacidad. Las actividades que van a realizar las enfermeras son trabajar en el territorio casa por casa, realizar estas visitas, entregar la cartilla de salud y llevar el historial cl&iacute;nico de cada persona, brindar la atenci&oacute;n primaria y enlazarlas a los siguientes niveles de atenci&oacute;n, y darle un seguimiento puntual al estado de salud de las personas.</p>
+
+<p>Para la contrataci&oacute;n, inicia, como les digo, el d&iacute;a de hoy 21 de octubre, concluye el 15 de noviembre.</p>
+
+<p>&iquest;Cu&aacute;les son los requisitos?</p>
+
+<p>Tener licenciatura en Medicina o en Enfermer&iacute;a.</p>
+
+<p>Presentar una identificaci&oacute;n oficial vigente: pasaporte, credencial de elector, alguna otra.</p>
+
+<p>La CURP tambi&eacute;n, de reciente impresi&oacute;n, nos importa mucho eso, para que sea la CURP actualizada.</p>
+
+<p>El comprobante de estudios de su nivel m&aacute;ximo.</p>
+
+<p>Y llenar un formato en el m&oacute;dulo de atenci&oacute;n.</p>
+
+<p>Vamos a hacer esta contrataci&oacute;n donde se est&aacute;n registrando las mujeres, el programa de Pensi&oacute;n Mujeres Bienestar, ah&iacute; se va a hacer la contrataci&oacute;n, llevan sus documentos y ah&iacute; se van a registrar. Y en el mes de diciembre ya les vamos a notificar qui&eacute;n ha cubierto los requisitos, porque tambi&eacute;n debemos de procurar la cobertura territorial, no solamente el n&uacute;mero, sino que est&eacute;n distribuidas a lo largo y ancho de todo el pa&iacute;s.</p>
+
+<p>Es cuanto, presidenta. Muchas gracias.</p>
+
+<p><strong>MARIO DELGADO CARRILLO, SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA:</strong> Muchas gracias. Buenos d&iacute;as. Con su permiso, presidenta.</p>
+
+<p>Informo r&aacute;pidamente de c&oacute;mo vamos con la beca &lsquo;Rita Cetina&rsquo;. Esta semana que termin&oacute; iniciaron las asambleas en las secundarias, realizamos siete mil asambleas en siete mil secundarias diferentes, el universo son 35 mil. La idea es que vayamos a todas las secundarias p&uacute;blicas de aqu&iacute; al 11 de noviembre, que en esa fecha se va a abrir el registro en l&iacute;nea.</p>
+
+<p>En esta semana contactamos a un mill&oacute;n 200 mil padres de familia y docentes que nos han ayudado a difundir esta beca. A partir del 11 de noviembre se abre el registro en l&iacute;nea, hasta el 18 de diciembre, para que a partir del 2025 inicie la distribuci&oacute;n de las tarjetas y las familias empiecen a recibir el apoyo.</p>
+
+<p>El apoyo, como lo anunciamos, como lo determin&oacute; la presidenta Claudia Sheinbaum, es de mil 900 pesos por familia, m&aacute;s 700 pesos por cada ni&ntilde;o que tenga adicional la familia estudiando en b&aacute;sica, son los requisitos, vamos conforme a lo planeado.</p>
+
+<p>Y tal como se comprometi&oacute; tambi&eacute;n nuestra presidenta la semana pasada, hoy vamos a informar sobre la estrategia &lsquo;Vida saludable en las escuelas&rsquo;.</p>
+
+<p>Primero, informar que el pasado 30 de septiembre la secretaria de Educaci&oacute;n, Leticia Ram&iacute;rez, y el secretario de Salud, Jorge Alcocer, publicaron un acuerdo muy favorable para promover la salud alimentaria en las escuelas, el acuerdo mediante el cual se establecen los lineamientos generales a los que deber&aacute;n sujetarse la preparaci&oacute;n, la distribuci&oacute;n y el expendio de los alimentos y bebidas preparados, procesados y a granel, as&iacute; como el fomento de los estilos de vida saludables en alimentaci&oacute;n dentro de toda escuela del Sistema Educativo Nacional, emitido de manera conjunta por la SEP y la Secretar&iacute;a de Salud.</p>
+
+<p>Tiene una vigencia de 180 d&iacute;as para entrar en vigor, es decir, el pr&oacute;ximo 29 de marzo del 2025 ya ser&aacute; obligatorio para todas las escuelas del Sistema Educativo Nacional de los tres niveles: b&aacute;sica, media superior y superior. Es decir, se tienen que cumplir en las 258 mil 689 escuelas que hay dentro del Sistema Educativo Nacional.</p>
+
+<p>&iquest;Por qu&eacute; este acuerdo?</p>
+
+<p>Bueno, tenemos estad&iacute;sticas, datos, diagn&oacute;sticos de la Secretar&iacute;a de Salud. Primero, decir que ya hab&iacute;a algunos lineamientos, pero no ten&iacute;an la fuerza suficiente, y la realidad es que en la gran mayor&iacute;a de las escuelas sigue prevaleciendo la venta de productos de comida con muy poco valor nutricional, la comida conocida como &lsquo;chatarra&rsquo;. Un estudio que realizaron organizaciones revela que en el 98 por ciento de las escuelas donde se hizo ese estudio todav&iacute;a se vende comida chatarra, en el 95 por ciento bebidas azucaradas, en el 79 por ciento refrescos y 77 por ciento&hellip; Afuera de las escuelas tambi&eacute;n venden este tipo de productos.</p>
+
+<p>&iquest;Cu&aacute;l es la problem&aacute;tica? &iquest;Por qu&eacute; estamos abordando estos temas?</p>
+
+<p>Porque tenemos una realidad en M&eacute;xico. Seg&uacute;n la Encuesta Nacional de Salud y Alimentaci&oacute;n, hay 5.8, 5.7 millones de estudiantes entre cinco y 11 a&ntilde;os que tienen problemas de obesidad o sobrepeso, y 10.4 millones de estudiantes entre los 12 y 19 a&ntilde;os. Esta es una problem&aacute;tica que no podemos ignorar, no podemos obviar.</p>
+
+<p>Tiene que ver este sobrepeso, esta obesidad, con el alto consumo de azucares, su ingesta es muy alta, la gran mayor&iacute;a provienen de refrescos y productos ultraprocesados, y cerca de dos terceras partes, el 66 por ciento de la poblaci&oacute;n escolar supera el l&iacute;mite m&aacute;ximo recomendado por la Organizaci&oacute;n Mundial de la Salud.</p>
+
+<p>Adicionalmente, siete de cada 10 escolares y cinco de cada 10 adolescentes son inactivos, es decir, hacen muy poco ejercicio, muy poca actividad f&iacute;sica, estamos en la televisi&oacute;n, en el tel&eacute;fono y esto propicia tambi&eacute;n la obesidad, seg&uacute;n la Encuesta de Salud y Nutrici&oacute;n en Salud.</p>
+
+<p>&iquest;Qu&eacute; pas&oacute;?</p>
+
+<p>Que en el periodo neoliberal no les preocup&oacute; esta situaci&oacute;n; al contrario, se promovi&oacute; la venta de estos productos, y hubo campa&ntilde;as incluso contra el hambre que la promov&iacute;an las empresas que producen estos alimentos chatarra, el modelo neoliberal convirti&oacute; en mercanc&iacute;a los derechos como la educaci&oacute;n, la salud y la alimentaci&oacute;n.</p>
+
+<p>Dentro de los 100 puntos que present&oacute; la presidenta Claudia Sheinbaum est&aacute; uno muy importante, que es donde se engloban estas acciones: convertir a las escuelas en espacios para la promoci&oacute;n de una vida saludable, esto es el combate a la obesidad, el sobrepeso, la prevenci&oacute;n de las adicciones, la salud mental, la salud bucal, la salud visual y promover la actividad f&iacute;sica y la pr&aacute;ctica deportiva. Con acciones para una vida saludable, con la participaci&oacute;n de la comunidad escolar se pretende contribuir al ejercicio pleno del derecho a una alimentaci&oacute;n nutritiva suficiente y de calidad.</p>
+
+<p>Ahora, &iquest;qu&eacute; acciones vamos a hacer a partir de lo que dispone este acuerdo publicado el 30 de septiembre?</p>
+
+<p>Primero, detener o impedir la venta de alimentos ultraprocesados y con bajo valor nutricional en los espacios escolares.</p>
+
+<p>&iquest;Cu&aacute;les son estos productos?</p>
+
+<p>Pues, muy f&aacute;cil, los que tienen los sellos que todos conocemos, los sellos que est&aacute;n establecidos en la Norma 051. Ning&uacute;n producto que tenga estos sellos puede venderse dentro de las escuelas, as&iacute; de f&aacute;cil, porque las infancias, las adolescencias pueden tomar decisiones saludables si tienen a su alcance alimentos saludables. Y la calidad de la alimentaci&oacute;n no depende de los estudiantes, sino de los alimentos disponibles que ellos tienen en las escuelas.</p>
+
+<p>Entonces, la idea, como es un espacio natural para la formaci&oacute;n que los ni&ntilde;os no tengan a su alcance este tipo de productos y eso les asegure una vida m&aacute;s saludable.</p>
+
+<p>Dos, &iquest;qu&eacute; necesitamos tener en las escuelas?, acceso a agua potable. Sabemos que es muy complicado, pero vamos a orientar a La Escuela es Nuestra para que los padres de familia, que son quienes deciden en qu&eacute; se invierten estos recursos, decidan por poner bebedores en las escuelas y que los ni&ntilde;os, las ni&ntilde;as, tengan acceso al agua, esto es fundamental para evitar la venta tambi&eacute;n de los refrescos y bebidas azucaradas, deben tener acceso al agua.</p>
+
+<p>Tres, tenemos que hablar y capacitar a los responsables de las cooperativas escolares. Si no podemos pretender que se publiquen estos lineamientos, se conviertan en obligatorios y de repente todos los encargados de las cooperativas empiecen a actuar a partir de estas disposiciones. Tenemos que ir con ellos, tenemos la obligaci&oacute;n como autoridad y darles informaci&oacute;n, generar material tambi&eacute;n para ellos para decirles qu&eacute; no, pero decirles qu&eacute; s&iacute;, y c&oacute;mo pueden transformar lo que ellos venden en alimentos saludables, eso es importante, hacernos responsables para que prioricen el consumo de alimentos locales, de temporada, dice en los lineamientos: &lsquo;el consumo de verduras, frutas, semillas, alimentos y bebidas naturales de la regi&oacute;n y de temporada&rsquo;.</p>
+
+<p>Cuatro, necesitamos informaci&oacute;n, necesitamos una estrategia de comunicaci&oacute;n, &iquest;para qui&eacute;nes?, para los maestros, para los padres y madres de familia, tutores, tutoras, por supuesto para los directores de las escuelas y ya dijimos de los responsables de las cooperativas, informaci&oacute;n tambi&eacute;n para los ni&ntilde;os y para las ni&ntilde;as. Pero tiene que haber una estrategia de comunicaci&oacute;n preparada especialmente para cada uno de estos p&uacute;blicos. Tambi&eacute;n, la Secretar&iacute;a de Salud tiene las <em>Gu&iacute;as para el buen comer</em> y recetarios de alimentaci&oacute;n saludable y econ&oacute;mica; por supuesto, que toda la informaci&oacute;n sobre qu&eacute; productos y nutrici&oacute;n lo hace la Secretar&iacute;a de Salud.</p>
+
+<p>Entonces, tenemos que apostar a generar conciencia en los maestros, en los padres y madres de familia, en qui&eacute;nes venden estos productos en las escuelas y, lo m&aacute;s importante, en los ni&ntilde;os, en las ni&ntilde;as y en los adolescentes.</p>
+
+<p>Tenemos dentro de la Escuela Mexicana, uno de los ejes articuladores es el de la vida saludable; es decir, los libros de texto y la Nueva Escuela Mexicana ya tiene contemplado este eje. Entonces, ah&iacute; les dir&iacute;a que vamos avanzando en ese sentido.</p>
+
+<p>Y, por &uacute;ltimo, a los maestros se est&aacute; haciendo, se tiene listo un diplomado preparado con las autoridades de salud, el IMSS, el Issste, para que podamos entrar de manera masiva con los maestros con un diplomado y que tengan mucha informaci&oacute;n al respecto.</p>
+
+<p>Tambi&eacute;n tenemos que promover la actividad y la pr&aacute;ctica deportiva en todas las escuelas, la presidenta nos ha pedido que analicemos c&oacute;mo podemos ir extendiendo el horario para la pr&aacute;ctica deportiva y tambi&eacute;n para la promoci&oacute;n de las artes.</p>
+
+<p>Y le vamos a dar, por &uacute;ltimo, seguimiento a todo lo que hagamos para poder ir midiendo c&oacute;mo estos lineamientos tienen un impacto en la salud de los ni&ntilde;os y las ni&ntilde;as, que es el principal objetivo.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Cambiamos de tema.</p>
+
+<p><strong>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ, SECRETARIA DE GOBERNACI&Oacute;N:</strong> Con su permiso, presidenta de M&eacute;xico. Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Por instrucci&oacute;n de la presidenta Claudia Sheinbaum presentamos ahora un seguimiento de lo que se ha venido tratando aqu&iacute; en esta tribuna hoy: los excesos en el Poder Judicial. Decir que integrantes del Poder Judicial de la Federaci&oacute;n han emitido resoluciones y amparos, frenando la aplicaci&oacute;n de leyes dise&ntilde;adas para beneficiar a la sociedad mexicana y garantizar los derechos de la ciudadan&iacute;a. Como consecuencia, han intentado cientos de veces paralizar proyectos importantes como obras p&uacute;blicas o pol&iacute;ticas de bienestar, tambi&eacute;n han retrasado la emisi&oacute;n de resoluciones y sentencias, generando impunidad y negando el acceso a la justicia.</p>
+
+<p>Algunos ejemplos son, en el caso de las personas privadas de la libertad, que son alrededor de 21 mil que est&aacute;n en los centros federales, un total de seis mil 97, es decir, m&aacute;s del 28 por ciento no han recibido sentencia, estamos hablando de hombres y mujeres que permanecen recluidos.</p>
+
+<p>Otro ejemplo es en el Centro Femenil de Morelos en el Penal Femenil Federal. De un total de mil personas, mil mujeres que se encuentran ah&iacute;, 415 personas privadas de la libertad, mujeres, han esperado entre un a&ntilde;o y 17 a&ntilde;os para una sentencia. Es decir, por ejemplo, aqu&iacute; est&aacute; lista de cu&aacute;nto es el rango de tiempo en espera: el 34 por ciento lleva entre nueve y 12 a&ntilde;os de prisi&oacute;n sin la resoluci&oacute;n de un juzgador.</p>
+
+<p>Tambi&eacute;n nos referimos aqu&iacute; a los amparos y suspensiones contra leyes, obras y pol&iacute;ticas p&uacute;blicas. A trav&eacute;s de suspensiones, el Poder Judicial ha obstaculizado e impedido la aplicaci&oacute;n de algunas leyes, obras y reformas que favorecen al pueblo de M&eacute;xico, invadiendo con ello la competencia de poderes.</p>
+
+<p>Algunas de las leyes y las suspensiones vienen en este cuadro, esta es informaci&oacute;n de la Consejer&iacute;a Jur&iacute;dica del Ejecutivo Federal. Por ejemplo, la Ley de la Industria El&eacute;ctrica lleva 161 suspensiones de amparo; la Ley de la Guardia Nacional, la Guardia Nacional que tanto bien hace a los mexicanos, cinco suspensiones de amparo; la Ley de Miner&iacute;a, cinco; el Fondo de Pensiones para el Bienestar, que apoya, que ayuda a los trabajadores mexicanos, lleva 25; y la extinci&oacute;n de fideicomisos del Poder Judicial de la Federaci&oacute;n, 717.</p>
+
+<p>Evidentemente, otros, como los vapeadores, que da&ntilde;an a nuestra juventud, 240 suspensiones de amparo; otras, las del Tren Maya, dos; otras en pol&iacute;ticas p&uacute;blicas como los libros de texto gratuitos, su entrega en el periodo 2023-24, 26 suspensiones de amparo; las &aacute;reas naturales protegidas, cinco; supresi&oacute;n de la Junta Federal de Conciliaci&oacute;n y Arbitraje, 73; conferencias matutinas, tambi&eacute;n la parte del derecho a la libertad de expresi&oacute;n, ocho; y tambi&eacute;n de las &aacute;reas naturales protegidas.</p>
+
+<p>La injerencia del Poder Judicial Federal en asuntos electorales. Esto, como ya se ha dicho aqu&iacute;, aqu&iacute; hay una ley de amparo que proh&iacute;be la intromisi&oacute;n del Poder Judicial en este tema; sin embargo, en diciembre de 2023 la ministra Norma Pi&ntilde;a convoc&oacute; a una cena privada en la casa del ministro Gonz&aacute;lez Alc&aacute;ntara en la que asisti&oacute; el dirigente del PRI, Alejandro Moreno, y fueron invitados el coordinador tambi&eacute;n de campa&ntilde;a de la candidata X&oacute;chitl G&aacute;lvez, Santiago Creel, y los magistrados electorales de la Sala Superior del Tribunal Federal Electoral.</p>
+
+<p>En julio de 2024, por ejemplo, otro caso, un juez de distrito orden&oacute; al Tribunal Electoral designar dos magistraturas vacantes para calificar la elecci&oacute;n presidencial, lo que fue rechazado por la Sala Superior por ser excesivo y violatorio del art&iacute;culo 99 constitucional.</p>
+
+<p>Tambi&eacute;n, en agosto de 2024, la ministra Pi&ntilde;a admiti&oacute; un recurso del dirigente del PAN, Marko Cort&eacute;s, para que la corte interpretara y definiera los criterios para la asignaci&oacute;n de diputaciones plurinominales en el Congreso.</p>
+
+<p>Otra, son los procesos viciados en la selecci&oacute;n de jueces donde se dan venta de ex&aacute;menes y se han documentado casos de corrupci&oacute;n al m&aacute;s alto nivel de la escuela judicial, donde se han vendido los ex&aacute;menes de oposici&oacute;n para jueces en 186 mil pesos.</p>
+
+<p>Tambi&eacute;n el tema de los concursos de oposici&oacute;n, que han sido impugnados por los propios jueces y los magistrados con frecuencia por la inequidad.</p>
+
+<p>Y el influyentismo y la falta de criterios objetivos, pues s&oacute;lo las personas cercanas a jueces y magistrados resultan vencedoras.</p>
+
+<p>Y qu&eacute; decir del tema del nepotismo, donde en diciembre de 2022 el propio Consejo de la Judicatura Federal revel&oacute; que la mitad del personal, es decir, el 49 por ciento equivalente a 24 mil 546 personas del Poder Judicial tienen al menos un familiar trabajando dentro de este poder, el 85.4 por ciento de los magistrados y el 67 por ciento de los jueces tienen familiares en el Poder Judicial, los magistrados tienen en promedio 4.7 familiares trabajando ah&iacute; y el 23.7 por ciento del personal del Poder Judicial tiene m&aacute;s de cuatro familiares trabajando en esta instituci&oacute;n.</p>
+
+<p>La persona que acumula m&aacute;s familiares en el Poder Judicial tiene 26 parientes, incluyendo un magistrado, 13 secretarios, dos actuarios y 10 oficiales, esto de acuerdo a la informaci&oacute;n oficial del propio Consejo de la Judicatura.</p>
+
+<p>En relaci&oacute;n con los castigos, las sanciones que tienen las actuaciones de funcionarios del Poder Judicial, han generado pues inconformidades porque hay quejas y de las cuales, en materia de disciplina de 2004 al 2023, se han presentado por supuesto algunas por parte del Ejecutivo; del Legislativo o de ciudadanos o de miembros del propio Poder Judicial, 38 mil quejas en contra de servidores p&uacute;blicos. De estas, el 86 por ciento fue desechado sin iniciar ninguna investigaci&oacute;n; del resto de las quejas que s&iacute; se investigaron, el Consejo de la Judicatura s&oacute;lo sancion&oacute; a 472 jueces y magistrados.</p>
+
+<p>Pero enseguida vienen el tipo de sanciones:</p>
+
+<p>El 0.7 por ciento del total, 0.7 por ciento del total recibi&oacute; un apercibimiento y una amonestaci&oacute;n.</p>
+
+<p>El 0.2 por ciento del total, o 0.2 por ciento del total recibi&oacute; una suspensi&oacute;n moment&aacute;nea.</p>
+
+<p>El 0.1 del total, 0.1 del total recibi&oacute; una destituci&oacute;n, que en muchos de los casos despu&eacute;s son amparos, otra vez regresan a trabajar.</p>
+
+<p>Inhabilitaciones, 0.6 del total, que son 23.</p>
+
+<p>Y sanciones econ&oacute;micas, 14, que es el 0.04.</p>
+
+<p>Y de enero a septiembre de 2023, el Poder Ejecutivo y la Fiscal&iacute;a General de la Rep&uacute;blica presentaron 72 denuncias contra jueces y magistrados ante el Consejo de la Judicatura Federal; ninguna con sanci&oacute;n.</p>
+
+<p>Sobre salarios y prestaciones, esto que est&aacute; totalmente fuera de la ley, la Constituci&oacute;n, recordar que establece la Constituci&oacute;n desde la reforma al art&iacute;culo 127 fracci&oacute;n 2, de 2019, que dice que ning&uacute;n servidor p&uacute;blico podr&aacute; recibir remuneraci&oacute;n por el desempe&ntilde;o de su funci&oacute;n, empleo o cargo, o comisi&oacute;n, mayor a la establecida para el presidente de la Rep&uacute;blica en el presupuesto correspondiente.</p>
+
+<p>Bueno, pues el salario de los ministros contempla todo esto que est&aacute; aqu&iacute; y alcanza un ministro de la Corte un salario de 792 mil 256 pesos mensuales, que contempla el sueldo base, la compensaci&oacute;n, las precisiones de previsi&oacute;n social, la prima vacacional, el aguinaldo, el seguro de vida, el seguro de gastos m&eacute;dicos mayores, el seguro de separaci&oacute;n individualizado, el est&iacute;mulo de antig&uuml;edad, el pago por riesgo, los vi&aacute;ticos para restaurantes de lujo, el apoyo de gasolina y el apoyo para veh&iacute;culo blindado.</p>
+
+<p>En el mismo caso est&aacute; el salario de un consejero de la judicatura, que tiene un salario mensual de 460 mil 787 pesos, y el salario de un magistrado de 374 mil 203 pesos. Evidentemente que esto est&aacute;&hellip; El salario de un juez de distrito, el salario mensual de 337 mil 575 pesos.</p>
+
+<p>Tambi&eacute;n vamos a ver r&aacute;pidamente el estatus de audiencias, &oacute;rdenes de aprehensi&oacute;n y cateos no celebrados ahora que est&aacute;n en el paro judicial. Es pertinente se&ntilde;alar el estatus de todos estos procedimientos no celebrados entre el 20 de agosto y el 30 de septiembre de este a&ntilde;o. Como resultado del paro judicial, se cancelaron 12 mil 448 audiencias. Hay que decir que todos los empleados del Poder Judicial siguen recibiendo su salario, aunque est&aacute;n en paro, pero, en tanto, este es el d&eacute;ficit que se tienen sobre la celebraci&oacute;n de las audiencias. Esta es informaci&oacute;n de la Fiscal&iacute;a General de la Rep&uacute;blica. Aunque se celebraron 31 audiencias, en 16 no se emitieron las &oacute;rdenes de aprehensi&oacute;n correspondientes; y de las 665 apelaciones pendientes de resoluci&oacute;n, el 52 por ciento tiene de cuatro a 23 meses sin que se haya emitido la sentencia respectiva. Esto tambi&eacute;n contribuye a la dilaci&oacute;n de los procesos.</p>
+
+<p>Ahora, finalmente, los veremos r&aacute;pidamente. Recordar algunos de los casos m&aacute;s relevantes de los jueces que beneficiaron a delincuentes:</p>
+
+<p>El juez Crescencio Contreras Mart&iacute;nez, adscrito al Centro de Justicia Penal Federal en Reynosa, Tamaulipas, liber&oacute; a Alberto, un delincuente alias &lsquo;el Kena&rsquo;, esto fue el 25 de enero de 2024, al no decretar la vinculaci&oacute;n a proceso por delitos de delincuencia organizada; sin embargo, bueno, la Fiscal&iacute;a General busc&oacute; otras sanciones, sigue detenido, pero se ve ah&iacute; la intenci&oacute;n de ese juez.</p>
+
+<p>Otro, pues recordar que el juez Juan Jos&eacute; Fernando Garc&iacute;a Quiroz, titular del Juzgado Octavo de Distrito en Materia de Amparo y Juicios Federales en el Estado de M&eacute;xico, concedi&oacute; la suspensi&oacute;n de plano a Rafael Caro Quintero para que no fuera extraditado a petici&oacute;n del gobierno estadounidense. Esta es una situaci&oacute;n irregular y se hizo la denuncia ante el Consejo de la Judicatura.</p>
+
+<p>Tambi&eacute;n est&aacute; el caso de Conrado Alcal&aacute; Romo, titular del Tercer Juzgado Penal en Jalisco, concedi&oacute; el 27 de febrero de 2024 un amparo en favor de H&eacute;ctor &lsquo;el G&uuml;ero&rsquo; Palma, dejando insubsistente el auto de formal prisi&oacute;n dictado por su contra, y orden&oacute; reponer el procedimiento. El amparo se estima irregular, pues el juzgador subsan&oacute; de manera indebida el actuar de la defensa de este delincuente y no tom&oacute; en cuenta lo expuesto por el agente del Ministerio P&uacute;blico.</p>
+
+<p>Otros casos son los tradicionales, porque ya es una tradici&oacute;n que muchos de los jueces el viernes en la noche, el s&aacute;bado en el d&iacute;a, el domingo otorguen liberta a delincuentes en fines de semana. Este es el caso de la jueza Ang&eacute;lica S&aacute;nchez Hern&aacute;ndez, jueza de control de Juzgados de Proceso y Procedimiento Penal Oral en Cosamaloapan, Veracruz, ella tambi&eacute;n dio una notificaci&oacute;n para que el s&aacute;bado 3 de junio el centro penitenciario federal diera el egreso de Itiel, alias &lsquo;el Compa Playa&rsquo;, &eacute;l es integrante del c&aacute;rtel Jalisco Nueva Generaci&oacute;n y est&aacute; acusado de homicidio de un diputado local en Veracruz, y dio una hora, otorg&oacute; una hora como plazo para la liberaci&oacute;n; sin embargo, contin&uacute;a en proceso por otros homicidios.</p>
+
+<p>Tambi&eacute;n, el caso del juez Rogelio Le&oacute;n D&iacute;az Villarreal, quien dio un plazo de tres horas, tres horas, tambi&eacute;n un domingo en la ma&ntilde;ana, para la liberaci&oacute;n de Abraham, alias &lsquo;el Rodo&rsquo;, integrante del c&aacute;rtel Jalisco y hermano del l&iacute;der del c&aacute;rtel Jalisco, acusado de portaci&oacute;n de arma de fuego y de delitos contra la salud; sin embargo, este juez le dio la libertad.</p>
+
+<p>Tambi&eacute;n, el caso de otro juez que en un &lsquo;sabadazo&rsquo; le dio tambi&eacute;n la libertad el 28 de junio de 2024 y con un plazo de 24 horas para que fuera liberado de forma anticipada Marcelino &lsquo;N&rsquo;, alias &lsquo;el Fantasma&rsquo;, integrante del c&aacute;rtel de Sinaloa, y tambi&eacute;n &eacute;l estaba acusado de delitos contra la salud y de otros, posesi&oacute;n de arma de fuego.</p>
+
+<p>Tambi&eacute;n, ha dado cambios de medidas cautelares para mandarlos a domicilio el juez Juan Pedro&hellip; No, el magistrado Juan Pedro Contreras Navarro, del Tribunal Colegiado de Apelaci&oacute;n en Materia del Primer Circuito, &eacute;l otorg&oacute; un amparo a Emilio &lsquo;N&rsquo; para mandarlo a su domicilio a pesar de todos los delitos.</p>
+
+<p>Tambi&eacute;n, el mismo caso para Francisco Javier, exgobernador de Tamaulipas, se&ntilde;alado por v&iacute;nculos con la delincuencia organizada y operaciones de recursos de procedencia il&iacute;cita, esto fue por la jueza Adriana Yolanda Vega, jueza octava de distrito en Tamaulipas, quien otorg&oacute; el 30 de noviembre de 2023 un amparo a este exfuncionario para dejar insubsistente una orden de aprehensi&oacute;n de fecha 4 de octubre de 2022.</p>
+
+<p>Tambi&eacute;n est&aacute; el caso del magistrado del Noveno Tribunal Colegiado en Materia Penal del Primer Circuito, estos magistrados, Michel Franco, Jos&eacute; Manuel Torres y Juan Carlos Ram&iacute;rez Ben&iacute;tez, concedieron el 24 de junio, por unanimidad de votos, una suspensi&oacute;n provisional al exgobernador de Veracruz Javier &lsquo;N&rsquo; para evitar que sea detenido por alguna otra orden de aprehensi&oacute;n en su contra sin importar el delito que se trate.</p>
+
+<p>Tambi&eacute;n est&aacute; el juez s&eacute;ptimo de distrito de Amparo en Materia Penal en la Ciudad de M&eacute;xico, Julio Vered&iacute;n Sena Vel&aacute;zquez, quien otorg&oacute; el 13 de mayo de 2024 un amparo directo a Jos&eacute; Rodolfo, quien es presunto l&iacute;der del grupo criminal de los Beltr&aacute;n Leyva para evitar su traslado del Reclusorio Preventivo Sur de la ciudad al Altiplano.</p>
+
+<p>Y est&aacute; tambi&eacute;n el caso del juez Marco Antonio Beltr&aacute;n Moreno, juez de distrito especializado en el sistema penal adscrito al Centro de Justicia del Estado de M&eacute;xico, quien modific&oacute; el 29 de septiembre la prisi&oacute;n preventiva justificada contra Roberto &lsquo;N&rsquo;, exgobernador de Quintana Roo, y lo cambi&oacute; por una colocaci&oacute;n de un brazalete electr&oacute;nico y arraigo domiciliario.</p>
+
+<p>Tambi&eacute;n est&aacute;, finalmente, el caso de Rub&eacute;n&hellip; los magistrados Rub&eacute;n Arturo S&aacute;nchez Valencia y Luis Alberto Castro Vel&aacute;zquez, magistrados del Primer Tribunal Colegiado en Materia Penal del Segundo Circuito en el Estado de M&eacute;xico, quienes votaron el 15 de noviembre de 2023 a favor de otorgar un amparo a Jos&eacute; Luis &lsquo;N&rsquo;, expresidente municipal de Iguala, Guerrero, para que se le dictaran otras medidas cautelares distintas a la prisi&oacute;n preventiva oficiosa; sin embargo, pues &eacute;l contin&uacute;a en prisi&oacute;n por otras causas.</p>
+
+<p>Tambi&eacute;n est&aacute; el tema de la jueza s&eacute;ptima de distrito en Materia Administrativa en la Ciudad de M&eacute;xico, Mar&iacute;a Isabel Bernal Hern&aacute;ndez, quien otorg&oacute; el 2 de octubre una suspensi&oacute;n definitiva a favor de Tom&aacute;s para que funcionarios de la Secretar&iacute;a de Gobernaci&oacute;n se abstuvieran de condenarlo ante la opini&oacute;n p&uacute;blica y de emitir juicio alguno sobre el hecho que se investiga, hasta que no se acredite delito alguno. &Eacute;l es, tiene responsabilidad sobre el tema del caso Ayotzinapa.</p>
+
+<p>Finalmente, estoy buscando aqu&iacute; si pueden poner una nota que tiene el peri&oacute;dico <em>Milenio</em> hoy, donde se ve&hellip; Trae a colaci&oacute;n, trae la informaci&oacute;n esta nota sobre el expediente, dice, de la jueza Nancy Ju&aacute;rez Salas.</p>
+
+<p>&iquest;Qui&eacute;n es esta juez?</p>
+
+<p>Es quien le env&iacute;a un ultim&aacute;tum a la presidenta de M&eacute;xico de que: o elimina del <em>Diario Oficial de la Federaci&oacute;n l</em>a publicaci&oacute;n sobre la reforma al Poder Judicial en 24 horas o enterar&iacute;a al Ministerio P&uacute;blico Federal de que ella habr&iacute;a cometido el delito de desacatado, que puede ser castigada hasta con siete a&ntilde;os de prisi&oacute;n.</p>
+
+<p>Entonces, aqu&iacute; este diario dice qui&eacute;n es su&hellip; &iquest;Qui&eacute;n es esta juez? &iquest;De qu&eacute; estamos hablando? Dice que en abril del 2021 el pleno del Consejo de la Judicatura orden&oacute; una suspensi&oacute;n, su suspensi&oacute;n, tras las denuncias en su contra de 12 servidores p&uacute;blicos; sin embargo, en marzo de 2023 la suspensi&oacute;n fue revocada y volvi&oacute; a su puesto.</p>
+
+<p>La se&ntilde;ora Ju&aacute;rez Salas fue tambi&eacute;n sancionada por el resultado de tres pesquisas, que atribuy&oacute; a la juzgadora federal conductas negativas como desempe&ntilde;o deficiente, incumplimiento del horario de trabajo, nepotismo, acoso laboral y no respetar el derecho de los trabajadores adscritos a ese &oacute;rgano jurisdiccional.</p>
+
+<p>Tambi&eacute;n, en 2022 fue sometida a un procedimiento disciplinario, dice aqu&iacute;, por conductas como hostigamiento laboral, derivado de malos tratos inadecuados hacia los servidores p&uacute;blicos denunciantes; o sea, hay una denuncia de 12 servidores p&uacute;blicos en esa &eacute;poca.</p>
+
+<p>Tambi&eacute;n, en 2015, 2016, dice su r&eacute;cord de mala conducta inici&oacute; al menos en octubre de 2016 cuando estuvo sujeta al procedimiento disciplinario por la ratificaci&oacute;n irregular de licencias m&eacute;dicas y por lo cual se le impuso una sanci&oacute;n administrativa.</p>
+
+<p>Tambi&eacute;n que en los registros oficiales son conocidas las amonestaciones verbales contra la defensora, por faltas que van desde irregularidades en la expedici&oacute;n de nombramientos y descuido en el desempe&ntilde;o de sus funciones hasta realizar actividades comerciales ajenas a la funci&oacute;n jurisdiccional, un acto prohibido en los c&oacute;digos &eacute;ticos de cualquier&hellip;</p>
+
+<p>Pese a todo, pese a todos sus registros, esta jueza adscrita al Juzgado D&eacute;cimo Noveno, al distrito en Coatzacoalcos, Veracruz, sigue denunciando a la presidenta y porque ella cumple con la ley.</p>
+
+<p>Ser&iacute;a cuanto, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Quiero hacer una revisi&oacute;n de nuevo, de c&oacute;mo es que se dio la reforma la constitucional al Poder Judicial. La secretaria de Gobernaci&oacute;n ya puso algunos de los casos de las irregularidades del Poder Judicial.</p>
+
+<p>&iquest;C&oacute;mo se cambia la Constituci&oacute;n?</p>
+
+<p>El art&iacute;culo 39 de la Constituci&oacute;n Pol&iacute;tica dice:</p>
+
+<p>&lsquo;La soberan&iacute;a nacional reside esencial y originalmente&hellip; originariamente en el pueblo. Todo poder p&uacute;blico dimana del pueblo y se instituye para beneficie de este. El pueblo tiene, en todo tiempo, el inalienable derecho de alterar o modificar la forma de su gobierno.&rsquo;</p>
+
+<p>Art&iacute;culo 135 de la Constituci&oacute;n Pol&iacute;tica de los Estados Unidos Mexicanos, dice cu&aacute;l es el procedimiento para modificar la Constituci&oacute;n: &lsquo;La presente Constituci&oacute;n puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Uni&oacute;n, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que estas sean aprobadas por la mayor&iacute;a de las legislaturas de los estados y de la Ciudad de M&eacute;xico. El Congreso de la Uni&oacute;n o la Comisi&oacute;n Permanente, en su caso, har&aacute;n el c&oacute;mputo de los votos de las legislaturas y la declaraci&oacute;n de haber sido aprobadas las adiciones o reformas.&rsquo;</p>
+
+<p>La Constituci&oacute;n se ha modificado una gran cantidad de veces, de la Constituci&oacute;n de 1917 a la fecha, siguiendo este art&iacute;culo, much&iacute;simas reformas en contra del pueblo de M&eacute;xico y en contra de la naci&oacute;n en todo el periodo neoliberal.</p>
+
+<p>El 5 de febrero, sabemos que el presidente L&oacute;pez Obrador envi&oacute; 20 iniciativas de reforma, 18 constitucionales y dos legales; entre ellas, la reforma al Poder Judicial de la Federaci&oacute;n, reforma constitucional donde, entre sus puntos m&aacute;s importantes, se plante&oacute; que los jueces, las juezas, ministros, ministros, magistrados, magistradas, fueran elegidas por el pueblo de M&eacute;xico.</p>
+
+<p>&iquest;Cu&aacute;l fue la votaci&oacute;n?</p>
+
+<p>El 2 de junio ganamos para la Presidencia, casi 36 millones de votos frente a 16.5 millones de votos.</p>
+
+<p>En el caso de los diputados, se ganaron por mayor&iacute;a 256 distritos electorales, la oposici&oacute;n gan&oacute; 42 distritos nada m&aacute;s, 42.</p>
+
+<p>La Ley General de Instituciones y Procedimientos Electorales plantea que 300 diputados son divididos por mayor&iacute;a, lo que se gane, de manera directa y 200 a trav&eacute;s de la proporcionalidad. En su momento se dijo que hab&iacute;a una sobrerrepresentaci&oacute;n; esta ley muestra que se sigui&oacute; exactamente el procedimiento que marca la ley para la definici&oacute;n de los diputados plurinominales. Esta es toda la Ley General de Instituciones y Procedimientos.</p>
+
+<p>Finalmente, esta fue la&hellip; el c&oacute;mputo. Una vez que fue la elecci&oacute;n, el Congreso de la Uni&oacute;n abri&oacute; un di&aacute;logo sobre la reforma al Poder Judicial, se hicieron varios foros en todo el pa&iacute;s y por esos di&aacute;logos se hicieron transformaciones a la propuesta, se hicieron modificaciones a la propuesta original que hab&iacute;a enviado el presidente Andr&eacute;s Manuel L&oacute;pez Obrador; entre ellos, se ajust&oacute; que hubiera una convocatoria abierta, que hubiera requisitos de ocho y nueve de promedio para poder ser juez, magistrado o ministro, que hubiera comit&eacute;s que seleccionaran a partir de las calificaciones de cada persona que se inscriba en la convocatoria; es decir, todo esto fue modificado de la propuesta original gracias a estos di&aacute;logos.</p>
+
+<p>Se vota finalmente la reforma al Poder Judicial constitucional, tiene 357 votos a favor en la C&aacute;mara de Diputados, m&aacute;s de dos terceras partes, y 86 votos a favor en la C&aacute;mara de Senadores, dos terceras partes.</p>
+
+<p>Se env&iacute;a a los estados tal cual dice la Constituci&oacute;n y votan a favor los estados que est&aacute;n marcados en rojo: Baja California, Baja California Sur, Campeche, Colima, Durango, Guerrero, Estado de M&eacute;xico, Hidalgo, Morelos, Nayarit, Oaxaca, Puebla, Quintana Roo, San Luis Potos&iacute;, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Yucat&aacute;n, Veracruz, Yucat&aacute;n, Zacatecas y la Ciudad de M&eacute;xico.</p>
+
+<p>Si recuerdan, el 15 de septiembre es publicada la reforma al Poder Judicial.</p>
+
+<p>En agosto, la mayor&iacute;a de los jueces, magistrados, se van a paro, hay un paro que ya vimos, como lo coment&oacute; la secretaria de Gobernaci&oacute;n, lo que ha significado en t&eacute;rminos de la justicia. Ahora, desde entonces a la fecha, aun cuando se cumpli&oacute; exactamente con todos los procedimientos que establece la Constituci&oacute;n para la reforma constitucional, se han presentado procedimientos de inconstitucionalidad por partidos pol&iacute;ticos, que no tienen personalidad jur&iacute;dica para esto y, sin embargo, se han aceptado por la corte.</p>
+
+<p>Y distintos amparos, en particular este &uacute;ltimo amparo que pide &mdash;que todav&iacute;a no hemos sido notificados, es importante que se sepa, no hemos sido notificados formalmente&mdash; este amparo pide que se elimine, as&iacute;, elimine la publicaci&oacute;n. Ahora les voy a ense&ntilde;ar un&hellip; A ver si por ah&iacute; hay un <em>Diario Oficial</em> para poderles decirles lo que significa eliminar.</p>
+
+<p>Bueno, entonces, esta jueza de distrito otorg&oacute; una suspensi&oacute;n definitiva en la que ordena eliminar, as&iacute;, eliminar del <em>Diario Oficial</em>. Esto lo sabemos por los medios, aunque no hemos sido notificados formalmente.</p>
+
+<p>&iquest;Qu&eacute; dice la Ley de Amparo? Porque para hacer una suspensi&oacute;n de un amparo no s&oacute;lo hay que cumplir con la Constituci&oacute;n, sino cumplir con la Ley de Amparo. &iquest;Qu&eacute; dice la Ley de Amparo en el art&iacute;culo 61?</p>
+
+<p>&lsquo;El juicio de amparo es improcedente: uno, contra adiciones o reformas a la Constituci&oacute;n Pol&iacute;tica de los Estados Unidos Mexicanos&rsquo;, es decir, hay una reforma a la Constituci&oacute;n que cumple con todos los requisitos para cambiar el Poder Judicial en nuestro pa&iacute;s, y una jueza acepta un juicio de amparo y emite una resoluci&oacute;n de una suspensi&oacute;n para eliminar. Imag&iacute;nense ustedes, hice una consulta a trav&eacute;s de la Consejer&iacute;a Jur&iacute;dica, a quien est&aacute; a cargo del <em>Diario Oficial de la Federaci&oacute;n;</em> nunca se hab&iacute;a recibido, en 30 a&ntilde;os al menos, que tiene esta persona en el <em>Diario Oficial</em>, una notificaci&oacute;n para eliminar. &iquest;Qu&eacute; quiere decir eliminar?</p>
+
+<p>Pero, adem&aacute;s, esta jueza&hellip; F&iacute;jense qu&eacute; claro es, no puede haber juicio de amparo &mdash;el juicio de amparo es improcedente&mdash; con todas sus letras, contra adiciones o reformas a la Constituci&oacute;n Pol&iacute;tica de los Estados Unidos Mexicanos.</p>
+
+<p>Entonces, bueno, ya est&aacute;n diciendo que estoy en desacato, que&hellip; Bueno, hasta de violencia pol&iacute;tica de g&eacute;nero me acusaron, &iquest;por qu&eacute;? Porque&hellip; F&iacute;jense lo claro que es.</p>
+
+<p>Entonces, &iquest;qu&eacute; decimos? Pues vamos a notificar a quien sanciona a los jueces, porque es claro y notorio que se est&aacute; violando la Ley de Amparo, y aun as&iacute; se est&aacute; haciendo una resoluci&oacute;n de una suspensi&oacute;n. Cualquier ciudadano lo puede hacer, en este caso la Consejer&iacute;a Jur&iacute;dica va a hacer esta notificaci&oacute;n para que se revise c&oacute;mo una jueza, violando la Ley de Amparo, da una suspensi&oacute;n.</p>
+
+<p>Ahora, &iquest;qu&eacute; vamos a hacer una vez que recibamos la notificaci&oacute;n? Pues le vamos a preguntar al Legislativo. Porque cuando envi&oacute; el Legislativo al entonces presidente Andr&eacute;s &#39;Manuel L&oacute;pez Obrador, la reforma constitucional dice: &lsquo;Publ&iacute;quese en el <em>Diario Oficial de la Federaci&oacute;n</em>&rsquo;; es decir, el Legislativo ordena al Ejecutivo publicar en el <em>Diario Oficial de la Federaci&oacute;n</em>.</p>
+
+<p>Y ahora una jueza, violando completamente &mdash;esta es la reforma&mdash;, violando completamente la Ley de Amparo &mdash;a ver, regr&eacute;sale a la Ley de Amparo, porfa. Art&iacute;culo 61: &lsquo;El juicio de amparo es improcedente contra adiciones y reformas a la Constituci&oacute;n Pol&iacute;tica de los Estados Unidos Mexicanos&rsquo;&mdash; pide que se elimine.</p>
+
+<p>&iquest;Qu&eacute; quiere decir eliminar, si est&aacute; publicado? &iquest;Que se rompa? Porque hay publicaciones en f&iacute;sico. &iquest;Qu&eacute; quieren, que se rompa, que se borre? &iquest;Qu&eacute; quiere decir eliminar?</p>
+
+<p>Vamos a esperar la notificaci&oacute;n; pero en el momento que se reciba la notificaci&oacute;n, pues lo que va a hacer la Consejer&iacute;a Jur&iacute;dica es enviar al H. Congreso de la Uni&oacute;n una pregunta: &iquest;Es factible que una jueza pida esto, dado que ustedes ordenaron que se publicara en el <em>Diario Oficial de la Federaci&oacute;n</em>? Para ver qu&eacute; nos contesta el Legislativo.</p>
+
+<p>Pero si ustedes se dan cuenta, es totalmente irregular. Son los propios jueces, juezas, magistrados, ministros, ministras, que est&aacute;n defendiendo sus propios privilegios frente a una decisi&oacute;n del pueblo de M&eacute;xico que dijo: &lsquo;Votamos para que haya mayor&iacute;a calificada para que se pueda modificar la Constituci&oacute;n&rsquo;.</p>
+
+<p>Entonces, es muy importante que quienes nos escuchan, nos ven: quien est&aacute; en desacato es la jueza, o son quienes aceptan recursos de inconstitucionalidad cuando no hay personalidad jur&iacute;dica de quien los pone.</p>
+
+<p>Entonces, nosotros estamos actuando conforme a derecho, quienes est&aacute;n violando el Estado de derecho, pues son ellos, ellas. &iquest;O qu&eacute;, a poco no es claro el art&iacute;culo 61? Es clar&iacute;simo.</p>
+
+<p>Entonces, es importante hacer este recuento, porque es muy f&aacute;cil decir: &lsquo;La presidenta est&aacute; en desacato&rsquo;. No, no estamos en desacato y para ello vamos a preguntar a quien nos orden&oacute; publicar en el <em>Diario Oficial de la Federaci&oacute;n. </em></p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as. Liliana Pi&ntilde;a, de <em>ATiempo.com.mx </em>y<em> Puente Libre</em>, en Ciudad Ju&aacute;rez.</p>
+
+<p>Presidenta, retomando un poco el tema del padre que fue asesinado en San Crist&oacute;bal de las Casas, en Chiapas, preguntarle: &iquest;Este tema se toc&oacute; en la mesa de seguridad y qu&eacute; reporte le dieron? &iquest;Van a dar pronto con los responsables? Y si se sabe, se tiene claro cu&aacute;l pudo ser el m&oacute;vil del caso, y tambi&eacute;n si va a pedir a la Fiscal&iacute;a General de la Rep&uacute;blica que atraiga el caso.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, el d&iacute;a de hoy, desde ayer, en el momento en que ocurri&oacute;, de inmediato me inform&oacute; la secretaria de Gobernaci&oacute;n y el secretario de Seguridad Ciudadana. Le ped&iacute; a Rosa Icela que estuviera en contacto con el gobernador, con las autoridades eclesiales.</p>
+
+<p>Por supuesto, lamentamos este hecho. Y no podemos especular, necesitamos que se hagan las investigaciones. Hoy el secretario de Seguridad Ciudadana est&aacute; en contacto con el gobernador y vamos a ver si atrae el caso la Fiscal&iacute;a General o se queda en el estado, pero necesitamos hacer la investigaci&oacute;n; que las autoridades, la fiscal&iacute;a haga la investigaci&oacute;n y colaborar y coadyuvar en todo lo que se requiera.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Y cu&aacute;l es el mensaje que le env&iacute;a a la poblaci&oacute;n de Chiapas, adem&aacute;s de los jesuitas y conferencistas del episcopado?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, estamos trabajando en dos &aacute;reas en Chiapas, como en todo el pa&iacute;s. Chiapas cambia de gobernador en diciembre; hay tres estados que no modificaron sus constituciones para el cambio de gobierno ajust&aacute;ndose al cambio presidencial, son Veracruz, Puebla y Chiapas. Entonces, estamos trabajando tanto con el actual gobernador como con el gobernador entrante, Eduardo Ram&iacute;rez y Rutilio Escand&oacute;n, se est&aacute; trabajando con ellos en dos &aacute;reas: uno, una intervenci&oacute;n social de apoyo, de atenci&oacute;n a las causas y, por otro lado, pues de investigaci&oacute;n e inteligencia para poder hacer las detenciones. Entonces, se est&aacute; trabajando en ese estado como en otros.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Muchas gracias.</p>
+
+<p>En otro tema, presidenta, ayer la fiscal&iacute;a dio a conocer que H&eacute;ctor Melesio Cu&eacute;n fue asesinado en el rancho en donde secuestraron a Ismael &lsquo;el Mayo&rsquo; Zambada; esto, el pasado 25 de julio. Preguntarle, presidenta, si insistir&aacute; a Estados Unidos sobre el informe del caso y si se realizar&aacute; una colaboraci&oacute;n tambi&eacute;n con Estados Unidos para la investigaci&oacute;n.</p>
+
+<p>Y, tambi&eacute;n, saber si van a iniciar investigaciones del gobernador o si ya dio una declaraci&oacute;n.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Le corresponde a la Fiscal&iacute;a General de la Rep&uacute;blica. Ellos, tambi&eacute;n con apoyo de las instituciones del Ejecutivo cuando se solicita, hacen esta investigaci&oacute;n y hacen este hallazgo, de inmediato lo comunican. Y la Fiscal&iacute;a General de la Rep&uacute;blica sigue haciendo sus investigaciones, y ah&iacute; hay autonom&iacute;a, y tiene que seguirlas haciendo.</p>
+
+<p>Por otro lado, sigue la petici&oacute;n al gobierno de Estados Unidos para que se informe c&oacute;mo fue esta detenci&oacute;n; esa solicitud sigue.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Ha tenido un contacto actualmente despu&eacute;s de esa investigaci&oacute;n con el gobernador?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, hay contacto, como con los 31 gobernadores y la jefa de Gobierno en los temas institucionales que hay que tratar.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Y, por &uacute;ltimo, presidenta, los magistrados y jueces del Poder Judicial desde hoy dar&aacute;n una conferencia matutina en el mismo horario de su conferencia. Saber cu&aacute;l es su opini&oacute;n al respecto. Gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Pues est&aacute;n en su derecho. Valdr&iacute;a la pena saber por qu&eacute; est&aacute;n en paro y siguen cobrando sus salarios. O sea, es algo relevante, son m&aacute;s de 13 mil casos, &iquest;no?, que est&aacute;n parados; entonces, si est&aacute;n en paro, &iquest;por qu&eacute; siguen percibiendo salarios? O sea, est&aacute;n en paro; de todas maneras, reciben este amparo en particular, &iquest;no? Bueno<em>, </em>&iquest;est&aacute;n en paro o no est&aacute;n en paro? &iquest;Por qu&eacute; algunos s&iacute; los tratan y otros no?</p>
+
+<p>Y, segundo, &iquest;por qu&eacute; est&aacute;n percibiendo su salario, si est&aacute;n en paro?</p>
+
+<p>Cuando un trabajador, una trabajadora, se va a huelga, de acuerdo con la Ley Federal del Trabajo, no recibe sus percepciones. Entonces, ser&iacute;a muy bueno que le contestaran al pueblo de M&eacute;xico, porque ellos reciben un salario de los impuestos de las mexicanas y mexicanos; entonces, valdr&iacute;a la pena que lo explicaran.</p>
+
+<p>Pero est&aacute;n en su derecho de hacer conferencias y nosotros&hellip; Bienvenido, que es la libertad de expresi&oacute;n.</p>
+
+<p>Ser&iacute;a muy bueno que le explicaran al pueblo de M&eacute;xico, no a la presidenta, al pueblo de M&eacute;xico, por qu&eacute; siguen recibiendo sus ingresos, prestaciones, cuando la propia reforma establece en un transitorio que se van a respetar todos sus derechos y sus salarios, sus ingresos. Entonces, &iquest;cu&aacute;l es la raz&oacute;n de los trabajadores y trabajadoras del Poder Judicial? Que no son&hellip; Digo, los jueces, magistrados, ministros, pues entiendo que no est&eacute;n contentos con que van a ser sus espacios ahora decididos por el pueblo de M&eacute;xico.</p>
+
+<p>Ahora, ellos pueden postularse para ser electos o electas, ellas pueden postularse; que se postulen, que digan al pueblo de M&eacute;xico cu&aacute;l es su tarea, cu&aacute;l es su funci&oacute;n, todo lo que han hecho, si tienen un trabajo, si son honestos, si hay una historia que los respalda, que las respalda, pues el pueblo de M&eacute;xico muy probablemente vote por ellos, por ellas. Pero si no&hellip;</p>
+
+<p>Y ahora los trabajadores y trabajadoras del Poder Judicial, ellos se van a quedar trabajando, ellos van a seguir recibiendo sus prestaciones. &iquest;Cu&aacute;l es la raz&oacute;n por la que est&eacute;n en paro, por la que est&aacute;n en paro? Eso es una buena pregunta.</p>
+
+<p>Y, segundo, &iquest;por qu&eacute; el Consejo de la Judicatura sigue diciendo que no hay problema, que sigan recibiendo sus ingresos?</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidenta. Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Liliana Noble, de <em>Pulso Saludable</em>.</p>
+
+<p>Sobre esta reforma en las escuelas, presidenta, &iquest;qu&eacute; va a pasar si mam&aacute; o pap&aacute; deciden enviarle un <em>lunch</em> no saludable que contiene estos ingredientes cr&iacute;ticos &mdash;que les llaman los expertos&mdash; a las ni&ntilde;as, los ni&ntilde;os, los adolescentes, y lo come ah&iacute;, en el sal&oacute;n o en la hora del recreo? &iquest;Va a tener alguna invitaci&oacute;n a que no hagan esto?</p>
+
+<p>Y tambi&eacute;n, saber qu&eacute; va a pasar con los que venden afuera. De pronto, no todo lo que venden tiene etiquetado con sellos de advertencia, pero sabemos que son frituras que est&aacute;n hechas con grasas trans que producen elevado colesterol en la sangre y son causantes de hipercolesterolemia, y esto genera infartos. Esa ser&iacute;a mi primera pregunta. Gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, por eso Mario plante&oacute; &mdash;si quieres comentar tambi&eacute;n, Mario&mdash;, son 180 d&iacute;as para que entren las normas, para que sean, digamos, obligatorias ya, 180 d&iacute;as.</p>
+
+<p>&iquest;Qu&eacute; se va a hacer en este proceso?</p>
+
+<p>Pues un proceso educativo, de formaci&oacute;n, de capacitaci&oacute;n, de informaci&oacute;n, de tal manera que en las cooperativas de las escuelas se conozca. Es mucho mejor comer un taco de frijoles que una bolsa de papas, es mucho mejor un agua de Jamaica que un refresco, tiene mucha az&uacute;car, tienen&hellip; hacen da&ntilde;o a la salud.</p>
+
+<p>Entonces, lo importante es que haya la educaci&oacute;n para que sea en la escuela y en el hogar. Por eso, los lunes son de &lsquo;Vida Saludable&rsquo;. Entonces, no es que se vaya a sancionar al pap&aacute; o la mam&aacute;, pero en la medida que eduquemos, capacitemos, formemos, pues los pap&aacute;s y las mam&aacute;s no van a enviar comida chatarra a los ni&ntilde;os al mediod&iacute;a, y lo que se vende en las cooperativas pues va a ser comida saludable.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidenta.</p>
+
+<p>Y como segundo cuestionamiento, el d&iacute;a 12 de agosto del 2003, M&eacute;xico ratific&oacute; la ingresi&oacute;n, el ingreso al Convenio Marco para el Control del Tabaco como primera naci&oacute;n de las Am&eacute;ricas. Despu&eacute;s, el 31 de mayo del 2022, el presidente, el expresidente Andr&eacute;s Manuel L&oacute;pez Obrador por decreto dijo que se prohib&iacute;a la comercializaci&oacute;n, la publicidad de los productos de tabaco calentado, de los vapeadores, de los cigarros electr&oacute;nicos.</p>
+
+<p>En febrero pasado, en Panam&aacute;, M&eacute;xico fue aplaudido de pie por ser uno de los pa&iacute;ses que m&aacute;s apego tiene en el Convenio Marco para el Control del Tabaco; es un pa&iacute;s que est&aacute; siendo punta de lanza, junto con Brasil y tambi&eacute;n Panam&aacute;. Yo quisiera conocer qu&eacute; se est&aacute; haciendo al respecto. El decreto o la reforma n&uacute;mero 9, de vapeadores y fentanilos, nos habla expl&iacute;citamente de esto.</p>
+
+<p>Pero tambi&eacute;n quisiera saber qu&eacute; har&aacute; su gobierno, presidenta. Primero, saber si los pictogramas van a mejorar, van a cambiar en las cajetillas, si ya van a ser completos o c&oacute;mo va a ser este asunto.</p>
+
+<p>Y, en segundo, hay un nuevo producto emergente que sac&oacute; la industria. No estoy en contra de ninguna empresa, pero no hacen productos que generen bien a la salud, y se llaman bolsas de nicotina; es como estas bolsitas que nos dan en los restaurantes que contienen sal, m&aacute;s o menos algo as&iacute;, y los j&oacute;venes la utilizan con el dedo, se la ponen directamente en las enc&iacute;as; esto, con la finalidad de suplir un efecto del tabaco. Ellos le llaman que es la transici&oacute;n, &lsquo;ya no uses tabaco, ahora usa un cigarro electr&oacute;nico, un vapeador o usa una bolsa de nicotina&rsquo;.</p>
+
+<p>Y dicen los expertos que cualquier producto que contenga nicotina no es compatible con la vida. M&aacute;s o menos para que la gente conozca, presidenta, entre 50 mil pesos y hasta 200 mil pesos cuesta un ciclo de un mes de tratamiento de alguien que tiene c&aacute;ncer de pulm&oacute;n; m&aacute;s o menos entre el 70 por ciento de los c&aacute;nceres de pulm&oacute;n son atribuibles a personas, a usuarios, desafortunadamente, del tabaco.</p>
+
+<p>&iquest;Qu&eacute; se har&iacute;a al respecto de todo esto?</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Est&aacute; en proceso la aprobaci&oacute;n de la prohibici&oacute;n de vapeadores.</p>
+
+<p>Esperamos que este mismo a&ntilde;o salgan todas las reformas que se presentaron el 5 de febrero. La electoral, esa no fue aprobada por la comisi&oacute;n, y tambi&eacute;n hay algunos otros temas en algunas otras que se est&aacute;n revisando, pero no cambian la esencia de lo que se present&oacute;, y ah&iacute; est&aacute; la de vapeadores. Entonces, esa reforma tiene que pasar.</p>
+
+<p>Y si te parece, invitamos al secretario de Salud en una ma&ntilde;anera, vamos a regresar, a partir del pr&oacute;ximo mes a que los martes haya informe de seguridad e informe de salud. Se est&aacute; haciendo un programa muy completo para atenci&oacute;n y prevenci&oacute;n de la salud. Entonces, la primera ser&iacute;a esa presentaci&oacute;n y ah&iacute; le pedimos al secretario de Salud que nos ayude a contestar lo que cuestionas, lo que presentas hoy.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Y, finalmente, no s&eacute; si pudiera haber la posibilidad de que la secretaria Citlalli viniera a platicarnos qu&eacute; funci&oacute;n tiene exactamente, c&oacute;mo funciona, c&oacute;mo va a beneficiar la Secretar&iacute;a de las Mujeres a las mujeres, si va a haber programas especiales, la parte jur&iacute;dica, todo esto.</p>
+
+<p>Porque fui a una conferencia de prensa de estas organizaciones de la sociedad civil, en donde hablan que uno de los veh&iacute;culos que pueden servir a los caballeros para poder ser m&aacute;s violentos es justamente el alcohol. Entonces, ellos hablaban de que desafortunadamente en el pa&iacute;s, as&iacute; como ya hay un reglamento acerca del control de tabaco, no hay algo al respecto en materia de alcohol, pero que la mayor&iacute;a de las denuncias o de las mujeres que son violentadas o golpeadas tienen&hellip; la pareja tiene una estrecha relaci&oacute;n con el alcohol.</p>
+
+<p>Entonces, ellos dec&iacute;an que seguramente ahora con esta Secretar&iacute;a de las Mujeres se podr&iacute;a poner especial atenci&oacute;n en este cap&iacute;tulo, que es desafortunado, pero como es una de las drogas l&iacute;citas tambi&eacute;n junto con el tabaco, dif&iacute;cilmente se puede establecer una prohibici&oacute;n como tal, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Bueno, vamos&hellip; Son temas, &iquest;no?, el alcohol y el proyecto de la Secretar&iacute;a de las Mujeres. Si recuerdan, estuvo aqu&iacute; Citlalli cuando se presentaron las modificaciones constitucionales, la propuesta constitucionales y legales para apoyo y protecci&oacute;n de las mujeres, y para que quede en la Constituci&oacute;n el derecho a la igualdad sustantiva. Y, adem&aacute;s, tienen un programa.</p>
+
+<p>Adem&aacute;s, se present&oacute; la cartilla de derechos de las mujeres. Entonces, dimos un mes m&aacute;s o menos para que se pueda tener un primer documento de la cartilla, y ah&iacute; la podemos invitar para que pueda platicar todas las funciones que va a tener la Secretar&iacute;a de las Mujeres, los programas; c&oacute;mo va la cartilla. Y, adem&aacute;s, le pedimos tambi&eacute;n al secretario de Salud sobre el tema del alcohol.</p>
+
+<p>Nosotros, as&iacute; como es el tema de la alimentaci&oacute;n, ponemos gran &eacute;nfasis en la educaci&oacute;n, en la promoci&oacute;n, en la capacitaci&oacute;n, en la formaci&oacute;n. Es mejor la conciencia de la ciudadan&iacute;a respecto al da&ntilde;o que le puede provocar un cigarro, las bebidas alcoh&oacute;licas, etc&eacute;tera, que estar tambi&eacute;n regulando todo.</p>
+
+<p>Entonces, hay que ver hasta a d&oacute;nde se regula, que es importante, y tambi&eacute;n, sobre todo aquello que hace tanto da&ntilde;o a la salud, y la otra parte que es muy importante de la educaci&oacute;n social, comunitaria.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Ac&aacute;, vamos uno por uno.</p>
+
+<p><strong>PREGUNTA:</strong> Muy buenos d&iacute;as, presidenta. Abundar un poquito sobre el tema del asesinato del cura. &iquest;Qu&eacute; m&aacute;s se toc&oacute; en el Gabinete de Seguridad? Y aprovechar tambi&eacute;n, si ya se uni&oacute; el fiscal a estas reuniones. Esa ser&iacute;a mi primera pregunta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, hay un representante de la Fiscal&iacute;a General de la Rep&uacute;blica en las reuniones del gabinete, y adem&aacute;s de las propias reuniones del gabinete pues hay reuniones. Recuerden que nosotros respetamos la autonom&iacute;a de la fiscal&iacute;a, pero eso no significa que no haya coordinaci&oacute;n para la detenci&oacute;n de delincuentes; entonces, se est&aacute; trabajando en esta coordinaci&oacute;n. Y damos m&aacute;s informaci&oacute;n en cuanto tengamos pues m&aacute;s informaci&oacute;n sobre el lamentable asesinato del padre en Chiapas.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;El fiscal no le ha dado fecha para que asista presencial?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Quedamos en esto, que viene un representante de la fiscal&iacute;a y, adem&aacute;s, hay reuniones cada determinado tiempo con el secretario de Seguridad Ciudadana y el propio fiscal.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y, por otra parte, sobre el tema del INAI y la nueva secretar&iacute;a, preguntarle c&oacute;mo van las mesas de trabajo con la Secretar&iacute;a de Gobernaci&oacute;n y c&oacute;mo se va a manejar el sistema de acceso a la informaci&oacute;n de transparencia.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Quieres comentar que te reuniste&hellip;?</p>
+
+<p><strong>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:</strong> S&iacute;, muchas gracias. Con su permiso, presidenta. Pues recibimos a los comisionados, a las comisionadas, al comisionado y comisionadas, y hablamos con ellos, les escuchamos los planteamos que tienen sobre&hellip; Ellos saben claramente que la reforma sobre los organismos aut&oacute;nomos va hacia adelante; sin embargo, a nosotros nos instruy&oacute; la presidenta Claudia Sheinbaum de escucharlos y de tomar en cuenta lo que ellos estaban planteando.</p>
+
+<p>Entonces, bueno, ellos hicieron diversos planteamientos y a la Secretar&iacute;a de Gobernaci&oacute;n le toc&oacute; la recepci&oacute;n de ellos. Y quedamos de que, si ten&iacute;an algunos otros comentarios al respecto, los recibir&iacute;amos, pero les dejamos muy claramente en la mesa que la ley sobre la reforma a los organismos aut&oacute;nomos y a los &oacute;rganos aut&oacute;nomos va hacia adelante. Eso es b&aacute;sicamente.</p>
+
+<p>Y, bueno, fueron muchos planteamientos, dur&oacute; un poquito m&aacute;s de una hora, y es di&aacute;logo que se lleva de la Secretar&iacute;a de Gobernaci&oacute;n con muchos otros organismos y lo seguiremos haciendo.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Disculpe, &iquest;se analiza que estos funcionarios est&eacute;n trabajando ahora en esta actual secretar&iacute;a o ser&iacute;a personal nuevo?</p>
+
+<p><strong>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:</strong> Son consideraciones que van a tomar la Secretar&iacute;a, de la actual Funci&oacute;n P&uacute;blica y pr&oacute;xima Secretar&iacute;a Anticorrupci&oacute;n y Buen Gobierno. Y lo que nosotros pensamos es que la mayor&iacute;a de los trabajadores, que son t&eacute;cnicos, etc&eacute;tera, pues van a mantener sus derechos, pero llegando a la nueva secretar&iacute;a pues habr&aacute; que ver.</p>
+
+<p>Pero, s&iacute;, definitivamente en el caso de los comisionados la ley es muy clara al respecto: no.</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as, presidenta, funcionarios.</p>
+
+<p>Adriana Esthela Flores, del <em>Instituto Mexicano de la Radio</em>.</p>
+
+<p>Yo quisiera abundar un poco m&aacute;s, presidenta, sobre el caso de Chiapas, sobre m&aacute;s all&aacute;, mientras se llevan a cabo las investigaciones en torno al asesinato del sacerdote. &iquest;Qu&eacute; va a pasar respecto a las denuncias que &eacute;l hac&iacute;a?</p>
+
+<p>&Eacute;l se volvi&oacute; uno de los rostros m&aacute;s emblem&aacute;ticos respecto a las denuncias sobre la violencia en esa entidad, &eacute;l hab&iacute;a hablado y denunciado el desplazamiento forzado de comunidades ind&iacute;genas, tambi&eacute;n el surgimiento de grupos de autodefensa; tambi&eacute;n, el desprecio, sobre todo del gobernador de Chiapas, &eacute;l dec&iacute;a que el gobierno no s&oacute;lo no hace nada, sino que sistem&aacute;ticamente niega la existencia de esta violencia, y se&ntilde;alaba que con esta violencia que se vive en Chiapas ya no se aguanta.</p>
+
+<p>Le quisiera preguntar, presidenta, cu&aacute;l es el diagn&oacute;stico que se tiene sobre lo que se est&aacute; viviendo en Chiapas, qu&eacute; es lo que se est&aacute; viviendo ah&iacute; y qu&eacute; va a ser su administraci&oacute;n para frenar toda esta ola de violencia en esa entidad.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. Si gustan, dedicamos un d&iacute;a a hablar del tema de Chiapas y de otros estados de la rep&uacute;blica.</p>
+
+<p>El d&iacute;a de ma&ntilde;ana, por ejemplo, viene la gobernadora de Guanajuato al Gabinete de Seguridad. Es de otro partido pol&iacute;tico, pero eso no quiere decir que no nos coordinemos para la seguridad de los habitantes de Guanajuato, y es necesario. De hecho, ya est&aacute;n en Celaya, en Le&oacute;n, hay una estrategia desde antes, y cuando llegamos la reforzamos, en particular en Celaya y en Le&oacute;n, Guanajuato, en Salamanca tambi&eacute;n. Entonces, trabajando ah&iacute;. Viene la gobernadora y vamos a&hellip; Hay que entrar, pues, a pacificar y a poner orden en Guanajuato.</p>
+
+<p>De igual manera, vendr&aacute;n pronto el gobernador actual y el nuevo gobernador, el gobernador electo, para poder trabajar conjuntamente la estrategia para Chiapas.</p>
+
+<p>Cada estado es distinto, en algunos casos se tiene que entrar con mayor fuerza en la atenci&oacute;n social por diversas razones, en otros es m&aacute;s importante s&iacute; la atenci&oacute;n social, porque en todos es important&iacute;sima, pero tambi&eacute;n la estrategia de detenci&oacute;n de quienes generan violencia. Entonces, en todos los casos hay una estrategia general, pero se hacen estrategias particulares para cada entidad de la Rep&uacute;blica.</p>
+
+<p>Entonces, ustedes saben que Guanajuato, si vemos por homicidios, Guanajuato es la entidad que tiene m&aacute;s homicidios en el pa&iacute;s, le siguen despu&eacute;s otras entidades dependiendo del mes; est&aacute; Chihuahua, Estado de M&eacute;xico, a veces es Baja California, y estamos trabajando.</p>
+
+<p>Ya vino la gobernadora de Baja California y se est&aacute; haciendo una estrategia, que no es que de un d&iacute;a a otro se pueda resolver, pero hay una estrategia que se va a notar en poco tiempo. Entonces, lo mismo es para Chiapas y, en ese caso, si nos permiten que podamos un d&iacute;a, cuando venga el gabinete de seguridad, platicar qu&eacute; se est&aacute; haciendo y c&oacute;mo se va a proteger a la ciudadan&iacute;a en Chiapas.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Presidenta, y si me permite, sobre este tema que ya estaban denunciando aqu&iacute; en este momento sobre la actuaci&oacute;n del Poder Judicial para frenar pol&iacute;ticas, leyes y otras acciones o proyectos de infraestructura de su administraci&oacute;n, usted hace d&iacute;as, hace varias conferencias expresaba su respaldo al presidente de Colombia, Gustavo Petro, ante lo que &eacute;l consideraba o llam&oacute; como un golpe de Estado en su contra, luego de que se activ&oacute; esta investigaci&oacute;n por parte de las autoridades electorales de Colombia respecto a unas situaciones por sus gastos de campa&ntilde;a.</p>
+
+<p>Yo le quisiera preguntar, presidenta, si considerando estas actuaciones que se est&aacute;n dando por parte del Poder Judicial, lo que se&ntilde;alaba la secretaria de Gobernaci&oacute;n respecto a c&oacute;mo est&aacute;n emitiendo suspensiones en contra de normativas y otras cuestiones, lo que tambi&eacute;n dec&iacute;a la consejera jur&iacute;dica, Ernestina Godoy, respecto a que se vulnera el pacto federal y lo que se&ntilde;alaba el ministro en retiro, Zald&iacute;var, si usted considera, presidenta, que tambi&eacute;n se est&aacute; activando o su administraci&oacute;n est&aacute; a un intento de golpe judicial o <em>lawfare</em> en contra de su administraci&oacute;n, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> No, no lo creo. Son resistencias de jueces, juezas, magistrados, magistradas, frente &mdash;o ministros, ministras&mdash; frente a la reforma. Nosotros, se gan&oacute; por una ampl&iacute;sima mayor&iacute;a, casi 60 por ciento de la votaci&oacute;n, eso permiti&oacute; que hubiera una mayor&iacute;a calificada en la C&aacute;mara de Diputados, en la C&aacute;mara de Senadores, y que la mayor&iacute;a de los Congresos locales hayan aprobado el cambio constitucional.</p>
+
+<p>Ellos tienen resistencia, porque no quieren dejar el puesto que tienen, pero ya hay un cambio constitucional. Lo que desde nuestra perspectiva no est&aacute; bien es que desde la propia corte o los propios jueces violen las leyes que son tan claras.</p>
+
+<p>O sea, se est&aacute; queriendo poner que la presidenta est&aacute; en desacato, cuando los primeros que est&aacute;n violando las leyes y vulnerando el Estado de derecho son los propios jueces, juezas, no s&oacute;lo por todo el planteamiento que hizo aqu&iacute; la secretaria de Gobernaci&oacute;n, que se hab&iacute;a presentado previamente, sino, en particular, violentando la Ley de Amparo.</p>
+
+<p>Un juez, una jueza, que responde frente a una suspensi&oacute;n que le permite la Ley de Amparo no tiene cualquier atribuci&oacute;n, ellos tienen que cumplir con la ley. Entonces, &iexcl;c&oacute;mo admite un amparo cuando la Ley de Amparo, en su art&iacute;culo 61 dice claramente en su art&iacute;culo, primero, que el amparo no es procedente para cambios constitucionales!</p>
+
+<p>Entonces, &iquest;a qu&eacute; estamos llamando? A que cumplan la ley. Los jueces y juezas son los primeros que deber&iacute;an dar el ejemplo del cumplimiento de la ley y no la cumplen. Por eso es la reforma al Poder Judicial, porque hay mucha corrupci&oacute;n en el Poder Judicial. Porque corrupci&oacute;n es tanto quien recibe dinero para hacer una sentencia como quien viola la ley. Entonces, la jueza est&aacute; violentando su propio car&aacute;cter.</p>
+
+<p>Entonces, por eso hay una reforma constitucional. No es menor reformar la Constituci&oacute;n, se reform&oacute; la Constituci&oacute;n para hacer una reforma energ&eacute;tica que desnacionaliz&oacute; Pemex y Comisi&oacute;n Federal de Electricidad, lo hicieron, &iquest;c&oacute;mo? A trav&eacute;s del 135 constitucional. Se reform&oacute; la Constituci&oacute;n para privatizar los ferrocarriles, para privatizar el ejido.</p>
+
+<p>Se reform&oacute; varias veces la Constituci&oacute;n, nada m&aacute;s que fue en contra del pueblo de M&eacute;xico y de la naci&oacute;n, pero se reform&oacute;. Ahora se reform&oacute; la Constituci&oacute;n con el mismo procedimiento, nada m&aacute;s que s&iacute; es una transformaci&oacute;n profunda, &iquest;por qu&eacute;? Porque cambia por completo el Poder Judicial.</p>
+
+<p>&iquest;En qu&eacute; cambia?</p>
+
+<p>Pues en que ahora va a decidir el pueblo qui&eacute;nes van a ser los jueces, las juezas, los ministros, las ministras, los magistrados, las magistradas.</p>
+
+<p>&iquest;C&oacute;mo va a ser eso?</p>
+
+<p>Con un procedimiento. Para empezar, tienen que tener nueve de promedio, f&iacute;jense, eso dice la Constituci&oacute;n, quien aspire a ser juez, jueza, magistrado, magistrada, ministro, ministra, tiene que tener al menos ocho de promedio en su carrera y nueve en la materia a la que va a aspirar a ser, o sea, ya nada m&aacute;s las calificaciones.</p>
+
+<p>Pero, adem&aacute;s, tienen que entregar cartas de recomendaci&oacute;n, tienen que hacer un ensayo, tienen que presentar su curr&iacute;culum; en el caso de magistradas, magistrados, ministras, ministros, tienen que tener un antecedente de haber trabajado en &aacute;reas afines. Va a haber un comit&eacute; que va a asegurarse de que todo lo que est&aacute;n presentando es v&aacute;lido; va a haber, incluso entrevistas de estos comit&eacute;s que tienen que ser de personas honestas y capaces en sus &aacute;reas. Se presenta por el Poder Judicial, por el Congreso y por el Ejecutivo, y despu&eacute;s va a votaci&oacute;n. Entonces, todo un procedimiento</p>
+
+<p>&iquest;Qu&eacute; quiere el pueblo de M&eacute;xico?</p>
+
+<p>Un Poder Judicial honesto, honesto, que permita que haya justicia en el pa&iacute;s. La Cuarta Transformaci&oacute;n esencialmente es un movimiento por la justicia, por la justicia social, por la justicia para las mujeres, por la justicia ambiental y por un sistema de justicia en el pa&iacute;s que le d&eacute; justicia al que menos tiene, que trate por igual al que menos tiene que al que m&aacute;s tiene, que no tenga que pasar por un proceso mercantil corrupto para poder ganar un juicio, y que sea democr&aacute;tico.</p>
+
+<p>Si ya se elige a la presidenta, al presidente, por el voto popular, a los diputados, diputadas, senadores, senadoras por el voto popular, &iquest;por qu&eacute; no bajo este procedimiento puede elegirse al Poder Judicial con el voto popular? Entonces, son resistencias de ellos, pero esas resistencias no tienen ning&uacute;n sustento jur&iacute;dico, pero la reforma al Poder Judicial va porque as&iacute; lo quiso el pueblo de M&eacute;xico.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (inaudible)</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, pero nosotros no nos vamos a meter en ello. No, no se trata de eso.</p>
+
+<p>Ahora, s&iacute; ponemos una queja en el Consejo de la Judicatura, &iquest;por qu&eacute;? Porque desde nuestro punto de vista &mdash;adem&aacute;s, es p&uacute;blico y notorio con lo que present&eacute;&mdash;, pues no est&aacute; en sus funciones esta suspensi&oacute;n; entonces que lo analice el Consejo de la Judicatura, eso es todo, pero no vamos a entrar nosotros a juicios pol&iacute;ticos y&hellip;</p>
+
+<p>&iquest;Qu&eacute; queremos todas y todos los mexicanos?</p>
+
+<p>Pues que avance este proceso. Ya quien no estuvo incluso a favor de la reforma al Poder Judicial, una persona como Diego Valad&eacute;s, que es reconocido por mucha gente como un constitucionalista, nosotros tenemos nuestras diferencias con &eacute;l, pero ya dijo: &lsquo;Ya pas&oacute;, v&aacute;monos a lo que sigue y que se haga bien&rsquo;. Y lo vamos a hacer bien entre todas y todos.</p>
+
+<p>A ver, la &uacute;ltima, porque ya son 9:20, casi 20.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias. Mariana Madrid, de <em>Albavisi&oacute;n</em>.</p>
+
+<p>Presidenta, retomando un poquito lo que dijo la fiscal&iacute;a general ayer sobre el caso de H&eacute;ctor Cu&eacute;n, &iquest;no ser&iacute;a necesario urgir una reforma a las fiscal&iacute;as para evitar la corrupci&oacute;n, para evitar que se repita una situaci&oacute;n as&iacute;?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Vamos por el Poder Judicial y despu&eacute;s se analizar&aacute;n fiscal&iacute;as, juzgados c&iacute;vicos, todo el sistema de justicia en nuestro pa&iacute;s, pero vamos primero por lo primero.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Y, bueno, respecto a las conferencias que van a hacer los jueces, pues la primera ya empez&oacute; hace un rato y fue el ministro Juan Jos&eacute; Olvera que le est&aacute; pidiendo tiempo, y si me permite leer tal cual:</p>
+
+<p>&lsquo;La postura que tiene la Presidencia de la Rep&uacute;blica y los legisladores es ilegitima, ellos no tienen la &uacute;ltima palabra, no son los jueces, hay que dar tiempo a los procesos judiciales&rsquo;.</p>
+
+<p>&iquest;Cu&aacute;l ser&iacute;a su postura a esta primera declaraci&oacute;n de la conferencia de los jueces?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Ya hubo una reforma constitucional, ya es parte de la Constituci&oacute;n. Entonces, ellos pueden postularse, ellos pueden presentar ante la ciudadan&iacute;a su carrera, ellos pueden presumir ante la ciudadan&iacute;a su carrera judicial, decir qu&eacute; es lo que han hecho, los juicios que ellos han&hellip; en los que ellos han participado, su honestidad, su probidad, si es que la tienen obviamente, para que puedan participar en la elecci&oacute;n. Se les est&aacute; dando esa posibilidad de que participen ministros, ministras, magistrados, magistradas, jueces, juezas, de que participen en la elecci&oacute;n, que se postulen y que le digan a la ciudadan&iacute;a qu&eacute; han hecho. Ahora, claro, si tienen un historial dif&iacute;cil de presumir, pues va a estar dif&iacute;cil que los elija el pueblo, &iquest;verdad?</p>
+
+<p><strong>INTERLOCUTORA:</strong> Finalmente, el fin de semana que anunci&oacute; el programa de la beca, bueno, el apoyo para las personas con discapacidad. &iquest;Tiene ya un presupuesto proyectado para el pr&oacute;ximo a&ntilde;o?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> &iquest;La beca?</p>
+
+<p><strong>INTERLOCUTORA:</strong> Bueno, el apoyo para las personas con discapacidad, si ya tienen presupuesto.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Recuerden que hasta los 29 a&ntilde;os es, &iquest;verdad?, hasta los 29 a&ntilde;os es universal, y despu&eacute;s de los 30 a los 64 es&hellip;</p>
+
+<p>Hay una participaci&oacute;n dual. Por ejemplo, cuando era jefa de Gobierno en la Ciudad de M&eacute;xico firmamos un convenio con el entonces presidente Andr&eacute;s Manuel L&oacute;pez Obrador para que la mitad la pusiera el gobierno de la ciudad y la mitad el gobierno federal, de 30 a 64.</p>
+
+<p>Firmamos con Tabasco, que no lo ten&iacute;a, ya con el gobernador Javier May, y firmamos tambi&eacute;n con el gobernador de Yucat&aacute;n, para que a partir del pr&oacute;ximo a&ntilde;o ya sea universal la beca por discapacidad.</p>
+
+<p>&iquest;Quieres comentar cu&aacute;nto recurso se destina a la beca?</p>
+
+<p><strong>ARIADNA MONTIEL REYES:</strong> Anualmente, para este 2024 tenemos 26 mil 500 millones de pesos, de los cuales 23 mil millones son para la pensi&oacute;n universal para los menores de 30 a&ntilde;os y tres mil 500 millones es la aportaci&oacute;n del gobierno federal al Fideicomiso para el Bienestar en materia de discapacidad, que es donde depositan los estados los recursos y tambi&eacute;n la federaci&oacute;n, y ya se hace una suma para entregar la pensi&oacute;n universal ya en 23 estados, bueno, 21 actualmente, y se sumaron estos dos, que ya inform&oacute; la presidenta y esperamos que se sigan sumando los que todav&iacute;a faltan.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PREGUNTA: </strong>&iquest;Qu&eacute; nos puede decir en cuanto a la tarjeta Inapam? Ha estado escaseando.</p>
+
+<p><strong>ARIADNA MONTIEL REYES:</strong> No tengo el reporte de que escasee, se est&aacute;&hellip; La tarjeta hace tiempo que, por el contrario, estamos haciendo el tr&aacute;mite a trav&eacute;s de los m&oacute;dulos de la Secretar&iacute;a de Bienestar; antes se hac&iacute;an 100 mil credenciales al a&ntilde;o, hoy ya estamos llegando a cuatro millones de personas que tienen ya la credencial de Inapam, desde hace dos a&ntilde;os que ya lo tomamos en la Secretar&iacute;a de Bienestar. Se distribuye en todo el pa&iacute;s, hemos distribuido 30 millones de credenciales para que puedan usarse en los m&oacute;dulos.</p>
+
+<p>Alguna situaci&oacute;n, pueden llamar a la L&iacute;nea de Bienestar o por la p&aacute;gina de la secretar&iacute;a, pero funciona de manera regular.</p>
+
+<p><strong>INTERLOCUTOR:</strong> (Inaudible)</p>
+
+<p><strong>ARIADNA MONTIEL REYES:</strong> Lo vamos a revisar, pero es un tr&aacute;mite muy regular, que adem&aacute;s buscan mucho las personas adultas mayores porque les ofrecen descuentos, les ayuda para su econom&iacute;a.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Bueno, vamos a cerrar. Fue el D&iacute;a Internacional Contra el C&aacute;ncer de Mama o de atenci&oacute;n al c&aacute;ncer de mama, y vamos a pasar una c&aacute;psula sobre este important&iacute;simo tema.</p>
+
+<p><strong>(INICIA VIDEO)</strong></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Todas las personas tenemos derecho a una vida saludable y para cuidarnos mejor saber es prevenir. El c&aacute;ncer de mama es una de las principales causas de muerte en M&eacute;xico, una de cada 10 personas mayores de 20 a&ntilde;os de edad fallecidas por tumores malignos sufrieron este tipo de c&aacute;ncer. Y si s&oacute;lo hablamos de mujeres, la cifra se duplica. Ante una amenaza tan grave, la prevenci&oacute;n es indispensable.</em></p>
+
+<p><em>Toma nota: evita el cigarro y el alcohol, bebe al menos dos litros de agua cada d&iacute;a y al&eacute;jate de la comida procesada llena de grasas y az&uacute;cares. Recuerda, la alimentaci&oacute;n correcta y equilibrada es el principio de una vida saludable.</em></p>
+
+<p><em>La actividad f&iacute;sica es un magn&iacute;fico factor de protecci&oacute;n, haz al menos 30 minutos al d&iacute;a. Y si es el caso, amamanta a tu beb&eacute; al menos durante seis meses; todos y todas ganamos con la lactancia materna.</em></p>
+
+<p><em>Pon tu salud en tus manos. Si tienes 20 a&ntilde;os o m&aacute;s, autoexpl&oacute;rate; si observas que alguno de tus senos, pezones o areolas cambian de forma, apariencia o tama&ntilde;o, sientes dolor o detectas endurecimiento, o notas alguna secreci&oacute;n anormal en el pez&oacute;n u otro tipo de alteraci&oacute;n en la piel, acude de inmediato con tu especialista o a tu unidad de salud, all&iacute; pueden ayudarte.</em></p>
+
+<p><em>Ojo, muy importante, acude regularmente a sus revisiones m&eacute;dicas y despu&eacute;s de los 40 a&ntilde;os de edad hazte una mastograf&iacute;a al menos cada dos a&ntilde;os.</em></p>
+
+<p><em>Comparte esta informaci&oacute;n, cu&iacute;date y cuida a las dem&aacute;s personas, porque la vida saludable est&aacute; al alcance de todas y todos.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias. Buenos d&iacute;as. Nos vemos ma&ntilde;ana.</p>
+
+<p>---</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-10-21 09:28:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de octubre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-octubre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-octubre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de octubre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-octubre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-octubre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de octubre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-octubre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-octubre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-octubre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

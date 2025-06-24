@@ -195,3 +195,21 @@ cython_debug/
 
 # Mac
 .DS_Store
+
+# datasets
+2025AuthorProfiling/
+data/amlo_conferencias/
+data/NRC-Emotion-Lexicon/
+data/SpanishEmotionLexicon/
+~$*
+
+*.json
+
+# Others
+*.pt
+nltk_eg.ipynb
+practica1.ipynb
+practica2.ipynb
+tarea6_miguel_ruiz_intento.ipynb
+Baseline_BoW_SVM.ipynb
+requirements.txt

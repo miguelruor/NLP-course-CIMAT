@@ -1,0 +1,1906 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de diciembre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de diciembre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152019/Conferencia_matutina_9.45.38_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-diciembre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152019/Conferencia_matutina_9.45.38_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="GIA/OkTuT7n9HpKJgebWAk5nXB1MHzspcdeUboTHBH0=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7h3gz44jyoq-f-ab9a990e4-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":14,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"de35812","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62472,"ak.gh":"23.47.207.151","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296861","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==envrMT6/6NdavH4cJUOCkWHkcyrAot/7Q3uooe86sDUXEunfxLMwHXliTq6sejVpGlj3zIGODLG1La3mMiiwXhqiOZ+a89dqGZ+E00cpMC2gSqXyGbbDckL1ZqX/H0Dn3VTzthpRnFR51ArLcG4rXfCZC9nITU/i48yXVgWIDkCfYk8X5JWR1tbjWAi49pF9ITOpcmOwTDYKmSkKJalp/UM6cbXFh8M1QhGX1F8ILiU/B/hMTVlKaXf35nbygHVwdB1NezzcxEyV+Q2dausJob8a80Btdd+DHlH7opNCFAgt8RvaQr9+5xv92X1JC4N6qoFISi0n+ZN5hD5vjPZz/mKNvD0YlqdaDyJwqkhsJPA4ow+aZWjh2dY5ZmhT6lRrA9mm0DiiJNnDxlNk/PmuBkJnmfJPgdXGTqWcenW4ews=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de diciembre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 09 de diciembre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/152019/Conferencia_matutina_9.45.38_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><div>
+<div>&nbsp;</div>
+
+<div>
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong>&nbsp; Buenos d&iacute;as.</p>
+
+<p>Hoy tenemos much&iacute;sima informaci&oacute;n. Vamos muy r&aacute;pido a presentar toda la informaci&oacute;n.</p>
+
+<p>Tenemos primero a Ariadna Montiel, secretaria de Bienestar, que nos va a dar informaci&oacute;n sobre el avance de los programas de Bienestar.</p>
+
+<p>Despu&eacute;s, vamos a hablar de vivienda, de los avances que hay en el Programa Nacional de Vivienda, y tambi&eacute;n noticias del Infonavit con Octavio Romero.</p>
+
+<p>Y despu&eacute;s, vamos a hablar sobre el Tren Maya, una promoci&oacute;n especial de estas vacaciones para el Tren Maya.</p>
+
+<p>Vamos con informaci&oacute;n y luego contestamos sus preguntas.</p>
+
+<p>&mdash;Adelante, Ariadna&mdash;.</p>
+
+<p>Me falt&oacute; Profeco. Vamos r&aacute;pido Profeco y luego Ariadna.</p>
+
+<p>&mdash;Perd&oacute;n, es much&iacute;simo el d&iacute;a de hoy. Adelante&mdash;.</p>
+
+<p><strong>PROCURADOR FEDERAL DEL CONSUMIDOR, C&Eacute;SAR IV&Aacute;N ESCALANTE RUIZ: </strong>Muchas gracias. Con su permiso, Presidenta. Buenos d&iacute;as a todas y a todos.</p>
+
+<p>&ldquo;Qui&eacute;n es qui&eacute;n en los precios&rdquo;. Nosotros estamos convencidos que un consumidor informado no ser&aacute; enga&ntilde;ado.</p>
+
+<p>En el monitoreo que realizamos del precio de la canasta, encontramos que la canasta de 24 productos m&aacute;s barata de todo el pa&iacute;s est&aacute; en Bodega Aurrera 3869, en Cuernavaca, Morelos, a un precio de 704 pesos con 10 centavos; y la m&aacute;s cara en Canc&uacute;n, Quintana Roo, en un Walmart, en mil 06 pesos con 90 centavos.</p>
+
+<p>Recordar que la meta es que la canasta cueste menos de 910 pesos, de acuerdo al compromiso de las tiendas con la Presidenta en este Paquete en Contra de la Inflaci&oacute;n y la Carest&iacute;a.</p>
+
+<p>&mdash;Perd&oacute;n, palomita. Y tache para Walmart Canc&uacute;n 1&mdash;.</p>
+
+<p>Bien, hicimos el mismo ejercicio de la semana pasada en tres ciudades, ahora fue Quer&eacute;taro, Aguascalientes y Ecatepec.</p>
+
+<p>Y la canasta m&aacute;s barata que encontramos fue en la Bodega Aurrera Centro Constituyentes en 843 pesos con 50 centavos, palomita; y la m&aacute;s cara, Chedraui Centro Sur, tambi&eacute;n, la encontramos en 874 pesos con 40 centavos, y aqu&iacute; no le vamos a poner tache porque, efectivamente, est&aacute; por debajo de los 910 pesos. Entonces, en reconocimiento vamos a darle una palomita, aunque sea la m&aacute;s cara, est&aacute; por debajo de lo acordado.</p>
+
+<p>En Aguascalientes Walmart Plaza Galer&iacute;as se encontr&oacute; en 846 pesos con 30 centavos; palomita. Y en Chedraui tambi&eacute;n en el centro de la ciudad, en 882 pesos con 30 centavos; otra vez, palomita.</p>
+
+<p>Y en Ecatepec de Morelos &mdash;ya se adelant&oacute; la palomita, pero hay que d&aacute;rsela&mdash; en 851 pesos con 95 centavos; y en Bodega Aurrera en la misma plaza comercial la encontramos en 917 pesos con 10 centavos; y aqu&iacute; s&iacute;, tache.</p>
+
+<p>Lo mismo de la vez pasada que hicimos con el arroz, ahora lo estamos haciendo con frijol, no tanto calificando la tienda, sino la marca.</p>
+
+<p>Encontramos de nuevo la marca Verde Valle en un rango de precio entre 44 pesos y 69 pesos, misma presentaci&oacute;n en distintos supermercados. Por lo tanto, le vamos a dar un tache.</p>
+
+<p>Y las dos marcas m&aacute;s baratas, fueron la marca <em>Ley </em>y la marca <em>Prec&iacute;ssimo </em>que es la marca libre de la tienda Soriana, que la encontramos en un rango entre 22 pesos y 29 pesos; entonces, a estas dos marcas les vamos a dar una palomita.</p>
+
+<p>&mdash;Para que se den una idea y para que las familias sepan: en la compra de un paquete de esta marca pudieran comprar hasta paquetes de aquellas dos que estamos se&ntilde;alando&mdash;.</p>
+
+<p>Por instrucciones de la Presidenta, continuamos con el monitoreo del precio de la tortilla de tortiller&iacute;a, incrementamos ahora nuestra muestra a 530 tortiller&iacute;as y vamos a seguir semana con semana increment&aacute;ndola.</p>
+
+<p>La m&aacute;s barata la encontramos en Quer&eacute;taro, en 16 pesos, en la colonia Lomas de Casa Blanca; por lo tanto, palomita. Y la m&aacute;s cara en Hermosillo, Sonora en 32 pesos en una tortiller&iacute;a ubicada en la colonia San Benito; tache.</p>
+
+<p>Mismo ejemplo en las mismas ciudades que determinamos para el comparativo en las canastas b&aacute;sicas. Ya dijimos en qu&eacute; tortiller&iacute;a est&aacute; m&aacute;s barata la tortilla en Quer&eacute;taro; palomita. La m&aacute;s cara la encontramos en 26 pesos en la misma colonia, por lo tanto; tache.</p>
+
+<p>Aguascalientes, tortiller&iacute;a 5 de Mayo en la colonia Ojo Caliente 1, 22 pesos; palomita. Y 24 pesos en la colonia Fraccionamiento Las Brisas, 24 pesos; tache.</p>
+
+<p>Y en Ecatepec, en las mismas colonias tambi&eacute;n encontramos la m&aacute;s cara en la misma colonia, la m&aacute;s cara y la m&aacute;s barata. La m&aacute;s cara, tortiller&iacute;a Xitle &mdash;palomita&mdash; en 20 pesos; y la m&aacute;s cara, tortiller&iacute;a Azteca en 22; tache.</p>
+
+<p>Terminamos r&aacute;pido.</p>
+
+<p>&mdash;Tantito para atr&aacute;s&mdash;.</p>
+
+<p>&iquest;Se acuerdan que la semana pasada les dijimos que les &iacute;bamos a platicar en verdad esta idea que tenemos de que en algunos establecimientos se simulan descuentos durante el Buen Fin? Bueno, aqu&iacute; vamos a presentar tres buenas pr&aacute;cticas y tres malas pr&aacute;cticas.</p>
+
+<p>Buena pr&aacute;ctica.</p>
+
+<p>Sears, por una pantalla de 86 pulgadas en Lindavista, Gustavo A. Madero. Durante el tiempo de monitoreo, que monitoreamos los precios del 1o. de septiembre hasta el Buen Fin, encontramos que esta televisi&oacute;n, efectivamente la ten&iacute;an en 39 mil 999, y s&iacute; baj&oacute; y s&iacute; tuvo el descuento durante el Buen Fin en 19 mil 995 pesos.</p>
+
+<p>Misma cadena, pero ahora en Sonora, con una estufa de seis quemadores, marca Whirlpool, s&iacute; tuvo el precio de 15 mil 299 durante nuestro monitoreo, y baj&oacute; a 8 mil 414.</p>
+
+<p>Y finalmente, esta pantalla de 55 pulgadas en la Bodega Aurrera Arboledas, en Guadalajara, Jalisco, s&iacute; estuvo en 9 mil 99 en nuestro monitoreo, y baj&oacute; a 6 mil 890.</p>
+
+<p>Por lo tanto, estas tres&hellip; bueno, estos establecimientos les vamos a dar, por buenas pr&aacute;cticas, una palomita.</p>
+
+<p>Ah&iacute; viene la simulaci&oacute;n. &mdash;Adelante&mdash;.</p>
+
+<p>Este es el caso m&aacute;s emblem&aacute;tico. Una licuadora T-Fal Ultraforce en Liverpool Parque Delta, en Cuauht&eacute;moc, Ciudad de M&eacute;xico, estuvo jugando con el precio desde la tercera semana de septiembre: mil 236, mil 649, mil 154, otra vez mil 649, otra vez mil 649, mil 154, mil 71, y durante el Buen Fin, <em>pum</em>, lo vuelve a subir a mil 649 pesos.</p>
+
+<p>Mismo caso, de Elektra Fresno, en Guadalajara, Jalisco, con este refrigerador. Estuvo jugado de 11 mil 999, lleg&oacute; a bajarlo a 6 mil 999, y durante el Buen Fin lo vendi&oacute; en 10 mil 499, simulando descuento.</p>
+
+<p>Y, finalmente, Walmart. Esta lavadora Mabe de 18 kilos, en Tlanepantla, lo mismo, estuvo jugando con el precio de 8 mil 999 a 9 mil, a 8 mil, a 9 mil, 9 mil, 9 mil, y lo dej&oacute; finalmente en 9 mil, sin realizar el descuento que estaban ofreciendo.</p>
+
+<p>Por lo tanto, a estos establecimientos con estas pr&aacute;cticas, les vamos a dar un tache.</p>
+
+<p>Decirles que ya tenemos el comparativo de precios de art&iacute;culos de Navidad que se consumen mucho durante esta temporada.</p>
+
+<p>Aqu&iacute; est&aacute; el ejemplo de arbolitos de Navidad naturales. &mdash;Los dejamos as&iacute; exhibidos, pero pueden consultar todo en la p&aacute;gina de internet&mdash;.</p>
+
+<p>En coordinaci&oacute;n con el Gobierno de la Ciudad de M&eacute;xico y la alcald&iacute;a Gustavo A. Madero, a partir de hoy establecimos un Operativo de Atenci&oacute;n y de Protecci&oacute;n de las Personas Consumidoras que van a realizar la peregrinaci&oacute;n al Templo Mariano. &mdash;Ah&iacute; est&aacute;n los tel&eacute;fonos y la ubicaci&oacute;n de los m&oacute;dulos&mdash;.</p>
+
+<p>Y, finalmente, recapitulamos:</p>
+
+<p>La canasta b&aacute;sica debe de costar menos de 910 pesos. Ojo con las marcas que se pasan de listas como en el ejemplo que dimos de arroz y frijol.</p>
+
+<p>Las tortillas pueden variar de precios, seg&uacute;n su proceso de elaboraci&oacute;n.</p>
+
+<p>S&iacute; existieron simulaciones durante el Buen Fin. Lo m&aacute;s importante es informarnos, hay que consultar los precios en nuestro ejercicio de &ldquo;Qui&eacute;n es Qui&eacute;n&rdquo;.</p>
+
+<p>Peregrinos, estamos para cuidarlos, utilicen nuestros m&oacute;dulos de orientaci&oacute;n y quejas.</p>
+
+<p>&mdash;Ah&iacute; est&aacute; la p&aacute;gina de internet para que consulten completos los estudios&mdash;.</p>
+
+<p>Es todo. Muy buenos d&iacute;as.</p>
+
+<p>Gracias, Presidenta.</p>
+
+<p><strong>SECRETARIA DE BIENESTAR, ARIADNA MONTIEL REYES:</strong>&nbsp; Con el permiso de la Presidenta. Buenos d&iacute;as.</p>
+
+<p>Vamos a presentar los avances de los nuevos Programas de Bienestar. En el caso del programa de la Pensi&oacute;n Mujeres Bienestar, estamos ya llegando a 965 mil mujeres que se registraron entre los meses de octubre y noviembre. Ya se cerr&oacute; el registro.</p>
+
+<p>Es importante recordarles a las mujeres que durante el mes de enero y febrero se van a entregar las tarjetas. Quienes se registraron en octubre, la recibir&aacute;n en enero; quienes se registraron en noviembre, la recibir&aacute;n en febrero; y se va a ir dispersando a la semana siguiente, de manera inmediata.</p>
+
+<p>As&iacute; que, nos da mucho gusto que avanzamos muy bien en el programa.</p>
+
+<p>Y nos preguntan: &iquest;qu&eacute; pasar&aacute; con las que van a cumplir, por ejemplo, 63 a&ntilde;os en enero?</p>
+
+<p>Cada bimestre se va a abrir el registro junto con la Pensi&oacute;n de Adulto Mayor, la que ya ven&iacute;amos trabajando, en los meses de febrero &mdash;en marzo&mdash;, en abril, en junio, en agosto, en octubre y en diciembre. Cada dos meses se podr&aacute;n registrar, porque ir&aacute;n cumpliendo a&ntilde;os; y cuando cumplan los 65 a&ntilde;os, las mujeres pasar&aacute;n autom&aacute;ticamente a la Pensi&oacute;n para el Bienestar de los Adultos Mayores.</p>
+
+<p>En el caso del programa Salud Casa por Casa, ya hemos visitado 3 millones 210 mil viviendas, en donde nos hemos acercado a preguntarle a los adultos mayores y a las personas con discapacidad: su estado de salud, c&oacute;mo se sienten y otras preguntas que ya hemos comentado.</p>
+
+<p>Vamos avanzando en el censo porque pr&oacute;ximamente ya, entre enero y febrero, estamos ya capacitando y echando a andar el trabajo de las enfermeras, los m&eacute;dicos, las m&eacute;dicas.</p>
+
+<p>Y, bueno, recibimos un buen n&uacute;mero de solicitudes para incorporarse al programa, los m&eacute;dicos y las enfermeras. Requerimos aproximadamente 22 mil 500 m&eacute;dicos o enfermeras, esa es la meta que tenemos planteada y se registraron casi 120 mil personas de todo el pa&iacute;s.</p>
+
+<p>Avisarles que a partir del pr&oacute;ximo lunes 16 de diciembre se les va a enviar un mensaje a quienes ya quedaron dentro de la contrataci&oacute;n de personal. En enero, vamos a hacer toda su contrataci&oacute;n y certificaci&oacute;n, para que en febrero ya empiecen a realizar su visita ya, los m&eacute;dicos y enfermeras, en las viviendas de los adultos mayores y de las personas con discapacidad; es importante reiterar que tambi&eacute;n estamos atendiendo a las personas con discapacidad.</p>
+
+<p>Y, finalmente, informar, Presidenta, y al pueblo, que ya concluimos el operativo de pago de las Pensiones y Programas de Bienestar en 2024.</p>
+
+<p>Este &uacute;ltimo bimestre alcanzamos un padr&oacute;n de 14.4 millones de personas que recibieron sus programas, y esta inversi&oacute;n fue de 534 mil millones de pesos, solo de estos cuatro programas: la Pensi&oacute;n de Adulto Mayor, la Pensi&oacute;n de Personas con Discapacidad, el programa de Madres Trabajadoras y tambi&eacute;n, el programa Sembrando Vida. Los dem&aacute;s programas, como ustedes recordar&aacute;n, se adelant&oacute; todo el pago porque este a&ntilde;o tuvimos proceso electoral.</p>
+
+<p>Es cuanto.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p><strong>SUBSECRETARIO DE DESARROLLO URBANO Y VIVIENDA DE LA SEDATU, V&Iacute;CTOR HUGO HOFMANN AGUIRRE:</strong> Buenos d&iacute;as a todas y a todos. Con su permiso, Presidenta.</p>
+
+<p>Compa&ntilde;eros de los diferentes organismos del Gobierno Federal, amigos de los medios de comunicaci&oacute;n. Reciban un saludo de la doctora Edna Vega, quien en este momento est&aacute; representando a M&eacute;xico en Nairobi, en la Asamblea General de ONU-Habitat.</p>
+
+<p>Para que identifiquen ONU-Habitat, as&iacute; como la Unesco entre las organizaciones de las Naciones Unidas representa a la educaci&oacute;n, ONU-Habitat se refiere a los asentamientos humanos en el mundo. Y M&eacute;xico tiene la Presidencia, en ese caso en lo que es el Consejo de ONU-Habitat.</p>
+
+<p>Iniciamos con los avances del Programa de Vivienda.</p>
+
+<p>Aqu&iacute; nada m&aacute;s haciendo un recordatorio: dentro de la meta sexenal, recordar&aacute;n, tenemos un mill&oacute;n de viviendas nuevas para cubrir en este sexenio, 450 mil acciones de mejoramiento y ampliaci&oacute;n que tambi&eacute;n se estar&aacute;n llevando a cabo, y un mill&oacute;n de escrituras que tambi&eacute;n se tienen previstas para este periodo.</p>
+
+<p>Ahora, &iquest;cu&aacute;l es la meta para el a&ntilde;o 2025?, tambi&eacute;n record&aacute;ndola. Son m&aacute;s de 120 mil viviendas nuevas, son 100 mil acciones de mejoramiento en la zona oriente del Estado de M&eacute;xico, insisto, para el a&ntilde;o 2025, y m&aacute;s de 120 mil escrituras tambi&eacute;n para el a&ntilde;o 2025.</p>
+
+<p>&iquest;C&oacute;mo vamos al d&iacute;a de hoy?</p>
+
+<p>Tenemos una reserva territorial conformada por 261 predios. De estos 261 predios, ya abarca lo que es la meta de suelo de tierra que se requiere para el 100 por ciento del a&ntilde;o 2025, lo cual representa en superficie 2 mil 584 hect&aacute;reas.</p>
+
+<p>De manera adicional, en este momento, de manera adicional a los 261 predios, se est&aacute;n analizando 56 predios m&aacute;s. Analizando en t&eacute;rminos de que tengan acceso a infraestructura, que tengan proximidad a lo que son servicios de educaci&oacute;n, cultura, salud, etc&eacute;tera, sobre todo, que contribuyan al desarrollo humano de las personas; que tengan una conexi&oacute;n directa con asentamientos humanos existentes, ya sea de manera interurbana o periurbana; y tambi&eacute;n que no se encuentren en una condici&oacute;n de riesgo; y de manera adicional, haciendo valer el derecho humano a la movilidad, est&eacute;n cercanos o contiguos a lo que son v&iacute;as primarias o secundarias.</p>
+
+<p>Estos predios que se han identificado son del Gobierno Federal, de gobiernos estatales, son parte de la reserva del Infonavit y tambi&eacute;n de gobiernos municipales.</p>
+
+<p>Se han instalado todas las mesas de coordinaci&oacute;n en las 32 entidades federativas, con respecto a las 32 entidades federativas. Y se han firmado al d&iacute;a de hoy, de tres convenios de colaboraci&oacute;n: con Baja California Sur, recordar&aacute;n, fue el primero, en el cual estuvo como testigo de honor la Presidenta; despu&eacute;s, se firma en Tamaulipas y en Sonora.</p>
+
+<p>Tenemos previsto en lo que resta del a&ntilde;o, por lo menos firmar un tanto m&aacute;s de convenios con diferentes entidades federativas, sino es que un poco m&aacute;s.</p>
+
+<p>Y en relaci&oacute;n a los proyectos de cada uno de estos conjuntos de vivienda, se est&aacute;n desarrollando ya muchos de ellos, y en las intervenciones de mis compa&ntilde;eros: Rodrigo, de Conavi; y Octavio, de Infonavit, estar&aacute;n explicando el detalle al respecto.</p>
+
+<p>Sin m&aacute;s, yo ceder&iacute;a la palabra a Rodrigo Ch&aacute;vez para que nos comentara lo correspondiente a Conavi.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>DIRECTOR GENERAL DE LA COMISI&Oacute;N NACIONAL DE VIVIENDA, RODRIGO CH&Aacute;VEZ CONTRERAS: </strong>Con su permiso, Presidenta. Buenos d&iacute;as a todas y a todos, compa&ntilde;eros funcionarios.</p>
+
+<p>De la parte que nos toca a la Comisi&oacute;n Nacional de Vivienda, que son 500 mil viviendas en el sexenio y 300 mil mejoramientos, para el 2025 vamos a construir 50 mil viviendas nuevas y 100 mil mejoramientos en la zona oriente del Estado de M&eacute;xico.</p>
+
+<p>&iquest;C&oacute;mo vamos en el suelo para la construcci&oacute;n de las viviendas?</p>
+
+<p>Tenemos ya en Conavi 137 predios, en 25 entidades del pa&iacute;s, que son la reserva territorial federal, estatal y municipal. De estos 137 predios, se dan como resultado 2 mil 199 hect&aacute;reas; hacemos una proyecci&oacute;n de 180 viviendas por hect&aacute;rea, nos dar&iacute;an alrededor de 280 mil acciones de vivienda.</p>
+
+<p>De este suelo, estamos ya trabajando como suelo viable 120 predios, que nos dan mil 861 hect&aacute;reas y una proyecci&oacute;n para 261 mil viviendas.</p>
+
+<p>Ya tenemos trabajando en proyectos ejecutivos trabajos t&eacute;cnicos en 62 inmuebles, que son 334 hect&aacute;reas para 55 mil acciones de vivienda, con eso estar&iacute;amos cubriendo el Programa de Vivienda 2025 de la Conavi.</p>
+
+<p>Y estamos trabajando por asignar 58 predios, que suman mil 527 hect&aacute;reas, que nos dar&iacute;an un total de 206 mil acciones de vivienda.</p>
+
+<p>Esto lo estamos trabajando a trav&eacute;s de organismos ejecutores de obra, que son empresas que ya se ven&iacute;a trabajando en Conavi y se vienen registrando para colaborar en el proyecto, y con equipos t&eacute;cnicos que est&aacute;n desarrollando los trabajos ejecutivos.</p>
+
+<p>Para el mejoramiento de vivienda se iniciaron los trabajos en noviembre con el apoyo de los servidores de la naci&oacute;n; y llevamos ya un avance importante para la asignaci&oacute;n de las 100 mil acciones de mejoramiento de vivienda.</p>
+
+<p>Para el 6 de diciembre tendremos ya 50 mil expedientes ya dictaminados para que, a principios de enero, se les pueda entregar su tarjeta para la dispersi&oacute;n de los recursos; y para febrero cumplir&iacute;amos con los 100 mil; para que, en marzo, inicien los trabajos de mejoramiento de las viviendas de las 100 mil familias en la zona oriente de la ciudad.</p>
+
+<p>&iquest;C&oacute;mo es que vamos a integrar la demanda? &iquest;C&oacute;mo es que vamos a integrar la demanda de los solicitantes para este programa?</p>
+
+<p>Bueno, se van a priorizar tres rubros, que son la reubicaci&oacute;n de habitantes que viven en zonas de alto riesgo, la poblaci&oacute;n que vive en rezago habitacional y en los Polos de Desarrollo.</p>
+
+<p>Los servidores de la naci&oacute;n realizar&aacute;n la c&eacute;dula de informaci&oacute;n socioecon&oacute;mica y llevar&aacute;n a cabo el levantamiento y la integraci&oacute;n del expediente individual.</p>
+
+<p>Si la demanda de vivienda es mayor a la disponibilidad y los beneficiarios cumplen con los criterios que establece la normatividad de la Conavi, la selecci&oacute;n ser&aacute; a trav&eacute;s de sorteo, priorizando mujeres jefas de familia, madres solteras, poblaci&oacute;n ind&iacute;gena, adultos mayores y personas con discapacidad, y j&oacute;venes.</p>
+
+<p>Esto quiere decir que, en resumen, ya estamos trabajando en las 50 mil acciones de vivienda para el 2025. Y habr&aacute; dos prototipos de vivienda:</p>
+
+<p>El de 60 metros para las familias beneficiarias, se otorgar&aacute;n financiamientos subsidiados a la poblaci&oacute;n no derechohabiente, que su ingreso familiar no rebase el 2 por ciento, y ser&aacute; a una tasa del cero por ciento.</p>
+
+<p>Para j&oacute;venes que trabajan y j&oacute;venes que estudian habr&aacute; prototipos de 40 metros de vivienda en renta, que se pagar&aacute; una renta asequible que no rebase el 30 por ciento de las y los j&oacute;venes trabajadores; y para las y los j&oacute;venes estudiantes, se realizar&aacute; un estudio socioecon&oacute;mico.</p>
+
+<p>Es cuanto, Presidenta.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>DIRECTORA GENERAL DE FINANCIERA PARA EL BIENESTAR, ROC&Iacute;O MEJ&Iacute;A FLORES:</strong> Buenos d&iacute;as, Presidenta. Buenos d&iacute;as a todos y a todas.</p>
+
+<p>Para la dispersi&oacute;n de este programa para la poblaci&oacute;n no derechohabiente, la Financiera para el Bienestar como oferente de servicios financieros b&aacute;sicos, apoyar&aacute; el Programa de Vivienda anunciado por la Presidenta Claudia Sheinbaum.</p>
+
+<p>En espec&iacute;fico, en la dispersi&oacute;n de los apoyos y los cr&eacute;ditos de las personas que no son derechohabientes &mdash;aqu&iacute; estamos viendo&mdash;, la Conavi va a generar las listas precisamente de todas las personas beneficiarias y tambi&eacute;n de aquellas empresas que participar&aacute;n en este programa.</p>
+
+<p>La dispersi&oacute;n la har&aacute; Financiera para el Bienestar, ya sea directamente a las personas o a las constructoras.</p>
+
+<p>&mdash;Y como se observa en la en la l&aacute;mina que sigue&mdash; en el esquema operativo, Financiera para el Bienestar indicar&aacute; a las personas cu&aacute;l ser&aacute; el monto de su cr&eacute;dito y les entregar&aacute; la tabla de amortizaci&oacute;n. Como ya se mencion&oacute;, la tasa de inter&eacute;s para todas aquellas personas que su salario m&iacute;nimo es hasta de dos salarios tendr&aacute;n tasa de inter&eacute;s de cero por ciento.</p>
+
+<p>Las personas beneficiarias reciben su vivienda, firman el contrato de cr&eacute;dito y en ese momento, se les entregan las indicaciones de d&oacute;nde y c&oacute;mo realizar&aacute;n sus pagos. Estos pagos se realizar&aacute;n &mdash;ah&iacute; est&aacute; muy claro&mdash; en las sucursales de Financiera para el Bienestar que, como ustedes saben, contamos con mil 700 en todo el pa&iacute;s, por lo cual seguramente tendr&aacute;n una muy cercana.</p>
+
+<p>Y algo muy importante es que todos los pagos, todos los reembolsos, todos los abonos que se hagan al pago de las viviendas, se guardar&aacute;n en un caj&oacute;n espec&iacute;fico del Fideicomiso, con el cual contamos, para que esto se destinen otra vez a m&aacute;s viviendas.</p>
+
+<p>Es cuanto.</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, OCTAVIO ROMERO OROPEZA:</strong> Muy buenos d&iacute;as, compa&ntilde;eras y compa&ntilde;eros de los medios de comunicaci&oacute;n.</p>
+
+<p>Para informarles de los avances del Infonavit en el Programa Nacional de Vivienda, instruido por la Presidenta de la Rep&uacute;blica.</p>
+
+<p>&mdash;Si me permite, Presidenta&mdash;.</p>
+
+<p>Bueno, pues la instrucci&oacute;n de la Presidenta fue que desde el Infonavit se constituyera una empresa para la construcci&oacute;n de un mill&oacute;n de viviendas en esta administraci&oacute;n; de las cuales, 500 mil para derechohabientes del Infonavit que perciban ingresos entre uno y dos salarios m&iacute;nimos, y 500 mil para la Conavi y para el Fovissste.</p>
+
+<p>Adicionalmente, vamos a seguir financiando para 2 millones 150 mil cr&eacute;ditos de adquisici&oacute;n de vivienda, de terrenos y construcci&oacute;n de los esquemas actuales de financiamiento.</p>
+
+<p>Y vamos a tener un mill&oacute;n 250 mil cr&eacute;ditos para mejoramiento y rehabilitaci&oacute;n de viviendas; esto implica un incremento de 25 por ciento en relaci&oacute;n a la meta o al objetivo que se logr&oacute; en la administraci&oacute;n pasada.</p>
+
+<p>En cuanto a reserva territorial. Informarles que dentro del Infonavit ya tenemos, como parte de la reserva propia del Infonavit, en 10 estados: 39 predios, que suman 60 hect&aacute;reas; de las donaciones de la reserva federal, estatal, municipal y de privados, en 23 estados: 80 predios, que suman 278 hect&aacute;reas; y de la reserva federal, estatal y municipal compartida con Conavi, son en 14 estados: son 18 predios, que suman 154 hect&aacute;reas.</p>
+
+<p>El potencial que tenemos de construir una vivienda para el pr&oacute;ximo a&ntilde;o es, entonces, de 96 mil viviendas; que, si descontamos las que corresponden a la Conavi en estos tres compartidos, ser&iacute;an de alrededor de 86 mil viviendas, con lo que estar&iacute;amos pr&aacute;cticamente cubriendo la meta del pr&oacute;ximo a&ntilde;o.</p>
+
+<p>Bueno, informarles tambi&eacute;n que ya se firm&oacute; un convenio marco de colaboraci&oacute;n entre el Infonavit y el Tecnol&oacute;gico Nacional de M&eacute;xico para la elaboraci&oacute;n de los proyectos arquitect&oacute;nicos; van a participar alumnos y profesores de 64 planteles ubicados en 29 entidades federativas.</p>
+
+<p>De manera que est&aacute;n 92 proyectos arquitect&oacute;nicos ya en manos del Instituto:</p>
+
+<p>12 nos los van a entregar el 22 de diciembre de este a&ntilde;o, ya en los pr&oacute;ximos d&iacute;as, y se corresponden a estos estados: Baja California Sur, Campeche, Guanajuato, Hidalgo, Oaxaca, Sonora, Tabasco, Tamaulipas &mdash;todos los que aparecen&mdash;.</p>
+
+<p>El 29 de enero, ya del pr&oacute;ximo a&ntilde;o, 12 proyectos.</p>
+
+<p>Y 68, el 30 de marzo de 2025.</p>
+
+<p>Con lo que tendr&iacute;amos ya, 92 proyectos arquitect&oacute;nicos elaborados.</p>
+
+<p>Para los primeros 23 conjuntos habitacionales, el d&iacute;a de hoy, 9 de diciembre, ya se inicia en el campus Iztapalapa la primera etapa o la etapa de evaluaci&oacute;n y selecci&oacute;n de 60 proyectos arquitect&oacute;nicos correspondientes a los primeros 23 conjuntos habitacionales que ser&aacute;n construidos en 10 estados: en Baja California Sur, Campeche, Guanajuato, Hidalgo, Oaxaca, Sonora, Tabasco, Tamaulipas, Veracruz y Yucat&aacute;n; y esto representa ya, las primeras 18 mil viviendas.</p>
+
+<p>Bueno, ahora hablar&iacute;amos del tema de la congelaci&oacute;n de saldos.</p>
+
+<p>En la ocasi&oacute;n anterior les platic&aacute;bamos que en el Infonavit hay una cartera de alrededor de 6.2 millones de cr&eacute;ditos de vivienda; de los cuales, 4 millones se otorgaron en condiciones en las cuales la gente o los derechohabientes pagaban intereses y capital, pero en lugar de disminuir los montos de su cr&eacute;dito, aumentaban porque, entre otras cosas, a cada a&ntilde;o le sumaban a la deuda del derechohabiente el incremento que hab&iacute;a habido en el salario m&iacute;nimo. De manera que, en lugar de bajar, cada a&ntilde;o sub&iacute;a y al finalizar el plazo del cr&eacute;dito pod&iacute;a subir hasta a cinco o seis veces el monto original sin haber pagado la casa.</p>
+
+<p>Entonces, la Presidenta de la Rep&uacute;blica nos autoriz&oacute; buscar, nos instruy&oacute;, m&aacute;s que autoriz&oacute;, buscar una soluci&oacute;n a esos 4 millones de cr&eacute;ditos que tienen esta caracter&iacute;stica de no bajar, sino subir.</p>
+
+<p>Entonces, &iquest;qu&eacute; hemos hecho al respecto? Bueno, de estos 4 millones, los primeros 2 millones se congelaron a partir del 11 de noviembre.</p>
+
+<p>&iquest;Qu&eacute; significa &ldquo;congelaron&rdquo;? Significa que ya no van a subir, que en el punto en el que se encuentran ah&iacute; se mantienen; pero eso no es suficiente porque hay muchos derechohabientes que ya a estas alturas han pagado m&aacute;s de lo correcto.</p>
+
+<p>Entonces, a partir del 10 de diciembre, o sea, de ma&ntilde;ana, 500 mil cr&eacute;ditos adicionalmente al congelamiento van a recibir beneficios adicionales que consisten en: disminuci&oacute;n de tasa de inter&eacute;s, disminuci&oacute;n de mensualidades y/o descuentos en los saldos que actualmente tienen. Esto va a ser a partir del 10 de diciembre; y se va a ver reflejado en el primer estado de cuenta del primer trimestre del &rsquo;25, pero retroactivo al 10 de diciembre.</p>
+
+<p>Luego, vamos a continuar con un paquete &mdash;de esos 2 millones&mdash; de 800 mil m&aacute;s que van a tener el mismo beneficio que estos: disminuci&oacute;n en intereses, disminuci&oacute;n en mensualidades, disminuci&oacute;n en los saldos, y eso va a aplicar en febrero de 2025.</p>
+
+<p>Y, finalmente, hay un universo&hellip; no un universo, sino un subconjunto de los 2 millones, del orden de 700 mil cr&eacute;ditos que ya desde octubre de este a&ntilde;o se est&aacute;n atendiendo en las delegaciones del Infonavit en los estados. De manera que, las personas que llegan, que pertenecen a este conjunto, ya est&aacute;n teniendo disminuci&oacute;n de intereses, quitas en saldos y disminuci&oacute;n en mensualidades.</p>
+
+<p>Esto es para los primeros 2 millones de los 4.</p>
+
+<p>Adicionalmente a estos 2 millones, desde que inici&oacute; esta administraci&oacute;n, empezamos con quitas de intereses, de montos, de mensualidades, disminuciones; y ya llevamos a estas alturas de la administraci&oacute;n: 43 mil 863 cr&eacute;ditos congelados con beneficio adicional de disminuci&oacute;n de mensualidad, inter&eacute;s y descuentos al saldo.</p>
+
+<p>&mdash;Estos son los estados&mdash;, el n&uacute;mero de derechohabientes por estado que se han beneficiado y que suman 43 mil 800. Entonces, y llevamos un buen avance en este sentido.</p>
+
+<p>Y habl&aacute;bamos de 4 millones, &iquest;qu&eacute; va a pasar con los otros 2 millones restantes? Bueno, en estos pr&oacute;ximos d&iacute;as se va a hacer el cambio la Ley del Infonavit, probablemente en esta semana; y a partir de este cambio de Ley del Infonavit estos 2 millones de cr&eacute;ditos tambi&eacute;n van a ser congelados, van a ser congeladas las mensualidades, se van a otorgar suspensiones en los pagos, pero, a diferencia, anteriormente, ya no se van a generar intereses cuando el trabajador pierde el empleo.</p>
+
+<p>Este era un problema porque, si el trabajador perd&iacute;a el empleo, segu&iacute;an gener&aacute;ndose intereses, y era un doble da&ntilde;o porque no hab&iacute;a ingreso para el trabajador, pero s&iacute; hab&iacute;a un incremento en su monto.</p>
+
+<p>Entonces, uno de los beneficios de este cambio de la Ley del Infonavit va a ser &mdash;y eso va a ser a partir que se autorice el cambio en la ley&mdash;, va a ser que este beneficio lo van a tener, independientemente de que tambi&eacute;n van a tener descuentos, tasas de inter&eacute;s, mensualidades, y en saldos, en los montos que actualmente tiene.</p>
+
+<p>&mdash;Estos son los 2 millones a los que nos referimos&mdash;.</p>
+
+<p>A partir de este a&ntilde;o, 500 mil de esos 2 millones ya pueden ir a las delegaciones, a los centros de servicio y ya se les va a atender, y se les van a empezar a otorgar ya los beneficios. Y el mill&oacute;n y medio restantes, de manera autom&aacute;tica, se les van a entregar los beneficios en este primer semestre, que es mantener o disminuir la tasa de inter&eacute;s, y en algunos casos el descuento al saldo actual.</p>
+
+<p>Tenemos, Presidenta, algunos testimonios que, si autoriza, los podr&iacute;amos pasar.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE INFONAVIT)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT), OCTAVIO ROMERO OROPEZA:</strong> Es cuanto, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Gracias, Octavio&mdash;. Tren Maya.</p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Es un gran gusto estar aqu&iacute; en la &ldquo;Ma&ntilde;anera del pueblo&rdquo; nuevamente. Muchas gracias.</p>
+
+<p>A nombre de la Secretar&iacute;a de la Defensa Nacional, del Tren Maya, de los mil 509 trabajadores que integramos la empresa, muchas gracias por permitirnos estar el d&iacute;a de hoy.</p>
+
+<p>Voy a hablarles de un tema inusual, es la primera vez que vamos a hablar de paquetes tur&iacute;sticos por parte del Tren Maya.</p>
+
+<p>Lo que hicimos es un esfuerzo cumpliendo las instrucciones de nuestra Presidenta, de mi General secretario.</p>
+
+<p>Pretendemos acercar servicios tur&iacute;sticos, precisamente para la temporada vacacional de diciembre e hicimos un esfuerzo para que las empresas sectorizadas a la Secretar&iacute;a de la Defensa Nacional, que son el Tren Maya, GAFSACOMM, Mexicana de Aviaci&oacute;n y el Aeropuerto Internacional &ldquo;Felipe &Aacute;ngeles, pudi&eacute;ramos ofrecer estos paquetes, y la infraestructura y servicios que nosotros administramos a trav&eacute;s de la aerol&iacute;nea, a trav&eacute;s del aeropuerto internacional:</p>
+
+<p>Los cuatro Hoteles Tren Maya, que ya fueron aperturados; el 28 de noviembre se apertur&oacute; el Hotel Tulum, el 1o. de diciembre inauguramos el Hotel de Chich&eacute;n Itz&aacute;, y el 15 de diciembre inauguraremos los Hoteles de Calakmul y el Hotel de Edzn&aacute;. Esos cuatro hoteles son los que est&aacute;n incluidos en estos paquetes. Y vamos a inaugurar el Hotel de Nuevo Uxmal 1o. de diciembre, y el Hotel de Palenque el 28 de febrero, va a ser el &uacute;ltimo que inauguremos.</p>
+
+<p>Tambi&eacute;n se incluyen los parques de La Plancha, el Parque de Tulum, el Parque de El Jaguar y tambi&eacute;n el Parque de Nuevo Uxmal, que ser&aacute; inaugurado el 1o. de enero.</p>
+
+<p>Hemos estado trabajando en colaboraci&oacute;n con los cinco estados de la Rep&uacute;blica que constituyen la ruta del tren, esto es Chiapas, Tabasco, Campeche, Yucat&aacute;n y Quintana Roo. La idea es transmitir y vivir la cultura maya como eje de una experiencia tur&iacute;stica inolvidable.</p>
+
+<p>&iquest;Qu&eacute; es lo que tienen en com&uacute;n todos los paquetes?</p>
+
+<p>Todos los paquetes incluyen salir y llegar al Aeropuerto Internacional &ldquo;Felipe &Aacute;ngeles&rdquo; que, adem&aacute;s, es uno de los m&aacute;s bonitos del mundo, no lo digo yo, ya es un reconocimiento mundial, que le otorgaron el Premio de Versalles y, por tanto, queremos aprovechar y difundir la importancia de este aeropuerto.</p>
+
+<p>Tambi&eacute;n incluye vuelos en Mexicana, con un 25 por ciento de descuento, se incluye una maleta de 25 kilogramos.</p>
+
+<p>Y la flexibilidad de horario y de fecha, cambios de horario y de fecha que no lo otorgan todas las l&iacute;neas a&eacute;reas.</p>
+
+<p>Tambi&eacute;n arrib&oacute; a los aeropuertos administrados por el GAFSACOMM, que son el de Palenque, el de Campeche, el de Tulum y el de Chetumal; y los dos que son administrados por la iniciativa privada, M&eacute;rida y Canc&uacute;n.</p>
+
+<p>Los traslados en Tren Maya con una tarifa de turista nacional con un 50 por ciento de descuento, todos los traslados que hagamos as&iacute; ser&aacute;n.</p>
+
+<p>Y, como dije, el hospedaje en los Hoteles Tren Maya, que tienen la particularidad de ser hoteles de cuatro estrellas y que est&aacute;n precisamente cerca de las zonas arqueol&oacute;gicas m&aacute;s insignes de aqu&iacute; de nuestro pa&iacute;s.</p>
+
+<p>Voy a darles el comparativo. De los 10 paquetes tur&iacute;sticos, les voy a hablar solamente de dos:</p>
+
+<p>Aqu&iacute; est&aacute; un paquete que se llama &ldquo;Joyas de la cultura mexicana&rdquo;: Es salir del AIFA, llegar al aeropuerto de Tulum; alojarse en el Hotel de Tulum, que est&aacute; precisamente dentro del Parque de El Jaguar, ah&iacute; visitamos el Museo de la Costa Oriental y una serie de atracciones que tiene el propio parque.</p>
+
+<p>Tambi&eacute;n, al siguiente d&iacute;a, salimos, nos trasladamos de la estaci&oacute;n Tulum a la estaci&oacute;n Bacalar. Podemos llegar caminando del hotel a la estaci&oacute;n Tulum; sin embargo, tenemos un transporte el&eacute;ctrico que nos lleva desde el hotel hasta la estaci&oacute;n. La verdad es que hay muchas comodidades para poder aprovechar.</p>
+
+<p>Y del tren nos trasladamos de Tulum a Bacalar y podemos disfrutar de la laguna de Bacalar pr&aacute;cticamente todo el d&iacute;a, el Fuerte de San Felipe, el Pueblo M&aacute;gico de Bacalar, y una serie de atractivos que se tienen en esa zona para en la noche salir de la estaci&oacute;n Bacalar a la estaci&oacute;n Calakmul. Ah&iacute; nos vamos a trasladar hasta llegar al gran hotel, el Hotel del Calakmul que se encuentra, precisamente en esa zona arqueol&oacute;gica impresionante.</p>
+
+<p>Para el tercer d&iacute;a, podamos visitar la Zona Arqueol&oacute;gica de Calakmul, el museo, el CATVI, estar pr&aacute;cticamente todo el d&iacute;a. Es una zona arqueol&oacute;gica que requiere, requiere de verdad, explorarla.</p>
+
+<p>Y que podamos amanecer al siguiente d&iacute;a y ver el amanecer desde las pir&aacute;mides, porque se ve, de verdad, impresionante, es una vista hermos&iacute;sima que se tiene desde la pir&aacute;mide principal de 55 metros de altura, y que podemos ver la selva, la selva de la reserva natural de Calakmul.</p>
+
+<p>Despu&eacute;s, nos trasladamos de Calakmul a estaci&oacute;n Chetumal. Tomamos, tambi&eacute;n caminando, est&aacute; a 100 metros de la estaci&oacute;n de Chetumal al Aeropuerto Internacional &ldquo;Cruces&rdquo;, y salimos en vuelo de Mexicana al Aeropuerto Internacional &ldquo;Felipe &Aacute;ngeles&rdquo;.</p>
+
+<p>El siguiente paquete que les platico es el de la &ldquo;Ruta de Las Maravillas&rdquo;: Son tres d&iacute;as y dos noches; es llegando del &ldquo;AIFA&rdquo; al aeropuerto de M&eacute;rida, pasar el d&iacute;a en el parque La Plancha, en el corredor gastron&oacute;mico, aprovechando la ciudad.</p>
+
+<p>Despu&eacute;s, nos trasladamos al siguiente d&iacute;a a la ciudad de Valladolid, hacemos un recorrido en la Zona Arqueol&oacute;gica de Ek Balam, despu&eacute;s regresamos a Chich&eacute;n Itz&aacute;, nos alojamos en el Hotel de Chich&eacute;n Itz&aacute;, que es un hotel hermos&iacute;simo tambi&eacute;n. Ah&iacute; pernoctamos.</p>
+
+<p>Al d&iacute;a siguiente, visitamos la Zona Arqueol&oacute;gica. Despu&eacute;s, de la estaci&oacute;n Chich&eacute;n Itz&aacute; a la estaci&oacute;n M&eacute;rida Teya, pasamos el resto del d&iacute;a en M&eacute;rida y regresamos al AIFA.</p>
+
+<p>&iquest;C&oacute;mo estamos difundiendo los paquetes?</p>
+
+<p>A trav&eacute;s de la plataforma de la Secretar&iacute;a de Turismo, el portal visitmexico.com y a trav&eacute;s de las p&aacute;ginas web de las tres empresas: tanto Tren Maya, Mexicana, como GAFSACOMM.</p>
+
+<p>&mdash;En la siguiente l&aacute;mina vemos un comparativo muy r&aacute;pido de lo que estamos ofreciendo&mdash;.</p>
+
+<p>Les garantizamos que estamos ofreciendo el precio m&aacute;s barato con relaci&oacute;n con la oferta tur&iacute;stica nacional. Eso es importante, porque hicimos un comparativo utilizando otras l&iacute;neas a&eacute;reas, otros hoteles de cuatro estrellas tambi&eacute;n, no podemos compararnos m&aacute;s que con hoteles similares.</p>
+
+<p>Y estamos garantizando un 24 por ciento en el paquete 1, m&aacute;s barato; y un 34 por ciento en el paquete 2 que, les he explicado. Mucho m&aacute;s barato.</p>
+
+<p>&iquest;C&oacute;mo podemos hacer eso?</p>
+
+<p>Pues porque podemos armonizar los servicios que estamos brindando a las empresas y estamos tratando de atraer al turismo nacional a conocer al sureste.</p>
+
+<p>&mdash;En la &uacute;ltima l&aacute;mina&mdash;, invitarlos a todos para que conviertan al sureste de M&eacute;xico en su destino. De verdad, es una oportunidad &uacute;nica y creemos que ha sido una gran idea, una gran idea de nuestra Presidenta, del General secretario, para poder acercar estos servicios a m&aacute;s mexicanos.</p>
+
+<p>Recordemos que 5 de cada 10 pasajeros que se han movido en el tren a lo largo de este a&ntilde;o son turistas nacionales.</p>
+
+<p>Muchas gracias.</p>
+
+<p>A continuaci&oacute;n, les voy a pasar un video y despu&eacute;s les voy a hablar del primer aniversario.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE LOS PAQUETES TUR&Iacute;STICOS DEL TREN MAYA)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> &mdash;Y si me permite, hablar r&aacute;pidamente sobre el primer aniversario&mdash;.</p>
+
+<p>El pr&oacute;ximo 15 de diciembre cumplimos un a&ntilde;o y hemos preparado una estrategia para agradecer &mdash;en la siguiente, por favor, si me ayudan con la presentaci&oacute;n, en la siguiente&mdash;, una estrategia, primero para celebrar, s&iacute; el primer aniversario y destacar el impacto que ha tenido movilidad el turismo y la conexi&oacute;n cultural en el sureste mexicano.</p>
+
+<p>Queremos agradecer a nuestros usuarios del Tren Maya por ser parte de este a&ntilde;o.</p>
+
+<p>Generar orgullo y sentido de pertenencia entre los mexicanos y continuar fomentando el turismo.</p>
+
+<p>Esta es la estrategia de difusi&oacute;n, con videos, notas, comunicados, publicaciones y algunas actividades en estaciones.</p>
+
+<p>Informarles que la campa&ntilde;a inici&oacute; el 6 de diciembre y culminar&aacute; el 21 diciembre, los canales de difusi&oacute;n institucionales que tenemos y algunos medios de comunicaci&oacute;n aliados.</p>
+
+<p>La firma es el primer aniversario del Tren Maya. El slogan: &ldquo;El primer viaje siempre ser&aacute; inolvidable&rdquo;, porque as&iacute; lo es.</p>
+
+<p>Estas son las publicaciones que pretenden s&iacute; reconocer el esfuerzo de la gente que colabora con nosotros, pero tambi&eacute;n a nuestros pasajeros.</p>
+
+<p>&mdash;Ah&iacute; vemos distintos ejemplos donde aparecen nuestros pasajeros con diferentes <em>slogan</em>&mdash;.</p>
+
+<p>Ah&iacute; vemos a los maquinistas, ah&iacute; est&aacute; nuestra maquinista, la primera mujer maquinista del Tren Maya.</p>
+
+<p>El primer viaje que fue el 16 de diciembre de Canc&uacute;n &mdash;esta es una salida de la gente que abord&oacute; ese primer tren&mdash;.</p>
+
+<p>Ah&iacute; vemos c&oacute;mo lo estamos sacando tambi&eacute;n a trav&eacute;s de las aplicaciones, cu&aacute;ntos pasajeros hemos transportado.</p>
+
+<p>Vamos a tener diferentes eventos: entrega de art&iacute;culos promocionales en las actividades que vamos a hacer de difusi&oacute;n, marcos fotogr&aacute;ficos en las estaciones para que la gente se pueda tomar fotos; a entregar algunos elementos conmemorativos.</p>
+
+<p>Este es el marco que se pondr&aacute; en las estaciones.</p>
+
+<p>Este es el cronograma de las actividades, aqu&iacute; est&aacute; la difusi&oacute;n que estamos haciendo el d&iacute;a de hoy.</p>
+
+<p>Much&iacute;simas gracias a la se&ntilde;ora Presidenta.</p>
+
+<p>Tenemos el evento inaugural de los tramos 6 y 7, el 15 de diciembre y la cancelaci&oacute;n de nuestro timbre postal.</p>
+
+<p>Hablamos el hashtag <em>#1ErAniversarioTrenMaya</em>, <em>#UnA&ntilde;oDeConexi&oacute;n.</em></p>
+
+<p>La cuenta regresiva de los d&iacute;as que nos faltan, las historias y <em>spots </em>de campa&ntilde;as diarias que se est&aacute;n publicando.</p>
+
+<p>En la siguiente l&aacute;mina ah&iacute; vemos, explicamos, vamos a tener unas actividades que son concursos que van a permitir obtener premios, que son viajes que vamos a hacer a trav&eacute;s del tren, los mil 554 kil&oacute;metros, porque vamos a abrir el tramo 6 y 7, Y en eso consisten los premios para dos personas en diferentes viajes que les estamos ofreciendo para turistas locales.</p>
+
+<p>&mdash;Adelante con el video, en la siguiente l&aacute;mina, por favor&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE CONCURSO PARA PERSONAS ORIGINARIAS DE LOS CINCO ESTADOS POR DONDE PASA EL TREN MAYA)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA: </strong>Tambi&eacute;n hay un concurso a nivel nacional, que tiene premios tambi&eacute;n. Este va a tener difusi&oacute;n en todo el pa&iacute;s, en el siguiente ah&iacute; viene el peque&ntilde;o video.</p>
+
+<p>&mdash;Adelante, por favor&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE CONCURSO POR EL ANIVERSARIO DEL TREN MAYA A NIVEL NACIONAL)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> &mdash;En la siguiente l&aacute;mina, por favor. Ah&iacute; nada m&aacute;s vamos a tener actividades institucionales&mdash;.</p>
+
+<p>Es el evento del 15 de diciembre, donde vamos a hacer la develaci&oacute;n del timbre, el timbre postal que celebra este aniversario. Vamos a hacer tiraje de 750 mil estampillas con el apoyo del Servicio Postal Mexicano, y vamos a hacer la distribuci&oacute;n a nivel nacional.</p>
+
+<p>La Doctora, por supuesto, Claudia Sheinbaum nos va a apoyar con la develaci&oacute;n del timbre.</p>
+
+<p>Invitamos obviamente a todos los organismos, a todos los que han participado en la historia, porque el Tren Maya se ha construido por muchas dependencias; el Tren Maya no es el esfuerzo de una sola persona ni de una sola instituci&oacute;n, sino de muchos, muchos mexicanos.</p>
+
+<p>&mdash;Aqu&iacute; est&aacute;n la mayor&iacute;a de los que participan. Agradecerles&mdash;.</p>
+
+<p>Vamos a hacer tambi&eacute;n un evento conmemorativo el 16 de diciembre, all&aacute; en M&eacute;rida.</p>
+
+<p>&iexcl;Gracias por tu confianza, gracias por la confianza que nos dan!</p>
+
+<p>Es un peque&ntilde;o videito que vamos a poner y el video del aniversario.</p>
+
+<p>&mdash;Adelante, por favor&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO &ldquo;&iexcl;GRACIAS POR TU CONFIANZA!&rdquo; DEL TREN MAYA)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> Apenas hace unos d&iacute;as tuve el gusto de saludar a unas personas que ven&iacute;an de La Paz, otros de Quer&eacute;taro, un par de personas adultos mayores de Quer&eacute;taro, les mando un gran saludo.</p>
+
+<p>La verdad es que me compromet&iacute; con ellos a saludarlos, se&ntilde;ora Presidenta, pero en la se&ntilde;ora de La Paz iba con sus nietos y, de verdad, iba tan emocionada, porque era la primera vez que se suben al tren. Los dos adultos mayores, el se&ntilde;or con su esposa, hasta cant&oacute; un corrido a bordo del Tren Maya.</p>
+
+<p>Es una cosa impresionante el cari&ntilde;o que le tienen al proyecto, la gente. Much&iacute;simas gracias.</p>
+
+<p>Y si me permiten nada m&aacute;s, el video nada m&aacute;s del primer aniversario.</p>
+
+<p>Gracias. Gracias a todos. Muchas gracias a nombre del Gobierno de la Rep&uacute;blica, a nombre de la Defensa Nacional, del Tren Maya; de los mil 509 trabajadores que estamos ah&iacute;, 512 son mujeres y el resto hombres, pero vamos a llegar al 50-50, esa es la obligaci&oacute;n que tenemos en el tren.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE EL PRIMER ANIVERSARIO DEL TREN MAYA)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> Muchas gracias a todos. Much&iacute;simas gracias, de verdad.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias, General.</p>
+
+<p>&mdash;Bueno, Diego, creo que si nos da tiempo al final cerramos con tu video, porque ya son 08:40&mdash;.</p>
+
+<p>Bueno, a ver, vamos con las preguntas.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Buenos d&iacute;as, Presidenta. Yulia Bonilla, del peri&oacute;dico <em>La Raz&oacute;n</em>.</strong></p>
+
+<p><strong>Preguntar, bueno, con este proyecto tur&iacute;stico, con estos paquetes si &iquest;tienen alguna estimaci&oacute;n sobre la derrama econ&oacute;mica que se prev&eacute; para el proyecto?, &iquest;y cu&aacute;les son las capacidades de los hoteles?, &iquest;cu&aacute;ntos turistas esperan recibir?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> La capacidad de los hoteles.</p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA: </strong>Muchas gracias por tu pregunta.</p>
+
+<p>Perd&oacute;n, &iquest;me dice su nombre?</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Yulia Bonilla, del peri&oacute;dico <em>La Raz&oacute;n.</em></strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> Mucho gusto. Muchas gracias.</p>
+
+<p>Mira, el hotel m&aacute;s grande que tenemos es el Hotel de Tulum que tiene 350 habitaciones; el resto de los hoteles tienen 160 habitaciones; el hotel que tiene menos habitaciones es el de Calakmul, es el m&aacute;s peque&ntilde;o de todos, creo, no estoy seguro, pero creo que tiene 120 habitaciones, es el m&aacute;s chico; todos los dem&aacute;s son de 160, y el de Tulum, que es de 350, esa es la capacidad que tienen los hoteles.</p>
+
+<p><strong>PREGUNTA: &iquest;Y tienen alguna estimaci&oacute;n de la derrama econ&oacute;mica que se espera para esta temporada?</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> &iquest;La qu&eacute;, perd&oacute;n?</p>
+
+<p><strong>PREGUNTA: La derrama econ&oacute;mica que esperan, &iquest;tienen alguna estimaci&oacute;n?</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> La derrama econ&oacute;mica, en los an&aacute;lisis que est&aacute; haciendo el GAFSACOMM, ellos tienen una proyecci&oacute;n de tener ocupaciones del 60 por ciento en el pr&oacute;ximo a&ntilde;o. No puedo hablarte de n&uacute;meros porque no los conozco, pero los investigo y me comprometo contigo a remit&iacute;rtelos.</p>
+
+<p><strong>PREGUNTA: Much&iacute;simas gracias.</strong></p>
+
+<p><strong>Y, bueno, en otro tema, Presidenta, preguntarle acerca de las &uacute;ltimas declaraciones, expresiones del presidente electo de Estados Unidos, Donald Trump, donde dijo que Estados Unidos es quien subsidia a M&eacute;xico y a Canad&aacute;, e incluso sugiri&oacute; que ambos pa&iacute;ses deber&iacute;an de adherirse como sus estados.</strong></p>
+
+<p><strong>&iquest;Cu&aacute;l es su respuesta ante este planteamiento?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Yo creo que vamos a dejar un poco este di&aacute;logo, a trav&eacute;s de los medios.</p>
+
+<p>Obviamente, M&eacute;xico es un pa&iacute;s libre, soberano e independiente, eso lo sabemos todos y as&iacute; siempre lo tenemos que defender.</p>
+
+<p>Entiendo que este subsidio del que habla, pues tiene que ver con el incremento de las exportaciones de M&eacute;xico a Estados Unidos y que son ya, m&aacute;s que las importaciones.</p>
+
+<p>Pero el d&iacute;a de ayer yo plante&eacute;, en el evento que estuvimos en Nuevo Laredo, que la &uacute;nica manera de competir con otras regiones del mundo es mantener y fortalecer el Tratado Comercial, el T-MEC, porque m&aacute;s que vernos como competencia pues hay que ver como un complemento.</p>
+
+<p>El presidente Trump fue quien firm&oacute; el T-MEC, y Estados Unidos ha tenido much&iacute;simos beneficios del Tratado. Entonces, ya habr&aacute; momento para poder hablar de estos beneficios.</p>
+
+<p>Entonces hasta ah&iacute; lo dejar&iacute;a.</p>
+
+<p><strong>PREGUNTA:</strong> <strong><em>Ok</em>, Presidenta.</strong></p>
+
+<p><strong>Y, bueno, en otro tema sobre la fecha de extinci&oacute;n de los &oacute;rganos aut&oacute;nomos, si no me equivoco, todav&iacute;a falta que esto se defina en las reformas a leyes secundarias. Saber si &iquest;ya tienen alguna fecha precisa?, pues tambi&eacute;n en el entendido de que a pesar de que es una decisi&oacute;n que toma el Poder Legislativo, pues tambi&eacute;n el Gobierno Federal ser&aacute; el que recibir&aacute; las nuevas funciones, por ejemplo, en el caso del INAI.</strong></p>
+
+<p><strong>Entonces, si &iquest;ya tienen alguna fecha?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Est&aacute; en la Ley Org&aacute;nica de la Administraci&oacute;n P&uacute;blica que ya&hellip; &mdash;No s&eacute; si ya se aprob&oacute;&mdash;.</p>
+
+<p>Lo reviso, no recuerdo si ya se aprob&oacute; la Ley Org&aacute;nica. Pero recuerden que las funciones del INAI pasan a la Secretar&iacute;a Anticorrupci&oacute;n y del Buen Gobierno.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&iquest;Ser&iacute;a ya de inmediato entonces, a partir de enero?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>S&iacute;, a partir de enero.</p>
+
+<p><strong>PREGUNTA:</strong> <strong><em>Ok</em>. Ahora, sobre el tema del vuelo en Volaris, este pasajero que intent&oacute; desviar el avi&oacute;n hacia Estados Unidos, &eacute;l argument&oacute; que hab&iacute;a recibido una amenaza en cuanto abord&oacute; el avi&oacute;n. Saber, &iquest;cu&aacute;l es el estatus del pasajero, si se van a fincar algunas responsabilidades en su contra?, &iquest;cu&aacute;l es la situaci&oacute;n?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El d&iacute;a de ayer&hellip; Tiene que informar a la Fiscal&iacute;a General de la Rep&uacute;blica y en el d&iacute;a se dar&aacute; m&aacute;s informaci&oacute;n de este caso.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&iquest;Pero se le va a adjudicar alg&uacute;n delito?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues s&iacute; tiene, hay responsabilidad; &iquest;exactamente qu&eacute; delito?, pues ya tiene que informarlo la Fiscal&iacute;a.</p>
+
+<p><strong>PREGUNTA:</strong> <strong><em>Ok</em>. En otro tema, sobre los aspirantes al Poder Judicial preguntarle: en las listas se han identificado nombres que pertenecen a grupos familiares como S&aacute;nchez Cordero, tambi&eacute;n el consejero Bernardo B&aacute;tiz, en el entendido&hellip; O, bueno, ya que uno de los argumentos para la reforma judicial fue justamente combatir el nepotismo, que no haya m&aacute;s...</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Cu&aacute;l es el familiar de Bernardo B&aacute;tiz?</p>
+
+<p><strong>PREGUNTA: Su hija, si no me equivoco, tambi&eacute;n aspira a la Suprema Corte; y tambi&eacute;n sobrino de la hoy diputada S&aacute;nchez Cordero, etc&eacute;tera.</strong></p>
+
+<p><strong>Entonces, preguntarle, si &iquest;va a haber filtros?, si &iquest;se estar&iacute;a considerando descartar si hay coincidencias familiares, grupos grandes familiares en las listas?, si &iquest;se aplicar&iacute;a alg&uacute;n filtro para ello?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Las Comisiones&hellip; hay tres Comisiones: una del Poder Ejecutivo, otra del Poder Legislativo y otra del Poder Judicial; y ellos van a definir los criterios bajos los cuales estar&aacute;n definiendo qui&eacute;n participa en la elecci&oacute;n.</p>
+
+<p>Ahora, primero, recuerden que hay una primera selecci&oacute;n de, si cumplen o no los requisitos.</p>
+
+<p>Despu&eacute;s, viene una segunda, que tiene que ver con entrevistas, por parte de las personas que son parte de las Comisiones.</p>
+
+<p>Y la tercera, viene una t&oacute;mbola de las personas que se eligen. Por ejemplo, en la Corte creo que son 90, de ah&iacute; viene una t&oacute;mbola en donde salen 27, si mal no me equivoco; y de ah&iacute; ya se van a la selecci&oacute;n.</p>
+
+<p>Y ellos van a definir los criterios.</p>
+
+<p>Evidentemente, buscamos que no haya familiares en el Poder Judicial porque, si alguien llega a la Corte, llegar&iacute;a, dif&iacute;cilmente llegar&iacute;a un familiar a la &uacute;ltima, al &uacute;ltimo filtro, digamos, de las Comisiones. Pero estamos dando la posibilidad de que las Comisiones decidan cu&aacute;les son los criterios que est&aacute;n utilizando para poder definir qui&eacute;n participa y qui&eacute;n no, primero en la t&oacute;mbola y luego ya en la elecci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Y ya, nada m&aacute;s, la &uacute;ltima: se han identificado diversas inconsistencias justamente en las listas de que algunos nombres ven&iacute;an como &ldquo;Prueba-Prueba&hellip;&rdquo;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En la&hellip; No s&eacute; si lo public&oacute; la Comisi&oacute;n del Poder Legislativo; lo public&oacute;, y ah&iacute; fue donde se encontraron estas duplicidades. Pues tienen que hacer el filtro para que no se presenten de esta manera y su Comisi&oacute;n tiene ya que iniciar el proceso.</p>
+
+<p><strong>PREGUNTA: &iquest;Sabe m&aacute;s o menos en cu&aacute;ntos aspirantes se han reducido ya aplicando esta limpieza de las listas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El d&iacute;a de ma&ntilde;ana, si quieren, les informamos. A nosotros nos corresponde la informaci&oacute;n del Ejecutivo y ya, a cada poder le corresponde informar sobre las Comisiones que ellos hayan nombrado.</p>
+
+<p><strong>PREGUNTA: &Oacute;scar Zamudio, para <em>Zagazine </em>en el estado de Hidalgo.</strong></p>
+
+<p><strong>En los temas de sostenibilidad y medio ambiente, Presidenta, la regi&oacute;n de Tula enfrenta serios retos ambientales debido a pasivos acumulados y a la falta de infraestructura verde. Recientemente recibimos en Hidalgo la visita de Semarnat, quienes declararon, adem&aacute;s, que, efectivamente, existe una&hellip; que efectivamente existe una deuda ecol&oacute;gica con el estado de Hidalgo.</strong></p>
+
+<p><strong>Y usted ha anunciado dos iniciativas clave:</strong></p>
+
+<p><strong>El Parque Industrial de Econom&iacute;a Circular, que se desarrollar&aacute; en las 700 hect&aacute;reas destinadas anteriormente a la fallida Refiner&iacute;a Bicentenario.</strong></p>
+
+<p><strong>Y el decreto publicado el 26 de septiembre que declara la Zona de Restauraci&oacute;n Ecol&oacute;gica del &Aacute;rea de Influencia de la Presa Endo, como para un programa de restauraci&oacute;n planeado para mayo 2025.</strong></p>
+
+<p><strong>Ambos temas han causado diferentes inquietudes en todos los habitantes del estado de Hidalgo.</strong></p>
+
+<p><strong>Presidenta, para preguntarle: &iquest;c&oacute;mo se ha estructurado?, &iquest;y cu&aacute;l ser&iacute;a la planeaci&oacute;n del lado del presupuesto para garantizar el cumplimiento, y tambi&eacute;n las estrategias espec&iacute;ficas para cumplir con estos cambios ecol&oacute;gicos, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En Tula hay varios proyectos. Y no solo en Tula, sino en la regi&oacute;n de Tula que se ha visto afectada por la refiner&iacute;a, que lleva mucho tiempo.</p>
+
+<p>Ah&iacute; se est&aacute;&hellip; ya pr&aacute;cticamente est&aacute; terminada la coquizadora, por la planta termoel&eacute;ctrica que hoy usa combust&oacute;leo, lo usa desde hace muchos a&ntilde;os; por la contaminaci&oacute;n del r&iacute;o, que est&aacute; contaminaci&oacute;n proviene de varios afluentes, pero, entre otros, tambi&eacute;n de los drenajes que se vierten al r&iacute;o Tula.</p>
+
+<p>Entonces, estamos haciendo un proyecto integral.</p>
+
+<p>&iquest;En qu&eacute; consiste?</p>
+
+<p>La planta de producci&oacute;n de electricidad de combust&oacute;leo se va a reconvertir a ciclo combinado.</p>
+
+<p>La refiner&iacute;a va a hacer una serie de acciones que permitan disminuir su contaminaci&oacute;n; entre otras, la coquizadora que inici&oacute; el Presidente L&oacute;pez Obrador, Octavio cuando fue director de Pemex.</p>
+
+<p>Y el saneamiento del r&iacute;o Tula, junto con el saneamiento de varios afluentes que llegan al r&iacute;o Tula.</p>
+
+<p>Entonces es un proyecto integral.</p>
+
+<p>Y, adem&aacute;s, en vez de otra refiner&iacute;a ah&iacute;, lo que se est&aacute; planteando es un Centro de Econom&iacute;a Circular. El objetivo que tiene es que la basura que se genera en Tula y en otros municipios conurbados, pueda ser pasada por plantas de separaci&oacute;n de basura y al mismo tiempo, por plantas que, de la basura org&aacute;nica la convierten en carb&oacute;n vegetal, que es una innovaci&oacute;n tecnol&oacute;gica que desarrollamos cuando fui Jefa de Gobierno en la Ciudad de M&eacute;xico.</p>
+
+<p>Es un proyecto integral que, ya que est&eacute; completo, se le va a presentar a los habitantes del municipio de Tula y de otros municipios. Lo estamos trabajando con el gobernador.</p>
+
+<p>Y, adem&aacute;s, hay otra parte que tiene que ver con la Zona Metropolitana, que se est&aacute; trabajando tambi&eacute;n con el Estado de M&eacute;xico y la Ciudad de M&eacute;xico.</p>
+
+<p><strong>PREGUNTA: &iquest;Sigue interviniendo la UNAM en estos proyectos, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En algunos casos. En el caso del Centro de Econom&iacute;a Circular, el doctor &Aacute;lvarez-Icaza, que no tiene nada&hellip; Bueno es hermano, pero no tiene nada que ver con la posici&oacute;n, Luis &Aacute;lvarez-Icaza, del Instituto de Ingenier&iacute;a de la UNAM, est&aacute; participando en el proyecto junto con otras instituciones.</p>
+
+<p><strong>PREGUNTA: De igual forma, del estado de Hidalgo. Presidenta, el tren que conectar&aacute; al AIFA con el estado de Hidalgo y la Ciudad de M&eacute;xico, &iquest;cu&aacute;ndo se planea que se concluya este proyecto y cu&aacute;l es el estatus de su avance?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Alrededor de dos a&ntilde;os. Tenemos que terminar el M&eacute;xico-Aeropuerto Internacional &ldquo;Felipe &Aacute;ngeles&rdquo;, que ya en su momento les vamos a informar porque vamos a hacer varias acciones en este tramo, que es un tren concesionado; y despu&eacute;s, el AIFA-Pachuca, ese lo desarrollan los ingenieros militares de la Secretar&iacute;a de la Defensa Nacional, inicia en abril del pr&oacute;ximo a&ntilde;o y va a terminar a finales m&aacute;s o menos del 2026.</p>
+
+<p><strong>PREGUNTA: &iquest;El del AIFA?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> AIFA-Pachuca, ya completo, ser&iacute;a Ciudad de M&eacute;xico de Buenavista, de la estaci&oacute;n Buenavista hasta Pachuca.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Fabi&aacute;n Evaristo, de <em>La Silla Rota</em>.</strong></p>
+
+<p><strong>Nos gustar&iacute;a saber, Presidenta: esta semana se tiene que aprobar el Presupuesto de Egresos. Y saber si &iquest;en su administraci&oacute;n tiene planeado alg&uacute;n tipo de cambio para dar m&aacute;s presupuesto a Migraci&oacute;n o la Canciller&iacute;a ante las amenazas de Donald Trump de estas deportaciones masivas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No se requiere mucho m&aacute;s presupuesto. Estamos trabajando en fortalecer el Instituto; no es tanto de presupuesto, como de alguna reorganizaci&oacute;n interna, porque el Instituto cumple varias funciones y todo est&aacute; concentrado en el mismo lugar desde que se form&oacute; el Instituto.</p>
+
+<p>Entonces estamos trabajando en ello.</p>
+
+<p>Y la Canciller&iacute;a tiene sus propios recursos, no requiere un presupuesto adicional.</p>
+
+<p>Aprovecho para decir que el objetivo &mdash;ya lo hab&iacute;a comentado aqu&iacute;&mdash; es que disminuya el presupuesto de los organismos aut&oacute;nomos, porque ya no van a existir, eso representa m&aacute;s de 20 mil millones de pesos.</p>
+
+<p>Este presupuesto, en pl&aacute;ticas con la Comisi&oacute;n de Presupuesto de la C&aacute;mara de Diputados, se est&aacute; planteando distribuirlos para educaci&oacute;n; una parte para la Secretar&iacute;a de la Defensa Nacional, porque el objetivo es poder incrementar los salarios de las y los soldados que est&aacute;n en el nivel m&aacute;s bajo que no han podido tener un incremento mayor; y tambi&eacute;n para el INAH y el INBAL, para cultura; y otra parte importante, es un peque&ntilde;o presupuesto adicional a la Secretar&iacute;a de Desarrollo&hellip; de Agricultura y Desarrollo Rural.</p>
+
+<p>Entonces, est&aacute; distribuido en &aacute;reas prioritarias, depender&aacute; obviamente de los diputados su aprobaci&oacute;n, esa es nuestra propuesta. Y esencialmente, eso es lo que estar&iacute;a redistribuy&eacute;ndose del presupuesto.</p>
+
+<p><strong>PREGUNTA: Correcto, Presidenta. Y en otra pregunta, &iquest;saber si tiene alguna cifra que nos pudiera compartir del dinero que se est&aacute; otorgando para estos temas de migraci&oacute;n?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Con gusto lo mencionamos el d&iacute;a de ma&ntilde;ana.</p>
+
+<p>Parte es, el presupuesto que tiene Migraci&oacute;n; otra parte es el presupuesto que tiene Bienestar para la atenci&oacute;n de albergues; otra parte es la propia Guardia Nacional, que realiza tareas de rescate de migrantes en caso&hellip; que se han hecho varios operativos, por razones humanitarias y protegiendo sus derechos humanos.</p>
+
+<p>Entonces, est&aacute; distribuido en varias &aacute;reas. Y la otra parte en Relaciones Exteriores, particularmente en los Consulados.</p>
+
+<p><strong>PREGUNTA: Y, Presidenta, mi &uacute;ltima pregunta, &iquest;ya hay fecha de reuni&oacute;n con Donald Trump o esperar&iacute;a que tome posesi&oacute;n el 20 de enero para una reuni&oacute;n?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a ver si los equipos, como en la primera carta que envi&eacute;, pudieran reunirse.</p>
+
+<p>Recuerden que ellos tienen muchos de los nombramientos que tienen que ser aprobados por el Senado, en el caso de Estados Unidos, tiene que aprobarse estos nombramientos; y a partir de ah&iacute;, ver si puede haber una reuni&oacute;n previa antes de que pueda entrar, pero ser&iacute;a de los equipos de gobierno.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Por cierto, ayer el embajador Landau, que conoce muy bien M&eacute;xico, fue nombrado por el presidente Trump como&hellip; digamos, el s&iacute;mil ser&iacute;a subsecretario del Departamento de Estado.</p>
+
+<p>Que es bueno eso, porque el embajador Landau hizo un buen trabajo en M&eacute;xico, desde mi punto de vista. Lo conoc&iacute; como Jefa de Gobierno de la Ciudad y conoce muy bien nuestro pa&iacute;s.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Juan Bautista, de <em>Voces del Periodista</em>, del <em>Club de Periodistas</em>.</strong></p>
+
+<p><strong>Presidenta, llegar a esta fecha es una fecha &iacute;cono. El tema del Tren Maya, toda vez que emprendi&oacute; un cambio de paradigma en M&eacute;xico tanto en su desarrollo, su planeaci&oacute;n, su ejecuci&oacute;n y su conclusi&oacute;n; fue un proyecto que recibi&oacute; much&iacute;simas cr&iacute;ticas, sobre todo, por parte de la oposici&oacute;n y de algunos periodistas que siguen empe&ntilde;ados en criticar al aire las cosas.</strong></p>
+
+<p><strong>&iquest;Cu&aacute;l es su sentir el que usted llegue a ver la conclusi&oacute;n a un a&ntilde;o del funcionamiento del Tren Maya despu&eacute;s de todas estas&hellip; este viacrucis hist&oacute;rico, medi&aacute;tico, de crisis?, incluso, que tendr&iacute;a que ver con el tema de la econom&iacute;a, de que no iba a ser posible, que era un asunto inalcanzable. </strong></p>
+
+<p><strong>Y que va, en todo caso tambi&eacute;n, a tener una especie de espejo con la gran misi&oacute;n que usted tambi&eacute;n se est&aacute; proponiendo, de elaborar el doble de los tramos, son mil 500, el Tren Maya, usted se propone el doble en su administraci&oacute;n.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El Tren Maya es una haza&ntilde;a.</p>
+
+<p>Yo no llamar&iacute;a, como mencionas, &ldquo;crisis&rdquo;, la verdad, porque&hellip;</p>
+
+<p><strong>PREGUNTA: Yo preferir&iacute;a la haza&ntilde;a, s&iacute;.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, de la oposici&oacute;n y todas las cr&iacute;ticas que hubo y el tema, que utilizaron el tema ambiental como el argumento en contra del Tren Maya, cuando al mismo tiempo, se decretaron el doble de &aacute;reas naturales protegidas, la reserva de la selva tropical es la segunda reserva de la selva tropical despu&eacute;s de la Amazonia.</p>
+
+<p>Entonces, el Tren Maya es una haza&ntilde;a y tiene enormes virtudes, adem&aacute;s de ser un s&iacute;mbolo de la Transformaci&oacute;n.</p>
+
+<p>Su primera virtud es el reconocimiento de la cultura maya, de la naci&oacute;n maya. Esta idea de que M&eacute;xico surge, a partir de la Colonia o de que llegaron a &ldquo;rescatar&rdquo; a M&eacute;xico y a civilizarlo los espa&ntilde;oles, la cultura maya es de una grandeza extraordinaria.</p>
+
+<p>Nos puede decir m&aacute;s Diego Prieto, pero les puedo decir, solamente en t&eacute;rminos de las matem&aacute;ticas: la matem&aacute;tica maya no tiene parang&oacute;n con otras culturas que se desarrollaron en su momento; la matem&aacute;tica maya no tiene nada que ver con la romana, por ejemplo. Es de un desarrollo enorme porque tiene el cero, que es algo muy especial de esa cultura.</p>
+
+<p>Pero como eso, las construcciones, su visi&oacute;n, la astronom&iacute;a y todo lo que signific&oacute; la cultura maya, la cultura maya, digamos, de antes, pero la cultura maya de ahora, porque los mayas siguen existiendo, las y los mayas, particularmente en el sureste de M&eacute;xico.</p>
+
+<p>Entonces, es la conexi&oacute;n de esa historia cultural de M&eacute;xico, de esa historia que nos hace sentir orgullosos y al mismo tiempo, el orgullo que sentimos de la cultura maya de hoy. Y esa conexi&oacute;n hist&oacute;rica, esa memoria hist&oacute;rica y al mismo tiempo el reconocimiento de los pueblos originarios de hoy es un s&iacute;mbolo en el Tren Maya.</p>
+
+<p>Al mismo tiempo, lo que muestra el mundo es la riqueza cultural de M&eacute;xico, a las y los mexicanos y al mundo entero. Y la otra es la belleza natural, el Caribe mexicano es algo excepcional, y la selva y la riqueza biol&oacute;gica.</p>
+
+<p>Tuve la oportunidad de estar en el hotel de Calakmul todav&iacute;a con el Presidente Andr&eacute;s Manuel L&oacute;pez Obrador, es un hotel fuera de serie, tiene para cuidar de los animales. Que, por cierto, sacaron una nota hace poco en <em>El Universal</em> de que la Sedena los cataloga como &mdash;&iquest;qu&eacute; le pusieron?&mdash;&nbsp; &ldquo;fauna nociva&rdquo;. De verdad, es incre&iacute;ble que todav&iacute;a salgan esas notas.</p>
+
+<p>Entonces, tiene la alberca en la parte alta para evitar cualquier problema con la fauna que pudiera llegar al hotel.</p>
+
+<p>Pero entonces, desde la parte de arriba se ve la selva, ese mar verde impresionante que es la selva baja, la selva tropical de Campeche. Y cuando uno va caminando hacia el sitio arqueol&oacute;gico va escuchando los saraguatos; entonces, de una belleza excepcional.</p>
+
+<p>Esa conexi&oacute;n con la naturaleza, con la cultura maya de antes, con la cultura maya de hoy, la cultura culinaria, el sabor de la cultura culinaria del sureste, es algo excepcional.</p>
+
+<p>Y, adem&aacute;s, haberlo hecho en casi tres a&ntilde;os, porque en realidad la primera parte fue m&aacute;s bien de planeaci&oacute;n y pr&aacute;cticamente se hizo en tres a&ntilde;os, no lo ha hecho ning&uacute;n otro pa&iacute;s del mundo.</p>
+
+<p>Y hoy nos da mucho orgullo, por eso quisimos dedicarle este tiempo a lo que hoy es el Tren Maya, que es realmente una haza&ntilde;a y un &eacute;xito; porque hoy sale que &ldquo;muy poquitos boletos se venden y&hellip;&rdquo;.</p>
+
+<p>Ahora, vamos a inaugurar la parte que va de Esc&aacute;rcega a Chetumal, que la inaugur&oacute; el Presidente L&oacute;pez Obrador, pero inaugur&oacute;, digamos, el paso de los trenes; y ahora, ya se inaugura la venta de boletos de esta &uacute;ltima parte que faltaba del Tren Maya.</p>
+
+<p>Y todav&iacute;a falta que lleguen otros trenes, as&iacute; estaba programado desde el principio.</p>
+
+<p>Entonces, es algo maravilloso y es un orgullo poder tener una obra de estas caracter&iacute;sticas y, al mismo tiempo, proteger la naturaleza y estar orgullosos de la memoria hist&oacute;rica y lo que hoy representan los pueblos originarios.</p>
+
+<p><strong>PREGUNTA: Gracias por esa respuesta cronicada.</strong></p>
+
+<p><strong>El d&iacute;a de ayer, que estuvo usted en Nuevo Laredo, lanza un llamado s&iacute;, a que se unan los gobiernos de Estados Unidos y de Am&eacute;rica Latina; y, al mismo tiempo, la Canciller&iacute;a mexicana se&ntilde;ala que por el bien de El Caribe y de Latinoam&eacute;rica se va a empezar una serie de estrategias para buscar esa conexi&oacute;n tambi&eacute;n, en t&eacute;rminos comerciales, en t&eacute;rminos culturales.</strong></p>
+
+<p><strong>Si nos puede detallar un poco m&aacute;s esa estrategia, &iquest;c&oacute;mo se estar&iacute;a&hellip;?, o para otra ocasi&oacute;n, a lo mejor es muy larga la respuesta, &iquest;c&oacute;mo se estar&iacute;a planteando esta unidad latinoamericana en t&eacute;rminos econ&oacute;micos y todo lo que conlleva en la parte cultural?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Desde que estaba el Presidente L&oacute;pez Obrador, &eacute;l plante&oacute;, lo hizo en una visita, no recuerdo cu&aacute;l era el motivo de la visita, pero estaba el primer ministro de Canad&aacute;, el presidente Biden ya, y &eacute;l y ah&iacute; plante&oacute;&hellip; lo hizo tambi&eacute;n en el 2021 cuando hubo tambi&eacute;n una reuni&oacute;n relacionada con los 700 a&ntilde;os de Tenochtitlan, aunque se cumplen el pr&oacute;ximo a&ntilde;o, pero, finalmente, son 700 a&ntilde;os de la cultura mexica en el Valle de M&eacute;xico, los 500 a&ntilde;os de la llamada &ldquo;conquista&rdquo;, que m&aacute;s bien fue una invasi&oacute;n, y los 200 a&ntilde;os de la consumaci&oacute;n de la Independencia.</p>
+
+<p>Ah&iacute; &eacute;l plante&oacute; que, frente a la competencia con China con otras regiones del mundo, y particularmente, China como centro, el Tratado de Libre Comercio Canad&aacute;-M&eacute;xico-Estados Unidos o M&eacute;xico-Estados Unidos-Canad&aacute;, pues tiene un potencial enorme, y es la &uacute;nica manera realmente de competir.</p>
+
+<p>Pero ah&iacute; plante&oacute; esta idea de que no solo debe ser Am&eacute;rica del Norte, sino que debe haber una visi&oacute;n econ&oacute;mica del continente, y eso incluye a El Caribe. Y yo estoy de acuerdo con esa visi&oacute;n.</p>
+
+<p>Entonces, M&eacute;xico, obviamente, tiene relaciones comerciales con much&iacute;simos pa&iacute;ses del mundo y tenemos tratados comerciales con much&iacute;simos pa&iacute;ses del mundo, evidentemente, el m&aacute;s importantes pues es el Tratado Comercial de Am&eacute;rica del Norte, pero esta visi&oacute;n de que, como potencia, todo el continente tiene un desarrollo y una posibilidad enorme, pues algo que vamos a seguir insistiendo en ello.</p>
+
+<p>Y, por lo tanto, M&eacute;xico mantiene, fomenta y defiende el Tratado Comercial M&eacute;xico-Estados Unidos-Canad&aacute;, pero tambi&eacute;n la visi&oacute;n de extendernos hacia otros pa&iacute;ses, que ya existen muchas relaciones comerciales, pero que creemos que deben seguirse fortaleciendo.</p>
+
+<p><strong>PREGUNTA: Por &uacute;ltimo, Presidenta, comentarle que el d&iacute;a 5 de diciembre, el jueves, en el Club se entregaron los Premios Nacionales de Periodismo. Se entregaron 53 premios, 20 por categor&iacute;a y otros por trayectoria; cuatro colegas de aqu&iacute; de &ldquo;La Ma&ntilde;anera&rdquo; obtuvieron reconocimientos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;A ver, levanten la mano. &iquest;No est&aacute;n? Un aplauso&mdash;.</p>
+
+<p><strong>PREGUNTA: Bueno, no s&eacute; qui&eacute;nes est&aacute;n, (inaudible), <em>El Universal</em> tambi&eacute;n, <em>El Heraldo</em>.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muchas felicidades.</p>
+
+<p><strong>PREGUNTA: <em>Telesur</em> tambi&eacute;n; y la compa&ntilde;era de <em>Televisa</em>.</strong></p>
+
+<p><strong>Y agradecer el haber enviado al maestro Alfonso Su&aacute;rez del Real a la ceremonia. Y refrendarle, Presidenta, que desde el Club &mdash;porque traigo este mensaje&mdash; refrendamos la total y absoluta libertad de expresi&oacute;n que se ejerce en el pa&iacute;s.</strong></p>
+
+<p><strong>La libertad de informaci&oacute;n y la libertad de expresi&oacute;n es un sello indiscutible, fehaciente, s&oacute;lido, amplio en toda la extensi&oacute;n de la palabra.</strong></p>
+
+<p><strong>Gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Muchas gracias.</p>
+
+<p>&mdash;Vamos con una o dos preguntas m&aacute;s, y luego vamos a cerrar con &ldquo;Humanismo Mexicano&rdquo;, pero m&aacute;s bien con Diego para que nos hable de los recientes descubrimientos del mundo maya&mdash;.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias. Buenos d&iacute;as, Presidenta. Rodrigo Mu&ntilde;oz, de <em>NX Noticias</em>.</strong></p>
+
+<p><strong>Para empezar, amanecimos con una noticia de reducci&oacute;n de la inflaci&oacute;n, que se ubica en 4.55 por ciento.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;A ver si tienen la grafiquita&mdash;.</p>
+
+<p><strong>PREGUNTA:&nbsp; Es, al parecer, el nivel m&aacute;s bajo en ocho meses. Su opini&oacute;n al respecto.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si. F&iacute;jense, y vamos a insistir en esto: 36 a&ntilde;os donde el salario m&iacute;nimo cada vez alcanzaba para menos. Ahora, con lo que anunciamos del 12 por ciento de incremento para el 2025, pues es un incremento sostenido por encima de la inflaci&oacute;n.</p>
+
+<p>Antes se dec&iacute;a que &ldquo;no aumentaba el salario m&iacute;nimo porque iba a representar inflaci&oacute;n&rdquo;; y la inflaci&oacute;n hoy, adem&aacute;s, respecto a otros pa&iacute;ses de la Organizaci&oacute;n para la Cooperaci&oacute;n y el Desarrollo Econ&oacute;mico es de las m&aacute;s bajas. Y noviembre, est&aacute; dando el Inegi esta informaci&oacute;n, de que hay una disminuci&oacute;n a&uacute;n mayor de la inflaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta, eso, por un lado. Por el otro, nos comentaban los avances del programa de vivienda, dos cosas puntuales: El primero, si &iquest;est&aacute;n, en el caso de la Conavi, priorizando algunos estados o municipios de esos estados para llevar a cabo este proyecto de vivienda?</strong></p>
+
+<p><strong>Y en complemento, usted, que ha realizado estas giras de trabajo desde que tom&oacute; posesi&oacute;n, imagino que este tema de vivienda con varios gobernadores se ha puesto sobre la mesa. Tambi&eacute;n, su opini&oacute;n, conocer: &iquest;c&oacute;mo, desde su &oacute;ptica, avanza este programa, que es muy necesario en algunas partes del pa&iacute;s?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Edna Vega ya se reuni&oacute; con los 31 gobernadores y la jefa de gobierno; Octavio, desde el Infonavit, tambi&eacute;n ya pr&aacute;cticamente se reuni&oacute; con todos y con todas.</p>
+
+<p>Lo primero que hicimos fue la reserva territorial, es decir, los terrenos en donde se van a construir las viviendas. Su caracter&iacute;stica es que tuviera acceso a los servicios y al mismo tiempo, no quedar alejada de los centros de poblaci&oacute;n, para no repetir estos vicios que se hicieron durante el periodo neoliberal, particularmente, del gobierno de Fox y Calder&oacute;n, que construyeron viviendas alejadas de los centros de poblaci&oacute;n, y muchas de ellas fueron, incluso, abandonadas porque no ten&iacute;an los servicios. Es decir, era m&aacute;s bien un negocio que el acceso a la vivienda de las y los trabajadores.</p>
+
+<p>Entonces, la reserva territorial para el 2025 ya est&aacute;. En algunas entidades de la Rep&uacute;blica, incluso, ya hay reserva territorial para los siguientes a&ntilde;os; va a ser en las 32 entidades de la Rep&uacute;blica el programa del Infonavit y de la Conavi.</p>
+
+<p>Ahora, adem&aacute;s de la nueva vivienda, que se va a desarrollar en Unidades Habitacionales, tenemos el Programa de Mejoramiento de Vivienda, que significa que se le da un cr&eacute;dito a la persona que ya tiene una vivienda y lo utiliza para construir un cuarto m&aacute;s, para mejorar su vivienda; que tambi&eacute;n son cr&eacute;ditos muy importantes. En el caso de la Conavi son cr&eacute;ditos a cero por ciento de inter&eacute;s; del Infonavit es para las personas de menores ingresos econ&oacute;micos con los criterios del Infonavit.</p>
+
+<p>En el caso de Conavi, el pr&oacute;ximo a&ntilde;o, la mayor parte del mejoramiento de vivienda va para el programa del oriente del Estado de M&eacute;xico. Recuerdan que hemos anunciado &mdash;ya lo vamos a presentar aqu&iacute; en cuanto lleguen los nuevos presidentes municipales, que entran en enero&mdash; el programa para la zona oriente del Estado de M&eacute;xico lo que implica: es vivienda, es agua, es drenaje, es pavimentaci&oacute;n, es escrituraci&oacute;n, es mejoramiento de la movilidad, es un programa integral para la mejora urbana de esta zona en donde viven m&aacute;s de 10 millones de habitantes. Entonces, Conavi, el mejoramiento de vivienda est&aacute; concentrado principalmente en esta zona.</p>
+
+<p>Entonces, la buena noticia es que, incluso, ya hay proyectos ejecutivos para el desarrollo de la vivienda en algunas de las zonas.</p>
+
+<p>Y, adem&aacute;s, la empresa de Infonavit ya est&aacute; por crearse, falta aprobar la ley secundaria, que ya se aprob&oacute; la reforma constitucional, falta la ley secundaria para que muy pronto pueda estar la empresa del Infonavit y otras empresas regionales que van a ayudar a cumplir el un mill&oacute;n de viviendas nuevas.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Y, por &uacute;ltimo, el viernes estuvo en Chiapas. Ah&iacute; adelant&oacute; &mdash;como en el caso de Cuitl&aacute;huac Garc&iacute;a, en Veracruz&mdash; que Rutilio, el ahora exgobernador, ocupar&aacute; un lugar dentro de su equipo de trabajo. Saber si ya nos puede adelantar algo de, digamos&hellip;.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya lo vamos a anunciar pronto.</p>
+
+<p><strong>PREGUNTA: <em>Ok</em>. Y en el caso de Eduardo, el nuevo gobernador de Chiapas, si &iquest;tuvo la oportunidad &mdash;me imagino que s&iacute;&mdash; de hablar del tema, obviamente, fronterizo, de seguridad ah&iacute; en la frontera sur del pa&iacute;s para seguir atendiendo el asunto de la migraci&oacute;n?</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si. Todav&iacute;a no nos reunimos con el equipo del nuevo gobernador.</p>
+
+<p>Voy a cumplir a finales de diciembre la gira por las 32 entidades de la Rep&uacute;blica.</p>
+
+<p>En algunos lugares donde fue justo el cambio de gobierno, ya no nos dio tiempo de reunirnos con el nuevo equipo; porque mi objetivo pues era tambi&eacute;n ir a visitar antes de que se fuera el anterior gobernador, como fue el caso de Veracruz y de Chiapas.</p>
+
+<p>Entonces, en la mayor&iacute;a ya nos reunimos con los equipos de trabajo, pero en algunos nos va a quedar la reuni&oacute;n, aunque ya tenemos claros cu&aacute;les son los proyectos estrat&eacute;gicos para las 32 entidades.</p>
+
+<p>Este fin de semana que viene vamos de nuevo al sureste, ah&iacute; vamos a aprovechar para reunirnos con el equipo de Mara Lezama en Quintana Roo, los dem&aacute;s ya nos reunimos; nos faltar&iacute;a nada m&aacute;s el equipo&hellip; la reuni&oacute;n con el equipo de Eduardo Ram&iacute;rez en Chiapas.</p>
+
+<p>Vale la pena tambi&eacute;n mencionar que hubo una&hellip; vamos a llamarle &ldquo;una acci&oacute;n de paz&rdquo; en Pantelh&oacute;, en Chiapas, muy bien desarrollada por la Secretar&iacute;a de Gobernaci&oacute;n y con la participaci&oacute;n de la Secretar&iacute;a de la Defensa Nacional.</p>
+
+<p>Ah&iacute; hay un conflicto entre dos grupos que, aunque es un conflicto social, pues los grupos&hellip; parte de estos grupos est&aacute;n armados; entonces, ten&iacute;a su complicaci&oacute;n. Se pudo entrar con una acci&oacute;n de pacificaci&oacute;n para atender principalmente a las familias.</p>
+
+<p>Me lo pidieron algunos familiares que estuvieron en el evento de inauguraci&oacute;n de la carretera&hellip; bueno, en la ampliaci&oacute;n de la carretera de Tuxtla a San Crist&oacute;bal de las Casas. Y hoy mantienen todav&iacute;a la presencia y se sigue manteniendo di&aacute;logo.</p>
+
+<p>Entonces fue una buena intervenci&oacute;n de pacificaci&oacute;n en la zona; todav&iacute;a se mantiene la tensi&oacute;n, pero no como estaba hace unos d&iacute;as.</p>
+
+<p>&mdash;La &uacute;ltima, por ac&aacute;&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias. Buenos d&iacute;as, Presidenta. <em>Laura &Aacute;vila, </em>de<em> Posta Ciudad de M&eacute;xic</em>o.</strong></p>
+
+<p><strong>Recientemente, Estados Unidos aument&oacute; las recompensas por ocho l&iacute;deres del narcotr&aacute;fico de aqu&iacute; de M&eacute;xico. Y, bueno, bajo este contexto, preguntarle si &iquest;ha tenido respuesta de los casos del &ldquo;Mayo&rdquo; Zambada y Joaqu&iacute;n Guzm&aacute;n L&oacute;pez? Hab&iacute;a comentado que solicit&oacute; informaci&oacute;n al presidente Joe Biden. Saber si &iquest;le dio alguna respuesta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No ha habido m&aacute;s informaci&oacute;n. De todas maneras, la Fiscal&iacute;a sigue trabajando.</p>
+
+<p><strong>PREGUNTA: Perfecto. Y cambiando de tema, preguntarle sobre: &iquest;qu&eacute; avances hay sobre la investigaci&oacute;n de la bacteria en el Estado de M&eacute;xico?</strong></p>
+
+<p><strong>Como ya nos hab&iacute;a mencionado, se suspendi&oacute; el contrato de una empresa y adem&aacute;s, hab&iacute;a mencionado algo sobre un alimento que igual se hab&iacute;a quitado. Si nos podr&iacute;a dar detalles sobre &iquest;qu&eacute; empresa es y qu&eacute; alimento?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El d&iacute;a de ma&ntilde;ana viene Salud. Y le ped&iacute; al doctor Kershenobich que les pueda hacer una informaci&oacute;n mucho m&aacute;s detallada del caso del Estado de M&eacute;xico.</p>
+
+<p>Se sigue haciendo la investigaci&oacute;n, por parte de las instituciones de Salud y, por supuesto, lo que tendr&iacute;a que decir la Fiscal&iacute;a del Estado de M&eacute;xico; pero son peque&ntilde;itos que recibieron alimentaci&oacute;n v&iacute;a intravenosa, este alimento intravenoso presuntamente ven&iacute;a contaminado.</p>
+
+<p>Se est&aacute;n haciendo todav&iacute;a todas las investigaciones, pero, de todas maneras, de manera preventiva y siguiendo todos los protocolos se actu&oacute; desde el principio: Se suspendi&oacute; este medicamento, no solo ah&iacute;, sino en toda la Rep&uacute;blica. Se hizo un alertamiento. Cofepris suspendi&oacute; el permiso para poder seguir suministrando este medicamento y se siguen haciendo &mdash;no medicamento, sino alimentaci&oacute;n&mdash; y se siguen haciendo todas las investigaciones.</p>
+
+<p>El Estado de M&eacute;xico estuvo atendiendo a las familias y, de todas maneras, la Secretar&iacute;a de Gobernaci&oacute;n, a trav&eacute;s del &aacute;rea de V&iacute;ctimas tambi&eacute;n est&aacute; en contacto ya con las familias para poderles apoyar en todo lo que requieran. Y, por supuesto, esto tiene que llevar a una investigaci&oacute;n por parte de la Fiscal&iacute;a del Estado de M&eacute;xico.</p>
+
+<p>Ma&ntilde;ana el doctor Kershenobich va a dar una informaci&oacute;n mayor.</p>
+
+<p>Se estuvo haciendo los boletines y est&aacute;n en comunicaci&oacute;n con la Secretar&iacute;a de Salud del Estado de M&eacute;xico. Pero s&iacute; es un caso que tiene que ser sancionado una vez que terminen las investigaciones; y apoyar a las familias, evidentemente.</p>
+
+<p><strong>PREGUNTA: Gracias</strong>.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, vamos a cerrar hoy con Diego Prieto.</p>
+
+<p>Vamos a cambiar de d&iacute;a, por cierto: &ldquo;Alimentaci&oacute;n Saludable&rdquo; lo vamos a dejar con Salud, los martes; aunque un martes es salud y otro martes es seguridad, pero lo vamos a dejar con Salud, alimentaci&oacute;n&hellip; &ldquo;Vida Saludable&rdquo;, porque no solo es alimentaci&oacute;n, &ldquo;Vida Saludable&rdquo;.</p>
+
+<p>Y pasamos a los lunes el &ldquo;Humanismo Mexicano&rdquo;.</p>
+
+<p>Y hoy con esto hacemos patente que uno de los pilares del Humanismo Mexicano son las culturas, los pueblos originarios.</p>
+
+<p>&mdash;Adelante, Diego&mdash;.</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA (INAH), DIEGO PRIETO HERN&Aacute;NDEZ:</strong> S&iacute;. Muchas gracias, Presidenta.</p>
+
+<p>Compa&ntilde;eras y compa&ntilde;eros del equipo de gobierno, amigas y amigos de los medios y todos los que nos siguen por las redes:</p>
+
+<p>Vamos hoy a presentar un trabajo que vamos a estar presentando &mdash;ya lo dijo la Presidenta&mdash; a lo largo de estas conferencias &ldquo;Ma&ntilde;aneras del pueblo&rdquo;, y tienen que ver con el Humanismo Mexicano.</p>
+
+<p>Muy en particular, que podamos ir conociendo c&oacute;mo hay un conjunto de valores, de saberes, de maneras de pensar el mundo, la vida y la naturaleza que nos pueden ayudar a enriquecer una salida para un pa&iacute;s m&aacute;s justo, m&aacute;s incluyente, m&aacute;s plural, pr&oacute;spero y equitativo.</p>
+
+<p>Y coincide, afortunadamente, tambi&eacute;n esta c&aacute;psula con el aniversario del Tren Maya porque, sin duda alguna, que este proyecto integral nos ha permitido apreciar de mucho mejor manera la grandiosidad, la fuerza cultural, la enorme reserva de conocimientos, la gran fuerza de la ciencia, el pensamiento, la arquitectura y la cultura en general de esta gran civilizaci&oacute;n maya de ayer y hoy.</p>
+
+<p>Y hoy la c&aacute;psula, a sugerencia de nuestra Presidenta y bajo la coordinaci&oacute;n de Alfonso Su&aacute;rez del Real, va a versar sobre el cero como una aportaci&oacute;n de los mayas, una gran aportaci&oacute;n de los mayas a la ciencia y a la matem&aacute;tica universales.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE LA SECCI&Oacute;N &ldquo;HUMANISMO MEXICANO&rdquo; SOBRE LA APORTACI&Oacute;N DE LOS MAYAS DEL N&Uacute;MERO CERO)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA (INAH), DIEGO PRIETO HERN&Aacute;NDEZ:</strong> Muchas gracias.</p>
+
+<p><strong>PREGUNTA: &iquest;Tendr&aacute; reuniones hoy, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Me voy a reunir con la CNTE, es la segunda reuni&oacute;n, alrededor de las 11:00, si mal no recuerdo.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PREGUNTA: Presidenta, hoy cumplen 19 a&ntilde;os de Israel Vallarta en prisi&oacute;n, sin sentencia. Saber, si &iquest;tiene avances sobre el tema? Y si, en dado caso, la audiencia programada para el 30 de diciembre, donde se le podr&aacute; dar libertad o bien sentenciarlo, &iquest;podr&iacute;a caber la posibilidad de que hubiera un indulto Presidencial?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo platicamos ma&ntilde;ana, si quieren. Son varios delitos y la Corte ha en algunos casos sentenciado de una manera y en otros de otra. Y ma&ntilde;ana, si quieren, lo platicamos con calma.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PREGUNTA: Presidenta, &iquest;ma&ntilde;ana va al informe de la ministra Norma Pi&ntilde;a? Es el &uacute;ltimo informe.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, no voy a ir. Vamos a enviar a una persona.</p>
+
+<p><strong>PREGUNTA: &iquest;Qui&eacute;n va?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya se los informamos, tambi&eacute;n.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PREGUNTA: &iquest;La medalla &ldquo;Belisario Dom&iacute;nguez&rdquo; (inaudible)?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Tambi&eacute;n, no voy a poder asistir personalmente, pero tambi&eacute;n va a ir&hellip;</p>
+
+<p><strong>PREGUNTA: &iquest;Qu&eacute; opina que se le haya destinado a Ninfa De&aacute;ndar?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Me parece muy bien.</p>
+
+<p>Gracias, gracias a todos y a todas. Hasta ma&ntilde;ana.</p>
+
+<p>Mucha informaci&oacute;n hoy.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-12-09 09:43:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de diciembre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-diciembre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-diciembre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de diciembre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-diciembre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-diciembre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de diciembre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-diciembre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-diciembre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-diciembre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

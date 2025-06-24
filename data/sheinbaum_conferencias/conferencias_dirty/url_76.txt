@@ -1,0 +1,1736 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de octubre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional
+">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de octubre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/150434/WhatsApp_Image_2024-10-14_at_8.25.19_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional
+" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional
+" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/150434/WhatsApp_Image_2024-10-14_at_8.25.19_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="sKNeugOkYX1GfWsaZ3G5h2dvC7SK0JS79TugKZPNRy0=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nn567jbez44jyya-f-af401c511-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":21,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"b93c993","ak.r":46322,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62510,"ak.gh":"189.247.210.14","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296880","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==J3onC7dAUjxXAph+zdBSSzkm3KDVfTayegO60FYDyg2pQT53PcisMxL3yNjFuXfSTwPud87NhrrAfJRxldufaYheZLJVRkujdwORDd2htMANuyxAvPRB8M5qycOYbR2rb3HxA4NazfKz2yTwGYUeSkhRJeLbylGS/1Ki6koewdAYusBfJZz9dt9dNeNB4qUj/83QjS6YDKoh3uIHMKZSwp/+15Anw+q/5rD1IIESxOtXVB4DaQZKI/kIoWMmSR20qU/TMWklGsjGxeda4UuFz3lz5y0wLoHUp8VjUJqHrwVhwbhRO7cehSHq8zd/aEtBK3eVUX6GSzCGXIxpFD7e/RCwpGoK5Zz1sGZ9aGGsdaV15KnazpqMP1Vs0hlKK2dXtw2524PnILr0sugMjiHqJzydiqj62M0ntiDWnlNLNXw=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de octubre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional
+</h2>
+        <section class="">
+          <p>Presidencia de la República  | 14 de octubre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo
+" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/150434/WhatsApp_Image_2024-10-14_at_8.25.19_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo
+</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Muy buenos d&iacute;as a todos, a todas.</p>
+
+<p>El d&iacute;a de hoy est&aacute; la doctora Edna Vega, secretaria de Desarrollo Agrario, Territorial y Urbano; est&aacute; Octavio Romero Oropeza, director general del Infonavit; est&aacute; Rodrigo Ch&aacute;vez, director general de la Comisi&oacute;n Nacional de Vivienda; Jos&eacute; Alfonso Iracheta, director general del Instituto Nacional de Suelo Sostenible.</p>
+
+<p>Edna y el equipo nos van a platicar sobre el programa de vivienda. Son, como lo anunciamos el 1&ordm; de octubre, un mill&oacute;n de viviendas que vamos a construir en el sexenio, al menos, y al menos un mill&oacute;n de viviendas que vamos a regularizar, ese es el objetivo.</p>
+
+<p>Del mill&oacute;n de viviendas que vamos a construir, es una parte con el Infonavit y la otra con Conavi; es decir, para afiliados al Infonavit; y la otra para quienes no son derechohabientes y tienen ingresos menores o el m&iacute;nimo o hasta dos o tres salarios m&iacute;nimos, vivienda popular con un esquema de financiamiento.</p>
+
+<p>Ah, tambi&eacute;n est&aacute; aqu&iacute; Roc&iacute;o Mej&iacute;a, de Financiera para el Bienestar, que a trav&eacute;s de financiera vamos a financiar estas viviendas, ahora lo vamos a explicar.</p>
+
+<p>Y, por otro lado, est&aacute; Rosa Icela Rodr&iacute;guez, secretaria de Gobernaci&oacute;n, que nos va a platicar sobre la selecci&oacute;n, de lo que se hizo en el Senado, para saber qui&eacute;nes &mdash;o qu&eacute; espacios m&aacute;s que qui&eacute;nes&mdash;, qu&eacute; espacios van a ser o fueron seleccionados para elegirse como jueces, magistrados, el pr&oacute;ximo junio de 2025.</p>
+
+<p>Entonces, vamos a empezar con Edna, Octavio, Rodrigo, Roc&iacute;o, Jos&eacute; Alfonso y luego Rosa Icela. Muy breves, por favor.</p>
+
+<p><strong>EDNA ELENA VEGA RANGEL, SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO: </strong>Con su permiso, presidenta. Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Con el gran gusto de presentar uno de los programas prioritarios del Gobierno de M&eacute;xico, encabezado por la doctora Claudia Sheinbaum. Este programa, ya tenemos en el proceso de elaboraci&oacute;n un buen rato con los lineamientos que nos ha dado la presidenta. &iquest;En qu&eacute; consiste?</p>
+
+<p>Partimos primero de un diagn&oacute;stico que se ha realizado ya desde hace varios a&ntilde;os por parte de la propia Comisi&oacute;n Nacional de Vivienda. Si recuerdan, en alguna de las sesiones anteriores habl&aacute;bamos de que durante el periodo pasado con el licenciado Andr&eacute;s Manuel L&oacute;pez Obrador se logr&oacute; abatir el rezago habitacional en 1.5 millones. Actualmente, con este gran avance, la situaci&oacute;n actual es esta, 8.9 millones de vivienda en situaci&oacute;n de rezago habitacional, que se refiere b&aacute;sicamente a las condiciones de los materiales, de los servicios con los que cuenta la vivienda, y as&iacute; se cataloga.</p>
+
+<p>&iquest;Cu&aacute;les son los municipios donde hay mayor rezago habitacional?</p>
+
+<p>Los pueden ver de este lado derecho: Tijuana, Mexicali, Ju&aacute;rez, Ensenada, Acapulco, Centro de Tabasco, Tapachula, Iztapalapa, C&aacute;rdenas y Huimanguillo, tambi&eacute;n en Tabasco. Tiene que ver tambi&eacute;n con condiciones de riesgo.</p>
+
+<p>Y, por otro lado, tenemos lo que se denomina &lsquo;las necesidades de vivienda por crecimiento de la poblaci&oacute;n&rsquo;, y se refiere a que, para el 2025, 2.8 millones de viviendas se requieren por este crecimiento poblacional, y para 2030 ser&aacute; 6.6 millones de viviendas nuevas.</p>
+
+<p>Entonces, sobre esta base, les pido observar plano, &iquest;d&oacute;nde est&aacute;n entonces estas necesidades?, pues justamente en la zona sur sureste y hacia el norte es donde se encuentran las mayores necesidades y condiciones de rezago.</p>
+
+<p>Entonces, es la propuesta que corresponde justamente a la atenci&oacute;n que vimos en el plano anterior, y es un mill&oacute;n de viviendas nuevas; esto hace la diferencia respecto al periodo anterior, que una buena parte se dirigi&oacute; a otro tipo de intervenciones en la vivienda.</p>
+
+<p>Y en este mill&oacute;n de viviendas, atender prioritariamente a mujeres, jefas de familia, j&oacute;venes, poblaci&oacute;n ind&iacute;gena y adultos mayores, y de manera muy particular, por instrucciones de la Presidencia, generar un programa de vivienda en renta para j&oacute;venes de manera prioritaria, pero tambi&eacute;n en la poblaci&oacute;n en general en las condiciones en que se requieren. Adem&aacute;s del mill&oacute;n de viviendas nuevas, tenemos 450 mil mejoramientos y ampliaciones de vivienda.</p>
+
+<p>Con todo esto, y a trav&eacute;s de lo que vamos a explicar m&aacute;s adelante, se calcula una inversi&oacute;n superior a los 600 mil millones de pesos; adicionalmente, un programa de escrituraci&oacute;n de vivienda, como lo acaba de mencionar la presidenta, con un mill&oacute;n de escrituras.</p>
+
+<p>&iquest;C&oacute;mo se distribuir&aacute;n las viviendas nuevas?</p>
+
+<p>Aqu&iacute; lo podemos ver: en la regi&oacute;n sur 350 mil viviendas nuevas, en la regi&oacute;n centro 239 mil 400, en la zona centro norte 228 mil 800 y la regi&oacute;n norte 206 mil 800. Con ello, se crear&aacute;n m&aacute;s de seis millones de empleos directos y m&aacute;s de nueve millones de empleos indirectos.</p>
+
+<p>Adicionalmente a todo este planteamiento estar&aacute;n las acciones de vivienda nueva de Fovissste y seguramente de la Sociedad Hipotecaria Federal que falta incorporar a este programa.</p>
+
+<p>&iquest;Cu&aacute;les son las caracter&iacute;sticas que buscamos en este programa de vivienda nueva?</p>
+
+<p>Primero, la atenci&oacute;n a la poblaci&oacute;n m&aacute;s vulnerable de este pa&iacute;s, la atenci&oacute;n al rezago habitacional, la atenci&oacute;n al incremento demogr&aacute;fico; la atenci&oacute;n muy particular tambi&eacute;n en las zonas de riesgo, hay muchas necesidades a lo largo y ancho del pa&iacute;s, de familias que requieren ser reubicadas por su condici&oacute;n de riesgo y tambi&eacute;n por el efecto de cambio clim&aacute;tico, que ya estamos enfrentando de manera importante; a la poblaci&oacute;n ind&iacute;gena, a los municipios donde hay altos &iacute;ndices de inseguridad, mejorando el entorno tambi&eacute;n se tiene un impacto positivo para ello y esta necesidad de vivienda que deriva de los proyectos prioritarios del Gobierno de M&eacute;xico, como son los trenes, y para mejoramientos y ampliaciones en zonas de mayor marginalidad o marginaci&oacute;n.</p>
+
+<p>Tambi&eacute;n buscamos cumplir con los siete conceptos de la vivienda adecuada que se&ntilde;ala Naciones Unidas, que tiene que ver con los siete componentes de ubicaci&oacute;n adecuada, contar con servicios, tener una habitabilidad adecuada, todo esto que ustedes ven aqu&iacute; tiene que ver con este concepto del derecho a la vivienda que se&ntilde;ala Naciones Unidas: sin condici&oacute;n de riesgo, con servicios b&aacute;sicos, cercana a equipamiento, que no se vuelvan a construir conjuntos alejados de las ciudades y sin transporte, por eso cerca de las vialidades primarias y secundarias; &aacute;reas verdes, espacios recreativos y acordes a este concepto tambi&eacute;n de Naciones Unidas de la adecuaci&oacute;n cultural.</p>
+
+<p>Y para 2025, ya muy particular, ya muy avanzado el programa con todos los requerimientos en coordinaci&oacute;n con gobernadoras y gobernadores tambi&eacute;n, 165 mil viviendas nuevas, m&aacute;s 100 mil mejoramientos en la zona oriente de la zona metropolitana del Valle de M&eacute;xico, y 120 mil escrituras, esta es la meta para 2025.</p>
+
+<p>Adelante, adelante, por favor. Ahora presentaremos por parte del ingeniero Octavio Romero.</p>
+
+<p><strong>OCTAVIO ROMERO OROPEZA, DIRECTOR GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT):</strong> Con su permiso, presidente. Muy buenos d&iacute;as a todas y a todos. Si me permiten. Gracias.</p>
+
+<p>Bueno, comenzar&iacute;amos coment&aacute;ndoles lo que tenemos proyectado en el Infonavit para el cierre de este a&ntilde;o, que ser&iacute;an cr&eacute;ditos a sus derechohabientes para adquisici&oacute;n de vivienda nueva, vivienda existente y compra de terreno. Queremos cerrar con 340 mil cr&eacute;ditos, cr&eacute;ditos para construcci&oacute;n de vivienda en terreno propio, 14 mil cr&eacute;ditos, cr&eacute;ditos para reparar, remodelar o ampliar vivienda, 224 mil.</p>
+
+<p>Y, adicionalmente, y esto es bien importante, mejorar las condiciones tanto de los cr&eacute;ditos vigentes como de cartera vencida, cambiando los adeudos de salarios m&iacute;nimos por mensualidades y tasas fijas. Esto es, como pensamos cerrar el 2024.</p>
+
+<p>Ahora bien, &iquest;qu&eacute; vamos a hacer en los seis a&ntilde;os adicionalmente a las acciones actuales? Bueno, primero que nada, construir 500 mil viviendas nuevas con una inversi&oacute;n, con un primer saque de 288 mil millones de pesos. Son viviendas de inter&eacute;s social de bajo costo, que actualmente no se est&aacute;n construyendo por los desarrolladores y que van a cubrir este importante necesidad que se tiene de vivienda.</p>
+
+<p>Tambi&eacute;n, vamos a otorgar cr&eacute;ditos, 250 mil cr&eacute;ditos para mejoramiento, un estimado de inversi&oacute;n de 20 mil millones de pesos, esto va a ser adicional al mill&oacute;n de cr&eacute;ditos para reparar, remodelar o ampliar vivienda del programa ordinario. En el sexenio pasado fueron m&aacute;s o menos un mill&oacute;n de cr&eacute;ditos en los seis a&ntilde;os, estamos estimando un 25 por ciento adicional.</p>
+
+<p>Otorgaremos cr&eacute;ditos para poblaci&oacute;n derechohabiente de bajos ingresos, incluyendo los que no est&aacute;n activos. Los trabajadores que no est&aacute;n activos en su mayor&iacute;a tienen un fondo de garant&iacute;a y, bueno, estos tambi&eacute;n tienen derecho, van a tener derecho a estos cr&eacute;ditos; ellos podr&iacute;an no estar activos, pero pueden tener un empleo informal, pueden estarse ellos trabajando por su cuenta o pueden darse de alta voluntariamente o reincorporarse para tener acceso a estos cr&eacute;ditos.</p>
+
+<p>La clave de todo es la conformaci&oacute;n, de acuerdo con la instrucci&oacute;n que nos dio la presidenta de la Rep&uacute;blica, de construir una empresa constructora para disminuir costos y capacidad, tener esa capacidad de viviendas. Y se van a incluir no s&oacute;lo las 500 mil del Infonavit, sino el total, el mill&oacute;n de viviendas, 500 mil del Infonavit y 500 mil que se est&aacute;n estimando para Conavi y para Fovissste.</p>
+
+<p>Y, finalmente, vamos a implementar un programa de vivienda en renta con opci&oacute;n a compra, este programa es importante, en inmuebles propiedad del Infonavit se va a disponer de vivienda asequible en el esquema de arrendamiento, en donde las rentas van a poder abonar al pago de la vivienda si el derechohabiente decide adquirirla.</p>
+
+<p>Esto va a ser aplicado en todo el pa&iacute;s, pero va a estar orientado a poblaci&oacute;n prioritaria, sobre todo mujeres jefas de familia, j&oacute;venes, adultos mayores y, desde luego, trabajadores independientes que se den de alta de manera voluntaria.</p>
+
+<p>&iquest;C&oacute;mo vamos a hacerles saber los detalles y la forma de acceso a los derechohabientes?</p>
+
+<p>Bueno, a trav&eacute;s de las delegaciones del Infonavit en todos los estados, a trav&eacute;s de los centros de servicio que est&aacute;n en estas delegaciones a trav&eacute;s de la plataforma que tiene el Infonavit y, desde luego, con campa&ntilde;as de informaci&oacute;n que se van a seguir teniendo como hasta la fecha tiene el Infonavit.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> El micr&oacute;fono.</p>
+
+<p><strong>OCTAVIO ROMERO OROPEZA:</strong> P&eacute;rd&oacute;n, perd&oacute;n, perd&oacute;n. Repito, no se oy&oacute; nada. &iquest;O empiezo de nuevo?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> La &uacute;ltima, c&oacute;mo pueden acceder las personas.</p>
+
+<p><strong>OCTAVIO ROMERO OROPEZA:</strong> &iquest;C&oacute;mo se va a enterar la gente a trav&eacute;s de las delegaciones del Infonavit en el pa&iacute;s? Hay centros de servicio, tenemos 32 en el pa&iacute;s en cada&hellip; o m&aacute;s. Y a trav&eacute;s de las plataformas del Infonavit, las digitales y a trav&eacute;s de campa&ntilde;as de comunicaci&oacute;n les vamos a estar haciendo saber cu&aacute;les son los detalles y los requisitos para este programa que nos instruy&oacute; la presidenta de la Rep&uacute;blica.</p>
+
+<p>Es cuanto, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Gracias, Octavio.</p>
+
+<p>Rodrigo.</p>
+
+<p><strong>RODRIGO CH&Aacute;VEZ CONTRERAS, DIRECTOR GENERAL DE LA COMISI&Oacute;N NACIONAL DE VIVIENDA (CONAVI): </strong>Buenos d&iacute;as a todas y todos. Con su permiso, presidenta.</p>
+
+<p>En el caso de Conavi, &iquest;qu&eacute; vamos a hacer en los pr&oacute;ximos seis a&ntilde;os?, vamos a construir 500 mil viviendas nuevas con una inversi&oacute;n de 285 mil millones de pesos y vamos a mejorar 300 mil viviendas con 15 mil millones de pesos.</p>
+
+<p>Para esto, vamos a hacer unos financiamientos para la poblaci&oacute;n no derechohabientes de bajos ingresos.</p>
+
+<p>Se construir&aacute;n viviendas adecuadas con todos los servicios, hasta 60 metros cuadrados, es decir, con tres rec&aacute;maras y todos los servicios.</p>
+
+<p>Habr&aacute; financiamientos subsidiados de una tasa de inter&eacute;s del cero por ciento, es decir, no tendr&aacute; intereses, y se realizar&aacute; un estudio socioecon&oacute;mico que determine la capacidad de pago del beneficiario.</p>
+
+<p>Se pagar&aacute; una mensualidad asequible que no rebase el 30 por ciento de los ingresos del beneficiario por un periodo de hasta 30 a&ntilde;os.</p>
+
+<p>&iquest;C&oacute;mo se ingresar&aacute;?</p>
+
+<p>Se realizar&aacute; un censo casa por casa y se abrir&aacute;n unas solicitudes a trav&eacute;s de los servidores de la naci&oacute;n.</p>
+
+<p>La que sigue. De estas 500 mil acciones de vivienda, se impulsar&aacute; un programa de vivienda en renta para j&oacute;venes:</p>
+
+<p>Se construir&aacute;n 100 mil viviendas para los j&oacute;venes que tengan una edad entre 18 y 30 a&ntilde;os.</p>
+
+<p>Se construir&aacute;n unidades habitacionales cercanos a los centros educativos y zonas industriales.</p>
+
+<p>Los departamentos tendr&aacute;n todos los servicios y habr&aacute; un prototipo adecuado para las y los j&oacute;venes. La temporalidad de renta es de cinco a&ntilde;os y podr&iacute;a ampliarse hasta dos a&ntilde;os m&aacute;s.</p>
+
+<p>Una renta asequible que no rebase el 30 por ciento de las y los j&oacute;venes trabajadores, y las j&oacute;venes estudiantes se realizar&aacute; un estudio socioecon&oacute;mico que determine su capacidad de pago.</p>
+
+<p>Es cuanto, presidenta.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>ROC&Iacute;O MEJ&Iacute;A FLORES, DIRECTORA GENERAL DE FINANCIERA PARA EL BIENESTAR (FINABIEN):</strong> Buenos d&iacute;as. Con su permiso, presidenta Claudia Sheinbaum.</p>
+
+<p>Financiera para el Bienestar, como saben ustedes, Telecomunicaciones de M&eacute;xico, antes Telecomm, ser&aacute; el veh&iacute;culo financiero para apoyar este gran programa de vivienda, adem&aacute;s de seguir apoyando con el env&iacute;o, la recepci&oacute;n de las remesas, con la promoci&oacute;n del ahorro popular y otorgando los cr&eacute;ditos a peque&ntilde;as empresas la presidenta nos instruy&oacute; apoyar este gran programa.</p>
+
+<p>La Secretar&iacute;a de Desarrollo Agrario, Territorial y Urbano a trav&eacute;s de la Conavi nos canalizar&aacute; el padr&oacute;n de personas beneficiarias; asimismo, nos canalizar&aacute; los recursos para que nosotras hagamos la dispersi&oacute;n a trav&eacute;s de Financiera para el Bienestar, recibimos los recursos y los dispersamos ya sea de manera individual o de financiamiento directo.</p>
+
+<p>La Financiera para el Bienestar tambi&eacute;n apoyar&aacute; en los dos temas, tanto de recuperaci&oacute;n como de la revolvenc&iacute;a del recurso, principalmente para las personas no derechohabientes con financiamiento. Pueden acudir las personas beneficiarias directamente a nuestras mil 700 sucursales en todo el pa&iacute;s, ah&iacute; llevar&aacute;n sus documentaciones, hacer los tr&aacute;mites y ah&iacute; mismo podr&aacute;n hacer sus pagos, nos firman los documentos y las cartas compromiso de reembolso.</p>
+
+<p>Algo muy importante es que utilizaremos el fideicomiso de esta Financiera para el Bienestar para recibir los reembolsos, guardarlos en un caj&oacute;n espec&iacute;fico para asignarlos a nuevos cr&eacute;ditos de vivienda, esto permite ir generando una bolsa que puede potenciar m&aacute;s recursos para otorgar m&aacute;s viviendas. Contamos con un &aacute;rea especializada en cr&eacute;dito y tambi&eacute;n en revolvencia.</p>
+
+<p>Es cuanto, se&ntilde;ora presidenta.</p>
+
+<p><strong>JOS&Eacute; ALFONSO IRACHETA CARROLL, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE SUELO SOSTENIBLE (INSUS):</strong> Buenos d&iacute;as a todos y todas. Con su permiso, presidenta.</p>
+
+<p>Bueno, en materia de escrituraci&oacute;n y de titulaci&oacute;n, aqu&iacute; podemos ver las cifras. Inicio comentando de, acuerdo a datos del censo, algo as&iacute; como 3.2 millones de lotes de viviendas en nuestro pa&iacute;s no tienen escritura, y la idea es avanzar una tercera parte, que es un logro sin precedentes en la historia de nuestro pa&iacute;s.</p>
+
+<p>Al final del sexenio, se tendr&aacute;n por parte del Insus, del Instituto Nacional del Suelo Sustentable, 700 mil escrituras. Y se colaborar&aacute; con las dem&aacute;s dependencias, sobre todo con el Fovissste y el Infonavit, para lograr el mill&oacute;n de escrituras que estamos esperando tener.</p>
+
+<p>Hay que recordar, en muchos casos las viviendas se concluyen, por ejemplo, cuando son apoyadas con cr&eacute;ditos de Infonavit o Fovissste, pero no se transita hacia tener el t&iacute;tulo de propiedad, y la idea es reducir tambi&eacute;n ese rezago, pero sobre todo en materia del trabajo que hace el Insus, son los asentamientos irregulares que se encuentran sobre todo asentados en suelo ejidal, que son viviendas en condiciones de pobreza y de precariedad, y ah&iacute; es donde nos vamos a concentrar, y la presidenta ha sido muy precisa en cuanto a las prioridades.</p>
+
+<p>Vamos a iniciar con el Estado de M&eacute;xico como prioridad n&uacute;mero uno. El Estado de M&eacute;xico es el que tiene el mayor tama&ntilde;o, tanto en valor absoluto de n&uacute;mero de viviendas sin t&iacute;tulos de propiedad, pero tambi&eacute;n proporcionalmente, y en particular en el oriente del Estado de M&eacute;xico.</p>
+
+<p>Para el primer a&ntilde;o, para el 2025, vamos a llegar a m&aacute;s de 120 mil escrituras, muchas de las cuales ser&aacute;n del Insus, pero tambi&eacute;n en colaboraci&oacute;n con el Infonavit y con el Fovissste.</p>
+
+<p>Y, finalmente, presidenta, comentar, acompa&ntilde;ando este programa de escrituraci&oacute;n, sigue avanzando el programa de gesti&oacute;n del suelo, que lo que busca es evitar que las nuevas familias que est&aacute;n buscando en d&oacute;nde vivir terminen en un asentamiento irregular, que tengan un lugar adecuado en d&oacute;nde vivir desde el principio.</p>
+
+<p>Es cuanto.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Hay un video, a ver el video.</p>
+
+<p><strong>(INICIA VIDEO)</strong></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Como parte de los 100 compromisos que hizo la presidenta Claudia Sheinbaum para el Segundo Piso de la Cuarta Transformaci&oacute;n, en el Gobierno de M&eacute;xico realizaremos el programa de vivienda y regularizaci&oacute;n, que consiste en construir un mill&oacute;n de viviendas, mejorar y ampliar m&aacute;s de 450 mil viviendas en zonas prioritarias y regularizar, a trav&eacute;s de la entrega de un mill&oacute;n de escrituras.</em></p>
+
+<p><em>Con estas acciones, reduciremos el rezago habitacional, atenderemos la necesidad de vivienda y otorgaremos certeza jur&iacute;dica a las personas que m&aacute;s lo necesitan en todo el pa&iacute;s. </em></p>
+
+<p><em>Para el programa de un mill&oacute;n de viviendas, construiremos 500 mil viviendas para personas que no cuentan con seguridad social y otras 500 mil para personas derechohabientes. Estas viviendas estar&aacute;n ubicadas en zonas cercanas a servicios de salud, educaci&oacute;n, cultura, centros de trabajo, comercios y vialidades, tanto primarias, como secundarias. Contar&aacute;n con servicios b&aacute;sicos como agua, drenaje, energ&iacute;a el&eacute;ctrica, &aacute;reas verdes y espacios deportivos para garantizar la calidad de vida de las personas, parte de las viviendas nuevas se destinar&aacute;n a renta social, mientras que otras podr&aacute;n alquilarse con opci&oacute;n a compra. </em></p>
+
+<p><em>Su construcci&oacute;n permitir&aacute; generar 6.1 millones de empleos directos y 9.2 millones de empleos indirectos.</em></p>
+
+<p><em>El programa de construcci&oacute;n y escrituraci&oacute;n se enfocar&aacute; a atender principalmente a personas de bajos ingresos que vivan en zonas marginadas. Ser&aacute;n beneficiadas mujeres jefas de familia, personas con discapacidad, adultos mayores, j&oacute;venes y poblaci&oacute;n ind&iacute;gena, garantizando que los m&aacute;s vulnerables puedan disfrutar de una prosperidad compartida.</em></p>
+
+<p><em>En 2025, vamos a construir 165 mil viviendas y entregaremos al menos 120 mil escrituras. </em></p>
+
+<p><em>Para el Gobierno de M&eacute;xico, el compromiso es continuar trabajando por un desarrollo y ordenamiento territorial con una visi&oacute;n humanista y equitativa.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Gobierno de M&eacute;xico, Segundo Piso de la Cuarta Transformaci&oacute;n. </em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO: </strong>Adelante, Rosa Icela.</p>
+
+<p><strong>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ, SECRETARIA DE GOBERNACI&Oacute;N:</strong> Con su permiso, presidenta.</p>
+
+<p>Vamos a continuar viendo c&oacute;mo van las acciones rumbo a la reforma al Poder Judicial. El d&iacute;a de hoy tenemos en d&oacute;nde exactamente estamos con los tiempos sobre lo que orden&oacute; la reforma constitucional aprobada el 15 de septiembre, orden&oacute; que el Poder Judicial elija a sus integrantes mediante una votaci&oacute;n ciudadana.</p>
+
+<p>Tambi&eacute;n, estableci&oacute; una elecci&oacute;n extraordinaria en junio de 2025 para renovar la mitad de mil 699 magistraturas de circuito y juzgados de circuito.</p>
+
+<p>Tres, determin&oacute; que fuera el Senado de la Rep&uacute;blica quien deba realizar el proceso de insaculaci&oacute;n, seleccionando los cargos que las magistraturas de circuito y los juzgados de distrito que deber&aacute;n elegirse el pr&oacute;ximo a&ntilde;o; es el 1&ordm; de junio de 2025.</p>
+
+<p>&iquest;Qu&eacute; dice el art&iacute;culo 2&ordm; transitorio de la ley?</p>
+
+<p>Para el caso de magistradas y magistrados de circuito y jueces de distrito, la elecci&oacute;n ser&aacute; escalonada, renov&aacute;ndose la mitad de los cargos correspondientes a cada circuito judicial en la elecci&oacute;n extraordinaria del a&ntilde;o 2025 y la parte restante en la elecci&oacute;n federal ordinaria del a&ntilde;o 2027, conforme a lo siguiente:</p>
+
+<p>Uno, para seleccionar los cargos a renovar en la elecci&oacute;n extraordinaria del a&ntilde;o 2025, el Consejo de la Judicatura Federal entregar&aacute; al Senado de la Rep&uacute;blica un listado con la totalidad de cargos de personas juzgadoras indicando su circuito judicial, su especializaci&oacute;n por materia, g&eacute;nero, vacancias, renuncias, y retiros programados; y lo dem&aacute;s, informaci&oacute;n que se le requiera.</p>
+
+<p>Y &lsquo;B&rsquo;, el &oacute;rgano legislativo determinar&aacute; la porci&oacute;n de cargos a elegir en cada circuito judicial considerando en primer t&eacute;rmino las vacancias, las renuncias y retiros programados.</p>
+
+<p>Los cargos restantes ser&aacute;n seleccionados mediante insaculaci&oacute;n p&uacute;blica, tomando como base la renovaci&oacute;n de la mitad de los cargos que correspondan a casa especializaci&oacute;n por materia.</p>
+
+<p>Y bien, &iquest;qu&eacute; pas&oacute; el s&aacute;bado?, el s&aacute;bado 12 de octubre el Senado sesion&oacute; por m&aacute;s de siete horas y llev&oacute; a cabo la insaculaci&oacute;n para determinar cargos de magistrados de circuito y jueces de distrito que se elegir&aacute;n en 2025 y 2027. Para ello, se acord&oacute; que ser&aacute;n 850 cargos judiciales los que se elegir&aacute;n por voto popular en la elecci&oacute;n extraordinaria del 1&ordm; de junio de 2025.</p>
+
+<p>&iquest;Cu&aacute;ntas magistraturas fueron?</p>
+
+<p>Cuatrocientas sesenta y cuatro.</p>
+
+<p>&iquest;Cu&aacute;ntos juzgados federales?</p>
+
+<p>Trescientos ochenta y seis.</p>
+
+<p>Para obtener este resultado, &iquest;qu&eacute; hizo el Senado?, hizo cuatro pasos:</p>
+
+<p>Uno, dividi&oacute; en n&uacute;meros pares e impares las listas de cargos remitidas por el Consejo de la Judicatura Federal con base en el n&uacute;mero consecutivo asignado por el propio Poder Judicial.</p>
+
+<p>Otro paso es que, del total de 711 puestos, surgieron por insaculaci&oacute;n 350 tribunales y 361 juzgados de distrito.</p>
+
+<p>Adem&aacute;s, se tomaron en cuenta 114 espacios vacantes, renuncias y/o retiros programados de magistrados, as&iacute; como de 25 jueces de distrito que fueron integrados de manera directa. Hay que aclarar que en ambos casos, magistraturas y juzgados, las listas que resultaron seleccionadas mediante una urna fueron las de n&uacute;meros impares.</p>
+
+<p>Cuatro, se hizo un nuevo sorteo, finalmente, para ajustar la lista seleccionada exactamente a la mitad de todas las plazas de magistraturas y juzgados.</p>
+
+<p>Hay que aclarar que en el caso de los elegidos en la t&oacute;mbola fueron completamente al azar, se garantiz&oacute; la imparcialidad, as&iacute; como el respeto en todo momento a los derechos humanos de las y los juzgadores.</p>
+
+<p>Asimismo, y con un enfoque de perspectiva de g&eacute;nero, se decidi&oacute; no incluir ocho plazas de juzgadoras que tienen condici&oacute;n de maternidad.</p>
+
+<p>Aqu&iacute;, enseguida, nos pusieron los senadores c&oacute;mo van y c&oacute;mo es que tenemos que seguir los pasos, los d&iacute;as, la cronolog&iacute;a de c&oacute;mo vienen, qu&eacute; va a pasar enseguida en este a&ntilde;o 2024:</p>
+
+<p>Para el 16 de octubre, el Senado de la Rep&uacute;blica, de acuerdo a la ley, debe emitir la convocatoria general para que los Poderes de la Uni&oacute;n integren los comit&eacute;s de evaluaci&oacute;n. Esto tendr&aacute; que ocurrir el pr&oacute;ximo mi&eacute;rcoles, &iquest;verdad?, el 16 de octubre.</p>
+
+<p>El 31 de octubre se dar&aacute; la instalaci&oacute;n de los comit&eacute;s de evaluaci&oacute;n.</p>
+
+<p>Para el 4 de noviembre se publicar&aacute; la convocatoria para quienes busquen participar en el proceso extraordinario de elecciones del Poder Judicial el 1&ordm; de junio de 2025.</p>
+
+<p>Para el 24 de noviembre, la inscripci&oacute;n de las y los aspirantes que deseen participar en el proceso de elecci&oacute;n.</p>
+
+<p>El 15 de diciembre pr&oacute;ximos, los comit&eacute;s de evaluaci&oacute;n verificar&aacute;n la documentaci&oacute;n presentada por las y los aspirantes. As&iacute; que para antes del 15 de diciembre deben de estar aprobados los cambios a las leyes secundarias por parte del Congreso federal.</p>
+
+<p>&iquest;Qu&eacute; va a pasar en 2025? Algunos de los pasos para el 31 de enero:</p>
+
+<p>Los comit&eacute;s de evaluaci&oacute;n seleccionar&aacute;n a los finalistas que consideren id&oacute;neos.</p>
+
+<p>Para el 5 de febrero, se realizar&aacute; la insaculaci&oacute;n para depurar la lista de los aspirantes para obtener tres candidaturas por cada cargo, para ministro, magistrado electoral y magistrado del Tribunal de Disciplina Judicial. Asimismo, se obtendr&aacute;n dos candidaturas por cada cargo de juez de distrito y magistrado de circuito.</p>
+
+<p>Para el 12 de febrero, una vez aprobadas las listas de candidatas y candidatos, el Senado las enviar&aacute; al Instituto Nacional Electoral.</p>
+
+<p>Antes del 15 de marzo, los Congresos estatales deber&aacute;n aprobar cambios a sus leyes locales para adoptar la reforma judicial.</p>
+
+<p>Del 30 de marzo al 28 de mayo ser&aacute; el periodo de campa&ntilde;as de las candidaturas.</p>
+
+<p>As&iacute;, recordar, subrayar que ser&aacute; el 1&ordm; de junio de 2025 las elecciones, esto es el primer domingo de junio. Y despu&eacute;s de la jornada electoral, el Instituto Nacional Electoral realizar&aacute; los c&oacute;mputos de la elecci&oacute;n, publicar&aacute; los resultados de la elecci&oacute;n, dar&aacute; las constancias de mayor&iacute;a a las personas que resulten vencedoras, declarar&aacute; la validez de la elecci&oacute;n.</p>
+
+<p>Y para antes del 28 de agosto deber&aacute;n estar resueltas las impugnaciones tramitadas ante el INE y el Tribunal Electoral del Poder Judicial de la Federaci&oacute;n, y el 1&ordm; de septiembre las y los juzgadores electos protestar&aacute;n su cargo en el Senado de la Rep&uacute;blica.</p>
+
+<p>Es un repaso a c&oacute;mo vienen los tiempos de acuerdo a la Constituci&oacute;n, de acuerdo a la ley.</p>
+
+<p>Eso ser&iacute;a, se&ntilde;ora presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias.</p>
+
+<p>Bueno, muy r&aacute;pido, el programa de vivienda, un mill&oacute;n de viviendas, una parte para quienes son afiliados a Infonavit, otra parte de vivienda popular a trav&eacute;s de la Conavi. Ya cu&aacute;ndo pueden registrarse, etc&eacute;tera, lo vamos a ir informando tambi&eacute;n aqu&iacute; en la ma&ntilde;anera.</p>
+
+<p>Segundo, el fin de semana lo que se hizo es importante, es la t&oacute;mbola para saber qui&eacute;n, o la selecci&oacute;n al azar para saber qu&eacute; cargos van a estar sujetos a elecci&oacute;n en el 2025. Esto es importante, porque hubo ah&iacute; en las redes quien dijo que ya se estaban seleccionando a los jueces. No. La mitad va a ser la elecci&oacute;n, en la mitad del 2025, en el 2025 la mitad de los puestos van a ser elegidos, y la otra parte en el 2027.</p>
+
+<p>&iquest;Cu&aacute;les son los jueces, magistrados, que van a entrar al proceso de elecci&oacute;n?</p>
+
+<p>Pues es lo que se decidi&oacute; este fin de semana.</p>
+
+<p>&iquest;C&oacute;mo?</p>
+
+<p>Las vacantes, es decir, los que no est&aacute;n ocupados, y adem&aacute;s en un proceso de selecci&oacute;n al azar cu&aacute;les son los cargos que van a ser ocupados.</p>
+
+<p>Eso fue lo que ocurri&oacute; el fin de semana. Y sigue el proceso para la elecci&oacute;n de jueces, magistrados y ministros y ministras de la Suprema Corte de Justicia de la Naci&oacute;n.</p>
+
+<p>Ahora s&iacute; vamos a las preguntas. A ver, ac&aacute;.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidenta. Buenos d&iacute;as. Carmen S&aacute;nchez, de <em>ADN 40</em>.</p>
+
+<p>Justamente en este tema que tiene que ver un poco con vivienda, el viernes usted viaj&oacute; a Acapulco, ya nos hab&iacute;a dicho que uno de los apoyos tambi&eacute;n va a ser para reubicar a familias; me parece que en al menos 15 colonias han detectado justamente que tienen la necesidad de reubicarlas.</p>
+
+<p>Preguntarle si estos apoyos entran dentro de este programa, son aparte, y pues si ha detectado m&aacute;s&hellip; Justamente en esta visita que usted hizo, si se necesitan, pues m&aacute;s reubicaciones en m&aacute;s colonias de Acapulco, de Guerrero.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> No son 15 colonias que necesitan reubicarse, son esencialmente las que est&aacute;n en la parte baja cerca del aeropuerto. Ese era en realidad una zona lagunar y se desarroll&oacute;, y cuando vienen estas grandes lluvias y avenidas de r&iacute;os que buscan su cauce, pues se inunda.</p>
+
+<p>Entonces, hay una parte de estas viviendas que est&aacute; en la parte baja. Incluso hay una zona que todav&iacute;a tiene bastante agua, que se est&aacute; buscando hacer un canal.</p>
+
+<p>Estas personas est&aacute;n en un albergue, Edna va a entrar a un censo para saber cu&aacute;ntas son y d&oacute;nde se pueden reubicar.</p>
+
+<p>Es esencialmente una zona de una colonia y quiz&aacute; algunas otras, pero no son 15 colonias.</p>
+
+<p>Va muy avanzada la, digamos, la fase de emergencia, est&aacute; por terminar.</p>
+
+<p>&iquest;Qu&eacute; es lo que faltar&iacute;a tanto para Acapulco, para otras zonas?</p>
+
+<p>Acabar de abrir todos los caminos.</p>
+
+<p>Y en el caso de Acapulco, hay una planta de bombeo de agua potable en donde ya se repararon las bombas, pero hay una fuga de agua en un ducto, en una tuber&iacute;a, y se est&aacute; arreglando esta fuga de agua que vino tambi&eacute;n producto del hurac&aacute;n.</p>
+
+<p>Entonces, esto es lo &uacute;nico que falta, digamos, para la emergencia, pero pr&aacute;cticamente se est&aacute; regresando ya a la escuela y ahora empieza pues todo el proceso de reconstrucci&oacute;n.</p>
+
+<p>Esta misma semana se entregan los apoyos para limpieza. La vez pasada, con Otis, se entregaron a todas las viviendas de Acapulco; en este caso, a todos los que viven en viviendas de colonias que fueron afectadas; y despu&eacute;s, a partir del censo, qui&eacute;nes requieren reconstrucci&oacute;n, qui&eacute;nes requieren enseres, etc&eacute;tera, etc&eacute;tera, etc&eacute;tera.</p>
+
+<p>Es Acapulco, es Coyuca y son otros municipios que tambi&eacute;n resultaron afectados.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Y en otros dos temas, justamente el que tiene que ver con el proceso que se llev&oacute; a cabo este fin de semana, la Jufed justamente, pues hizo un comunicado en el que, pues, bueno, expresa su m&aacute;s en&eacute;rgica protesta, as&iacute; dice, en contra de los actos realizados en el Senado durante este fin de semana. Saber su opini&oacute;n, doctora.</p>
+
+<p>Y en otro tema, que tiene que ver con seguridad, la semana pasada en Puebla se registr&oacute; un linchamiento, el viernes otro intento de linchamiento en Cholula, me parece en San Andr&eacute;s Cholula. Justamente, ya present&oacute; este Plan Nacional de Seguridad. Si tiene alg&uacute;n punto espec&iacute;fico para prevenir que los pobladores hagan justicia por su propia mano.</p>
+
+<p>Esos dos temas, por favor.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Qu&eacute; es la Jufed?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Judicatura Federal.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Judicatura Federal. No.</p>
+
+<p><strong>INTERVENCI&Oacute;N: </strong>La asociaci&oacute;n de jueces.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO: </strong>La asociaci&oacute;n de jueces. Que, por cierto, ya decidieron regresar a trabajar. Un aplauso. Es bueno que ya desquiten sus salarios.</p>
+
+<p>F&iacute;jense, a ver, &iquest;por qu&eacute; no protestan por esto? Con todo y paro hubo &lsquo;sabadazo&rsquo;.</p>
+
+<p>&iquest;Qu&eacute; quiere decir &lsquo;sabadazo&rsquo;?</p>
+
+<p>Estas liberaciones que hacen de viernes a s&aacute;bado donde supuestamente no est&aacute;n en funciones.</p>
+
+<p>Liberaron a una mujer se&ntilde;alada como &mdash;con todas las pruebas, porque nos toc&oacute; cuando estuvimos en la Ciudad de M&eacute;xico, a la fiscal&iacute;a de la Ciudad de M&eacute;xico&mdash;, como presunta autora intelectual del asesinato de dos ciudadanos israel&iacute;es en la Plaza Artz, en julio de 2019; fue puesta en libertad el vienes 11 de octubre. &iexcl;C&oacute;mo es posible que estando en paro&hellip;!</p>
+
+<p>Pero, adem&aacute;s, &iquest;saben qui&eacute;n la liber&oacute;? Un juez especializado adscrito al tribunal de enjuiciamiento del &uacute;nico distrito judicial de Morelos. O sea, &iquest;c&oacute;mo?, &iquest;qu&eacute; tiene que ver Morelos?</p>
+
+<p>Estas son las razones por las cuales hay reforma al Poder Judicial. Porque ahora parece que no hubo&hellip; que el Poder Judicial es perfecto. Corrupci&oacute;n, nepotismo, liberaciones de criminales donde hay pruebas. Repito, este caso nos toc&oacute; cuando fui jefa de Gobierno.</p>
+
+<p>&iquest;Qu&eacute; es lo que se est&aacute; haciendo?</p>
+
+<p>Un proceso para elegir a jueces, magistrados, ministros y ministras de la Suprema Corte de Justicia de la Naci&oacute;n.</p>
+
+<p>Entonces, repito, este fin de semana que hubo una selecci&oacute;n de cu&aacute;les son los jueces que van a ser electos a partir de aquellos lugares que est&aacute;n vacantes y de una selecci&oacute;n al azar. Como explic&oacute; Rosa Icela, viene un proceso en donde nosotros como Ejecutivo vamos a determinar una comisi&oacute;n de mujeres y hombres honestos, abogados, abogadas reconocidas que van a seleccionar; igual lo hace el Congreso, igual lo hace el Poder Judicial, la Corte.</p>
+
+<p>Se nombra este comit&eacute;, viene una convocatoria, se inscriben quienes quieren participar.</p>
+
+<p>Tienen una serie de requisitos, promedios, cartas de recomendaci&oacute;n, ensayos. Una vez que es revisado que lo que se est&aacute; entregando tiene sustento, pues a partir de la lectura, de la definici&oacute;n de quienes se inscribieron y de la discusi&oacute;n de estas comisiones, hay una primera selecci&oacute;n de qui&eacute;nes van a participar. De ah&iacute; puede haber entrevistas p&uacute;blicas para que todas y todos los veamos por qu&eacute; se quieren inscribir, cu&aacute;les son sus criterios.</p>
+
+<p>Y despu&eacute;s de eso, hay una selecci&oacute;n, y despu&eacute;s van a una t&oacute;mbola para ver, de esos, cu&aacute;les van a pasar a la elecci&oacute;n del 1&ordm; de junio del2025.</p>
+
+<p>Entonces, &iquest;por qu&eacute; hay una elecci&oacute;n? &iquest;Por qu&eacute; se van a decidir democr&aacute;ticamente, aprovechando los 200 a&ntilde;os de la Rep&uacute;blica, el Poder Judicial?</p>
+
+<p>Pues porque hay un Poder Judicial que protege a delincuentes comunes, del fuero federal y de cuello blanco.</p>
+
+<p>&iquest;C&oacute;mo es que, en paro, todav&iacute;a dan un amparo para quien tiene que pagar impuestos otra vez se le prorrogue su caso? Ese es el problema.</p>
+
+<p>Hay comunicaci&oacute;n con el secretario de Seguridad Ciudadana y los secretarios estatales para evitar estos casos.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> A ver, por ac&aacute;.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidenta. Buenos d&iacute;as.</p>
+
+<p>Claudia, Guerrero, del peri&oacute;dico <em>Reforma</em>.</p>
+
+<p>Quisiera preguntarle si su gobierno tiene detectado este <em>modus operandi</em> del crimen organizado que se ha presentado en algunas zonas aduanales, que en presunta colusi&oacute;n con funcionarios de aduanas las organizaciones crim&iacute;nales cobran una especie de impuesto adicional o una extorsi&oacute;n a los importadores; si lo tienen detectado este fen&oacute;meno y c&oacute;mo podr&iacute;a combatirse este problema.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Pues, si tienes m&aacute;s datos, con gusto lo revisamos.</p>
+
+<p>Se est&aacute; haciendo un trabajo muy importante. Con el presidente L&oacute;pez Obrador se avanz&oacute; mucho, tanto en aduanas como puertos, y se sigue trabajando conjuntamente.</p>
+
+<p>&iquest;Cu&aacute;l es la manera de saber o c&oacute;mo podemos saber que disminuy&oacute; la corrupci&oacute;n?</p>
+
+<p>Porque aumentaron los ingresos tributarios o de derechos, aumentaron con el presidente Andr&eacute;s Manuel L&oacute;pez Obrador alrededor de 250 mil millones de pesos, y ahora tenemos una estrategia para que sigan aumentando. Si disminuye la corrupci&oacute;n, pues evidentemente ese recurso se va a donde se tiene que pagar, que es a la hacienda p&uacute;blica; pero, si hay alg&uacute;n caso en particular, pues lo revisamos.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Hasta el momento no lo ten&iacute;an detectado como un <em>modus operandi</em> en esas aduanas?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Pues hay que revisar el caso en particular que presentas aqu&iacute; y con gusto lo revisamos. De todas maneras, se est&aacute; trabajando en muchos &aacute;mbitos en el caso de la seguridad, en inteligencia e investigaci&oacute;n y, finalmente, en carpetas de investigaci&oacute;n que lleven a detenciones.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidenta.</p>
+
+<p>Y la otra es que quer&iacute;a preguntarle su expectativa sobre la reuni&oacute;n de ma&ntilde;ana sobre el Di&aacute;logo de Alto Nivel con los empresarios de Estados Unidos. &iquest;Cu&aacute;l es el mensaje que su gobierno dar&aacute; a estos inversionistas? &iquest;Qu&eacute; expectativas tiene del encuentro? &iquest;C&oacute;mo se llevar&aacute; a cabo?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Si gustan, platicamos de eso ma&ntilde;ana. Ma&ntilde;ana viene Marcelo Ebrard, secretario de Econom&iacute;a, para platicarles en qu&eacute; consiste este di&aacute;logo, el inter&eacute;s que hay de inversionistas, particularmente de Estados Unidos en M&eacute;xico. Y tambi&eacute;n va a haber una conferencia de prensa despu&eacute;s donde, entre otros, se van a anunciar algunas inversiones que ya est&aacute;n planteadas para nuestro pa&iacute;s.</p>
+
+<p>&iquest;De qu&eacute; se trata este encuentro?</p>
+
+<p>En su momento, empresarios nacionales y principalmente de Estados Unidos plantearon la posibilidad de que tuvi&eacute;ramos un di&aacute;logo para conocer cu&aacute;les son los beneficios, los incentivos que se van a generar para la inversi&oacute;n en M&eacute;xico.</p>
+
+<p>Yo lo dije el 1&ordm; de octubre, el tratado comercial con Estados Unidos y Canad&aacute; abre esta posibilidad de lo que se llama hoy la relocalizaci&oacute;n de las empresas. Muchas empresas estadounidenses que encuentran en M&eacute;xico una oportunidad para invertir, y a partir de la inversi&oacute;n poder exportar o incluso tener producci&oacute;n para el mercado nacional, c&oacute;mo generar las condiciones para que la relocalizaci&oacute;n no solamente se mida en un indicador, que es inversi&oacute;n extranjera directa, sino que signifique tambi&eacute;n bienestar, es decir, buenos salarios, vivienda, infraestructura, acceso a agua potable, etc&eacute;tera, etc&eacute;tera, y cu&aacute;les son las condiciones para que se den estas inversiones.</p>
+
+<p>Donde hay energ&iacute;a, va a haber energ&iacute;a el&eacute;ctrica, donde hay agua.</p>
+
+<p>Entonces, nosotros hemos desarrollado un programa que le llamamos de Polos de Bienestar, en donde la b&uacute;squeda es que se invierta, las empresas que tienen demanda de agua que inviertan en el pa&iacute;s en donde hay acceso a agua, que se generen las condiciones de reciclamiento y, al mismo tiempo, que se siga cumpliendo con seguir aumentando los salarios en el pa&iacute;s y que las viviendas que vamos a construir est&eacute;n asociadas tambi&eacute;n a estos polos de desarrollo, Polos de Bienestar. Todo eso es el objetivo de platicarlo el d&iacute;a de ma&ntilde;ana.</p>
+
+<p>Dec&iacute;a, el 1&ordm; de octubre yo plante&eacute; que entre nosotros no hay competencia, esa es la virtud del tratado, no es que M&eacute;xico compita con Estados Unidos y est&eacute; quitando inversiones a Estados Unidos, sino que nos complementamos en este tratado comercial que permite que haya inversiones en M&eacute;xico, en Estados Unidos y en Canad&aacute;.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidenta.</p>
+
+<p>Jorge Alegr&iacute;a, que es el director de la Bolsa Mexicana de Valores, comentaba que a M&eacute;xico se le est&aacute; viendo con cautela. &iquest;Qu&eacute; le responder&iacute;a usted?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Pues no, no coincido con esta opini&oacute;n, no s&eacute; a qu&eacute; se refiera. Tengo conocimiento, a trav&eacute;s del secretario de Econom&iacute;a y de manera directa de much&iacute;simas empresas, que quieren seguir invirtiendo en nuestro pa&iacute;s.</p>
+
+<p>M&eacute;xico tuvo r&eacute;cord de exportaciones, es el principal socio comercial con Estados Unidos, y esto va a seguir en nuestro pa&iacute;s. Y lo que queremos es dar las condiciones para que haya la inversi&oacute;n privada y, al mismo tiempo, ordenarla.</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as, presidenta.</p>
+
+<p>Hans Salazar, de <em>Noticiero en Redes</em>.</p>
+
+<p>A prop&oacute;sito del tema de la vivienda, que son muy ilustrativos los datos que se prev&eacute;n, que se proyectan en toda esta planeaci&oacute;n, aqu&iacute; tambi&eacute;n se ha expuesto en alg&uacute;n momento el tema de la vivienda para migrantes. Hay muchos migrantes que expresan que quisieran regresar a M&eacute;xico y que, incluso, en algunos casos abandonaron sus cuentas o dejaron sus cuentas del IMSS, de alguna prestaci&oacute;n social formal y, bueno, a veces preguntan sobre esto, para poder participar, para poder ser incluidos en estos programas, que bien se han comentado aqu&iacute;, y que, bueno, son de diversos lugares del pa&iacute;s.</p>
+
+<p>Efectivamente, por ejemplo, Financiera para el Bienestar tiene un contacto a trav&eacute;s de sus propias funciones para las remesas, para todo este tipo. Incluso preguntan mucho c&oacute;mo es que podemos ahorrar. Bueno, Financiera para el Bienestar, que es parte de la informaci&oacute;n que se ha prove&iacute;do, que es a trav&eacute;s de abrir una cuenta, una tarjeta, incluso el env&iacute;o de las remesas, etc&eacute;tera. Y preguntar si estos mecanismos pudieran servir precisamente para poder abrir, no s&eacute; si un programa o dentro de estos programas incluir a los migrantes.</p>
+
+<p>Y tambi&eacute;n, en el tema de la vivienda, bueno, ya se ha comentado el tema de Acapulco. Por ejemplo, presidenta, hay lugares como en Chalco, en el Estado de M&eacute;xico, que usted estuvo en Neza, pero la parte sur, oriente, que est&aacute; Chalco, donde se han asentado muchas viviendas, es problema a largo plazo que se puede solucionar a corto, mediano, pero despu&eacute;s a largo plazo vuelve a ser la problem&aacute;tica.</p>
+
+<p>Yo hab&iacute;a le&iacute;do a alg&uacute;n experto en el tema de Chalco, por ejemplo, y que las colonias que se han inundado ahora en estas &eacute;pocas de lluvia, en pasadas semanas, dec&iacute;an que ah&iacute; iba a ser imposible el tema estructural, por ejemplo, ten&iacute;a que ser el tema estructural porque iba a ser muy complicado, por ejemplo, el aumento para sacar el agua, el tema del drenaje, &iquest;Ah&iacute; se est&aacute;n haciendo estudios al respecto?</p>
+
+<p>&iquest;Y qu&eacute; pasar&aacute; con otras zonas, por ejemplo, donde se abandonaron viviendas?, porque solamente era especulaci&oacute;n, se pon&iacute;an a mucha distancia, a tres horas del trabajo, no hab&iacute;a servicios. &iquest;Qu&eacute; pasar&aacute; con todas estas zonas, presidenta? &iquest;Se tiene alg&uacute;n censo? &iquest;Se va a hacer algo al respecto?</p>
+
+<p>Ser&iacute;an mis preguntas, primero, en el tema de la vivienda.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Octavio, &iquest;quieres comentar de quienes salen del Infonavit y ahora se les va a poder generar la condici&oacute;n para que puedan asociarse nuevamente?</p>
+
+<p><strong>OCTAVIO ROMERO OROPEZA:</strong> S&iacute;, hay trabajadores que est&aacute;n no activos y que van a poder reactivarse. En el caso, por ejemplo, de los migrantes, algunos de ellos tienen&hellip; No est&aacute;n activos en este momento, pero pueden hacer, pueden reactivarse o pueden iniciar con sus aportaciones. Entonces, esto queda, queda englobado dentro del programa de vivienda. Y s&iacute; lo estamos pensando, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Tanto en Infonavit como en Conavi, por supuesto, nuestros hermanos migrantes que quieran regresar, estar&aacute; abierta la posibilidad para ello. Si alguna vez cotizaron al IMSS o al Infonavit y quieren regresar y recotizar y entrar al programa de vivienda, hay esa posibilidad.</p>
+
+<p>En el caso de Chalco, estuvimos el s&aacute;bado en el Estado de M&eacute;xico. Yo plante&eacute; en los 100 puntos un programa especial para el oriente del Estado de M&eacute;xico, el oriente del Estado de M&eacute;xico particularmente, los municipios de mayor urbanizaci&oacute;n; porque tambi&eacute;n hay una parte, como Atenco que tiene una parte rural. Los municipios que est&aacute;n completamente urbanizados vamos a hacer un programa especial que tiene varios objetivos. Es una zona de alrededor de 10 millones de habitantes en el pa&iacute;s, tiene niveles de pobreza extrema.</p>
+
+<p>Me comentaba la maestra Delfina que ahora que ocurri&oacute; la inundaci&oacute;n de Chalco, que ella estuvo recorriendo las calles, pues hay familias hacinadas en un solo cuarto, y condiciones de vivienda que queremos mejorar.</p>
+
+<p>Esta zona tiene problemas de acceso a agua potable. No quiero decir que es lo &uacute;nico en el pa&iacute;s, pero se concentran 10 millones de habitantes, es la &uacute;nica zona en el pa&iacute;s donde hay esta concentraci&oacute;n de n&uacute;mero de habitantes y que tiene este rezago en los servicios p&uacute;blicos, adem&aacute;s de la vivienda y derechos como educaci&oacute;n o como salud.</p>
+
+<p>Entonces, tiene problemas de acceso a agua potable, drenaje, porque adem&aacute;s es una zona que se hunde por la extracci&oacute;n de agua desde hace mucho tiempo; problemas de acceso a la vivienda, pavimentaci&oacute;n, iluminaci&oacute;n p&uacute;blica, movilidad. Muchas de las familias que viven ah&iacute; trabajan en la Ciudad de M&eacute;xico o en otro municipio del Estado de M&eacute;xico, recorren dos horas de un lado a otro.</p>
+
+<p>Entonces, este programa&hellip; Nos sentamos con los presidentes municipales electos que entran el 1&ordm; de enero, con la maestra Delfina, gobernadora del Estado de M&eacute;xico, y las distintas secretar&iacute;as del gobierno federal. El objetivo es hacer un programa integral.</p>
+
+<p>En el caso de Chalco, el presidente dej&oacute; una obra en curso, que es un colector para disminuir los riesgos de inundaciones, pero tenemos que hacer un programa de drenaje, de acceso a agua potable, de vialidades, de movilidad, de repavimentaci&oacute;n, de iluminaci&oacute;n, de senderos seguros, de seguridad, de vivienda. Por eso, vamos a destinar, particularmente el pr&oacute;ximo a&ntilde;o, la mayor parte del presupuesto de mejoramiento de vivienda para el oriente del Estado de M&eacute;xico; entonces, es un proyecto de seis a&ntilde;os en donde cada a&ntilde;o estos habitantes puedan ver cada vez un mejor nivel de vida.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Nada m&aacute;s para puntualizar, presidenta, en el tema de los migrantes, bueno, que ya ha mencionado la respuesta: muchas veces lo que les llega a pasar, de acuerdo a todo lo que hemos luego escuchado period&iacute;sticamente hablando, es que ellos tienen gan&aacute;ndose la vida all&aacute; el tema de las remesas, pero luego dicen: &lsquo;Podemos comprar, pero nos han hecho mucho fraude, porque estamos ac&aacute;. Y, bueno, si tenemos a nuestra mam&aacute;, pap&aacute;, a ellos tambi&eacute;n les dan&hellip; es f&aacute;cil defraudarlos&rsquo;.</p>
+
+<p>Por eso, creo que a trav&eacute;s de instituciones, como bien se ha enmarcado aqu&iacute;, pues hay una seguridad. Que, por ejemplo, el tema de Finabien, el tema de toda esta infraestructura de las instituciones que se les puedan brindar, dicen: &lsquo;Nosotros s&iacute; podr&iacute;amos estar pagando, s&iacute; podr&iacute;amos estar depositando&rsquo;, pero eso ya es una seguridad que es a trav&eacute;s de instituciones.</p>
+
+<p>Nada m&aacute;s era una precisi&oacute;n respecto a los migrantes.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, de acuerdo.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Mi segunda pregunta, presidenta: usted ha mencionado aqu&iacute; &mdash;de hecho, ya han preguntado compa&ntilde;eros, compa&ntilde;eras m&iacute;as&mdash; respecto al tema laboral, es toda una problem&aacute;tica porque en varios casos se ha arrastrado &mdash;o las plataformas que usted ya ha comentado, las aplicaciones&mdash; la falta de seguridad social para quienes laboran ah&iacute;, etc&eacute;tera, es muchas aristas en torno a la problem&aacute;tica, muchas que se tiene.</p>
+
+<p>Y otra, es &mdash;que esa es la que le quiero preguntar en este entorno y en este contexto&mdash; es a la gente que tiene edades entre 40 y 60 a&ntilde;os. Me sorprende mucho porque s&iacute; hay&hellip; Nos comentan much&iacute;simo en la calle respecto a este tipo de situaciones con las empresas, porque dicen: &lsquo;Nosotros queremos laborar; ya no nos aceptan&rsquo;. Y donde aceptan est&aacute; muy precario o no hay seguridad o son marginados en muchos sentidos, porque como no hay una relaci&oacute;n, dicen: &lsquo;Bueno, en todos lados te rechazan, pues hay esto, si quieres&rsquo;, obviamente en detrimento de derechos laborales m&iacute;nimos dignos para la gente.</p>
+
+<p>Entonces, dicen: &lsquo;Bueno, yo estoy de acuerdo que la pensi&oacute;n universal&rsquo;, todo esto que ha apoyado enormemente, pero hay gente que dice: &lsquo;Pero yo quiero trabajar&rsquo;. Y, bueno, pues ah&iacute; preguntarle si en todo este contexto que se pueda estar asumiendo como reformas, como cambios, en este contexto del Segundo Piso de la Cuarta Transformaci&oacute;n se pudiera estar contemplando medidas, obviamente desde la propia Secretar&iacute;a del Trabajo, desde la propia ley, para que pudiera ser ayudada toda esta gente, que es un buen universo en torno al tema laboral. Y si me permite, una &uacute;ltima pregunta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. Vamos a invitar al secretario del Trabajo. Vamos a presentar una iniciativa de ley para apoyar a las y los trabajadores de aplicaciones telef&oacute;nicas. Muchas personas que no encuentran un trabajo formal&hellip; A partir del crecimiento de la entrega de comida a domicilio o productos a domicilio, se contratan a trav&eacute;s de aplicaciones telef&oacute;nicas, la mayor&iacute;a de estas aplicaciones son extranjeras.</p>
+
+<p>&iquest;C&oacute;mo hacen para no contratar formalmente a los repartidores, las repartidoras?</p>
+
+<p>Los contratan como socios de la empresa, que en realidad no son socios porque tampoco hay reparto de utilidades. Entonces, los hacen socios y tienen un ingreso b&aacute;sico despu&eacute;s a trav&eacute;s de la propina que da quien recibe el producto, muchos de ellos en la mayor&iacute;a de las ciudades del pa&iacute;s, ciudades medias, ciudades grandes, reparten en motocicleta; algunos en autom&oacute;vil, algunos en bicicleta, otros incluso caminando y tambi&eacute;n tienen muchos problemas de accidentes de trabajo.</p>
+
+<p>Entonces, el objetivo es que tengan seguridad social y que se regule esta forma de contrataci&oacute;n para beneficio de las y los trabajadores. Se estuvo trabajando desde hace tiempo ya, tanto con los repartidores, repartidoras, con los trabajadores, como con algunas plataformas. Esta propuesta de ley la vamos a presentar este mismo mes, entonces va a venir el secretario del Trabajo para presentarla.</p>
+
+<p>Y, por otro lado, en efecto, hay otros dos, digamos, sectores muy importantes. Uno es el de trabajadores y trabajadoras de la limpieza, principalmente mujeres que son contratadas a partir de empresas, se contrata a la empresa y la empresa provee el servicio, y tambi&eacute;n tienen condiciones laborales precarias, ganan el salario m&iacute;nimo la mayor&iacute;a de ellas, porque son mujeres la gran mayor&iacute;a; tambi&eacute;n hay varones, tambi&eacute;n hay hombres. Pero no tienen, por ejemplo, horarios de comida o algunas circunstancias que, incluso, en toda la campa&ntilde;a me estuvieron manifestando. Entonces, tambi&eacute;n ah&iacute; vamos a entrar a un proceso de mejora de las condiciones laborales por ley.</p>
+
+<p>Y la otra es mujeres, hombres, en efecto, de 40 a 60 a&ntilde;os, o mayores, que no tienen tanto acceso al empleo.</p>
+
+<p>En los tres casos tenemos las propuestas y le voy a pedir a Marath que venga para presentarlo.</p>
+
+<p>La otra que preguntaste, y es importante, durante el periodo principalmente de Fox y Calder&oacute;n, Infonavit se dedic&oacute; a construir viviendas alejadas de los centros urbanos que muchas de ellas est&aacute;n abandonadas; se habla incluso de 600 mil viviendas abandonadas o incluso algunas que han sido ocupadas por quienes no son los due&ntilde;os originales y que ya viven en estos lugares, y Octavio tiene la tarea de hacer un programa para poder resolver esta problem&aacute;tica.</p>
+
+<p>A diferencia de entonces&hellip; Que en realidad era un programa para las inmobiliarias, era un programa de desarrollo inmobiliario en donde quienes se beneficiaron fueron empresas inmobiliarias &mdash;que incluso algunas de ellas quebraron porque no estaba planteando en t&eacute;rminos del derecho a la vivienda, no estaba planteado construir viviendas a trav&eacute;s de desarrolladores inmobiliarios&mdash;, tambi&eacute;n con mucha corrupci&oacute;n y especulaci&oacute;n.</p>
+
+<p>Entonces, hay que dar una soluci&oacute;n a esas viviendas, a esas 600 mil viviendas. Lo vamos a presentar, porque Edna, Octavio est&aacute;n trabajando sobre ello, pero este programa es completamente distinto. Si se fijan, estamos pensando en terrenos donde se construyen las unidades habitacionales cercanos a los lugares de trabajo, donde haya servicios, donde haya acceso a transporte p&uacute;blico.</p>
+
+<p>Y el objetivo es dar vivienda, generar vivienda para quien m&aacute;s lo necesita, ese es el objetivo, el derecho a la vivienda, el derecho a un techo, no el construir viviendas por construir viviendas, que esa es la gran diferencia entre el periodo neoliberal y la Cuarta Transformaci&oacute;n.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y, por &uacute;ltimo, presidenta &mdash;muchas gracias&mdash; por &uacute;ltimo, preguntarle: sali&oacute; publicada una encuesta de Demotecnia, donde la califican a usted, una pregunta: &lsquo;&iquest;qu&eacute; opini&oacute;n tiene de la presidenta Claudia Sheinbaum?&rsquo; Muy buena, 22 por ciento; 55 por ciento buena. En total, 77 por ciento en conjunto pues muy, muy positivo.</p>
+
+<p>Y la otra pregunta, bueno, obviamente, el resto se divide: &lsquo;Independientemente de por qui&eacute;n haya votado para presidenta &mdash;as&iacute; dice&mdash;, &iquest;usted c&oacute;mo piensa que va a ser la doctora Claudia Sheinbaum como presidenta?&rsquo; Y aqu&iacute; el 90 por ciento dice que usted va a ser muy o buena presidenta.</p>
+
+<p>Son n&uacute;meros alt&iacute;simos. Y mi pregunta ser&iacute;a en torno a esta encuesta, primero: que si ya la hab&iacute;a visto.</p>
+
+<p>Y segundo, &iquest;qu&eacute; reflexi&oacute;n le da?, porque es&hellip; Digo, as&iacute; como es muy, muy buen n&uacute;mero, porque est&aacute; entrando, muchos dicen que es el bono democr&aacute;tico, etc&eacute;tera, todo este tipo de an&aacute;lisis estad&iacute;stico, etc&eacute;tera. Pero &iquest;usted qu&eacute; reflexiones le da con estos n&uacute;meros y con esta alt&iacute;sima expectativa?, que me parece que lleva incluso a romper por completo ciertas barreras, es in&eacute;dito, y tambi&eacute;n da una respuesta contundente hasta a la misoginia, el tema hacia las mujeres, hacia tener una presidenta. &iquest;Qu&eacute; reflexi&oacute;n le da, presidenta?</p>
+
+<p>Y le agradezco mucho las respuestas.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Pues primero agradecer. Me la ense&ntilde;aron hoy en la ma&ntilde;ana &mdash;a ver si est&aacute; por ah&iacute;&mdash; me la ense&ntilde;aron en la ma&ntilde;ana. Agradecer al pueblo de M&eacute;xico por la confianza, siempre.</p>
+
+<p>Y decir que no vamos a fallar, porque vamos a trabajar hasta lo necesario, triple, cu&aacute;druple, para poder cumplir con los compromisos.</p>
+
+<p>Segundo, el pueblo de M&eacute;xico est&aacute; contento con la Cuarta Transformaci&oacute;n, eso es algo que nuestros adversarios no han podido entender. Siguen&hellip; Bueno, Calder&oacute;n sale con un tuit diciendo, reivindicando que el s&iacute; combati&oacute; al narco, cuando dentro de dos d&iacute;as van a dictarle sentencia a su secretario de Seguridad por colusi&oacute;n con el narco. Bueno, a ver, expl&iacute;quenme eso. Lo menos, pues es cinismo, &iquest;no?, la verdad.</p>
+
+<p>Pero como &eacute;l, ah&iacute; est&aacute;n los mismos de siempre que criticaban al presidente L&oacute;pez Obrador, pues son los cr&iacute;ticos de ahora. Y el problema es que no han entendido que el pa&iacute;s cambi&oacute;, que el pueblo de M&eacute;xico quiere que contin&uacute;e la transformaci&oacute;n, que la mayor&iacute;a del pueblo de M&eacute;xico quiere que se elijan a los jueces, magistrados y ministros, y que quieren que siga un gobierno que est&eacute; destinado al beneficio del pueblo y a los derechos del pueblo de M&eacute;xico.</p>
+
+<p>Eso es lo que est&aacute; ocurriendo en el pa&iacute;s, y por eso decimos que no vamos a traicionar ni vamos a defraudar, vamos a trabajar todos los d&iacute;as, vamos a seguir en territorio, vamos a seguir en comunicaci&oacute;n con la gente y vamos a cumplir los 100 compromisos que establecimos, y por eso el trabajo que desarrollamos. Y el equipo, el gran equipo que tenemos, que es parte de esta gran transformaci&oacute;n, que inici&oacute; hace muchos a&ntilde;os en la conciencia del pueblo de M&eacute;xico y que se consolida con el gobierno del presidente L&oacute;pez Obrador porque, adem&aacute;s, de la honestidad, dio resultados, ahora s&iacute; que es honestidad que da resultados para beneficio del pueblo.</p>
+
+<p>Entonces, eso es lo que se ve aqu&iacute;. Agradecer. Y no vamos a defraudar, no vamos a traicionar la confianza del pueblo.</p>
+
+<p>A ver ac&aacute;, porque son de t&oacute;mbola, ya ven que la t&oacute;mbola ahora es la democracia.</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as, presidenta.</p>
+
+<p>Gloria Carpio, del peri&oacute;dico <em>Diario Imagen</em>.</p>
+
+<p>Respecto a lo de la vivienda, &iquest;qu&eacute; va a pasar con una familia joven o estudiante que adquiera, obtenga una de esas viviendas del mill&oacute;n que se van a construcci&oacute;n en su administraci&oacute;n? &iquest;Qu&eacute; pasa si se queda sin trabajo, incapacitado o, bien, fallece? En el caso de una familia, si se trata de la jefa o jefe de familia que llegue a faltar y que sea el sost&eacute;n de ese hogar. &iquest;Qu&eacute; medidas en esos casos contempla ese ambicioso programa de vivienda?</p>
+
+<p><strong>EDNA ELENA VEGA RANGEL:</strong> Evidentemente hablaba de reglas de operaci&oacute;n de los distintos programas. Estamos en el dise&ntilde;o del Programa de Vivienda en Renta para j&oacute;venes.</p>
+
+<p>Al considerar que es la poblaci&oacute;n m&aacute;s vulnerable de este pa&iacute;s, la que m&aacute;s requiere estos apoyos, comentaba el director de Conavi, Rodrigo Ch&aacute;vez, primero a qui&eacute;nes se dar&aacute; el financiamiento, cero tasa de inter&eacute;s a 20 a&ntilde;os, donde no puedes rebasar el pago el 30 por ciento de su ingreso, para rentar tendr&aacute; que dise&ntilde;arse otro esquema.</p>
+
+<p>Hemos dado much&iacute;simos cr&eacute;ditos y subsidios en la Ciudad de M&eacute;xico, donde se ha demostrado que la poblaci&oacute;n m&aacute;s vulnerable es la que mejor paga. Y s&oacute;lo en condiciones excepcionales, como fue el COVID, se extiende a una situaci&oacute;n diferente, pero habr&aacute; consideraciones especiales en funci&oacute;n de la raz&oacute;n por la cual no se pudiera pagar. Pero en la elaboraci&oacute;n de esas reglas estamos convencidos de que la gente m&aacute;s vulnerable es la que paga m&aacute;s puntual y s&oacute;lo condiciones excepcionales las preveremos.</p>
+
+<p>Gracias.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Ahora, el turismo es una de nuestras principales fuentes de ingreso, y se tiene la versi&oacute;n que los 12 destinos de Quintana Roo no van a buen ritmo debido a diversos problemas. &iquest;Se pedir&aacute; a la titular de Turismo, Josefina Rodr&iacute;guez, que haga un diagn&oacute;stico del caso y se eche a andar un buen programa de promoci&oacute;n para Canc&uacute;n y los dem&aacute;s destinos tur&iacute;sticos del Caribe mexicano y de M&eacute;xico?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> No tenemos esto que planteas. De hecho, una de las inversiones que se van a anunciar ma&ntilde;ana es de un&hellip; &iquest;C&oacute;mo se llaman de los que llegan barcos con turistas?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Cruceros.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Cruceros. De una firma de cruceros, de una empresa de cruceros que quiere hacer una inversi&oacute;n muy grande, justamente en Canc&uacute;n y esta zona.</p>
+
+<p>Entonces, no, no tenemos esta informaci&oacute;n.</p>
+
+<p>No vamos a regresar al esquema este en donde, durante el periodo previo al presidente L&oacute;pez Obrador, el turismo era la promoci&oacute;n tur&iacute;stica, que eran much&iacute;simos millones de pesos destinados a algunos medios y que en realidad tambi&eacute;n hab&iacute;a mucha corrupci&oacute;n. Entonces, hay otras formas de promoci&oacute;n tur&iacute;stica que vamos a estar informando.</p>
+
+<p>El Tren Maya, el propio Tren Maya est&aacute; funcionando bien, diario recibimos el n&uacute;mero de pasajeros que suben al Tren Maya. Se va a terminar lo que le falta al Tren Maya. Y el propio Tren Maya va a ser una generaci&oacute;n de turismo para el sureste de M&eacute;xico muy importante.</p>
+
+<p>A ver, aqu&iacute; adelante.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidenta. Buenos d&iacute;as.</p>
+
+<p>Rodrigo Mu&ntilde;oz, de <em>NX Noticias</em>.</p>
+
+<p>Su balance del fin de semana. Estuvo, ya coment&oacute;, el s&aacute;bado en el Estado de M&eacute;xico, y ayer en Quer&eacute;taro presentando el tren M&eacute;xico-Quer&eacute;taro.</p>
+
+<p>Hoy, precisamente, inicia en el Senado la discusi&oacute;n de la reforma que enviaron la semana pasada sobre los trenes de pasajeros. Su opini&oacute;n al respecto de este proyecto de trenes.</p>
+
+<p>Y aprovechando, usted misma coment&oacute; que, previo al evento oficial, sostuvo un encuentro con el gobernador Mauricio Kuri para hablar sobre proyectos estrat&eacute;gicos. Obviamente el tren es uno, pero si hay alguno otro que se haya puesto sobre la mesa y que sea importante.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, la din&aacute;mica de las giras que estamos haciendo ahora es&hellip; Bueno, por ejemplo, el s&aacute;bado fuimos a un registro de mujeres de 63, 64 a&ntilde;os; como se nos hizo temprano, pues pas&eacute; a ver el registro. Pero normalmente la din&aacute;mica es: nos reunimos con gobernadora o gobernador, con su gabinete y el gabinete federal, sobre todo, para aquellos proyectos estrat&eacute;gicos que previamente estuvimos platicando.</p>
+
+<p>Entonces, en Morelos nos reunimos con la gobernadora, su gabinete. Bueno, primero fue el evento y despu&eacute;s nos reunimos con la gobernadora. Ah&iacute; surgieron 10 compromisos para Morelos.</p>
+
+<p>Despu&eacute;s, estuvimos en Hidalgo, fue la misma din&aacute;mica, nos reunimos con el gobernador y despu&eacute;s tuvimos el evento de los trenes, del tren M&eacute;xico-Pachuca, y ah&iacute; tambi&eacute;n establecimos 10 compromisos con Hidalgo.</p>
+
+<p>Ahora estuvimos en el Estado de M&eacute;xico. Va a haber m&aacute;s compromisos con el Estado de M&eacute;xico, pero en particular nos interesa, a m&iacute; me interesa mucho el tema del oriente del Estado de M&eacute;xico porque hay un rezago muy grande. Para quienes nos escuchan en todo el pa&iacute;s, vamos a trabajar en todo el pa&iacute;s, pero aqu&iacute; particularmente hay muchos millones de habitantes. Entonces, nos reunimos con presidentes municipales, con la gobernadora; ah&iacute; iniciamos un m&eacute;todo de trabajo para este proyecto y despu&eacute;s tuvimos el evento.</p>
+
+<p>Y en Quer&eacute;taro fue igual, nos reunimos con el gobernador y despu&eacute;s tuvimos el evento de anuncio del tren M&eacute;xico-Quer&eacute;taro. Y en cada uno hacemos 10 compromisos.</p>
+
+<p>&iquest;Cu&aacute;ndo los vamos a hacer p&uacute;blicos?</p>
+
+<p>Una vez que tengamos ya los tiempos, cu&aacute;ndo van a iniciar la construcci&oacute;n, son compromisos de Programas del Bienestar, que son en todo el pa&iacute;s, y compromisos de infraestructura que vamos a desarrollar.</p>
+
+<p>En Quer&eacute;taro en particular, el gobernador tiene dos proyectos que le interesan:</p>
+
+<p>Uno es un proyecto de reciclamiento de agua. Quer&eacute;taro es&hellip; Particularmente la ciudad ha crecido, la zona metropolitana, y tiene problemas de abastecimiento de agua potable, que es un problema no de ahora, sino desde hace mucho tiempo. De hecho, el acueducto de la colonia ten&iacute;a el objetivo de llevar agua de otro lado justamente a esta zona. Entonces, &eacute;l tiene un proyecto de reciclamiento de agua.</p>
+
+<p>Y, por otro lado, tiene un proyecto de inversi&oacute;n privada para generaci&oacute;n&hellip; Bueno, m&aacute;s bien, para transmisi&oacute;n el&eacute;ctrica en un esquema especial, que no ha sido utilizado en M&eacute;xico. Entonces, fue el titular de la Conagua y la titular de Secretar&iacute;a de Energ&iacute;a para revisar si es factible desarrollar estos proyectos, y por supuesto la secretaria de Gobernaci&oacute;n le va a dar seguimiento. Entonces, esta es la din&aacute;mica.</p>
+
+<p>En el primer recorrido, despu&eacute;s de ello, vamos a hacer p&uacute;blicos los 10 compromisos para cada entidad de la Rep&uacute;blica ya con montos, cu&aacute;l es la inversi&oacute;n, cu&aacute;ndo vamos a iniciar los proyectos. Y ahora estamos informando tanto de los Programas de Bienestar nuevos, mujeres, becas y salud para adultos mayores, como de las obras que ya sabemos que se van a realizar. Por ejemplo, el Tierra y Libertad en Morelos, el distribuidor vial que va a la universidad, esos ya sabemos que los vamos a desarrollar, y se informaron; o en el caso del tren M&eacute;xico-Pachuca, que ya tenemos avance en el proyecto; o en el caso del tren M&eacute;xico-Quer&eacute;taro.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y una &uacute;ltima cuesti&oacute;n, hace unos d&iacute;as su Gabinete de Seguridad anunci&oacute; que se iban directo a Sinaloa para sesionar all&aacute;, para trabajar all&aacute;. No s&eacute; si ya le compartieron &mdash;seguramente s&iacute;&mdash; alg&uacute;n balance previo de c&oacute;mo encontraron la situaci&oacute;n en el estado, ya que este fin de semana al parecer volvi&oacute; a registrarse algunas ejecuciones. Entonces, no s&eacute; cu&aacute;l sea el estatus que le han mantenido a usted informada su Gabinete de Seguridad.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> El objetivo de estas&hellip; Tienen varios objetivos las visitas &mdash;tambi&eacute;n estuvo el secretario de Marina con el secretario de Seguridad Ciudadana en Sonora&mdash;; las visitas tienen el objetivo de que, por ejemplo, el general secretario pueda revisar la forma en que est&aacute; operando la Guardia Nacional. Incluso &eacute;l se baj&oacute; a platicar con la gente, estuvo platicando con habitantes de Culiac&aacute;n, con peque&ntilde;os negocios, para conocer cu&aacute;l es el sentimiento tambi&eacute;n de la ciudadan&iacute;a.</p>
+
+<p>El objetivo es revisar la operaci&oacute;n de la Guardia y al mismo tiempo trabajar, junto con los gobiernos de los estados, con las fiscal&iacute;as estatales en los, bueno, gobiernos de los estados y las fiscal&iacute;as, que en la mayor&iacute;a de los estados son aut&oacute;nomas, tambi&eacute;n con las fiscal&iacute;as, para ver los delitos del fuero com&uacute;n y los delitos federales, c&oacute;mo puede haber una coordinaci&oacute;n para las carpetas de investigaci&oacute;n y las detenciones necesarias, y al mismo tiempo entra la parte preventiva junto con la Subsecretar&iacute;a de Prevenci&oacute;n del Delito.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias. Buenos d&iacute;as, doctora.</p>
+
+<p>Aurora Castillejos, reportera de <em>Canal 14 SPR</em>.</p>
+
+<p>Preguntarle, doctora, sobre esto que mencionaba de las v&iacute;as del tren. Entiendo que hay una forma a trav&eacute;s de la fibra &oacute;ptica de poder llegar, hacer llegar el internet a diversas comunidades. &iquest;Se est&aacute; considerando esta planeaci&oacute;n o alg&uacute;n programa para hacer llegar el tema de internet a m&aacute;s comunidades, a regiones m&aacute;s alejadas?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> La modificaci&oacute;n a la Constituci&oacute;n en los art&iacute;culos 27 y 28, platicamos aqu&iacute; que esta modificaci&oacute;n incluye electricidad, petr&oacute;leo, cambiar las empresas energ&eacute;ticas de empresas productivas del Estado a empresas p&uacute;blicas, regresarle su car&aacute;cter de empresa p&uacute;blica, m&aacute;s la preponderancia, particularmente de CFE, y que no sean consideradas como monopolios. Pero tambi&eacute;n en esa reforma viene la posibilidad del Estado de proveer internet, particularmente a las zonas m&aacute;s alejadas.</p>
+
+<p>Como est&aacute; ahora, tiene muchas limitaciones Comisi&oacute;n Federal de Electricidad para llevar el Internet para Todos. Muchas veces tiene que ser la venta a trav&eacute;s de una empresa, como en el caso de Alt&aacute;n, que fue la compra que hizo el presidente.</p>
+
+<p>Entonces, esta modificaci&oacute;n tambi&eacute;n va a permitir que Comisi&oacute;n Federal de Electricidad lleve el internet a los poblados m&aacute;s alejados, es parte de la modificaci&oacute;n de la Constituci&oacute;n, y vamos a seguir con Internet para Todos con Comisi&oacute;n Federal de Electricidad.</p>
+
+<p>Ah&iacute; se queda Emiliano, es quien va a estar. Emiliano, &iquest;c&oacute;mo se apellida, Emiliano?, Calder&oacute;n, Emiliano Calder&oacute;n, que llevaba el programa con el presidente; ahora &eacute;l va a estar en CFE llevando este programa. Y vamos a invitarlo para, una vez que pase la reforma constitucional, que explique c&oacute;mo se va a facilitar llevar internet gratuito o con un costo muy bajo a las comunidades que hoy no tienen acceso.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Una pregunta m&aacute;s. En las &uacute;ltimas horas, Secretar&iacute;a de Hacienda recibi&oacute; dos premios por considerar un tema de innovaci&oacute;n y transacci&oacute;n en el sector energ&eacute;tico por la adquisici&oacute;n de las 13 centrales de Iberdrola. Si nos podr&iacute;a comentar al respecto.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, hace algunos meses hubo un primer reconocimiento &mdash;no s&eacute; si es el mismo&mdash; y se hizo p&uacute;blico ahora por la manera en que se desarroll&oacute; el modelo financiero para la adquisici&oacute;n de las plantas de Iberdrola.</p>
+
+<p>Ahora que presentemos el Presupuesto de Egresos y la Ley de Ingresos, el paquete financiero y presupuestario para el pr&oacute;ximo a&ntilde;o que tiene que entregarse a mediados de noviembre, lo vamos a presentar aqu&iacute;, le vamos a pedir al secretario de la Hacienda que tambi&eacute;n informe sobre ello y por qu&eacute; es este reconocimiento.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Finalmente, sobre este tema de vivienda, &iquest;hay alg&uacute;n tipo de restricci&oacute;n para las personas beneficiadas sobre otros programas que ya se est&eacute;n recibiendo? Lo dec&iacute;an en el caso de adultos mayores, y ya las mujeres de 60 a 63 est&aacute;n recibiendo o est&aacute;n inscritas al programa que se est&aacute; impulsando, si hay alguna restricci&oacute;n para poder participar en el tema de viviendas.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> No, no va a haber restricci&oacute;n porque hoy pues los Programas de Bienestar le llegan casi a 30 millones de familias, entonces pues quedar&iacute;a para las cinco millones que en realidad no lo quieren en general. Entonces, no va a haber problema en ese sentido.</p>
+
+<p>A ver la &uacute;ltima aqu&iacute; adelante. Y si nos da tiempo, tenemos c&aacute;psula de&hellip;</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as, presidenta.</p>
+
+<p>&Oacute;scar Gonz&aacute;lez, de <em>Radio Relax 104.5 FM</em>.</p>
+
+<p>Ya hab&iacute;amos tra&iacute;do anteriormente aqu&iacute; a la ma&ntilde;anera el tema de la construcci&oacute;n de un puente donde el licenciado Andr&eacute;s L&oacute;pez Obrador gir&oacute; instrucciones de que se apoyara a la comunidad mixteca, esto es el estado de Puebla. Querer saber si va a dar continuidad a esto. Ya fueron a medir, de hecho, el puente porque est&aacute; construido &uacute;nicamente de madera, y cuando crece el r&iacute;o, pues se lo lleva.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Ah, s&iacute;, con gusto lo revisamos. Se va a hacer una carretera hacia la mixteca. No s&eacute; si est&eacute; contemplado el puente ah&iacute;, pero, si no, lo retomamos.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Por otro lado, r&aacute;pidamente, doctora, en su recorrido de trabajo al estado de Hidalgo, en Tizayuca, campesinos productores del Valle del Mezquital le entregaron en sus manos un escrito donde le hacen de su conocimiento del problema del reparto de agua de riego, que no es justo ni equitativo. Este tema lo vienen arrastrando desde hace varios a&ntilde;os.</p>
+
+<p>Ellos piden su valiosa intervenci&oacute;n para dar soluci&oacute;n a estas demandas. Piden tambi&eacute;n se acabe el monopolio de la misma por personas abusivas que s&oacute;lo ven sus propios intereses. Le preguntan a usted si es posible que en esta nueva administraci&oacute;n federal sean atendidos por los titulares de Conagua y Gobernaci&oacute;n.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, por supuesto. Se est&aacute; trabajando en alrededor de 13 distritos de riego; entre otros, el del Valle del Mezquital, el objetivo es sanear en particular en el Valle del Mezquital que todav&iacute;a&hellip; El Valle del Mezquital recibe desde hace decenas de a&ntilde;os las aguas negras de la Zona Metropolitana del Valle de M&eacute;xico, una parte est&aacute; saneada por la construcci&oacute;n de una planta de tratamiento que se hizo hace tiempo y hay otra parte que no tiene saneamiento, y nuestro objetivo es: en todo este programa de la zona metropolitana, incluido Hidalgo, entrar a un proceso de saneamiento; y la otra es entrar a un proceso de riego eficiente que permita aumentar la productividad.</p>
+
+<p>Con ello, est&aacute;n entrando en comunicaci&oacute;n tanto con los responsables de los distritos de riego, como con los agricultores, muchos de ellos ejidatarios. Porque a veces se concentra, digamos, la relaci&oacute;n entre gobierno y agricultores a trav&eacute;s de los representantes del distrito de riego, y en este caso en particular lo que quieren es que se abra para que m&aacute;s agricultores participen. Entones, s&iacute; lo vamos a hacer a trav&eacute;s de la Conagua.</p>
+
+<p>Creo que ya nos dio la hora. Los apuntamos para que ma&ntilde;ana&hellip; &iquest;No quieren lista? Levanten la mano los que quieren lista. No hay lista.</p>
+
+<p>Levanten la mano los que quieren t&oacute;mbola. Tampoco.</p>
+
+<p>&iquest;Cu&aacute;l es el otro m&eacute;todo? No, pues a mano alzada luego est&aacute; muy dif&iacute;cil.</p>
+
+<p>A ver, hay uno de vivienda por ah&iacute;, &iquest;no? A ver, quien tenga preguntas de vivienda, muy r&aacute;pido. Ac&aacute;, P&aacute;ramo.</p>
+
+<p><strong>PREGUNTA:</strong> S&iacute;, son algunas dudas acerca del tema de vivienda. Usted conoce perfectamente, en la Ciudad de M&eacute;xico hay una reserva territorial todav&iacute;a, pero aqu&iacute; el tema es el costo del terreno, igual en la zona metropolitana de la Ciudad de M&eacute;xico. Una de las razones por las cuales se fueron muy lejos estos desarrollos es que el costo del terreno era muy bajo en la periferia, porque en la zona m&aacute;s cercana al Distrito Federal, Ciudad de M&eacute;xico, es car&iacute;simo.</p>
+
+<p>Entonces, mi pregunta es si se quiere hacer precisamente esta din&aacute;mica de llevar la vivienda a las zonas donde haya mejores servicios urbanos, transporte, escuelas, comercio, etc&eacute;tera, &iquest;c&oacute;mo se va a resolver el tema del costo del terreno? Porque sigue siendo el costo comercial el que priva.</p>
+
+<p>Entonces, el gobierno, &iquest;cu&aacute;l va a ser la estrategia que va a tener a trav&eacute;s de la compra del terreno a precio comercial o alg&uacute;n otro esquema de los cuales el gobierno pueda echar mano para obtener ese terreno, construir vivienda en zonas cercanas, al menos al transporte p&uacute;blico?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Primero es la reserva territorial del propio gobierno o los gobiernos estatales. Ah&iacute; estamos concentrando la primera parte.</p>
+
+<p>Hay incluso&hellip; Reserva territorial quiere decir un terreno, un terreno que es del gobierno federal, de distintas instancias del gobierno federal o del gobierno o de los gobiernos estatales para poder ser donado para vivienda. Y, si no, se comprar&iacute;a el suelo.</p>
+
+<p>Te voy a dar un ejemplo, cuando fui jefa de Gobierno, hicimos varios desarrollos habitacionales a trav&eacute;s del Instituto de Vivienda, uno de ellos est&aacute; en Atlampa. Atlampa es una zona cercana al centro de la ciudad, era un terreno de Pemex. Entonces, ese terreno de Pemex se limpi&oacute;, porque estaba contaminado, y ah&iacute; se construyeron las viviendas de campamentos que estaban desde 1985.</p>
+
+<p>As&iacute;, Edna tiene ya cerca de tres meses, junto con todas las instancias de la secretar&iacute;a, de la Sedatu, que est&aacute; revisando cu&aacute;l es la reserva territorial que quede cerca de las zonas urbanas para que puedan desarrollarse estas unidades habitacionales.</p>
+
+<p>Infonavit tiene sus propias reglas, pero tambi&eacute;n hay reservas territoriales de Infonavit. Y si no, se comprar&iacute;a suelo que ser&iacute;a, digamos, a costo del gobierno para que se pueda desarrollar la vivienda econ&oacute;mica.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Segunda duda es: en las l&aacute;minas alcanc&eacute; a ver que se va a constituir una empresa constructora del gobierno. Me gustar&iacute;a saber cu&aacute;ndo tendr&iacute;amos ya los detalles de c&oacute;mo se va a llamar, qui&eacute;n la va a dirigir y cu&aacute;l ser&aacute; su mecanismo de operaci&oacute;n.</p>
+
+<p>Ser&iacute;a esto, precisamente de trabajar para obtener el suelo, la reserva territorial, pero, adem&aacute;s, &iquest;esa empresa va a comprar los insumos, los materiales?</p>
+
+<p>&iquest;C&oacute;mo ser&iacute;a el manejo de esta empresa? Que, hasta donde yo recuerdo, el Infonavit entrega cr&eacute;ditos para que uno compre a trav&eacute;s de una empresa constructora, pero es la primera ocasi&oacute;n que yo tengo idea de que el gobierno va a construir casas. &iquest;Y cu&aacute;l ser&iacute;a su presupuesto a futuro?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, es una iniciativa que viene desde el gobierno del presidente L&oacute;pez Obrador, fue una de las iniciativas que se enviaron el 5 de febrero del 2024, es un cambio constitucional.</p>
+
+<p>Entonces, primero tiene que darse el cambio constitucional para que Infonavit tenga esa atribuci&oacute;n. Despu&eacute;s, viene una ley secundaria y ya el modelo de c&oacute;mo se desarrollar&iacute;a.</p>
+
+<p>Octavio ha estado pensando, o en el equipo hemos estado pensando en varias opciones:</p>
+
+<p>Una es la construcci&oacute;n total, es decir, formar la empresa constructora vinculada al Infonavit y que construya toda la vivienda.</p>
+
+<p>Otra es que adquiere los materiales, todo de manera transparente para que no haya ning&uacute;n problema, que adquiera los materiales, cemento, varilla, etc&eacute;tera, y que tambi&eacute;n puedan participar en la construcci&oacute;n ya brindando los insumos, la materia prima desde el Infonavit.</p>
+
+<p>Y la otra es continuar con los procesos actuales en donde se den cr&eacute;ditos para la construcci&oacute;n de vivienda con desarrolladores inmobiliarios.</p>
+
+<p>En el caso de Conavi, que son las viviendas para todos aquellos que no tienen Infonavit, que son viviendas que&hellip; Esto es importante, &iquest;eh?, porque el modelo de la Conavi es se les va a dar un cr&eacute;dito de cero por ciento de inter&eacute;s a pagar en 20 a&ntilde;os o 15 a&ntilde;os, y que no paguen m&aacute;s del 30 por ciento de sus ingresos. Y estamos pensando en familias de escasos recursos que tambi&eacute;n puedan tener acceso a la vivienda. En este caso pueden tambi&eacute;n firmar convenios con la empresa del Infonavit que les permita acceder a estas facilidades.</p>
+
+<p>&iquest;C&oacute;mo lo vamos a hacer?</p>
+
+<p>Ya tenemos el modelo. Ahora que pase la reforma constitucional y la ley secundaria, ya venimos aqu&iacute; a la ma&ntilde;anera a explicarles con todo detalle c&oacute;mo funciona esta empresa.</p>
+
+<p><strong>INTERLOCUTOR:</strong> S&iacute;, y, por &uacute;ltimo, con el tema de la reuni&oacute;n que tuvo el fin de semana&hellip;</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> El objetivo es vivienda de bajo costo, &iquest;eh?, el objetivo es vivienda de bajo costo para que las familias mexicanas y particularmente las y los j&oacute;venes tengan acceso a la vivienda.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Se tendr&iacute;a &mdash;perd&oacute;n, ahorita que hace esta acotaci&oacute;n&mdash; idea de cu&aacute;nto costar&iacute;a una vivienda con este esquema que est&aacute; planteando?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Estamos hablando desde 700 mil pesos hasta un mill&oacute;n 200 mil.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Ser&iacute;a, no s&eacute;, metros cuadrados, un prototipo?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> El objetivo es que 60 metros cuadrados. Si son un poco menores, tendr&iacute;an que ser para estudiantes. Por ejemplo, las viviendas en renta pueden ser un poco m&aacute;s peque&ntilde;as, pero, en general, se busca que tengan lo m&iacute;nimo indispensable.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y, por &uacute;ltimo, ya comentaba ahorita algunos detalles acerca de temas generales de la reuni&oacute;n que tuvo con alcaldes de la zona metropolitana del Estado de M&eacute;xico. A m&iacute; lo que me interesa saber es qu&eacute; se va a atacar primero, porque en la zona perif&eacute;rica de los municipios de la zona metropolitana literalmente falla todo, absolutamente todo: si no es el pavimento, es el abasto de agua, es el drenaje, la recolecci&oacute;n de basura, la vialidad, la movilidad, todo falla.</p>
+
+<p>&iquest;Qu&eacute; se va a atacar primero, presidenta? Porque son m&aacute;s de 20 municipios, son m&aacute;s de 10 millones de habitantes, es literalmente entrarle a urbanizar un pa&iacute;s completo en t&eacute;rminos estrictos. &iquest;Y qu&eacute; se va a hacer primero, mejorar las vialidades, el abasto de agua?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Ese es justamente el proyecto integral que vamos a desarrollar. No vas a pavimentar en donde despu&eacute;s vas a arreglar la distribuci&oacute;n de agua potable, tiene que entrar primero uno y despu&eacute;s el otro. Y la idea es que se junten los fondos, o sea, que el municipio ponga una parte, que el Estado de M&eacute;xico ponga otra parte y otra parte el Gobierno de M&eacute;xico.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Ser&iacute;a un tercio cada uno?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Ya lo vamos a presentar c&oacute;mo estar&iacute;a, porque hay municipios como Los Reyes, La Paz, que su presupuesto es muy peque&ntilde;o; hay municipios como Ecatepec, que su presupuesto es mayor. Porque en Los Reyes, La Paz, viven determinado n&uacute;mero de habitantes y la distribuci&oacute;n presupuestal est&aacute; vinculada o la f&oacute;rmula tiene que ver con n&uacute;mero de habitantes; o Ecatepec, que tiene 1.8 millones de habitantes. Entonces, no podr&iacute;a ser igual.</p>
+
+<p>Entonces, por eso es el desarrollo del proyecto integral y ya lo vamos a ir presentando, y es para los seis a&ntilde;os.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Y nos esperar&iacute;amos hasta que tomen posesi&oacute;n los alcaldes o se van a dar a conocer antes?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, a partir de enero, de los nuevos alcaldes, algunos repitieron, otros son nuevos.</p>
+
+<p>Bueno, ahora s&iacute; cerramos con &lsquo;Vida Saludable&rsquo;.</p>
+
+<p><strong>(INICIA VIDEO)</strong></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Todas las personas tenemos derecho a una vida saludable.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Sin embargo, alrededor de 2.8 mil millones de personas en el mundo no tienen la posibilidad de ejercer ese derecho, es decir, la tercera parte de la poblaci&oacute;n mundial.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Por esto, este D&iacute;a Mundial de la Alimentaci&oacute;n est&aacute; dedicado al derecho a consumir alimentos sanos para tener una vida y un futuro mejores.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Justamente, por ese compromiso con la creaci&oacute;n de una sociedad m&aacute;s justa y m&aacute;s saludable, hay que proteger a las ni&ntilde;as y ni&ntilde;os en la escuela, donde adquieren los h&aacute;bitos y conocimientos que les acompa&ntilde;ar&aacute;n toda la vida.</em></p>
+
+<p><em>Durante d&eacute;cadas, las y los estudiantes ten&iacute;an acceso a alimentos procesados que por su exceso de sal, az&uacute;car y grasa pon&iacute;an en riesgo su salud. </em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Ahora las escuelas ser&aacute;n el espacio en el que ni&ntilde;as, ni&ntilde;os y adolescentes accedan a una alimentaci&oacute;n sana y adecuada que les permita gozar de salud y bienestar al mismo tiempo que protege al medio ambiente.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Para conseguirlo, el pasado 30 de septiembre se publicaron en el Diario Oficial de la Federal las medidas que garantizan a las y los estudiantes nutrici&oacute;n y salud desde los primeros a&ntilde;os de vida. Los alimentos y las bebidas que se ofrezcan al interior de las escuelas deber&aacute;n privilegiar ingredientes naturales o m&iacute;nimamente procesados en la localidad o la regi&oacute;n. Y si sus empaques tienen sellos de advertencia, no podr&aacute;n estar en las escuelas.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Las ni&ntilde;as y los ni&ntilde;os tendr&aacute;n al alcance verduras y frutas regionales y de temporada.</em></p>
+
+<p><em>Si se trata de alimentos de origen animal, se deber&aacute; ofrecer pescado y aves como pollo y pavo, magros y sin piel; asados, horneados o cocidos.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Y al preparar alimentos o bebidas, se usar&aacute;n menos az&uacute;car, sal, aceites o grasas saturadas, nada de cafe&iacute;na o cereales azucarados. Y claro, se deber&aacute; asegurar la disponibilidad de agua, que es lo mejor para aliviar la sed.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Estas son algunas de las medidas m&aacute;s importantes que se aplicar&aacute;n en escuelas de todo el pa&iacute;s. Y lo ideal es replicarlo en casa, en beneficio de toda la familia.</em></p>
+
+<p><em>Porque la salud no es un privilegio, es nuestro derecho. Alimenta tu vida.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Esta es la norma que sali&oacute; publicada el 30 de septiembre, el pr&oacute;ximo lunes vamos a hablar de ello, son algunos meses que se determinaron para su aplicaci&oacute;n. Y viene Mario Delgado y salud para poder explicar c&oacute;mo vamos a hacer realidad finalmente que las ni&ntilde;as y los ni&ntilde;os en las escuelas no consuman alimentos procesados.</p>
+
+<p>Gracias a todos y a todas.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-10-14 08:25:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de octubre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de octubre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 14 de octubre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-14-de-octubre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

@@ -1,0 +1,2050 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de enero de 2025 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de enero de 2025" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152716/presidenta.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-enero-de-2025-387640?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152716/presidenta.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="rODU4GJ/Z2U5DFG/jtmOTJ8lkREciLOYijRmsVq9B18=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nn567jbez44jyaq-f-a884569ef-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":73,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"b8f2269","ak.r":46322,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62416,"ak.gh":"189.247.210.14","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296833","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==TQ4bNBr7NYhiu3ffNlTun5dikw6RkvdTOkfAuqK7XZ3+N37KIH8XbvmNdiC8urR5AW3ab12Fy7BKUll5XvavWmP2+uEce02kgXRnpysmAUado0A45Baf1VxPqDh1SVA3r/m111LF+bvrqf89JQtIWp8lfMOw0/ETd6rrE+GdoWGbjHf2hznYr6QH6a7NrZ5shcD4mJ+rC5PgcUQP8LsfWhqCkN/V/iJRqE6DTjpuyBZHX5qJD47DMQNDBs89R5QD231BaIjjKOLmVkfLCLEuCDDN9VWcdAlDGN1OWgdHhfKQvfolcKdD27fZ4SlnHxuZJXL9GO8pY3FEn6zLV9v8v7O+/IwM9SzNPgPczV/7OoIMdGChB1KhpHjQNe6MVXBH2gl1TiEQGmAl/9NNa3p9yWy5zNUandU6nI9SZpOuzoI=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de enero de 2025</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 09 de enero de 2025</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/152716/presidenta.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:&nbsp; </strong>Buenos d&iacute;as. &iquest;C&oacute;mo est&aacute;n?</p>
+
+<p>&mdash;Adelante. Si&eacute;ntense, por favor&mdash;.</p>
+
+<p>El d&iacute;a de hoy es el Informe de Seguridad, es el cierre del 2024, evidentemente, con todav&iacute;a algunas cifras que ajusta siempre el Inegi, despu&eacute;s de cierto tiempo, pero ya es el informe de todas las Fiscal&iacute;as Generales de todos los estados y la Fiscal&iacute;a General de la Rep&uacute;blica lo que se presenta el d&iacute;a de hoy y las acciones que se han desarrollado por el Gabinete de Seguridad.</p>
+
+<p>Nos acompa&ntilde;a, y le agradezco mucho, el doctor Alejandro Gertz Manero, fiscal general de la Rep&uacute;blica; la licenciada Rosa Icela Rodr&iacute;guez, secretaria de Gobernaci&oacute;n, ella nos va a presentar los avances de la estrategia de atenci&oacute;n a las causas; el maestro Omar Garc&iacute;a Harfuch, secretario de Seguridad y Protecci&oacute;n Ciudadana; el General Ricardo Trevilla Trejo, secretario de la Defensa Nacional; el Almirante Raymundo Pedro Morales &Aacute;ngeles, secretario de Marina; el General Cort&eacute;s, comandante de la Guardia Nacional; y la maestra Marcela Figueroa, titular del Secretariado Ejecutivo del Sistema Nacional de Seguridad.</p>
+
+<p>Y hoy es jueves, est&aacute; tambi&eacute;n Noem&iacute; para cerrar la conferencia con &ldquo;Tiempo de Mujeres&rdquo;, con &ldquo;Mujeres en la Historia&rdquo;.</p>
+
+<p>&mdash;Adelante, Marcela&mdash;.</p>
+
+<p><strong>TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD P&Uacute;BLICA, MARCELA FIGUEROA FRANCO: </strong>Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Con su permiso, Presidenta.</p>
+
+<p>El d&iacute;a de hoy vamos a informar sobre la incidencia delictiva con datos consolidados del a&ntilde;o 2024, los cuales son enviados por las 32 Fiscal&iacute;as y Procuradur&iacute;as estatales del pa&iacute;s, y la Fiscal&iacute;a General de la Rep&uacute;blica en el caso de los delitos del fuero federal.</p>
+
+<p>Iniciamos con el promedio diario de v&iacute;ctimas de homicidio doloso. Informamos que entre 2018 y 2024 se tuvo una disminuci&oacute;n de 18.3 por ciento en este delito. Como puede verse en la gr&aacute;fica, mientras en 2018 se registraron 100.5 v&iacute;ctimas de homicidio doloso diarias en promedio, de acuerdo al Inegi &mdash;cifra que ha ido en constante descenso a&ntilde;o con a&ntilde;o&mdash;, el 2024 cerr&oacute; con un promedio diario de 82.1 v&iacute;ctimas de este delito en promedio al d&iacute;a.</p>
+
+<p>Ahora, respecto al comportamiento del homicidio doloso mes con mes, durante 2024, podemos informar que diciembre fue el mes con el registro m&aacute;s bajo de v&iacute;ctimas de este periodo, con un promedio diario de 72.8 v&iacute;ctimas. Esto representa una disminuci&oacute;n del 16.3 por ciento entre septiembre y diciembre del 2024, es decir, desde el inicio de la administraci&oacute;n de la Presidenta, la Doctora Claudia Sheinbaum y durante los primeros 100 d&iacute;as de gobierno.</p>
+
+<p>A continuaci&oacute;n, presentamos el n&uacute;mero de v&iacute;ctimas por entidad federativa para el a&ntilde;o 2024. Como lo hemos venido mencionando, pr&aacute;cticamente la mitad de los homicidios dolosos del pa&iacute;s, un 49.4 por ciento, se siguen concentrando en siete entidades.</p>
+
+<p>De acuerdo a la informaci&oacute;n consolidada de enero a diciembre de 2024, las entidades con mayor n&uacute;mero de homicidios fueron:</p>
+
+<p>En primer lugar, Guanajuato, que representa el 10.5 por ciento de los homicidios totales del pa&iacute;s.</p>
+
+<p>Baja California, el 7.9 por ciento.</p>
+
+<p>Estado de M&eacute;xico, 7.5 por ciento.</p>
+
+<p>Chihuahua, 6.7 por ciento.</p>
+
+<p>Jalisco, 6 por ciento.</p>
+
+<p>Guerrero, 5.8 por ciento.</p>
+
+<p>Y Nuevo Le&oacute;n, 5.1 por ciento.</p>
+
+<p>Ahora, de manera individual presentaremos la informaci&oacute;n de estas siete entidades, as&iacute; como el comportamiento del delito de homicidio doloso en los primeros 100 d&iacute;as de la administraci&oacute;n federal.</p>
+
+<p>Iniciamos con Guanajuato, la entidad con el mayor n&uacute;mero de homicidios dolosos en 2024. En esta entidad, octubre fue el mes con el promedio de homicidios m&aacute;s altos, con 10.3 en promedio al d&iacute;a; y el m&aacute;s bajo, mayo, con 6.9; asimismo, entre septiembre y diciembre, el homicidio doloso increment&oacute; en 3.9 por ciento.</p>
+
+<p>Ahora vemos Baja California, el segundo estado del pa&iacute;s con la mayor concentraci&oacute;n de homicidios. En esta entidad, los promedios m&aacute;s altos de homicidio doloso ocurrieron en febrero con 7.5 y el mes m&aacute;s bajo fue noviembre con 5.4; en lo que va de la administraci&oacute;n federal, los homicidios han disminuido un 22.7 por ciento, pasando de 7.1 homicidios dolosos diarios al d&iacute;a en septiembre, a 5.5 en el mes de diciembre.</p>
+
+<p>El Estado de M&eacute;xico es otra entidad que muestra una tendencia a la baja en los &uacute;ltimos meses del 2024. Entre septiembre y diciembre de 2024 hubo una disminuci&oacute;n de 22.2 por ciento. Asimismo, diciembre fue el mes con el promedio de homicidios m&aacute;s bajo de todo el a&ntilde;o, con 5.2 homicidios dolosos al d&iacute;a.</p>
+
+<p>Seguimos ahora con Chihuahua. En los &uacute;ltimos meses del a&ntilde;o, de septiembre a diciembre el promedio se redujo en un 23.8 por ciento; tambi&eacute;n en esta entidad el mes de diciembre tuvo el promedio m&aacute;s bajo del a&ntilde;o, con 4.5 homicidios dolosos diarios.</p>
+
+<p>El quinto estado, Jalisco, si bien muestra una disminuci&oacute;n de 7.2 por ciento en su promedio diario de homicidios entre septiembre y diciembre de 2024, tambi&eacute;n se puede observar que en los tres &uacute;ltimos meses del a&ntilde;o tambi&eacute;n han ido en incremento los homicidios en este estado, que en octubre registr&oacute; su cifra m&aacute;s baja del a&ntilde;o con 3.7 homicidios diarios, pero para noviembre subi&oacute; a 4.3 y para diciembre a 4.5.</p>
+
+<p>En cuanto a Guerrero, en este estado, como se observa en la gr&aacute;fica, se registr&oacute; otra disminuci&oacute;n, en este caso de 15.7 por ciento menos v&iacute;ctimas de homicidio entre septiembre y diciembre de 2024; este &uacute;ltimo mes incluso present&oacute; la cifra m&aacute;s baja del a&ntilde;o con 3.3 v&iacute;ctimas diarias.</p>
+
+<p>Por &uacute;ltimo, est&aacute; Nuevo Le&oacute;n, que tuvo una disminuci&oacute;n del 56.1 por ciento entre septiembre y diciembre de 2024. En esta entidad, junio fue la del mayor promedio diario con 5.7 v&iacute;ctimas y diciembre fue el mes del menor promedio con 2.2 v&iacute;ctimas de homicidios al d&iacute;a.</p>
+
+<p>De acuerdo a esta informaci&oacute;n, del inicio de la presente administraci&oacute;n y durante los primeros 100 d&iacute;as de gobierno, los homicidios dolosos han presentado una disminuci&oacute;n en seis de los siete estados en donde se concentra la mitad de los homicidios del pa&iacute;s.</p>
+
+<p>A continuaci&oacute;n, adem&aacute;s de estos siete estados tambi&eacute;n present&aacute;remos los datos correspondientes al estado de Sinaloa.</p>
+
+<p>Como ya hemos informado en otras ocasiones, y puede verse en la gr&aacute;fica, entre enero y agosto de 2024, los homicidios diarios en el estado oscilaron entre 1.1 en marzo y abril, los m&iacute;nimos, hasta 1.7 en enero, que hab&iacute;a sido el m&aacute;s alto.</p>
+
+<p>Esta tendencia cambi&oacute; radicalmente en septiembre, que se registraron 4.8 homicidios dolosos al d&iacute;a, llegando al punto m&aacute;s alto en octubre con 5.9 v&iacute;ctimas diarias en promedio, noviembre con 5.8 y diciembre con 5.1, lo que indica una ligera contenci&oacute;n en la escalada de violencia con un descenso de 13.7 por ciento, entre el punto m&aacute;s alto que fue octubre y el mes de diciembre pasado.</p>
+
+<p>Ahora, presentamos una gr&aacute;fica con el promedio diario de delitos de alto impacto, de 2018 a 2024, a nivel nacional, que ha tenido una reducci&oacute;n del 38 por ciento. Como se ve en la gr&aacute;fica, se puede apreciar que, en 2018 y 2019, se tuvieron los promedios m&aacute;s altos; y a partir de 2020 se tiene una tendencia a la baja que culmina, con el promedio m&aacute;s bajo del periodo en 2024 con 601 delitos en promedio al d&iacute;a.</p>
+
+<p>En la desagregaci&oacute;n por tipo de delito, entre 2019 y 2024, se pueden apreciar reducciones importantes en la mayor&iacute;a de estos, con excepci&oacute;n de la extorsi&oacute;n.</p>
+
+<p>Hay reducciones en feminicidio, con menos 15.8 por ciento; en lesiones dolosas por disparo de arma de fuego, con una reducci&oacute;n de 18.4 por ciento; en todos los robos con violencia, en 39.7 por ciento; en robo a casa habitaci&oacute;n con violencia, de menos 45.7 por ciento; en robo de veh&iacute;culo con violencia, en menos 31.8 por ciento; en robo a transportista con violencia, en menos 32.8 por ciento; en robo a transe&uacute;nte con violencia, en menos 33.7 por ciento; y en robo a negocio con violencia, en 49 por ciento.</p>
+
+<p>Ahora, si analizamos el comportamiento de estos mismos delitos en los primeros 100 d&iacute;as de gobierno, entre septiembre y diciembre, se puede apreciar tambi&eacute;n una reducci&oacute;n en todos estos delitos.</p>
+
+<p>En feminicidio, menos 26.5 por ciento; lesiones dolosas por disparo de arma de fuego, en reducci&oacute;n de 19.7 por ciento; en extorsi&oacute;n, menos 10.6 por ciento; todos los robos con violencia, menos 4.7 por ciento; robo a casa habitaci&oacute;n con violencia, menos 9.7 por ciento; robo de veh&iacute;culo con violencia, menos 4.1 por ciento; robo a transportista con violencia, menos 6.5 por ciento; robo a transe&uacute;nte con violencia, menos 10.6 por ciento; y robo a negocio con violencia, menos 2 por ciento.</p>
+
+<p>Por &uacute;ltimo, mostramos una gr&aacute;fica con el promedio diario de delitos del fuero federal con los datos preliminares del mes de diciembre. Este tipo de delitos se ha mantenido a la baja desde 2018; si comparamos 2018 con 2019, hay una reducci&oacute;n de menos 30.5 por ciento en los delitos del fuero federal. Si bien, la mayor reducci&oacute;n ocurri&oacute; de 2018 a 2020, pasando de 309.4 delitos diarios a 214.4 en los &uacute;ltimos cuatro a&ntilde;os, la tendencia se ha mantenido estable.</p>
+
+<p>Es todo por mi parte en cuanto al Informe de Incidencia Delictiva.</p>
+
+<p>Permiso, Presidenta.</p>
+
+<p><strong>SECRETARIA DE GOBERNACI&Oacute;N, ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:</strong> Con su permiso, Presidenta de M&eacute;xico.</p>
+
+<p>Buenos d&iacute;as a todas y a todos, saludo tambi&eacute;n a mis compa&ntilde;eros y compa&ntilde;eras del Gabinete de Seguridad.</p>
+
+<p>Por instrucci&oacute;n de la Presidenta Claudia Sheinbaum Pardo estamos hoy aqu&iacute; para dar un segundo reporte sobre el trabajo que se lleva a cabo en materia de atenci&oacute;n a las causas que originan la violencia, uno de los ejes de la Estrategia de Seguridad.</p>
+
+<p>Se trata de garantizar condiciones de bienestar y prosperidad de la poblaci&oacute;n y sus comunidades.</p>
+
+<p>Toda la administraci&oacute;n federal, con m&aacute;s de 100 programas y servicios de 37 dependencias y organismos, realiza un trabajo diario en conjunto con los tres &oacute;rdenes de gobierno, con escuelas, empresas, organizaciones sociales, civiles, religiosas, todos, para llevar bienestar y paz a comunidades de algunos municipios del pa&iacute;s.</p>
+
+<p>Hoy queremos dar un reporte inicial de que continuamos en Le&oacute;n, en Celaya, en el estado de Guanajuato; en San Crist&oacute;bal de las Casas, Frontera Comalapa, Pantelh&oacute; y tambi&eacute;n en La Trinitaria, en Chiapas; en Tabasco, en el Centro; en Chimalhuac&aacute;n, Estado de M&eacute;xico; en Tijuana, Baja California; en Acapulco, en Chilpancingo, Guerrero.</p>
+
+<p>Los gobiernos humanistas tenemos el compromiso de mejorar las condiciones de vida de la poblaci&oacute;n. Por eso, quiero compartir con ustedes algunas de las principales acciones y resultados alcanzados hasta ahora:</p>
+
+<p>Por ejemplo, en cada municipio se desplegaron 329 brigadistas en promedio, donde se realizaron, en conjunto, casi 31 mil visitas casa por casa, solo para atenci&oacute;n a las causas. El trabajo en las comunidades hizo posible la integraci&oacute;n de 27 Comit&eacute;s de Paz y la realizaci&oacute;n de 18 ferias, donde se brindaron m&aacute;s de 106 mil atenciones a la poblaci&oacute;n participante.</p>
+
+<p>Por ejemplo, en Le&oacute;n, Guanajuato, las brigadas visitaron 5 mil 700 viviendas &mdash;la que sigue, por favor&mdash; y las distintas dependencias realizaron casi 8 mil intervenciones, entre ellas: la inscripci&oacute;n a las Becas &quot;Rita Cetina&quot; y servicios de salud.</p>
+
+<p>En Celaya se atendi&oacute; a 6 mil 611 personas en tres Ferias de Paz. Adem&aacute;s, vecinas y vecinos, comerciantes, deportistas y profesores integraron nueve Comit&eacute;s de Paz con mucho entusiasmo, y en las escuelas se impartieron charlas y talleres.</p>
+
+<p>Informarle a la poblaci&oacute;n que ayer se organiz&oacute; una Jornada por la Paz en Chiapas, donde hubo conciertos de rap, rock, marimba y una orquesta de ni&ntilde;as y ni&ntilde;os de los Semilleros Creativos. Se atendieron m&aacute;s de 5 mil personas con acciones de salud, talleres, tr&aacute;mites, becas &mdash;por all&aacute; estuvo su Gabinete, Presidenta, en conjunto con el gobernador del estado&mdash;.</p>
+
+<p>En Frontera Comalapa, Chiapas, se inici&oacute; la movilizaci&oacute;n de la cosecha de ma&iacute;z con la coordinaci&oacute;n de Gobernaci&oacute;n, Alimentaci&oacute;n para el Bienestar, la Secretar&iacute;a de la Defensa, de Marina, Guardia Nacional, polic&iacute;a estatal; esto tambi&eacute;n hace atenci&oacute;n a las causas.</p>
+
+<p>Se apoy&oacute; en La Trinitaria, Chiapas, a 122 personas en situaci&oacute;n de refugio provenientes de Guatemala, incluyendo connacionales con tr&aacute;mites como: regularizaci&oacute;n de cartas de naturalizaci&oacute;n, actas de nacimiento, expedici&oacute;n de CURP.</p>
+
+<p>Y bajo la coordinaci&oacute;n de la Subsecretar&iacute;a de Prevenci&oacute;n de la Secretar&iacute;a de Seguridad, y la colaboraci&oacute;n del gobierno del estado, en Centro, Tabasco, se atendieron m&aacute;s de 21 mil personas a trav&eacute;s de las Ferias de Paz.</p>
+
+<p>En Chimalhuac&aacute;n, Estado de M&eacute;xico, llevamos a cabo Ferias de Paz y Posadas de Paz con la presencia de m&aacute;s de 32 mil personas.</p>
+
+<p>Tambi&eacute;n, en Tijuana, Baja California, se desarrollaron actividades festivas por las fechas decembrinas a las que asistieron casi 8 mil personas y se formaron dos Comit&eacute;s de Paz.</p>
+
+<p>En Chilpancingo, Guerrero, se duplic&oacute; la meta programada, al realizar casi 6 mil 500 visitas y atender m&aacute;s de 9 mil personas en tres Ferias de Paz. Destaca la labor de los servicios m&eacute;dicos y la entrega de medicamentos gratuitos del IMSS y del IMSS-Bienestar, y del ISSSTE.</p>
+
+<p>En Acapulco, con la participaci&oacute;n de la gobernadora, se brindaron m&aacute;s de 15 mil atenciones, con la participaci&oacute;n tambi&eacute;n de la presidenta municipal. Estuvimos en dos Ferias de Paz, coordinadas por la Subsecretar&iacute;a de Desarrollo Democr&aacute;tico.</p>
+
+<p>Sobresale la colaboraci&oacute;n de los integrantes de las Secretar&iacute;as de la Defensa Nacional y de la Secretar&iacute;a de Marina, de la Guardia Nacional que, en todos los municipios, brindaron servicios sociales a la poblaci&oacute;n y apoyaron a las dependencias participantes.</p>
+
+<p>Adem&aacute;s, del 13 al 23 de diciembre, en 32 mesas estatales y 221 mesas regionales del pa&iacute;s, Mesas de Paz, se llevaron a cabo Jornadas de Paz como parte de la estrategia de atenci&oacute;n a las causas.</p>
+
+<p>Se desarrollaron 278 actividades, jornadas en escuelas, eventos culturales, deportivos, con una asistencia de m&aacute;s de 105 mil personas.</p>
+
+<p>Como usted indic&oacute;, Presidenta, en este a&ntilde;o 2025 este eje de atenci&oacute;n a las causas se fortalecer&aacute; con la acci&oacute;n de &ldquo;S&iacute; al desarme, S&iacute; a la paz&rdquo; en todos los municipios que estamos atendiendo con el apoyo de la Secretar&iacute;a de la Defensa, de las iglesias, y de los gobiernos estatales y municipales.</p>
+
+<p>Esto permitir&aacute; el intercambio de armas de fuego y cartuchos por dinero en efectivo, de manera an&oacute;nima y voluntaria en los atrios e instalaciones de templos e iglesias de todas las denominaciones religiosas. En los m&oacute;dulos que se colocar&aacute;n habr&aacute; canje de juguetes b&eacute;licos por juguetes educativos.</p>
+
+<p>Y vamos a empezar por su instrucci&oacute;n, Presidenta, ma&ntilde;ana viernes 10 de enero en la Bas&iacute;lica de Guadalupe.</p>
+
+<p>Presidenta, seguimos trabajando en favor del pueblo de M&eacute;xico, ah&iacute; donde vive, en las comunidades y colonias prioritarias.</p>
+
+<p>Aprovechamos, finalmente, para agradecer y reconocer a todas las personas servidoras p&uacute;blicas que participan en estas acciones de atenci&oacute;n a las causas. Por ejemplo, a los servidores de la naci&oacute;n, a m&eacute;dicos, enfermeras, personal de las Secretar&iacute;as &mdash;que son muchas, no las voy a mencionar&mdash;, algunas: la Secretar&iacute;a de Bienestar, de Educaci&oacute;n, de Trabajo, Econom&iacute;a, Salud. Agradecer su entrega y entusiasmo y compromiso a favor del pueblo de M&eacute;xico.</p>
+
+<p>Estas acciones suman a los resultados del Gabinete de Seguridad en los municipios prioritarios.</p>
+
+<p>Con estas acciones seguimos reiterando que: No venimos a ganar una guerra, venimos a construir la paz.</p>
+
+<p>Gracias.</p>
+
+<p>Y si nos permite, Presidenta, un video.</p>
+
+<p><strong>SECRETARIO DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA, OMAR GARC&Iacute;A HARFUCH:</strong> Con permiso, Presidenta, buenos d&iacute;as.</p>
+
+<p>Muy buenos d&iacute;as a todas y todos.</p>
+
+<p>En estos tres meses de la presente administraci&oacute;n las instituciones que conformamos el Gabinete de Seguridad: Secretar&iacute;a de la Defensa Nacional, Guardia Nacional, Secretar&iacute;a de Marina, Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana, el Centro Nacional de Inteligencia, la Fiscal&iacute;a General de la Rep&uacute;blica y la Secretar&iacute;a de Gobernaci&oacute;n, hemos estrechado la coordinaci&oacute;n d&iacute;a a d&iacute;a y se han fortalecido nuestras capacidades institucionales.</p>
+
+<p>Desde el primer d&iacute;a de este gobierno, la instrucci&oacute;n de la Presidenta ha sido clara: la seguridad de las y los mexicanos es una prioridad que demanda unidad, compromiso y acci&oacute;n inmediata.</p>
+
+<p>Como parte de esta colaboraci&oacute;n, en la presente administraci&oacute;n se han obtenido los siguientes resultados:</p>
+
+<p>Como fue antes mencionado, de acuerdo con cifras del Inegi, de enero del 2018 a diciembre del 2024, se observa una disminuci&oacute;n de 18.3 por ciento, entre 2018 y 2024, en el promedio diario de v&iacute;ctimas de homicidio doloso.</p>
+
+<p>Asimismo, con las cifras preliminares que contamos, observamos una disminuci&oacute;n de 16.3 por ciento en el promedio diario de v&iacute;ctimas de homicidio doloso entre septiembre y diciembre de 2024.</p>
+
+<p>En este periodo de gobierno han sido detenidas 7 mil 720 personas por delitos de alto impacto, se han asegurado m&aacute;s de 66 toneladas de droga, incluyendo mil 168 kilos y 561 mil pastillas de fentanilo; se han asegurado m&aacute;s de 3 mil 600 armas de fuego. La droga asegurada representa m&aacute;s de 60 millones de dosis que no llegar&aacute;n a las calles, ni podr&aacute;n destruir la vida de familias o de j&oacute;venes.</p>
+
+<p>Por otra parte, en el marco de los esfuerzos coordinados para fortalecer la seguridad en el estado de Sinaloa, se han realizado las siguientes acciones a partir de la escalada de septiembre, cuando inici&oacute; el incremento de homicidios:</p>
+
+<p>Se desplegaron equipos de Fuerza de Tarea con actividades de inteligencia, investigaci&oacute;n y judicializaci&oacute;n; se implementaron filtros carreteros entre Culiac&aacute;n y Mazatl&aacute;n; y la Guardia Nacional increment&oacute; su estado de fuerza en dicha carretera.</p>
+
+<p>Han sido detenidos 43 objetivos prioritarios en este estado y 558 personas que formaban parte de c&eacute;lulas delictivas. Se han asegurado m&aacute;s de 400 veh&iacute;culos, varios de ellos blindados, y casi 700 armas de fuego, as&iacute; como tambi&eacute;n m&aacute;s de 100 granadas de fuego.</p>
+
+<p>En Sinaloa se ha hecho un esfuerzo muy importante para disminuir la violencia. Todav&iacute;a hay mucho trabajo por hacer, pero despu&eacute;s del incremento de homicidios que se present&oacute;, a partir de diciembre hoy se puede observar &mdash;como lo coment&oacute; Marcela&mdash; una contenci&oacute;n en la escalada de los homicidios.</p>
+
+<p>En Culiac&aacute;n, espec&iacute;ficamente, la reducci&oacute;n del delito de homicidio, de octubre a diciembre, ha sido de 35 por ciento. Se continuar&aacute; trabajando y fortaleciendo en este estado con el Gabinete de Seguridad.</p>
+
+<p>Tambi&eacute;n, a su vez, como parte de la Estrategia de Seguridad implementada en Acapulco, por instrucciones de la Presidenta Claudia Sheinbaum:</p>
+
+<p>Se homolog&oacute; el modelo de operaci&oacute;n de sectores y cuadrantes.</p>
+
+<p>Se efectuaron patrullajes y filtros de seguridad en puntos de alta incidencia delictiva entre dependencias del Gabinete de Seguridad.</p>
+
+<p>Y se establecieron puestos de control.</p>
+
+<p>Se incorporaron lectores de placa.</p>
+
+<p>Y se instalaron arcos detectores en arcos carreteros de Acapulco.</p>
+
+<p>Adem&aacute;s, se cuenta con despliegue de equipos tambi&eacute;n de fuerza de tarea interinstitucional con el objetivo de realizar detenciones en flagrancia, cumplimentar &oacute;rdenes de aprehensi&oacute;n y dar seguimiento a casos prioritarios. Con esto, se ha permitido la detenci&oacute;n de siete objetivos prioritarios en Acapulco.</p>
+
+<p>Cabe destacar que estos esfuerzos han permitido disminuir el n&uacute;mero de v&iacute;ctimas de homicidio doloso en 15 por ciento, entre septiembre y diciembre de 2024, en Guerrero; pero, espec&iacute;ficamente, en Acapulco la disminuci&oacute;n en homicidios ha sido de 58.34 por ciento.</p>
+
+<p>Para combatir la producci&oacute;n de drogas en los estados de Baja California, Estado de M&eacute;xico, Guanajuato, Guerrero, Michoac&aacute;n, Sinaloa, Sonora, personal de la Secretar&iacute;a de la Defensa Nacional de la Secretar&iacute;a de Marina, de la Fiscal&iacute;a General de la Rep&uacute;blica, en muchos de estados, con participaci&oacute;n de las Fiscal&iacute;as locales y en coordinaci&oacute;n con el Centro Nacional de Inteligencia, se han desarticulado y desmantelado 115 laboratorios clandestinos para la elaboraci&oacute;n de metanfetaminas.</p>
+
+<p>En estas acciones se han asegurado: 148 mil 609 litros y 28 mil 261 kilos de sustancias qu&iacute;micas, 157 reactores de s&iacute;ntesis org&aacute;nica, 62 condensadores y 56 destiladores.</p>
+
+<p>La afectaci&oacute;n econ&oacute;mica a las organizaciones delictivas en estos laboratorios es mayor a 27 mil 118 millones de pesos.</p>
+
+<p>En representaci&oacute;n del Gabinete de Seguridad, a continuaci&oacute;n mencionar&eacute; algunas acciones relevantes llevadas a cabo en las &uacute;ltimas tres semanas por las instituciones que lo conforman:</p>
+
+<p>En Mexicali, Baja California, se detuvo a Josu&eacute; &ldquo;N&rdquo;, identificado como uno de los principales generadores de violencia en la entidad. Esta acci&oacute;n se realiz&oacute; en coordinaci&oacute;n con el gobierno del estado.</p>
+
+<p>En el municipio de Ensenada, elementos del Ej&eacute;rcito y la Fiscal&iacute;a General de la Rep&uacute;blica catearon dos inmuebles, donde aseguraron 3 millones de art&iacute;culos de contrabando, con un valor estimado de 320 millones de pesos.</p>
+
+<p>En Tuxtla Guti&eacute;rrez, personal de la Fiscal&iacute;a y de la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana de Chiapas detuvieron tambi&eacute;n a nueve polic&iacute;as municipales y dos polic&iacute;as estatales relacionados con el delito de desaparici&oacute;n forzada.</p>
+
+<p>Tambi&eacute;n en Chiapas, en el municipio Benem&eacute;rito de las Am&eacute;ricas, elementos del Ej&eacute;rcito Mexicano, de la Fiscal&iacute;a General de la Rep&uacute;blica y del Instituto Nacional de Migraci&oacute;n, en coordinaci&oacute;n con autoridades de Guatemala, catearon un inmueble y se detuvo a Selvin Abigail &ldquo;N&rdquo;, l&iacute;der de una estructura delictiva transnacional dedicada al tr&aacute;fico de drogas en la regi&oacute;n norte de Guatemala y en la frontera con M&eacute;xico. El detenido fue entregado a las autoridades guatemaltecas para cumplimentar una orden de aprehensi&oacute;n por narcotr&aacute;fico.</p>
+
+<p>En la Ciudad de M&eacute;xico, en coordinaci&oacute;n con las autoridades de la Ciudad de M&eacute;xico, el Ej&eacute;rcito, la Secretar&iacute;a de Seguridad Ciudadana, la Fiscal&iacute;a General de la Rep&uacute;blica, la Secretar&iacute;a de Marina y la Polic&iacute;a de la Ciudad de M&eacute;xico: en las alcald&iacute;as Tlalpan, Cuauht&eacute;moc y &Aacute;lvaro Obreg&oacute;n, se detuvo a Fernando Emanuel &ldquo;N&rdquo; Santos y Jos&eacute; &ldquo;N&rdquo;, a quienes se les aseguraron 4 mil dosis de metanfetaminas y tambi&eacute;n mil pastillas de fentanilo, as&iacute; como 500 dosis de coca&iacute;na.</p>
+
+<p>En Colima, elementos de la Secretar&iacute;a de Marina aseguraron 25 mil kilos de qu&iacute;micos para la fabricaci&oacute;n de metanfetamina, los cuales se encontraban en el interior de un contenedor.</p>
+
+<p>En el municipio de Santo Tom&aacute;s de los Pl&aacute;tanos, del Estado de M&eacute;xico, personal de la Secretar&iacute;a de la Defensa y de la Fiscal&iacute;a estatal y la Polic&iacute;a estatal, detuvieron a 15 personas, entre ellos a tres trabajadores del Ayuntamiento y tres polic&iacute;as municipales relacionados con la fuga del alcalde del municipio. Dicho sujeto es acusado de desviar el dinero del erario para financiar actividades delictivas, adem&aacute;s de emplear a polic&iacute;as municipales como informantes de las operaciones de fuerzas federales y estatales.</p>
+
+<p>En el estado de Guanajuato, resultado de trabajos de inteligencia del Gabinete de Seguridad, se identific&oacute; un punto clandestino de almacenamiento de hidrocarburo, donde un grupo de personas agredieron al Ej&eacute;rcito con disparos de arma de fuego. En el lugar detuvieron a siete personas, entre ellas a Norma Idalia &ldquo;N&rdquo;, identificada como generadora de violencia y l&iacute;der de una c&eacute;lula delictiva en el estado, dedicada a la venta de hidrocarburo robado, droga, armas, pero tambi&eacute;n se le relaciona con diversos homicidios y otros delitos de alto impacto.</p>
+
+<p>En Acapulco, las instituciones del Gabinete de Seguridad ejecutaron dos &oacute;rdenes de cateo, donde fueron detenidas cuatro personas, entre ellas Marco Antonio &ldquo;N&rdquo;, l&iacute;der de un grupo delictivo generador de violencia, el cual cuenta con una orden de aprehensi&oacute;n por delitos contra la salud. Adem&aacute;s, en seguimiento a las investigaciones, se detuvo a dos hombres m&aacute;s a los que se les aseguraron armas de fuego largas. En un segundo evento se detuvo a dos integrantes m&aacute;s de este mismo grupo delictivo a quienes se les asegur&oacute; un arma m&aacute;s.</p>
+
+<p>En Acapulco tambi&eacute;n, resultado de trabajos de investigaci&oacute;n y de las acciones coordinadas entre el Gabinete de Seguridad y el gobierno del estado, se detuvo a David Adri&aacute;n &ldquo;N&rdquo;, identificado como integrante de un grupo delictivo generador de violencia con presencia en Acapulco y autor material del homicidio cometido en contra de un magistrado, ocurrido el 11 de diciembre del 2024.</p>
+
+<p>De igual forma, en Acapulco, resultado de acciones del Gabinete de Seguridad, en coordinaci&oacute;n con la Fiscal&iacute;a del estado, se detuvo a Alexander &ldquo;N&rdquo;, identificado como generador de violencia, quien cuenta con varias denuncias de extorsi&oacute;n en el Mercado Central de Acapulco. Adem&aacute;s, cuenta tambi&eacute;n ya con otra orden de aprehensi&oacute;n.</p>
+
+<p>En Hidalgo, en una acci&oacute;n coordinada con Defensa, Marina, la Fiscal&iacute;a General de la Rep&uacute;blica, la Secretar&iacute;a de Seguridad y la Fiscal&iacute;a de Quintana Roo, se detuvo a Miguel &Aacute;ngel &ldquo;N&rdquo;, vinculado con los delitos de homicidio y extorsi&oacute;n en el municipio de Canc&uacute;n. Adem&aacute;s, cuenta con dos &oacute;rdenes de aprehensi&oacute;n por homicidio calificado. Este era un objetivo prioritario para el gobierno de Quintana Roo.</p>
+
+<p>En el estado de Michoac&aacute;n, en el puerto de L&aacute;zaro C&aacute;rdenas, con informaci&oacute;n e inteligencia naval, se localiz&oacute; una embarcaci&oacute;n, donde fueron detenidas tres personas de nacionalidad extranjera. Se aseguraron 26 bultos con un peso aproximado de mil 300 kilos de coca&iacute;na y una radiobaliza. Este aseguramiento genera una afectaci&oacute;n econ&oacute;mica a la delincuencia organizada por m&aacute;s de 16 millones de d&oacute;lares, sumando a los grandes aseguramientos que ha hecho la Secretar&iacute;a de Marina en los &uacute;ltimos meses en altamar.</p>
+
+<p>En Escuinapa, Sinaloa, resultado del reforzamiento de seguridad, se ejecut&oacute; una orden de cateo donde fueron detenidas cinco personas que formaban parte de un grupo delictivo, entre ellas: Juan Manuel &ldquo;N&rdquo;, jefe de una c&eacute;lula delictiva. En esta acci&oacute;n se aseguraron tres armas largas, dos ametralladoras, m&aacute;s de 2 mil 500 cartuchos, armas cortas, coca&iacute;na y un veh&iacute;culo.</p>
+
+<p>En el municipio de Culiac&aacute;n, en una acci&oacute;n realizada por el Gabinete de Seguridad, se detuvo a un hombre a bordo de un veh&iacute;culo que transportaba dos maletas con 131 mil 500 pastillas de fentanilo y 37 kilos de metanfetamina. Este aseguramiento representa una afectaci&oacute;n econ&oacute;mica a la delincuencia organizada de m&aacute;s de 65 millones de pesos.</p>
+
+<p>En Nogales, Sonora, resultado de trabajos de inteligencia, personal de Defensa, Fiscal&iacute;a General de la Rep&uacute;blica y la Agencia de Investigaci&oacute;n Criminal, se cumpliment&oacute; una orden de aprehensi&oacute;n contra Mart&iacute;n &ldquo;N&rdquo;, integrante de una c&eacute;lula delictiva.</p>
+
+<p>En Jalapa, Veracruz, elementos de la Fiscal&iacute;a General del estado, con apoyo del Ej&eacute;rcito Mexicano y la Fiscal&iacute;a General de la Rep&uacute;blica, cumplimentaron &oacute;rdenes de aprehensi&oacute;n en contra de 13 polic&iacute;as estatales vinculados con el delito de desaparici&oacute;n forzada de personas.</p>
+
+<p>Como ya lo mencion&oacute; la secretaria de Gobernaci&oacute;n: la construcci&oacute;n de la paz es nuestro objetivo com&uacute;n, y con la participaci&oacute;n de todas y todos lo haremos posible en el futuro que nuestra naci&oacute;n merece.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Lo del video, los videos&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE ATENCI&Oacute;N A LAS CAUSAS)</strong></p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE RESULTADOS LA ESTRATEGIA NACIONAL DE SEGURIDAD)</strong></p>
+
+<p><strong><em>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </em></strong><em>La Estrategia Nacional de Seguridad, es decir, una estrategia de cuatro ejes.</em></p>
+
+<p><em>Entonces, &iquest;qu&eacute; vamos a hacer? Vamos a apoyar, a fortalecer esta parte de atenci&oacute;n a las causas. Eso es lo primero.</em></p>
+
+<p><em>Dos, consolidaci&oacute;n de la Guardia Nacional.</em></p>
+
+<p><em>Lo tercero, Inteligencia e Investigaci&oacute;n, ah&iacute; es donde vamos todav&iacute;a a fortalecer m&aacute;s.</em></p>
+
+<p><em>Y, finalmente, la Coordinaci&oacute;n con la Fiscal&iacute;a General de la Rep&uacute;blica, la Coordinaci&oacute;n con los estados, con los fiscales estatales y las Secretar&iacute;as de Seguridad estatales.</em></p>
+
+<p><em>Estos cuatro ejes de seguridad los planteamos en campa&ntilde;a, los vamos a conservar durante todo el gobierno y los vamos a consolidar, y vamos a disminuir los delitos de alto impacto porque hay una estrategia y se va a cumplir.</em></p>
+
+<p><strong><em>VOZ MUJER: </em></strong><em>La base de la Estrategia de seguridad es la atenci&oacute;n a las causas. En este rubro, la Secretar&iacute;a de Gobernaci&oacute;n en estos 100 d&iacute;as se dispuso a visitar casa por casa para identificar y atender necesidades, ofreciendo programas y servicios a la poblaci&oacute;n, as&iacute; como la integraci&oacute;n de Comit&eacute;s de Paz.</em></p>
+
+<p><em>Se trata de un trabajo coordinado con los tres &oacute;rdenes de gobierno, organizaciones sociales, educativas, empresariales y religiosas con un mismo objetivo: la Construcci&oacute;n de la Paz.</em></p>
+
+<p><em>En el marco de las acciones del Gabinete de Seguridad: </em></p>
+
+<p><em>El Ej&eacute;rcito, la Armada, la Fuerza A&eacute;rea y la Guardia Nacional durante estos primeros 100 d&iacute;as de la administraci&oacute;n mantuvieron un despliegue permanente de m&aacute;s de 217 mil elementos, 16 mil veh&iacute;culos, 280 aeronaves, ocho aeronaves pilotadas a distancia, 729 drones, y 252 buques y embarcaciones, en cumplimiento a diversas misiones, lo que se traduce en alrededor de 29 mil operaciones diarias en todo el pa&iacute;s para fortalecer la seguridad y con ello, garantizar la estabilidad y desarrollo de la poblaci&oacute;n.</em></p>
+
+<p><strong><em>VOZ HOMBRE: </em></strong><em>Con todos estos esfuerzos realizados por las Fuerzas Armadas y las instituciones de seguridad p&uacute;blica, se ha logrado consolidar la estrategia implementada por el Gobierno de M&eacute;xico, obteni&eacute;ndose, entre otros, los siguientes resultados:</em></p>
+
+<p><em>La detenci&oacute;n de 7 mil 720 generadores de violencia.</em></p>
+
+<p><em>El aseguramiento de 3 mil 602 armas de fuego, 667 mil 769 cartuchos, 14 mil 687 cargadores, mil 168 kilogramos y 561 mil 05 pastillas de fentanilo, 21 mil 454 kilogramos de metanfetaminas, 26 mil 552 kilogramos de coca&iacute;na y 16 mil 967 kilogramos de marihuana.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Adem&aacute;s, en este periodo, en estrecha coordinaci&oacute;n con el Centro Nacional de Inteligencia, resalta la captura de los siguientes blancos prioritarios: Salvador &ldquo;N&rdquo;, Hern&aacute;n Domingo &ldquo;N&rdquo;, Armando &ldquo;N&rdquo;, Omar &ldquo;N&rdquo;, Said Alberto &ldquo;N&rdquo;, Roy &ldquo;N&rdquo;, Jos&eacute; Osvaldo &ldquo;N&rdquo; y Marco Antonio &ldquo;N&rdquo;.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Dando continuidad a las acciones que se realizan desde la anterior administraci&oacute;n para reducir la violencia, tambi&eacute;n sobresale, del mes de septiembre a diciembre 2024, una disminuci&oacute;n sostenida del 16 por ciento en el delito de homicidios dolosos a nivel nacional e incremento del 34 por ciento en el aseguramiento de armas de fuego de diferentes calibres y poder de fuego.</em></p>
+
+<p><em>El aumento de las incautaciones de efectivo de procedencia il&iacute;cita con 40 por ciento en moneda nacional y el 59 por ciento en d&oacute;lares americanos.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Dentro de estos 100 d&iacute;as, en coordinaci&oacute;n con el Ej&eacute;rcito, Fuerza A&eacute;rea y Guardia Nacional, se resolvieron las siguientes problem&aacute;ticas:</em></p>
+
+<p><em>La extorsi&oacute;n a la industria limonera en Michoac&aacute;n.</em></p>
+
+<p><em>Los conflictos sociales en los municipios de Frontera Comalapa y Pantelh&oacute;, Chiapas.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Con personal del Ej&eacute;rcito, Armada, Fuerza A&eacute;rea y Guardia Nacional, se trabaja en la restauraci&oacute;n de la paz en el estado de Sinaloa, habiendo realizado el aseguramiento hist&oacute;rico de 1.1 toneladas de fentanilo en el mes de diciembre.</em></p>
+
+<p><em>Tambi&eacute;n, se disminuy&oacute; el robo al autotransporte con la implementaci&oacute;n de la estrategia BALAM por parte de la Guardia Nacional.</em></p>
+
+<p><strong><em>VOZ MUJER: </em></strong><em>Adem&aacute;s, durante las pasadas vacaciones se implement&oacute; el Plan Invierno 2024-2025, por parte de la Guardia Nacional, emple&aacute;ndose 7 mil 547 efectivos para dar seguridad a los centros tur&iacute;sticos del pa&iacute;s, logr&aacute;ndose que no se tuvieran incidentes relevantes.</em></p>
+
+<p><strong><em>VOZ HOMBRE: </em></strong><em>En las costas de Guerrero y Chiapas, la Armada de M&eacute;xico asegur&oacute; 8.3 toneladas de coca&iacute;na, sumando un total de 22 toneladas, haciendo posible el mantenimiento del Estado de derecho en la mar.</em></p>
+
+<p><strong><em>VOZ MUJER: </em></strong><em>Todo este trabajo encaminado al logro de los objetivos de la Estrategia Nacional de Seguridad P&uacute;blica ha permitido el movimiento favorable de importantes indicadores como:</em></p>
+
+<p><em>El decremento sostenido de la percepci&oacute;n de inseguridad, el cual se encontraba en un 73.7 por ciento en diciembre de 2018; y en octubre de 2024, se registr&oacute; en un 58.6 por ciento, lo que representa una disminuci&oacute;n de 15.1 puntos porcentuales.</em></p>
+
+<p><em>Los niveles de confianza en las autoridades siguientes: Marina, 89.2 por ciento; Fuerza A&eacute;rea, 87.3 por ciento; Ej&eacute;rcito, 83.8 por ciento; Guardia Nacional, 75.6 por ciento.</em></p>
+
+<p><strong><em>VOZ HOMBRE: </em></strong><em>Estas acciones y resultados son muestra palpable del firme compromiso del Estado mexicano para seguir construyendo el pa&iacute;s que los mexicanos merecen, porque la seguridad y el bienestar son un derecho de todos.</em></p>
+
+<p><em>Sabemos que a&uacute;n hay mucho por hacer, pero en el Gobierno de M&eacute;xico estamos seguros que el rumbo es el correcto.</em></p>
+
+<p><strong><em>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </em></strong><em>Estamos convencidos de que esta estrategia, si seguimos as&iacute;, pues van a bajar todav&iacute;a m&aacute;s los &iacute;ndices delictivos.</em></p>
+
+<p><strong><em>VOZ DE MUJER: </em></strong><em>Unidos por un M&eacute;xico en paz y seguro.</em></p>
+
+<p><strong><em>VOZ DE MUJER: </em></strong><em>Gobierno de M&eacute;xico.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Listo.</p>
+
+<p>Antes de iniciar las preguntas, solamente, comentarle a todos nuestros connacionales que est&aacute;n en la zona de Los &Aacute;ngeles y a todos los habitantes de esta zona que est&aacute;n viviendo momentos muy dif&iacute;ciles por los incendios, nuestra solidaridad, nuestro apoyo.</p>
+
+<p>El canciller est&aacute; en contacto con el Consulado, para todo lo que se requiera para las y los mexicanos. Y le he pedido tambi&eacute;n que se ponga en comunicaci&oacute;n con el gobernador de California, por cualquier cosa que necesite por parte de nuestro pa&iacute;s.</p>
+
+<p>&mdash;Ahora s&iacute;, vamos a las preguntas. A ver&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Presidenta, &iquest;c&oacute;mo est&aacute;? Buenos d&iacute;as. Feliz A&ntilde;o 2025. Luis &Aacute;ngel Mar&iacute;n, de </strong><strong><em>Radio Resultados</em></strong><strong>.</strong></p>
+
+<p><strong>Destaca, en las cifras que nos muestran hoy, los porcentajes, principalmente el 26.5 por ciento en la disminuci&oacute;n de los feminicidios de septiembre a diciembre. &iquest;A qu&eacute; atribuir&iacute;a usted esta disminuci&oacute;n importante, Presidenta?</strong></p>
+
+<p><strong>Ser&iacute;a mi primer pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Hay una estrategia que se ven&iacute;a desarrollando desde el gobierno anterior. Y ahora, con la Secretar&iacute;a de las Mujeres, Citlalli, su secretaria ha estado muy en contacto con gobernadores, con gobernadoras para implementar la estrategia que fue aprobada, a partir de las modificaciones jur&iacute;dicas.</p>
+
+<p>En la Constituci&oacute;n hoy est&aacute; el derecho de las mujeres a una vida libre de violencia y de ah&iacute;, se derivan una serie de modificaciones a las leyes secundarias, y se est&aacute; trabajando en coordinaci&oacute;n con todos los estados de la Rep&uacute;blica.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>Pr&aacute;cticamente el feminicidio es un tema social que se da en las parejas. &iquest;Y se estar&aacute; reforzando todav&iacute;a m&aacute;s esta consciencia?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Son las dos, son los dos ejes que hemos planteado en general para todas las estrategias que tienen que ver con seguridad y delitos:</p>
+
+<p>La primera es la atenci&oacute;n a las causas. Estamos trabajando con los estados; est&aacute; ya por iniciarse &mdash;la vamos a presentar aqu&iacute;&mdash; la <em>Cartilla de Derechos de las Mujeres</em>; se est&aacute;n fortaleciendo los centros de justicia y otros espacios de atenci&oacute;n. Se va a constituir una Red de Mujeres, de voluntarias, para el fortalecimiento del conocimiento de los derechos y la denuncia frente a una situaci&oacute;n de violencia.</p>
+
+<p>Va a haber un n&uacute;mero de tel&eacute;fono coordinado con todas las entidades de la Rep&uacute;blica para la atenci&oacute;n de casos de violencia. Y todo lo que tiene que haber en escuelas y comunicaci&oacute;n, general. Lo que hacemos todos los d&iacute;as tambi&eacute;n de defensa de los derechos de las mujeres es importante, coloca el tema al m&aacute;s alto nivel.</p>
+
+<p>Y, por otro lado, la cero impunidad. Que ning&uacute;n feminicida quede libre despu&eacute;s de haber cometido este delito, obviamente, con todo el debido proceso que tenga que llevarse.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>Mi siguiente pregunta: ayer la Permanente declar&oacute; constitucional la ley que proh&iacute;be el uso de vapeadores y el tema de fentanilo.</strong></p>
+
+<p><strong>Para el tema de vapeadores, al estar prohibida su venta, &iquest;c&oacute;mo se va a hacer alguna estrategia de seguridad para evitar el mercado negro y todo ese tipo de causas que podr&iacute;an darse?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Es tambi&eacute;n un&hellip; Tienen que adaptarse todav&iacute;a las leyes secundarias y tenemos que trabajar con las entidades de la Rep&uacute;blica para poder generar todos los procesos de inspecci&oacute;n que eviten que se venda de manera ilegal.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. </strong></p>
+
+<p><strong>Y bueno, mi &uacute;ltima pregunta: en 2025, adem&aacute;s de la elecci&oacute;n judicial el 1o. de junio, ese mismo d&iacute;a habr&aacute; elecciones en Durango y Veracruz. &iquest;Estar&aacute; haci&eacute;ndose alguna estrategia para blindar estas elecciones locales, proteger candidatos, etc&eacute;tera? &iquest;Alguna estrategia se har&aacute;?</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Siempre est&aacute; la Guardia Nacional acompa&ntilde;ando a las fuerzas estatales. Y en caso de que alg&uacute;n candidato o candidata solicite la protecci&oacute;n, siempre se hace un an&aacute;lisis de riesgo derivado de esta solicitud y se le brinda la protecci&oacute;n necesaria.</p>
+
+<p>&mdash;A ver, ac&aacute;. Vamos as&iacute; y luego para ac&aacute;&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Yareth Arciniega, de revista </strong><strong><em>Fortuna</em></strong><strong>.</strong></p>
+
+<p><strong>Sobre el tema, Presidenta, el registro administrativo de los homicidios dolosos ha cambiado en los &uacute;ltimos a&ntilde;os. &iquest;C&oacute;mo ha mejorado el registro de muertes ocurridas entre el momento que ocurre y en el que se investiga? &iquest;Se ha mejorado la comunicaci&oacute;n entre la Fiscal&iacute;a General de la Rep&uacute;blica y las entidades que reportan los registros administrativos al Inegi?</strong></p>
+
+<p><strong>&iquest;Y c&oacute;mo se han actualizado los protocolos de criterios de clasificaci&oacute;n, Presidenta? Muchas gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Marcela, no s&eacute; si quieres acompa&ntilde;arme si me falta algo m&aacute;s&mdash;.</p>
+
+<p>En el Gabinete de Seguridad revisamos todos los d&iacute;as los homicidios dolosos en los distintos estados de la Rep&uacute;blica y de la Ciudad de M&eacute;xico. Esa informaci&oacute;n proviene, sea de las fuentes que conocemos del propio Gabinete, pero principalmente de las Fiscal&iacute;as estatales.</p>
+
+<p>Recuerden que el homicidio es un delito del fuero com&uacute;n. Entonces, &iquest;de d&oacute;nde viene ese reporte?, de las Fiscal&iacute;as estatales. Y hay un sistema que est&aacute; recibiendo permanentemente en el &aacute;rea del Secretariado de Seguridad esta informaci&oacute;n y se presenta todos los d&iacute;as en Gabinete.</p>
+
+<p>En algunas ocasiones las Fiscal&iacute;as, sea por el horario donde se cometi&oacute; el homicidio o porque no lo registraron por alguna raz&oacute;n, tardan algunos d&iacute;as en reportar el homicidio. Entonces, si el d&iacute;a de hoy, por ejemplo, que se reportaron creo que 15 homicidios en Guanajuato &mdash;ayer fue un d&iacute;a dif&iacute;cil para Guanajuato&mdash; si hubiera m&aacute;s homicidios que no hubieran sido reportados, se reportan en los d&iacute;as posteriores, una vez que las Fiscal&iacute;as hacen su trabajo.</p>
+
+<p>Entonces, as&iacute; vamos incorporando la informaci&oacute;n.</p>
+
+<p>Y ahora, vamos a cambiar la Ley del Sistema Nacional de Seguridad para fortalecer las bases de datos que permitan generar acciones de seguridad a partir de la informaci&oacute;n que se tiene y evitar estos retrasos que se presentan.</p>
+
+<p>Y tambi&eacute;n los otros delitos porque no siempre tenemos delitos, por ejemplo, de robo de veh&iacute;culo, no hay la diferencia entre si es con violencia o sin violencia; es decir, vamos a fortalecer la ley para la obligatoriedad de presentaci&oacute;n de esta informaci&oacute;n.</p>
+
+<p>El Inegi cuando, m&aacute;s o menos un a&ntilde;o despu&eacute;s, estar&aacute; reportando los homicidios a finales de 2025 &mdash;m&aacute;s o menos, &iquest;verdad?&mdash;, estar&aacute; reportando los homicidios dolosos de acuerdo con su metodolog&iacute;a. Ellos se van directamente a las actas de defunci&oacute;n, adem&aacute;s de la informaci&oacute;n de las Fiscal&iacute;as, por eso tiene todo este tiempo que se incorpora.</p>
+
+<p>&mdash;No s&eacute; si quieras comentar algo m&aacute;s, de c&oacute;mo recibes la informaci&oacute;n diaria&mdash;.</p>
+
+<p><strong>SECRETARIA EJECUTIVA DEL SISTEMA NACIONAL DE SEGURIDAD P&Uacute;BLICA, MARCELA FIGUEROA FRANCO:</strong> Gracias.</p>
+
+<p>Como lo explicaba la Presidenta, todos los d&iacute;as recibimos la informaci&oacute;n, y por eso a veces cuando les damos la informaci&oacute;n insistimos en que son datos preliminares, porque es esto que explicaba la Doctora Sheinbaum; por cuestiones de horario en que se cometi&oacute; el homicidio, a veces no se reportan a tiempo, o incluso si hay duda de que sea un homicidio, puede ser ese el caso.</p>
+
+<p>Y al final del mes, tambi&eacute;n siempre enfatizamos que son datos consolidados, como los que presentamos hoy, ya son los datos consolidados del mes de diciembre. Porque, incluso, puede haber cambios; por ejemplo, se report&oacute; &ldquo;homicidio&rdquo;, pero de acuerdo al protocolo, por ejemplo, de feminicidio, investigaci&oacute;n de feminicidios, se cambia el tipo penal a &ldquo;feminicidio&rdquo;. Ese tipo de situaciones pueden ocurrir, y por eso al final del mes se hace esta consolidaci&oacute;n con todas las Fiscal&iacute;as estatales y con la Fiscal&iacute;a General de la Rep&uacute;blica.</p>
+
+<p><strong>PREGUNTA: Muchas gracias.</strong></p>
+
+<p><strong>En otro tema, Presidenta, sobre la posibilidad de que antes del primer trimestre del 2025 el Banco de M&eacute;xico d&eacute; a conocer sus estados financieros auditados correspondientes a 2024, en los que podr&iacute;a reportar, por primera vez, en m&aacute;s de cinco a&ntilde;os remanentes cambiarios, dada la posici&oacute;n del tipo de cambio del peso frente al d&oacute;lar.</strong></p>
+
+<p><strong>&iquest;C&oacute;mo podr&iacute;an estos recursos apoyar los ingresos del Gobierno Federal? &iquest;Podr&iacute;an usarse para mejorar el perfil de las finanzas p&uacute;blicas? &iquest;Existe ya alguna expectativa de la Secretar&iacute;a de Hacienda sobre la posibilidad de que el Banco de M&eacute;xico, organismo aut&oacute;nomo, pueda reportar estos remanentes?</strong></p>
+
+<p><strong>La &uacute;ltima vez que se entregaron recursos al Gobierno Federal fue durante la administraci&oacute;n de Enrique Pe&ntilde;a Nieto, y superaron los 321 mil millones de pesos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Son metodolog&iacute;as establecidas, no depende de una evaluaci&oacute;n subjetiva.</p>
+
+<p>Banco de M&eacute;xico es un organismo aut&oacute;nomo, ellos tienen sus propios reglamentos y normas que hacen que reporten las distintas variables que tienen que reportar.</p>
+
+<p>Por ejemplo, recientemente, publicaron las reservas de Banco de M&eacute;xico, que son hist&oacute;ricas, al cierre de diciembre, de las reservas &mdash;a ver si lo encuentran por ah&iacute;&mdash;, es hist&oacute;rico. Y si hay remanente que pueden ser incorporados al presupuesto p&uacute;blico, depende tambi&eacute;n de su propia metodolog&iacute;a, de sus propias evaluaciones, las variables y, en su momento, se lo reportan a la Secretar&iacute;a de Hacienda.</p>
+
+<p>Entonces, hay que esperar a que haga su valoraci&oacute;n Banco de M&eacute;xico y, en su momento, se informar&iacute;a.</p>
+
+<p><strong>PREGUNTA: En tercer lugar, por &uacute;ltimo, Presidenta, en revista </strong><strong><em>Fortuna</em></strong><strong> publicamos que en octubre pasado la Secretar&iacute;a de Hacienda gir&oacute; instrucciones a la Oficial&iacute;a Mayor de cada dependencia, de restringir las contrataciones en &aacute;reas claves de la administraci&oacute;n p&uacute;blica, lo que inclu&iacute;a cubrir vacantes y limitar contrataciones, con el prop&oacute;sito de reducir el d&eacute;ficit y el balance p&uacute;blico al cierre de 2024.</strong></p>
+
+<p><strong>&iquest;Podr&iacute;amos esperar cambios en los equipos clave de las dependencias, Presidenta? &iquest;C&oacute;mo garantiza esto que no afecte la continuidad de los trabajos? </strong></p>
+
+<p><strong>Y tambi&eacute;n preguntarle &iquest;si el titular de la Secretar&iacute;a de Hacienda, el secretario Rogelio Ram&iacute;rez de la O, le ha manifestado su intenci&oacute;n, una vez que se concluy&oacute; con &eacute;xito la aprobaci&oacute;n del Paquete Econ&oacute;mico, de renunciar a su cargo?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Estamos generando normatividad para el gasto federal.</p>
+
+<p>Recuerden que nosotros tomamos la decisi&oacute;n, porque fue una decisi&oacute;n que tomamos, de este a&ntilde;o tener un d&eacute;ficit menor que el a&ntilde;o pasado. El a&ntilde;o pasado el d&eacute;ficit fue de casi 5.9 por ciento del PIB, por definici&oacute;n del Presidente L&oacute;pez Obrador, aunque mantuvo un d&eacute;ficit controlado, digamos, menor que ese &mdash;&ldquo;controlado&rdquo; no es la mejor palabra&mdash;, menor que ese, hasta 2023; &eacute;l tom&oacute; la decisi&oacute;n en 2024 de terminar pr&aacute;cticamente todas las obras de infraestructura para no dejarnos a nosotros obras inconclusas.</p>
+
+<p>Quedan en 2025 todav&iacute;a algunas obras que vamos a terminar, pero la gran&hellip; El grueso de las obras p&uacute;blicas fue entregado en 2024.</p>
+
+<p>En 2025 ten&iacute;amos que reducir este d&eacute;ficit. Se tom&oacute; la decisi&oacute;n de que fuera 3.9 por ciento, 3.1 en el caso del d&eacute;ficit presupuestal, y eso requiere ajustarnos el cintur&oacute;n; no c&oacute;mo se hac&iacute;a en el pasado en el periodo neoliberal, donde lo que ajustaban era el gasto social: reduc&iacute;an educaci&oacute;n, reduc&iacute;an en salud, reduc&iacute;an los derechos, porque su visi&oacute;n era privatizar todo eso, y que los privados se encargaran.</p>
+
+<p>Nuestra visi&oacute;n es distinta, nuestra visi&oacute;n es que los derechos deben garantizarse. Entonces, est&aacute; garantizado la inversi&oacute;n en educaci&oacute;n, en salud, en todos los Programas de Bienestar, en seguridad y en otros temas prioritarios.</p>
+
+<p>Y hay otros temas donde s&iacute; estamos conteniendo &mdash;por decir as&iacute;&mdash; el gasto, que tiene que ver esencialmente con gastos m&aacute;s burocr&aacute;ticos y administrativos que, con todo lo que hizo el Presidente L&oacute;pez Obrador, todav&iacute;a hab&iacute;a espacio para ello; tambi&eacute;n la reducci&oacute;n de los organismos aut&oacute;nomos por la aprobaci&oacute;n Constitucional.</p>
+
+<p>Todo ello nos permite reducir el gasto, m&aacute;s no la inversi&oacute;n.</p>
+
+<p>Entonces, si, &iquest;eso pone en riesgo cualquier programa? No.</p>
+
+<p>Si, &iquest;hay cambios en el equipo? No. El equipo es un gran equipo el que tenemos en el Gobierno de M&eacute;xico y nos vamos a mantener hacia adelante.</p>
+
+<p><strong>PREGUNTA: (inaudible) de Rogelio Ram&iacute;rez de la O. </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No. El secretario de Hacienda es Rogelio Ram&iacute;rez de la O, el doctor Rogelio Ram&iacute;rez de la O.</p>
+
+<p><strong>PREGUNTA: &iquest;No le ha expresado&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No. Nos vemos todos los lunes y no me ha expresado nada.</p>
+
+<p>&mdash;A ver, aqu&iacute;&mdash;</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Zeltzin Ju&aacute;rez, de </strong><strong><em>NoticiasdeFrente.com</em></strong></p>
+
+<p><strong>Presidenta saber: &iquest;qu&eacute; informaci&oacute;n tienen sobre los hombres que supuestamente se identifican como miembros de un grupo del crimen organizado, que regalaron ayer roscas y juguetes en comunidades de Tabasco?</strong></p>
+
+<p><strong>En un video que circula en redes sociales se escucha que dicen que &ldquo;lo hacen sin pedirles nada a cambio y para apoyarlos&rdquo;.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; informaci&oacute;n tienen? Y un mensaje para estos ciudadanos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues nosotros no estamos de acuerdo.</p>
+
+<p>Como lo hemos manifestado: Nuestra tarea es evitar que cualquier joven, ciudadano, ni&ntilde;o o ni&ntilde;a vea en la violencia o en alg&uacute;n grupo delictivo una perspectiva de vida, porque no es una perspectiva de vida, es una perspectiva de muerte.</p>
+
+<p>Entonces, nos corresponde evitar y hacer toda la atenci&oacute;n a las causas para que no haya una apolog&iacute;a de la violencia. Nosotros construimos paz.</p>
+
+<p>Entonces, no estamos de acuerdo con estas acciones y, obviamente, el Gabinete de Seguridad trabaja y hace la inteligencia e investigaci&oacute;n que tenga que hacer.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta.</strong></p>
+
+<p><strong>Mi segunda pregunta: desde sexenios anteriores, panistas y priistas, y tambi&eacute;n desde la administraci&oacute;n pasada, la empresa ICA, que hoy dirige Guadalupe Phillips, como sabe, ha sido una de las principales constructoras en obras clave del Gobierno Federal.</strong></p>
+
+<p><strong>Y, bueno, aunque ha recibido miles de millones de pesos por colaboraciones, seg&uacute;n se ha publicado en diversos medios de circulaci&oacute;n, a la fecha, debe m&aacute;s de 112 millones de pesos a cuatro de sus proveedores mexicanos, los cuales, debido al tama&ntilde;o, han tenido que recurrir ya a despidos de trabajadores, a pr&eacute;stamos y a endeudarse para sobrepasar la situaci&oacute;n, la cual ya es insostenible.</strong></p>
+
+<p><strong>Ante esto mi pregunta ser&iacute;a: Fonatur, Comunicaciones y Transportes o incluso Sedena, que fueron las que contrataron a ICA y, presuntamente, tendr&iacute;an adeudos con esta, &iquest;podr&iacute;an tomar cartas en el asunto para que cientos de trabajadores mantengan sus fuentes de ingreso?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Primero, es importante decir que hay contratos que sustentan, en su momento, licitaciones o contrataciones que sustentan la contrataci&oacute;n a esta empresa; porque decir as&iacute; &ldquo;recibi&oacute; miles de millones de pesos&rdquo;, pues s&iacute;, a partir a obras p&uacute;blicas que est&aacute;n debidamente auditadas. Entonces, eso es lo primero.</p>
+
+<p>Segundo, no tengo conocimiento de que tengan adeudos. Si corresponden a adeudos del gobierno, se van a saldar.</p>
+
+<p>Se cerr&oacute; bastante bien el 2024, en t&eacute;rminos de adeudos. Y lo que queda, por ejemplo, adeudos a Pemex o adeudos a otras empresas contratadas por el gobierno, tienen que saldarse. Puede ser a veces porque hay un procedimiento largo para poder pagar una estimaci&oacute;n de obra, eso es importante que se conozca:</p>
+
+<p>Cuando una empresa contratista hace una obra, para poder cobrar lo que corresponde que hizo, que viene despu&eacute;s de la obra que realiz&oacute;, pues hay estimaciones; a veces son paquetes muy grandes, que describen claramente qu&eacute; obra se hizo, hay supervisi&oacute;n de que esta obra se llev&oacute; a cabo.</p>
+
+<p>Entonces, a lo mejor hay estimaciones pendientes que no se han pagado; se tendr&iacute;an que pagar.</p>
+
+<p>Y seguramente&hellip; No conozco que tenga adeudos, pero si tiene adeudos, pues estoy segura que los van a saldar.</p>
+
+<p><strong>PREGUNTA: &iquest;Ser&iacute;a posible pudi&eacute;ramos pasar la informaci&oacute;n y que Fonatur&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, por supuesto.</p>
+
+<p><strong>PREGUNTA: &iquest;y, Comunicaciones y Transportes, se pongan ya en contacto con estos proveedores?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;.</p>
+
+<p><strong>PREGUNTA: Y ya en mi &uacute;ltima pregunta, Presidenta: ayer el gobernador del estado de San Luis Potos&iacute;, Ricardo Gallardo, declar&oacute; ante medios de comunicaci&oacute;n que &ldquo;su gobierno ya prepara una serie de denuncias contra medios y periodistas que han criticado y que han difundido los aumentos en diversos impuestos aprobados por el Congreso local el pasado mes de diciembre&rdquo;, a petici&oacute;n del Poder Ejecutivo que representa &eacute;l.</strong></p>
+
+<p><strong>Y, bueno, tiene muy enojados a los ciudadanos potosinos. El impuesto que ha causado m&aacute;s controversia es, bueno, tiene que ver con un impuesto denominado &ldquo;control vehicular&rdquo;. No es como tal la tenencia porque, bueno, all&aacute; en San Luis no hay pago de tenencia, pero, bueno, este aumento ha provocado un malestar entre los ciudadanos, porque, bueno, ahora de mil 300 que pagaban, van a pagar 2 mil 240.</strong></p>
+
+<p><strong>Ayer al gobernador se le cuestion&oacute;, &eacute;l lo niega, pero, bueno, est&aacute; en la Gaceta Parlamentaria este aumento.</strong></p>
+
+<p><strong>Tres preguntas sobre este tema. Uno, &iquest;qu&eacute; opina de estas denuncias que dice el gobernador&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;C&oacute;mo dices? &iquest;Que el gobernador dijo que iba a denunciar a qui&eacute;n?</p>
+
+<p><strong>PREGUNTA: A los medios de comunicaci&oacute;n y periodistas que hab&iacute;an informado sobre este aumento, del cual dice que &ldquo;no existe&rdquo;, pero, bueno, ya los ciudadanos est&aacute;n enterados, est&aacute; en la Gaceta, pero &eacute;l niega este aumento.</strong></p>
+
+<p><strong>Primero, esta denuncia a los periodistas y medios de comunicaci&oacute;n.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues no estoy de acuerdo. En el caso de la libertad de expresi&oacute;n: prohibido prohibir.</p>
+
+<p><strong>PREGUNTA: Claro.</strong></p>
+
+<p><strong>Y la segunda, &iquest;un mensaje a los potosinos que ahora est&aacute;n preocupados por este aumento? que para sus bolsillos pues s&iacute; significa&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No conozco el tema. La verdad, no quisiera yo opinar sobre un tema que no tengo informaci&oacute;n. Nos informamos y con gusto, si quieren, posteriormente, les damos la opini&oacute;n.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta y ya por &uacute;ltimo...</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ahora, as&iacute; como yo, hay que defender la libertad de expresi&oacute;n, tambi&eacute;n hay que hablar de la responsabilidad de los medios, de la veracidad de la informaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Claro.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Cada uno&hellip; Las libertades conllevan responsabilidades, y la responsabilidad de los medios pues es informar verazmente.</p>
+
+<p>En este caso, hay que ver exactamente qu&eacute; es lo que el gobernador dice que &ldquo;no es cierto&rdquo; y ustedes o alguien, alg&uacute;n medio, dice que &ldquo;s&iacute;&rdquo;. Pero hay responsabilidad de los medios de informar verazmente; y tambi&eacute;n de las autoridades, de no censurar y permitir que haya debate y libertad de expresi&oacute;n.</p>
+
+<p><strong>PREGUNTA: Claro, Presidenta. Gracias.</strong></p>
+
+<p><strong>Por &uacute;ltimo, &iquest;un mensaje a los colegas que ahora, est&aacute;n preocupados por estas denuncias, que ayer ya lo dijo abiertamente el gobernador que iba a presentar?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a esperar, a ver qu&eacute; est&aacute; planteando el gobernador, a ver si con esto que comentamos el d&iacute;a de hoy se revisa. No es bueno estar haciendo estas denuncias relacionadas con el trabajo de los periodistas, desde la autoridad, sobre todo.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Manuel Galeazzi Ram&iacute;rez, de </strong><strong><em>Sin L&iacute;nea y el Pol&iacute;tico en las redes</em></strong><strong>.</strong></p>
+
+<p><strong>Preguntarle: ayer se revel&oacute; un informe de la Oficina de Alcohol, Tabaco y Armas de Estados Unidos de que, aproximadamente 200 mil armas al a&ntilde;o se trafican hacia M&eacute;xico; tambi&eacute;n hablan de que, m&aacute;s o menos de 2017 a 2022, el 74 por ciento de las armas que se usaron en homicidios dolosos en M&eacute;xico proven&iacute;an de Estados Unidos.</strong></p>
+
+<p><strong>Saber, &iquest;cu&aacute;l es el informe?, &iquest;qu&eacute; est&aacute; haciendo la Fiscal&iacute;a General de la Rep&uacute;blica al respecto, porque tambi&eacute;n menciona que la Fiscal&iacute;a hab&iacute;a solicitado cierto n&uacute;mero de registros a estas armas para ver si nos ayuda a desarrollar un poco m&aacute;s el tema?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Qu&eacute; bueno que lo preguntas.</p>
+
+<p>&mdash;A ver si ponen el reporte, es muy relevante, y ahora, le pido al fiscal general de la Rep&uacute;blica que pueda comentar&mdash;.</p>
+
+<p>F&iacute;jense, es un informe del Departamento de Justicia del gobierno de Estados Unidos, que es la publicaci&oacute;n final del Volumen del Comercio de Armas de Fuego, un Estudio del Volumen Nacional de Comercio y Tr&aacute;fico de Armas de Fuego, y ah&iacute; est&aacute;n reconociendo el tr&aacute;fico de armas desde Estados Unidos a M&eacute;xico.</p>
+
+<p>&mdash;Entonces, fiscal, si nos ayudas&mdash;.</p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> A ver, lo que usted se&ntilde;ala es algo realmente muy importante, porque es el informe del Departamento de Justicia de los Estados Unidos, es un informe oficial. Esto no se hab&iacute;a dado en mucho tiempo.</p>
+
+<p>Y los datos que se est&aacute;n haciendo p&uacute;blicos, por parte del gobierno de los Estados Unidos, del Departamento de Justicia, son verdaderamente muy graves por una raz&oacute;n muy sencilla: toda la fuerza de los c&aacute;rteles delictivos est&aacute; en su capacidad de fuego, est&aacute; en su armamento.</p>
+
+<p>Y eso lo sufrimos a diario, y ustedes lo han testificado, todos los esfuerzos que tienen que hacer las Fuerzas Armadas del pa&iacute;s para contener esa letalidad.</p>
+
+<p>En ese sentido, ha habido toda una pol&iacute;tica por parte del Gobierno de M&eacute;xico para impedir la entrada del armamento de alto riesgo y de alta letalidad, que nosotros siempre hab&iacute;amos establecido, y as&iacute; se iniciaron procedimientos legales en Estados Unidos sobre estos armamentos. Son armamentos de calibre 50 y para arriba, y con una capacidad de fuego que no se hab&iacute;a visto nunca.</p>
+
+<p>En este momento, oficialmente: el gobierno de los Estados Unidos reconoce que el 74 por ciento de esas armas letales, que son las que nos est&aacute;n causando un da&ntilde;o fundamental al pa&iacute;s, vienen de los Estados Unidos.</p>
+
+<p>Esto es un informe oficial, es un informe que nos est&aacute; ratificando todo lo que ha sufrido M&eacute;xico por culpa de esta abundancia de armamento de alto nivel, que ha sido una de nuestras luchas fundamentales.</p>
+
+<p>Como les digo: ustedes han testificado lo que est&aacute;n haciendo las Fuerzas Armadas de este pa&iacute;s y los enfrentamientos que est&aacute;n teniendo en todas partes.</p>
+
+<p>Y en esta ocasi&oacute;n ellos reconocen que oficialmente y controlado por ellos es el 74 por ciento. &iquest;Cu&aacute;nto hay adem&aacute;s de eso de cifra negra?</p>
+
+<p>C&oacute;mo es posible que una producci&oacute;n de armamento, que es una producci&oacute;n industrial donde se lleva un cat&aacute;logo clar&iacute;simo de c&oacute;mo se formulan todas las armas, c&oacute;mo se arman, c&oacute;mo se establece toda la cadena de producci&oacute;n y luego c&oacute;mo se comercializa.</p>
+
+<p>Y a partir del momento de la comercializaci&oacute;n, todos los esfuerzos mexicanos para poderle dar seguimiento a las armas que estamos deteniendo aqu&iacute;, se encuentra con un tope dentro del sistema norteamericano y que los sistemas de control que ellos tienen son de un atraso tal, que la informaci&oacute;n que nosotros pedimos puede tardar meses en llegar.</p>
+
+<p>Es decir, es toda una especie de conspiraci&oacute;n para que se puedan penetrar en M&eacute;xico esa cantidad de armamento. Esto es un asunto realmente muy, muy grave, eh.</p>
+
+<p>Y eso tambi&eacute;n nos indica que debemos de tener una relaci&oacute;n positiva con los Estados Unidos para contener este problema, porque es el que genera y el que multiplica la letalidad de lo que estamos nosotros teniendo que sufrir en M&eacute;xico.</p>
+
+<p>No s&eacute; si est&eacute; claro.</p>
+
+<p><strong>PREGUNTA: S&iacute;, exactamente. Y preguntarle respecto a este tema, el informe mencionaba que se hab&iacute;a solicitado rastreo de 55 mil armas, m&aacute;s o menos. De parte de la Fiscal&iacute;a, no s&eacute; qu&eacute; acciones se van a tomar para fortalecer esto.</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> D&eacute;jeme a usted explicarle: cada vez que un arma es asegurada por alguna autoridad, tanto local como federal, tienen obligaci&oacute;n de darnos toda la informaci&oacute;n, entregarnos el arma.</p>
+
+<p>Nosotros hacemos un registro de los n&uacute;meros, las armas tienen una serie de numeraciones internas. Y de inmediato pasamos esa informaci&oacute;n al gobierno de los Estados Unidos.</p>
+
+<p>Y no se nos olvide lo que pas&oacute; con &ldquo;R&aacute;pido y Furioso&rdquo;, eh, que es un asunto que todav&iacute;a no se acaba de resolver.</p>
+
+<p>Y esa informaci&oacute;n de inmediato la da a conocer el gobierno de M&eacute;xico al gobierno de los Estados Unidos para que se le d&eacute; un seguimiento interno desde su producci&oacute;n hasta su comercializaci&oacute;n, los resultados que hemos tenido de ninguna manera son satisfactorios y por eso, es esa cantidad de armas.</p>
+
+<p>No s&eacute; si est&eacute; claro.</p>
+
+<p><strong>PREGUNTA: En ese sentido, Presidenta, &iquest;habr&aacute; un esfuerzo may&uacute;sculo de la Canciller&iacute;a mexicana para darle seguimiento y profundizar en las demandas que est&aacute;n en tribunales de Estados Unidos para frenar este tr&aacute;fico de armas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El Presidente L&oacute;pez Obrador con el presidente Biden tuvieron &mdash;y sus Gabinetes&mdash; varias reuniones de alto nivel, donde se tocaron diversos temas relacionados con varios sectores y, en particular, con el tema de seguridad.</p>
+
+<p>M&eacute;xico siempre puso sobre la mesa y tambi&eacute;n la denuncia que hizo, en su momento, el hoy secretario de Econom&iacute;a y canciller, en su momento, a empresas productoras y armadoras, empresas productoras de armas, por la entrada de estas armas a M&eacute;xico.</p>
+
+<p>Entonces nuestro objetivo es, el presidente Biden termina el 20 de enero y cuando entre el presidente Trump, nuestro objetivo es seguir teniendo estas reuniones; porque, as&iacute; como a ellos les preocupa la entrada de estupefacientes a los Estados Unidos desde territorio mexicano, a nosotros nos preocupa y nos ocupa el tema de la entrada de armas de los Estados Unidos a M&eacute;xico.</p>
+
+<p>Porque, como hemos dicho, el problema del consumo, sin decir que en M&eacute;xico no hay, pero una buena parte del consumo est&aacute; en Estados Unidos, y la violencia, la p&eacute;rdida de vidas est&aacute; en M&eacute;xico, tambi&eacute;n all&aacute;, pero aqu&iacute; tambi&eacute;n.</p>
+
+<p>Esto es muy relevante porque reconoce el Departamento de Justicia esto, esta es una traducci&oacute;n de esa parte. Ustedes pueden encontrar en la red el informe del Departamento de Justicia de los Estados Unidos y ellos ya est&aacute;n reconociendo lo que aqu&iacute; decimos desde hace mucho tiempo. Cuando se incautan armas, en este informe no estuvo, pero en el pasado se dijo: &ldquo;75 por ciento de las armas que se incautan provienen de Estados Unidos&rdquo;. Y hoy lo reconoce el Departamento de Justicia.</p>
+
+<p>Por eso, es tan importante la colaboraci&oacute;n.</p>
+
+<p>Por eso, nosotros estamos seguros que, con el presidente Trump va a haber coordinaci&oacute;n y colaboraci&oacute;n para distintos temas y en particular para el tema de la seguridad. Y a nosotros nos interesa en particular la entrada de armas de Estados Unidos a M&eacute;xico.</p>
+
+<p><strong>PREGUNTA</strong>: Gracias, Presidenta.</p>
+
+<p>En una segunda pregunta, ahorita que el fiscal mismo trat&oacute; esto del caso &ldquo;R&aacute;pido y Furioso&rdquo;, en octubre pasado la secretaria de Gobernaci&oacute;n hab&iacute;a mencionado que hab&iacute;a tres carpetas de investigaci&oacute;n por el caso Garc&iacute;a Luna y dos &oacute;rdenes de aprehensi&oacute;n.</p>
+
+<p>Tambi&eacute;n se hab&iacute;a comentado que el Gobierno Federal iba a solicitar a la Fiscal&iacute;a, precisamente, si hay algunas otras carpetas de esta investigaci&oacute;n.</p>
+
+<p>Quisiera saber, si &iquest;el fiscal nos puede ayudar a detallar m&aacute;s estas carpetas, si hay otras?</p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> &iquest;Sobre cu&aacute;l tema?</p>
+
+<p><strong>PREGUNTA: El caso Garc&iacute;a Luna. En octubre se trataron tres, que hab&iacute;a tres carpetas.</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> S&iacute;, nosotros &mdash;como ustedes ya saben&mdash; tenemos una serie de &oacute;rdenes de aprehensi&oacute;n vigentes en contra de esa persona y tenemos tambi&eacute;n la solicitud de extradici&oacute;n, que es obligatoria para nosotros, no nada m&aacute;s por el caso este de &ldquo;R&aacute;pido y Furioso&rdquo;, sino por todo el resto de las conductas ilegales de este individuo.</p>
+
+<p>Esas &oacute;rdenes de aprehensi&oacute;n est&aacute;n vigentes, est&aacute;n listas, las conoce la autoridad norteamericana y responder&aacute;n cuando ellos consideren que, de acuerdo con sus procesos, haya el momento judicial para poderlo hacer. Pero de que est&aacute;n vigentes, est&aacute;n totalmente vigentes; de que est&aacute;n probadas, est&aacute;n probadas.</p>
+
+<p>Y desde el caso de &ldquo;R&aacute;pido y Furioso&rdquo; se hizo una investigaci&oacute;n completa sobre algo que hab&iacute;a estado ocultado, tanto por las autoridades mexicanas en ese momento como por las autoridades norteamericanas.</p>
+
+<p><strong>PREGUNTA: &iquest;Y en el caso del exfiscal de Guanajuato?</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> &iquest;El caso de&hellip;?</p>
+
+<p><strong>PREGUNTA: El caso del exfiscal de Guanajuato, Zamarripa, Roberto Zamarripa, &iquest;c&oacute;mo va el procedimiento de la investigaci&oacute;n? Tambi&eacute;n hab&iacute;a una carpeta de investigaci&oacute;n sobre eso, &iquest;no?</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> Nosotros no tenemos una carpeta pendiente de investigaci&oacute;n en contra de esa persona.</p>
+
+<p><strong>PREGUNTA: &iquest;Me puede confirmar la muerte de Nemesio Oseguera a causa de enfermedad renal, como se mencion&oacute; la semana pasada?</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> &iquest;Me lo pregunta a m&iacute;?</p>
+
+<p><strong>PREGUNTA: S&iacute;.</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> Mire, nosotros no podemos m&aacute;s informaci&oacute;n que la que depende de las denuncias que nos presenten. En el momento en que haya una denuncia sobre eso, con much&iacute;simo gusto le doy la informaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: &iquest;No hay nada confirmado, oficial?</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> En el momento en que recibamos esa informaci&oacute;n y tengamos esa denuncia, la daremos a conocer de inmediato.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Gracias.</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> De qu&eacute;.</p>
+
+<p><strong>PREGUNTA: Y, por &uacute;ltimo, bueno, preguntarle. Hab&iacute;a mencionado que hab&iacute;a necesario que en Estados Unidos se diera a conocer todos los detalles sobre la captura del &ldquo;Mayo&rdquo; Zambada, bueno, secuestro. Ahora, que sali&oacute; el exembajador Ken Salazar, preguntarle, &iquest;qu&eacute; acci&oacute;n va a tomar la Fiscal&iacute;a para seguir insistiendo en ese tema?</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> Como en todos los casos, desde &ldquo;R&aacute;pido y Furioso&rdquo; y otros que tenemos, nosotros no quitamos el dedo del rengl&oacute;n; seguimos haciendo las solicitudes, las vamos a continuar haciendo, es una facultad soberana de cualquier Estado contestar nuestros apremios en ese sentido, pero no los vamos a soltar, eso s&iacute;, de ninguna manera.</p>
+
+<p>&mdash;S&iacute;, se&ntilde;or, a sus &oacute;rdenes&mdash;.</p>
+
+<p><strong>PREGUNTA: Sobre el caso Garc&iacute;a Luna hay un hoyo negro de informaci&oacute;n. Por ejemplo, tenemos la investigaci&oacute;n realizada de cuanto detuvieron a Daniel Arizmendi, por ejemplo, el equipo de investigaci&oacute;n, que era dirigido entonces por este funcionario, por &oacute;rdenes del Comandante Pliego, se le detuvo en la Ciudad de M&eacute;xico, y ellos argumentaron, hicieron toda una trama para darlo a conocer que hab&iacute;a sido en el Estado de M&eacute;xico.</strong></p>
+
+<p><strong>Eso &iquest;para qu&eacute; fue?, pues para que no se le diera el triunfo de la justicia, en este caso a la Ciudad de M&eacute;xico cuando estaba gobernada por el ingeniero Cuauht&eacute;moc C&aacute;rdenas. Entonces, ah&iacute; hay un sesgo ya en esa informaci&oacute;n que nosotros tenemos que as&iacute; fue en t&eacute;rminos period&iacute;sticos.</strong></p>
+
+<p><strong>Pero hay otro caso m&aacute;s importante: Garc&iacute;a Luna &mdash;por informaci&oacute;n que tenemos&mdash; tambi&eacute;n oper&oacute; de dos maneras: &eacute;l mand&oacute; a secuestrar al menos a 30 empresarios jud&iacute;os mexicanos, y &eacute;l mismo orden&oacute; la recaptura a trav&eacute;s del Comandante Pliego.</strong></p>
+
+<p><strong>Entonces, hay informaci&oacute;n que nosotros tenemos y contamos con un testimonio que pudiera testificar que as&iacute; fue.</strong></p>
+
+<p><strong>&iquest;Hay alguna investigaci&oacute;n que tengan sobre esta doble vida que llevaba Garc&iacute;a Luna como polic&iacute;a, pero, al mismo tiempo, tambi&eacute;n como trasladar informaci&oacute;n a otro equipo para que, al mismo tiempo, secuestrara a mexicanos? Nosotros tenemos esa investigaci&oacute;n.</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> D&eacute;jeme repetirle algo que creo es muy importante: la funci&oacute;n del Ministerio P&uacute;blico de la Federaci&oacute;n es la de integrar carpetas de investigaci&oacute;n sobre denuncias s&oacute;lidas que tengan pruebas suficientes, sobre eso lo hemos seguido haciendo.</p>
+
+<p>Y con referencia a lo que usted est&aacute; se&ntilde;alando, no perdamos de vista algo que es muy importante: hace ya algunos a&ntilde;os, el peri&oacute;dico <em>The</em> <em>New York Times</em> sac&oacute; en sus aspectos fundamentales editoriales del peri&oacute;dico uno de los elogios m&aacute;s profusos sobre la persona de este individuo, no se nos olvide eso, eh.</p>
+
+<p>Es decir, fue un caso, y tenemos todos los elementos y cualquiera de ustedes que quiera obtener la copia de toda esa publicaci&oacute;n que hizo el <em>New York Times</em> est&aacute; a su disposici&oacute;n en el &aacute;rea de Comunicaci&oacute;n de la Fiscal&iacute;a.</p>
+
+<p>Y despu&eacute;s de eso, nunca ha habido por parte de ese diario un an&aacute;lisis sobre lo que dijeron y sobre lo que despu&eacute;s ha ocurrido con esa persona frente a la justicia de los Estados Unidos.</p>
+
+<p>Por eso, la informaci&oacute;n que viene de esos diarios, y como dijo la se&ntilde;ora Presidenta con toda raz&oacute;n, es decir, la libertad absoluta de decir la verdad, pero tambi&eacute;n la responsabilidad absoluta de decir la verdad y no de ocultarla.</p>
+
+<p>Y en este caso eso es paradigm&aacute;tico, no se hab&iacute;a visto nunca, nunca se le hab&iacute;a dado una publicidad de ese tama&ntilde;o y nunca se hab&iacute;a ocultado de esa manera.</p>
+
+<p><strong>PREGUNTA: Gracias.&nbsp; &nbsp;</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> A sus &oacute;rdenes.</p>
+
+<p><strong>PREGUNTA: Presidenta, ya para terminar, bueno, no s&eacute; si&hellip;</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> Ahorita, ahorita. Termine, por favor.</p>
+
+<p><strong>PREGUNTA: Es pregunta para la Presidenta.</strong></p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> Entonces&hellip;</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;&iquest;Alguien m&aacute;s para el fiscal?&mdash;</p>
+
+<p><strong>FISCAL GENERAL DE LA REP&Uacute;BLICA, ALEJANDRO GERTZ MANERO:</strong> &iquest;Ten&iacute;a usted algo m&aacute;s? &iquest;S&iacute;? Adelante.</p>
+
+<p><strong>PREGUNTA: Solo hacer una aclaraci&oacute;n: no le veo sentido &mdash;creo que coincidimos aqu&iacute; varios compa&ntilde;eros, como usted lo menciona&mdash; que compartan el n&uacute;mero de las armas que pasan a M&eacute;xico, a Estados Unidos, si no hay ni una colaboraci&oacute;n, no hay una respuesta. Ustedes tienen que confirmar con la informaci&oacute;n que se hace p&uacute;blica, como bien lo menciona.</strong></p>
+
+<p><strong>En ese sentido, Presidenta, &iquest;qu&eacute; opina usted, que tiene toda la informaci&oacute;n en sus manos? Y es interesante saber su opini&oacute;n.</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Mi opini&oacute;n sobre qu&eacute;?</p>
+
+<p><strong>PREGUNTA: Que es in&uacute;til compartir los n&uacute;meros de las armas que cruzan a M&eacute;xico, a Estados Unidos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> De M&eacute;xico a Estados Unidos pr&aacute;cticamente no hay. De Estados Unidos a M&eacute;xico.</p>
+
+<p>Miren, lo relevante de este comunicado del Departamento de Justicia, no tengo yo conocimiento que hubiera habido otro reporte como estos, un reporte p&uacute;blico donde el Departamento de Justicia de Estados Unidos reconoce el tr&aacute;fico de armas de Estados Unidos a M&eacute;xico y que las armas incautadas en M&eacute;xico representan alrededor de 74 por ciento que proviene de Estados Unidos.</p>
+
+<p>Es muy relevante esto, muy relevante, porque ya no es que M&eacute;xico le dice a Estados Unidos: &ldquo;Necesitamos parar la entrada de armas de Estados Unidos a M&eacute;xico&rdquo;, sino que ya el propio Departamento de Justicia reconoce esta informaci&oacute;n.</p>
+
+<p>Entonces, nos da elementos a nosotros tambi&eacute;n para que en el momento que nos sentemos con el gobierno de Estados Unidos, digamos: ya hay un sustento, en el Departamento de Justicia que asevera lo que hemos estado diciendo y, por lo tanto, debemos de colaborar, de cooperar para que en las fronteras, en las Aduanas, pues pueda evitarse el tr&aacute;fico de armas de Estados Unidos a M&eacute;xico.</p>
+
+<p>Y de nuestra parte de lo que ellos solicitan, en general, que tiene que ver con los estupefacientes.</p>
+
+<p>&mdash;A ver, ahora de este lado, vamos ac&aacute;&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Norma Ram&iacute;rez, de </strong><strong><em>Miled M&eacute;xico</em></strong><strong>.</strong></p>
+
+<p><strong>Presidenta retomando el tema de los hoteles, en Chich&eacute;n Itz&aacute;, y teniendo en cuenta que la Segob ya lo est&aacute; revisando a petici&oacute;n suya &mdash;gracias, Presidenta&mdash;, &iquest;qu&eacute; acciones puede tomar su gobierno para garantizar la seguridad p&uacute;blica en Yucat&aacute;n?</strong></p>
+
+<p><strong>Recientemente se remiti&oacute; una carpeta de investigaci&oacute;n contra un juez a la Fiscal&iacute;a General de la Rep&uacute;blica por delitos contra la administraci&oacute;n, de Justicia, en este asunto, pero parece que al fiscal del estado, Juan Manuel Le&oacute;n, no le importa porque, aun cuando varias resoluciones le ordenan devolver los hoteles a su due&ntilde;o, estos siguen invadidos por hombres armados.</strong></p>
+
+<p><strong>Mi pregunta es: &iquest;qu&eacute; acciones puede tomar su gobierno para garantizar la seguridad p&uacute;blica en el estado de Yucat&aacute;n?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Yucat&aacute;n, bueno, es de los estados con mayor seguridad.</p>
+
+<p>Este delito que t&uacute; mencionaste desde el otro d&iacute;a, hay que establecer relaci&oacute;n con el gobernador de Yucat&aacute;n, con Joaqu&iacute;n D&iacute;az Mena, para ver de qu&eacute; manera, aunque las Fiscal&iacute;as son aut&oacute;nomas, se puede colaborar y coordinar para poder determinar esto que est&aacute;s denunciando.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Adelante&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Doctora. Eduardo Ortega, del peri&oacute;dico </strong><strong><em>El Financiero</em></strong><strong>.</strong></p>
+
+<p><strong>Yo le quiero preguntar en torno a las cifras que se presentaron hoy o que se han presentado en estas conferencias en materia de seguridad: me llama la atenci&oacute;n que hay un delito que, en particular, no baja que, al contrario, va al alza, que es de la extorsi&oacute;n, en este caso se marca que es del 16.8 por ciento el aumento.</strong></p>
+
+<p><strong>Entonces, a m&iacute; me gustar&iacute;a preguntarle: &iquest;por qu&eacute; es que este delito no se reduce? Y si, en estos primeros 100 d&iacute;as de su gobierno, si &iquest;usted est&aacute; considerando modificar su estrategia de seguridad para reducir, en particular, este delito?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> La extorsi&oacute;n tiene, digamos, varios problemas. Uno de ellos es que se denuncia poco, por temor del denunciante; a&uacute;n as&iacute;, de las denuncias que tenemos, de octubre a diciembre hay una disminuci&oacute;n.</p>
+
+<p>&mdash;No s&eacute; si quieran poner la presentaci&oacute;n de&hellip; La anterior&mdash;.</p>
+
+<p>Este es de 2019 a 2024, hay un aumento del 16.8.</p>
+
+<p>Y despu&eacute;s, en los 100 d&iacute;as de gobierno, hay una disminuci&oacute;n del 10.6 por ciento. De todas maneras, repito, es dif&iacute;cil valorar este aumento, disminuciones, porque es un delito que, por temor, la gente no denuncia.</p>
+
+<p>Est&aacute; ya, en el 19 constitucional, la extorsi&oacute;n como delito grave &mdash;por decirlo en palabras sencillas&mdash;, que significa que tiene prisi&oacute;n preventiva oficiosa.</p>
+
+<p>En el Gabinete de Seguridad estamos desarrollando, primero, una serie de ajustes a las leyes secundarias, incluida la Ley de Procedimientos Penales, justamente para que las personas puedan denunciar sin necesidad que sea directamente a la Fiscal&iacute;a.</p>
+
+<p>Pueden denunciar a un n&uacute;mero que se va a instalar, ese es el objetivo de esta estrategia, que tiene que ver tambi&eacute;n con procedimientos jur&iacute;dicos o normas jur&iacute;dicas, de tal manera, que la gente pueda denunciar a un n&uacute;mero de tel&eacute;fono, y a partir de ah&iacute; iniciar investigaciones, que se traduzcan, en su momento, en una carpeta de investigaci&oacute;n ya iniciada, incluso, por los cuerpos de seguridad.</p>
+
+<p>Esa es una de las acciones que queremos desarrollar.</p>
+
+<p>Y hay otras que tienen que ver tambi&eacute;n con lo que est&aacute; alrededor de la extorsi&oacute;n, que tambi&eacute;n queremos considerar delito, que permita disminuir, que la gente se sienta segura de denunciar, y al mismo tiempo, que podamos atacar este delito que genera mucha incertidumbre, temor en la poblaci&oacute;n.</p>
+
+<p>Pero s&iacute; estamos trabajando para que esta modificaci&oacute;n al 19 constitucional se traduzca en una estrategia y modificaciones a leyes secundarias.</p>
+
+<p><strong>PREGUNTA: Ok. Gracias.</strong></p>
+
+<p><strong>Por otra parte, me gustar&iacute;a ligarlo: usted hab&iacute;a anunciado que van a enviar o va a haber 20 iniciativas de reforma para este a&ntilde;o que va usted a impulsar, entre ellas ya se menciona que va a ser la reforma electoral.</strong></p>
+
+<p><strong>Entonces, me gustar&iacute;a preguntarle: &iquest;cu&aacute;les ser&iacute;an las directrices o los temas m&aacute;s importantes que usted impulsar&iacute;a en esta reforma?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Para febrero solamente vamos a enviar la no reelecci&oacute;n y en contra del nepotismo.</p>
+
+<p>En el caso de la no reelecci&oacute;n estamos planteando que, a partir del 2030 ya no haya reelecci&oacute;n en ninguno de los cargos de elecci&oacute;n popular.</p>
+
+<p>Y en el caso del nepotismo, lo que estamos planteando es que tambi&eacute;n, en caso de elecciones, no pueda dejarse a un familiar inmediato como candidato de cualquier partido pol&iacute;tico de quien gobierna, sea presidente, gobernador o presidente municipal. Esencialmente, estamos hablando del Ejecutivo, principalmente, aunque puede tambi&eacute;n plantearse para el Legislativo, pero nosotros hablamos principalmente del Ejecutivo.</p>
+
+<p>Vamos a enviar esas dos.</p>
+
+<p>Posteriormente, necesitamos sentarnos y analizar una nueva reforma electoral que tenga como objetivos:</p>
+
+<p>Uno, disminuir los costos de las elecciones, sin poner en riesgo su transparencia y su legalidad y legitimidad.</p>
+
+<p>Segundo, la disminuci&oacute;n del financiamiento a los partidos pol&iacute;ticos.</p>
+
+<p>Tercero, generar un esquema en donde las minor&iacute;as puedan tener representaci&oacute;n sin las listas plurinominales. No estamos de acuerdo con las listas plurinominales.</p>
+
+<p>Nosotros creemos que, as&iacute; como hay en varios estados, y por eso hay que analizarlo, puede ser a partir de como se establece en el Senado de la Rep&uacute;blica, sin las listas plurinominales. Es decir, que queden los dos de mayor&iacute;a y despu&eacute;s, quede la primera minor&iacute;a; pero que todos los que pretenden acceder a un puesto legislativo tengan la obligaci&oacute;n de ir a campa&ntilde;a, que tengan la relaci&oacute;n con la gente, con el pueblo.</p>
+
+<p>Ese es nuestro objetivo, digamos, los tres elementos que considerar&iacute;a m&aacute;s importantes en la reforma electoral que plantear&iacute;amos, en su momento, todav&iacute;a no tenemos fecha. Y ah&iacute; s&iacute; vale la pena hacer mesas, debate, para poder recoger la informaci&oacute;n y poder tener una reforma electoral acorde con la democracia de nuestro pa&iacute;s.</p>
+
+<p><strong>PREGUNTA: &iquest;Y en este paquete de reformas quedar&iacute;a completamente descartada una reforma fiscal?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Por lo menos en este a&ntilde;o no la, digo, no la presentamos en el &acute;24. Y nosotros vamos a ver la recaudaci&oacute;n.</p>
+
+<p>Yo tengo&hellip; Pusimos una meta muy alta de recaudaci&oacute;n este a&ntilde;o porque tenemos la certeza de que vamos a llegar a esa meta, inclusive, probablemente la superemos con diversas acciones que estamos tomando, que tiene que ver con seguir facilitando el pago de impuestos y de derechos; y al mismo tiempo, combatiendo la evasi&oacute;n y cualquier forma de no pago de impuestos, y la corrupci&oacute;n que todav&iacute;a quede en algunas zonas del gobierno.</p>
+
+<p><strong>PREGUNTA: Claro.</strong></p>
+
+<p><strong>Por otro lado, Doctora, me gustar&iacute;a preguntarle sobre: si, en el caso de que el presidente electo de Estados Unidos, Donald Trump, no la invite a su toma de protesta el pr&oacute;ximo 20 de enero, o sea, si &iquest;el gobierno mexicano enviar&iacute;a alg&uacute;n representante o qui&eacute;n asistir&iacute;a en representaci&oacute;n de M&eacute;xico?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> A ver. Si ustedes ven, digamos, momentos anteriores de las tomas de protesta de los presidentes de Estados Unidos no siempre invitan a Jefes de Estado.</p>
+
+<p>Y en este caso vamos a esperar y no considerar&iacute;amos&hellip; Pues lo que decida el presidente Trump, no tenemos ning&uacute;n problema con eso.</p>
+
+<p>Hasta ahora, &iquest;qu&eacute; hemos recibido? Una invitaci&oacute;n en la Embajada de M&eacute;xico en Estados Unidos, al embajador. Entonces, no hemos recibido alguna invitaci&oacute;n personalizada. Vamos a estar ah&iacute;.</p>
+
+<p>Y yo, tengo confianza en que va a haber una buena relaci&oacute;n con el gobierno de Estados Unidos.</p>
+
+<p><strong>PREGUNTA: Claro.</strong></p>
+
+<p><strong>Y, finalmente, Doctora, hoy se re&uacute;ne con los consejeros del INE, que &mdash;tengo entendido&mdash; le van a pedir una ampliaci&oacute;n presupuestal para la reforma al&hellip; para la elecci&oacute;n judicial. Entonces &iquest;qu&eacute; les va a responder, Doctora, s&iacute; va a haber una ampliaci&oacute;n o no?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo que yo les plante&eacute; p&uacute;blicamente y creo que ellos lo deben de hacer p&uacute;blico, no solamente la Presidenta de la Rep&uacute;blica es &iquest;por qu&eacute; es m&aacute;s de 7 mil millones de pesos la elecci&oacute;n?</p>
+
+<p>Ellos est&aacute;n planteando que con 7 mil millones podr&iacute;an ajustarse, pero habr&iacute;a 72 mil casillas frente a las 172 mil, algo as&iacute;, pero por ah&iacute;, que se pusieron en el 2024.</p>
+
+<p>Entonces, lo que yo les voy a preguntar es &iquest;por qu&eacute; 72 mil?</p>
+
+<p>Si ellos plantean que pueden poner m&aacute;s casillas con m&aacute;s recursos, tambi&eacute;n: &iquest;por qu&eacute;?</p>
+
+<p>Es decir, &iquest;en qu&eacute; se gasta en la elecci&oacute;n? De cualquier elecci&oacute;n, evidentemente, pero en el Poder Judicial.</p>
+
+<p>Todos hemos hablado de la transparencia. Entonces ellos tambi&eacute;n tienen que ser transparente. &iquest;Por qu&eacute; una elecci&oacute;n cuesta 7 mil millones, o 9 mil millones, o 13 mil millones, que fue lo que pidieron originalmente? Y a partir de ah&iacute;, pues hacer una valoraci&oacute;n.</p>
+
+<p>&iquest;De d&oacute;nde podr&iacute;a venir un recurso adicional? De los Fideicomisos de la Corte, que hasta ahora solo han depositado 800 mil pesos, me preguntaron el otro d&iacute;a&hellip; 800 millones de pesos, perd&oacute;n, 800 millones de pesos.</p>
+
+<p>Me preguntaron el otro d&iacute;a: &iquest;por qu&eacute; no se estaba depositando en Nafinsa, si era un problema de Nafinsa &mdash;porque ah&iacute; est&aacute;n los Fideicomisos&mdash; o era un problema de la Corte? Y estamos averiguando justamente este tema, pero la reforma constitucional establece que la Corte debe depositar todo el recurso que est&aacute; en los Fideicomisos.</p>
+
+<p>&iquest;Para qu&eacute; se utilizar&iacute;a? Pues tambi&eacute;n debemos ser muy transparentes. Si una parte de eso es para la elecci&oacute;n, pues explicarle a la ciudadan&iacute;a por qu&eacute; una parte de eso va para la elecci&oacute;n.</p>
+
+<p>Y si lo ocupamos o en qu&eacute; lo vamos a ocupar, tambi&eacute;n tenemos que ser muy transparentes de a d&oacute;nde se ir&iacute;a este recurso, que yo considero que, esencialmente, tiene que ser para los derechos de los ciudadanos.</p>
+
+<p><strong>PREGUNTA: &iquest;Si existe la posibilidad de que se&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pero tienen que explicarlo. O sea, uno no puede decir &ldquo;no&rdquo; o &ldquo;s&iacute;&rdquo;.</p>
+
+<p>O sea, est&aacute; el recurso de los fideicomisos, que el propio, la propia reforma al Poder Judicial establece que puede usarse para la elecci&oacute;n ese recurso, el asunto es que expliquen. Porque no s&eacute; a ustedes, pero a m&iacute; me parece que 7 mil millones de pesos es mucho recurso.</p>
+
+<p>El otro d&iacute;a expliqu&eacute; que 7 mil millones de pesos es lo que son dos cablebuses en la Ciudad de M&eacute;xico, nada m&aacute;s para que tengamos una idea, donde se transportan 15 mil personas diariamente. Si lo tomamos como autobuses para una ciudad que requiere transporte p&uacute;blico, es much&iacute;simo recurso.</p>
+
+<p>Entonces, s&iacute; cuestan las elecciones, obviamente, pero que se explique por qu&eacute;, cu&aacute;nto se gasta en las boletas, cu&aacute;nto se gasta en las urnas, cu&aacute;nto se gasta en certificaci&oacute;n, calificaci&oacute;n, capacitaci&oacute;n de quien participa, etc&eacute;tera.</p>
+
+<p>Yo creo que ese es un ejercicio muy importante del INE y de todo servidor p&uacute;blico.</p>
+
+<p><strong>PREGUNTA: Muy buenos d&iacute;as. Liliana Pi&ntilde;a, de </strong><strong><em>ATiempo.com.mx&nbsp; y PuenteLibre.mx</em></strong><strong>, en Ciudad Ju&aacute;rez. Presidenta, hoy las encuestas salen con el 77 por ciento de aprobaci&oacute;n.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Ah, est&aacute;n buenas.</p>
+
+<p><strong>PREGUNTAS: Y las felicitaciones de los 32 gobernadores contemplando a los ocho gobernadores de la oposici&oacute;n. Preguntarle, Presidenta, si &iquest;esperaba estos resultados a los 100 d&iacute;as de gobierno con una alta aprobaci&oacute;n?</strong></p>
+
+<p><strong>Y tambi&eacute;n preguntarle: &iquest;c&oacute;mo va a continuar con esta alta aprobaci&oacute;n para los pr&oacute;ximos d&iacute;as?</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Primero, agradecer al pueblo de M&eacute;xico por este reconocimiento. Uno ante todo tiene que ser agradecido, agradecida, con &ldquo;A&rdquo;.</p>
+
+<p>Y segundo, estar cerca del pueblo y no traicionar ni los principios, cumplir con lo que nos comprometimos y trabajar en cuerpo y alma por el pueblo de M&eacute;xico, esa es la manera en que uno va a mantener esta aprobaci&oacute;n.</p>
+
+<p>Adem&aacute;s, al final, m&aacute;s que una aprobaci&oacute;n personal, a nosotros lo que nos interesa es el reconocimiento del proyecto que representamos, m&aacute;s que la aprobaci&oacute;n individual.</p>
+
+<p>Miren, el resultado de hoy es importante: Es 16 por ciento menos de homicidios de septiembre a diciembre. Es un trabajo que a veces no es, digamos, visible todos los d&iacute;as, pero es un gran trabajo del Gabinete de Seguridad.</p>
+
+<p>Por supuesto que hay que trabajar todos los d&iacute;as, porque aqu&iacute; puede subir nuevamente si uno no est&aacute; pendiente de lo que se est&aacute; haciendo, pero hay una estrategia marcada y hay un trabajo cotidiano, permanente y una entrega del equipo del Gobierno de M&eacute;xico, del fiscal general de la Rep&uacute;blica.</p>
+
+<p>Y con todo y los problemas que tenemos en el Poder Judicial, porque hay que decirlo, pues son resultados muy, muy importantes, que tienen que ver con una estrategia que nos fijamos.</p>
+
+<p>Y para el pr&oacute;ximo a&ntilde;o&hellip; No el pr&oacute;ximo, ya este, perd&oacute;n, para este a&ntilde;o el objetivo es seguir con esta tendencia de disminuir y estar trabajando todos los d&iacute;as.</p>
+
+<p>Entonces, agradecer y decir que no vamos a traicionar.</p>
+
+<p><strong>PREGUNTA: Gracias.</strong></p>
+
+<p><strong>Presidenta, tambi&eacute;n preguntarle: la semana pr&oacute;xima tiene la reuni&oacute;n con los alcaldes de todo el pa&iacute;s. Preguntarle: &iquest;qu&eacute; instrucciones les va a dar a los presidentes municipales?</strong></p>
+
+<p><strong>Y tambi&eacute;n saber si &iquest;les va a ofrecer recursos a las polic&iacute;as municipales, a trav&eacute;s de la Secretar&iacute;a de Seguridad P&uacute;blica? Si, &iquest;est&aacute; contemplado para este a&ntilde;o o para los pr&oacute;ximos a&ntilde;os?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Instrucciones no les doy, porque ellos son electos, son elegidos por el pueblo; entonces son aut&oacute;nomos, est&aacute; en la Constituci&oacute;n. Entonces, yo no doy instrucciones ni a los gobernadores, ni a los presidentes o presidentas municipales, sino buscamos la coordinaci&oacute;n, la colaboraci&oacute;n y el convencimiento.</p>
+
+<p>Entonces, a las y los presidentes municipales queremos plantearles tres cuestiones:</p>
+
+<p>Una, que se aprob&oacute; en el Presupuesto de Egresos de la Federaci&oacute;n que este a&ntilde;o el FAIS o el FAIS, este Fondo de Aportaciones para la Infraestructura Social tiene una parte destinada a los pueblos originarios, porque el 2o. constitucional establece que tienen que tener un presupuesto.</p>
+
+<p>Entonces, este FAIS ahora, va a destinar alrededor de 13 mil millones de pesos o 12 mil, 12 mil y pico millones de pesos, para entreg&aacute;rselos directo a las comunidades ind&iacute;genas y afromexicanas. Es un presupuesto peque&ntilde;o porque estamos hablando como de 13 mil comunidades, pero por primera vez, el Presupuesto de Egresos de la Federaci&oacute;n reconoce a las comunidades como sujetos de derecho, o sea, a los pueblos ind&iacute;genas como establece la Constituci&oacute;n.</p>
+
+<p>Entonces, queremos platicarle a los presidentes municipales, presidentas, gobernadores y gobernadoras c&oacute;mo pensamos que se lleve a cabo esto, porque finalmente es en los territorios que ellos gobiernan tambi&eacute;n.</p>
+
+<p>Entonces, ese es un tema.</p>
+
+<p>El segundo tema, que ya hemos avanzado con alrededor de 400 municipios, es que queremos juntar los recursos municipales, estatales y federales para las obras de agua y saneamiento, para que el municipio no vaya por un lado, el estado por otro y la Federaci&oacute;n por otro.</p>
+
+<p>Si juntamos los recursos, por m&aacute;s peque&ntilde;os que sean, es mejor, en un programa o un &ldquo;plan maestro&rdquo; que le llamamos, por municipio, para acceso al agua potable para los pr&oacute;ximos tres a&ntilde;os.</p>
+
+<p>Ese es el segundo planteamiento que les queremos hacer.</p>
+
+<p>Y el tercero tiene que ver con estas acciones de atenci&oacute;n a las causas. Y, en particular, platicarles de los senderos que en su momento llamamos &ldquo;Senderos para Mujeres: Libres y Seguras&rdquo;, que iniciaron en Iztapalapa y en la Ciudad de M&eacute;xico, en toda la Ciudad de M&eacute;xico, y ahora, queremos llamarles &ldquo;Senderos de Paz&rdquo;.</p>
+
+<p>Entonces, queremos platicarles c&oacute;mo con muy pocos recursos se puede mejorar un espacio p&uacute;blico, y eso se traduce en bienestar de la poblaci&oacute;n y tambi&eacute;n en disminuci&oacute;n de delitos.</p>
+
+<p>Esos son los tres temas que vamos a tratar el pr&oacute;ximo 16 con ellos.</p>
+
+<p><strong>PREGUNTA: Muchas gracias.</strong></p>
+
+<p><strong>Y ya para concluir, Presidenta, un tema un poco viral que se ha hecho en las redes sociales, lo trajo a relucir, bueno, otra vez a relucir un </strong><strong><em>influencer</em></strong><strong> conocido &ldquo;Luisito Comunica&rdquo;, es un creador de contenido mexicano, el cual expuso un presunto abuso de tarifas en Acapulco, el cual dijo que en un trayecto de 20 minutos le cost&oacute; 2 mil pesos.</strong></p>
+
+<p><strong>El hecho gener&oacute; pol&eacute;mica y trajo a relucir otra vez el tema de las tarifas de taxis el cual&hellip; Canc&uacute;n, perd&oacute;n, corrijo, Canc&uacute;n.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah, s&iacute;, Luisito...</p>
+
+<p><strong>PREGUNTA: El cual tambi&eacute;n dicen &ldquo;no dejan pasar a los Uber a los aeropuertos&rdquo;. Saber &iquest;qu&eacute; est&aacute; sucediendo en estos lugares?, &iquest;c&oacute;mo va la situaci&oacute;n?, &iquest;y c&oacute;mo se va a resolver?</strong></p>
+
+<p><strong>Tambi&eacute;n, &iquest;si usted enterada de dicho tema?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si... Hay tarifas estatales y tarifas federales, dependiendo de la placa, si son autotransporte p&uacute;blico federal o transporte p&uacute;blico de un estado; se regulan, unas por la Federaci&oacute;n y otras por los estados.</p>
+
+<p>Pero vamos a revisarlo, porque en algunos casos s&iacute; hay abuso, exceso de cobro, de personas que, leg&iacute;timamente y adem&aacute;s es un&hellip; Las y los taxistas, nuestro saludo, reconocimiento, por el trabajo que hacen, pero hay que cobrar lo que se debe.</p>
+
+<p>&mdash;La &uacute;ltima, y ya vamos a &ldquo;Mujeres en la Historia&rdquo;&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta, Doctora Claudia Sheinbaum Pardo; buenos d&iacute;as, Rosa Icela Rodr&iacute;guez, secretaria de Gobernaci&oacute;n; secretario de Seguridad P&uacute;blica, Omar Garc&iacute;a Harfuch; Generales, secretarios e invitados; fiscal Gertz Manero.</strong></p>
+
+<p><strong>Buenos d&iacute;as a todos, medios y audiencia. Mi nombre es &Aacute;ngel Juan S&aacute;nchez, soy de </strong><strong><em>MxFlorida.com</em></strong><strong>.</strong></p>
+
+<p><strong>Y, bueno, en d&iacute;as pasados y hoy est&aacute;n entregando los informes y estos reportes de seguridad que, vemos, en algunos rubros son de dos d&iacute;gitos, hay una contenci&oacute;n, un descenso. Y preguntarle, Presidenta, si &iquest;esto va a continuar y, a raz&oacute;n de esas tasas de cambio?</strong></p>
+
+<p><strong>Y, por otro lado, tambi&eacute;n preguntarle: &iquest;qu&eacute; ha sido lo que ha beneficiado &mdash;y si puede contestar el secretario de Seguridad, Omar Garc&iacute;a Harfuch&mdash; qu&eacute; ha sido lo novedoso, lo exitoso para lograr estas cifras?</strong></p>
+
+<p><strong>&iquest;Y c&oacute;mo han influido las Secretar&iacute;as, el trabajo transversal entre instituciones para lograr estos resultados?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Como lo mencionamos desde la primera vez que&hellip; desde la campa&ntilde;a, pero desde que nos presentamos aqu&iacute; en el primer d&iacute;a que presentamos la Estrategia de Seguridad, consiste en cuatro ejes:</p>
+
+<p>Atenci&oacute;n a las causas, que es muy amplio.</p>
+
+<p>El Fortalecimiento de la Guardia Nacional, hoy que es parte de la Secretar&iacute;a de la Defensa Nacional, que va avanzando.</p>
+
+<p>La Inteligencia y la Investigaci&oacute;n, que estamos fortaleciendo. Recuerden que tambi&eacute;n modificamos la Constituci&oacute;n, el 21 si mal no recuerdo, para que se pueda fortalecer la estrategia de Inteligencia e Investigaci&oacute;n, y la coordinaci&oacute;n de las distintas &aacute;reas de gobierno en esta tarea; esto va avanzando mucho y va a seguir avanzando, vamos a seguir fortaleciendo las capacidades de inteligencia e investigaci&oacute;n.</p>
+
+<p>Y la cuarta, que es la Coordinaci&oacute;n. Ya hab&iacute;a iniciado, evidentemente, la Coordinaci&oacute;n con el Presidente L&oacute;pez Obrador, el Gabinete todos los d&iacute;as, hab&iacute;a coordinaci&oacute;n con la Fiscal&iacute;a General de la Rep&uacute;blica, pero ahora, gracias al fiscal tenemos la presencia de una persona de la Fiscal&iacute;a todos los d&iacute;as en la reuni&oacute;n del Gabinete. Eso nos ayuda mucho.</p>
+
+<p>Y tambi&eacute;n, hay que decirlo, gobernadores, gobernadoras, que se han comprometido con el tema de seguridad y que, en algunos de sus estados tambi&eacute;n, gracias a su trabajo est&aacute; disminuyendo en la coordinaci&oacute;n con el Gabinete federal.</p>
+
+<p>Y tambi&eacute;n, ya ven&iacute;a una tendencia a la baja y ahora la vamos a profundizar.</p>
+
+<p><strong>PREGUNTA: S&iacute;, Presidenta. Ayer concluy&oacute; la reuni&oacute;n de embajadores y c&oacute;nsules, la REC 2025.</strong></p>
+
+<p><strong>En conclusi&oacute;n, &iquest;cu&aacute;l ha sido en estos tres d&iacute;as de trabajo los resultados m&aacute;s importantes de la REC? &iquest;Cu&aacute;l es el mensaje a la comunidad migrante de Estados Unidos que, ahorita, pasa por una situaci&oacute;n complicada por la amenaza de estos env&iacute;os de mexicanos, por las deportaciones?</strong></p>
+
+<p><strong>Ese mensaje que ayer envi&oacute; a trav&eacute;s de la REC, a los c&oacute;nsules y embajadores, &iquest;cu&aacute;l es lo m&aacute;s importante que usted puede comentar sobre este tema? &iquest;Y qu&eacute; opina de los Consulados de puertas abiertas?</strong></p>
+
+<p><strong>Muchas gracias. Es cuanto.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ayer, particularmente, a las y los c&oacute;nsules les platiqu&eacute; de la estrategia que yo segu&iacute; cuando fui Jefa Delegacional en Tlalpan, que ten&iacute;a audiencias p&uacute;blicas, diario.</p>
+
+<p>Las presidencias municipales en la Ciudad, en su momento, se llamaban Jefaturas Delegacionales; hoy se llaman Alcald&iacute;as. Es un nivel de gobierno en donde, siempre, en cualquier nivel de gobierno hay que tener cercan&iacute;a a la ciudadan&iacute;a, pero, particularmente, las y los presidentes municipales requieren una cercan&iacute;a mayor, porque tiene que resolver problemas de baches, de iluminaci&oacute;n, de la vida cotidiana de las personas.</p>
+
+<p>Les platiqu&eacute; que cuando fui Jefa Delegacional ten&iacute;a, pr&aacute;cticamente, diario audiencias p&uacute;blicas; que en la Jefatura de Gobierno continu&eacute; con las audiencias p&uacute;blicas. Ahora, no tengo las audiencias p&uacute;blicas, pero s&iacute; voy a territorio y hablo siempre con mucha gente, con la ciudadan&iacute;a.</p>
+
+<p>Y que eso cambia la perspectiva de un servidor p&uacute;blico, porque lo que es muy importante es ponerse en el zapato de quien solicita un servicio, y finalmente de una persona que se est&aacute; acercando al gobierno.</p>
+
+<p>El gobierno tiene una responsabilidad muy grande que es atender a la ciudadan&iacute;a. Uno nunca puede dejar de atender, uno no puede decir &ldquo;eso no me toca&rdquo;; uno tiene que resolver y coordinarse para poder atender las distintas necesidades.</p>
+
+<p>Les platiqu&eacute; esto y les plante&eacute; esta idea de que puedan tener un d&iacute;a de audiencia p&uacute;blica.</p>
+
+<p>De tal manera, que ellos salgan a la fila del Consulado, vean &ldquo;la cola&rdquo; de nuestros connacionales que est&aacute;n pidiendo un servicio, que los escuchen, que vean, que se pongan en sus zapatos: &iquest;qu&eacute; problema hay?, &iquest;por qu&eacute; no se les atiende?, &iquest;qu&eacute; servicio est&aacute;n pidiendo que por alguna raz&oacute;n no se est&aacute; otorgando?, que abran las puertas del Consulado, que tengan un sistema de citas para poder recibir directamente a las y los migrantes mexicanos que est&aacute;n, particularmente, en los Estados Unidos.</p>
+
+<p>Y eso cambia mucho la perspectiva, porque a lo mejor uno puede decir &ldquo;pues yo estoy haciendo muy bien mi trabajo&rdquo;, pero no escuchas, sobre todo, en oficinas que tienen que ver con atenci&oacute;n ciudadana.</p>
+
+<p>Entonces, les dije: Bajen a las ventanillas, ac&eacute;rquense, est&eacute;n ah&iacute;.</p>
+
+<p>Y nosotros desde el gobierno y la Canciller&iacute;a vamos a apoyar para facilitar todos los tr&aacute;mites.</p>
+
+<p>Hoy al INE les voy a plantear c&oacute;mo podemos facilitar la credencial de elector a los migrantes y las migrantes, porque se quejan mucho de que son muchos tr&aacute;mites; pues hay que entender.</p>
+
+<p>Entonces, eso fue lo que platicamos. Y entre todos estuvimos de acuerdo, y vamos a ir poco a poco cambiando esta visi&oacute;n de las y los Consulados, y que nuestros hermanos y hermanas sientan siempre que los abrazamos, que estamos ah&iacute; para servirles.</p>
+
+<p><strong>PREGUNTA: &iquest;Habr&aacute; investigaciones en contra de fiscales ligados a grupos delictivos como en el caso de la fiscal Elizabeth Blancas, ligado al exl&iacute;der &Aacute;lvaro S&aacute;nchez, al&iacute;as el &ldquo;Tartamudo&rdquo;, del c&aacute;rtel de los hermanos S&aacute;nchez?</strong></p>
+
+<p><strong>&iquest;Hay investigaci&oacute;n en contra de esta fiscal que es generadora de delitos y que est&aacute; comprobable que estaba ligada al &ldquo;Tartamudo&rdquo;, abatido en el 2023?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No s&eacute; si&hellip; Ya en su momento podr&aacute;n informar.</p>
+
+<p>Yo creo que es importante: cuando hay una denuncia o alg&uacute;n hecho delictivo, las Fiscal&iacute;as estatales o de la Rep&uacute;blica tienen la obligaci&oacute;n de abrir carpetas de investigaci&oacute;n. Entonces, como bien explicaba el fiscal: una carpeta de investigaci&oacute;n se puede abrir, pero para poder presentar ante un juez, tiene que tener suficientes pruebas, &iquest;no?</p>
+
+<p><strong>PREGUNTA: Pero ya hay un juicio y hay testigos en donde se&ntilde;alan directamente a la fiscal Elizabeth G&oacute;mez Blancas, y la Fiscal&iacute;a General del Estado de M&eacute;xico, como su jefe el fiscal regional en el Estado de M&eacute;xico, encubre a esta fiscal, &iquest;en esos casos qu&eacute; se hace?, &iquest;se podr&iacute;a entrar al tema de la Operaci&oacute;n Enjambre?</strong></p>
+
+<p><strong>Que, de hecho, es una investigaci&oacute;n period&iacute;stica de cuatro periodistas, sustentable, videos, en donde aparecen en esos videos funcionarios de la Fiscal&iacute;a General del Estado de M&eacute;xico, incluso, el fiscal regional del Estado de M&eacute;xico con este l&iacute;der, &Aacute;lvaro S&aacute;nchez, alias el &ldquo;Tartamudo&rdquo;.</strong></p>
+
+<p><strong>Y en donde hay 10 familias que ya aceptaron dar sus testimonios de la manera en que la fiscal Elizabeth G&oacute;mez Blancas genera estos delitos, en su momento, por cantidades fuertes por el &ldquo;Tartamudo&rdquo;, y aun as&iacute; la Fiscal&iacute;a General del Estado de M&eacute;xico no hace nada al respecto.</strong></p>
+
+<p><strong>La cambiaron de jurisdicci&oacute;n, pero la se&ntilde;ora se llev&oacute; todas sus carpetas, cosa que es totalmente ilegal.</strong></p>
+
+<p><strong>Y la pregunta nuevamente precisa es: &iquest;habr&aacute; una investigaci&oacute;n?, &iquest;se aplicar&aacute; la Operaci&oacute;n Enjambre dentro de la Fiscal&iacute;a General del Estado de M&eacute;xico? Que est&aacute; entre los primeros tres lugares de las Fiscal&iacute;as m&aacute;s corruptas en este pa&iacute;s: primer lugar, Guanajuato; segundo lugar, Jalisco; tercer lugar, el Estado de M&eacute;xico.</strong></p>
+
+<p><strong>SECRETARIO DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA, OMAR GARC&Iacute;A HARFUCH:</strong> Bueno, primero, la investigaci&oacute;n de esa operaci&oacute;n que se realiz&oacute; en el Estado de M&eacute;xico contin&uacute;a. Como lo hemos dicho, hay todav&iacute;a objetivos por detener y hay investigaciones vigentes.</p>
+
+<p>Sobre la persona que usted menciona, como lo mencion&oacute; hace unos minutos el se&ntilde;or fiscal general de la Rep&uacute;blica: si hay una denuncia formal, por supuesto, se le da un seguimiento.</p>
+
+<p>Y si la hay o tiene informaci&oacute;n que nos pueda proveer, con gusto le damos seguimiento.</p>
+
+<p><strong>PREGUNTA: La vamos a entregar sin problema alguno, la investigaci&oacute;n completa.</strong></p>
+
+<p><strong>SECRETARIO DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA, OMAR GARC&Iacute;A HARFUCH:</strong> Y siempre estaremos para servirle y para recibir cualquier tipo de informaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Gracias, secretario.</strong></p>
+
+<p><strong>SECRETARIO DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA, OMAR GARC&Iacute;A HARFUCH:</strong> Gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Noem&iacute;, ya para cerrar, porque ya se hizo bien tarde&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Muchas gracias.</strong></p>
+
+<p><strong>SUBSECRETARIA DE EDUCACI&Oacute;N B&Aacute;SICA, NOEM&Iacute; JU&Aacute;REZ P&Eacute;REZ:</strong> Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Como ustedes saben, este a&ntilde;o fue declarado &ldquo;2025, A&ntilde;o de la Mujer Ind&iacute;gena&rdquo;, como lo pueden ustedes observar en la identidad gr&aacute;fica. Est&aacute; compuesto por cuatro rostros de mujeres de nuestros pueblos originarios de las civilizaciones mesoamericanas.</p>
+
+<p>Y el d&iacute;a de hoy, vamos a iniciar con una de ellas, de la civilizaci&oacute;n maya, &ldquo;La se&ntilde;ora de la sucesi&oacute;n&rdquo;, tambi&eacute;n conocida como la &ldquo;Reina Roja&rdquo;, por c&oacute;mo fue encontrada su tumba. Y les invito a conocer esta historia.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE &ldquo;MUJERES EN LA HISTORIA&rdquo; SOBRE TZ&#39;AKBU AJAW, &ldquo;LA REINA ROJA&rdquo;)</strong></p>
+
+<p><strong>SUBSECRETARIA DE EDUCACI&Oacute;N B&Aacute;SICA, NOEM&Iacute; JU&Aacute;REZ P&Eacute;REZ:</strong> Gracias.</p>
+
+<p>Algo muy importante de esta secci&oacute;n es que no solamente estamos hablando de mujeres en la historia, sino tambi&eacute;n de las mujeres en el presente.</p>
+
+<p>Y quiero aprovechar esta oportunidad para hablar sobre la arque&oacute;loga que hizo este descubrimiento, ella es Fanny L&oacute;pez Jim&eacute;nez. Es una arque&oacute;loga originaria del estado de Chiapas que estudi&oacute; arqueolog&iacute;a en la Escuela Nacional de Antropolog&iacute;a e Historia, tambi&eacute;n es maestra en Estudios Mesoamericanos por la Facultad de Filosof&iacute;a y Letras de la UNAM, y es fundadora de la Licenciatura en Arqueolog&iacute;a en la Universidad de Ciencias y Artes en Chiapas; quien tambi&eacute;n dirigi&oacute; el Museo Regional de esta entidad.</p>
+
+<p>En el a&ntilde;o 2024, es decir, recientemente, se le condecor&oacute; con la medalla &ldquo;Rosario Castellanos&rdquo;, 30 a&ntilde;os despu&eacute;s de hacer este descubrimiento. El descubrimiento se dio en 1994 y le fue otorgada esta medalla el a&ntilde;o anterior, la &ldquo;Rosario Castellanos&rdquo;, tambi&eacute;n en los 50 a&ntilde;os conmemorativos de la propia Rosario Castellanos.</p>
+
+<p>Al respecto, quisiera yo tambi&eacute;n recuperar algunas palabras de la arque&oacute;loga Fanny, en el discurso que ella dio cuando recibi&oacute; esta medalla. Y ella explica:</p>
+
+<p>&ldquo;Cuando se recorri&oacute; la tapa que cubr&iacute;a la caja de piedra del sarc&oacute;fago encontrado en la subestructura del Templo XIII, una corazonada me llev&oacute; a sugerir que los restos &oacute;seos te&ntilde;idos en rojo pertenec&iacute;an a una mujer.</p>
+
+<p>&ldquo;En medio de aquel silencio que nos asfixiaba, no hubo nadie que me tomara en serio. &ldquo;&iquest;Por qu&eacute; iba a tratarse de una mujer?&rdquo; &mdash;se preguntaban&mdash;, si el sitio hab&iacute;a sido dominado por dinast&iacute;as de hombres.</p>
+
+<p>&ldquo;No, Fanny &mdash;me explicaron con paciencia mis compa&ntilde;eros&mdash;, por el emplazamiento del templo a un lado del Templo de las Inscripciones, uno de los m&aacute;s importantes, por la cercan&iacute;a a Pakal y por el hecho de tratarse de la segunda tumba del sarc&oacute;fago encontrada en el sitio, es indudable que se trata de un hombre.</p>
+
+<p>&ldquo;Pues ser&aacute; el sereno &mdash;dije yo&mdash;, pero para m&iacute; que es mujer&rdquo;.</p>
+
+<p>Y as&iacute; lo confirmar&iacute;an poco despu&eacute;s, los estudios realizados por el antrop&oacute;logo f&iacute;sico Arturo Romano.</p>
+
+<p>Y m&aacute;s adelante, en su discurso, dijo:</p>
+
+<p>&ldquo;Parece mentira que no podamos darnos cuenta de que las mujeres constituimos el eslab&oacute;n m&aacute;s fuerte y el m&aacute;s d&eacute;bil de la sociedad. &acute;M&aacute;s fuerte&acute; porque sobre nuestra energ&iacute;a, inteligencia, capacidad, empat&iacute;a, tenacidad y creatividad ha reca&iacute;do hist&oacute;ricamente la tarea de llevar a cabo la reproducci&oacute;n de la familia, de la sociedad, de la vida. &acute;M&aacute;s d&eacute;bil&acute; porque nuestras necesidades han sido invisibilizadas, ignoradas, minimizadas y escatimadas en lo particular, en lo general, en lo p&uacute;blico y en lo privado.</p>
+
+<p>Que sea oportunidad que los ejemplos notables de las mujeres que vamos a estar revisando la identidad gr&aacute;fica, hoy vimos la maya, sigue mexica, tolteca y mixteca, y se deben de dejar de ser la excepci&oacute;n para convertirse en la regla a observar en el futuro inmediato.</p>
+
+<p>&ldquo;Mujeres capaces de generar el cambio para que los dioses ancestrales contemplen orgullosos el esplendor de esta nueva era&rdquo;.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p>Es cuanto, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias.</p>
+
+<p>Nos vemos ma&ntilde;ana.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2025-01-09 09:10:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de enero de 2025";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-enero-de-2025-387640";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-enero-de-2025-387640" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de enero de 2025"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-enero-de-2025-387640" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-enero-de-2025-387640&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de enero de 2025";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-enero-de-2025-387640" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-enero-de-2025-387640";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-enero-de-2025-387640" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

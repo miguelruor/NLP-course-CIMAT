@@ -1,0 +1,1644 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de octubre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de octubre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/150569/1a270f10-5e49-487f-951c-9f127850e6c5.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-octubre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/150569/1a270f10-5e49-487f-951c-9f127850e6c5.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="Qf5h4q9HHNaVrI32J+Q/TyGhtCJuP9BoDtpiap/wxjE=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7hzwz44jygq-f-54dd6dd36-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":18,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"3f7f2f2a","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62435,"ak.gh":"23.47.207.175","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296845","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==7n3iYFm8oQ4IdvRXxNsszhhTXUdzGB3dVfAM2ZrLrkBwkehgcXoF8kNYZZ6qeiUkuIEr8DwW+hap1GRRPkSdU352BnW20lkGVTooMtIJ8DweDPrNJjynU69cNjeB7GrnDTpWgd4101UkaPBEscciRsxeImO69LXysGwJ3bsgYOPja3Q74q8R4D+mlMo/JKtsRKYMM6YXX2tw93nOr/IzieYn7U+/0T4cVAJvA28ujydFkWo+jzOl+G2NaZ3L8m6GYcAEU9kTFGH2lNqZ2AN8E+jgGteZveZZmjSa7mzf637ClvGL9VWKhuScOySU2Z92H0uVMO7j6dxUPsgBxd6u00BSeU6kYlVbdSLPEZRYxd7YyryoAUWbTQrULKkhKaUZxR4ItmYMWIKB+Zc4XooQkttPafV9T0tLwoHJeHJHt2o=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de octubre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 18 de octubre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/150569/1a270f10-5e49-487f-951c-9f127850e6c5.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Buenos d&iacute;as. &iquest;C&oacute;mo est&aacute;n?</p>
+
+<p>Hoy nos acompa&ntilde;a Rosa Icela Rodr&iacute;guez, secretaria de Gobernaci&oacute;n, va a hacer su presentaci&oacute;n y despu&eacute;s se va a una reuni&oacute;n de migraci&oacute;n: est&aacute; Pablo G&oacute;mez, el titular de la UIF; Ernestina Godoy, consejera jur&iacute;dica, y el ministro Zald&iacute;var. Vamos a tocar varios temas. Tambi&eacute;n est&aacute; Ram&oacute;n&hellip; No, est&aacute;&hellip; Recu&eacute;rdame tu nombre</p>
+
+<p><strong>BULMARO JU&Aacute;REZ: </strong>Bulmaro Ju&aacute;rez.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Bulmaro Ju&aacute;rez, que nos va a presentar, &eacute;l, el d&iacute;a de hoy la c&aacute;psula de &#39;Suave Patria&rsquo; al final de la conferencia.</p>
+
+<p>Bueno, antes de iniciar, vamos a poner un muy r&aacute;pido recordatorio de L&aacute;zaro C&aacute;rdenas porque el d&iacute;a de ma&ntilde;ana es su aniversario luctuoso, en unos minutos, el general L&aacute;zaro C&aacute;rdenas.</p>
+
+<p><strong>(INICIA VIDEO)</strong></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> El compromiso de L&aacute;zaro C&aacute;rdenas con el pueblo de M&eacute;xico permiti&oacute; consolidar los ideales de la Revoluci&oacute;n, la tercera transformaci&oacute;n de la vida p&uacute;blica</em> <em>de M&eacute;xico. </em></p>
+
+<p><strong><em>VOZ HOMBRE: </em></strong><em>Naci&oacute; en Jiquilpan, Michoac&aacute;n, el 21 de mayo de 1895, el mayor de ocho hermanos.</em></p>
+
+<p><strong><em>VOZ MUJER: </em></strong><em>En 1913, se uni&oacute; a la Revoluci&oacute;n, en contra del usurpador Victoriano Huerta y lleg&oacute; a ser general. En ese trayecto, mostr&oacute; las cualidades que con los a&ntilde;os lo har&iacute;an uno de los mejores presidentes de nuestra historia: valent&iacute;a, lealtad, sencillez, austeridad y solidaridad.</em></p>
+
+<p><strong><em>VOZ HOMBRE: </em></strong><em>En 1928, L&aacute;zaro C&aacute;rdenas fue elegido gobernador de Michoac&aacute;n y de inmediato aplic&oacute; medidas para paliar la desigualdad y la pobreza.</em></p>
+
+<p><strong><em>VOZ MUJER: </em></strong><em>Esa visi&oacute;n social y participativa ser&iacute;a la marca principal de su labor a partir de 1934, cuando fue electo presidente de M&eacute;xico, tras una campa&ntilde;a en la que recorri&oacute; pr&aacute;cticamente todo el pa&iacute;s.</em></p>
+
+<p><strong><em>L&Aacute;ZARO C&Aacute;RDENAS DEL R&Iacute;O:</em></strong><em> Protesto guardar y hacer guardar la Constituci&oacute;n Pol&iacute;tica de los Estados Unidos Mexicanos y las leyes que de ella emanen.</em></p>
+
+<p><strong><em>VOZ HOMBRE: </em></strong><em>Apoy&oacute; las demandas salariales, la creaci&oacute;n de sindicatos, el reparto de m&aacute;s de 18 millones de hect&aacute;reas de tierra directamente para casi 800 mil familias campesinas, orden&oacute; campa&ntilde;as masivas de alfabetizaci&oacute;n y salud, y la creaci&oacute;n de escuelas p&uacute;blicas en todo el pa&iacute;s, en especial el Instituto Polit&eacute;cnico Nacional y el Instituto Nacional de Antropolog&iacute;a e Historia.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Estas acciones generaron los ataques de la oposici&oacute;n, de la burgues&iacute;a nacional y de los empresarios extranjeros, de la prensa y hasta de los partidarios de Plutarco El&iacute;as Calles en el mismo gobierno, pero L&aacute;zaro C&aacute;rdenas los enfrent&oacute; con absoluta determinaci&oacute;n.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Y en 1938, ante el desacato de las empresas petroleras para cumplir la ley mexicana, tom&oacute; la trascendental decisi&oacute;n de expropiarles y crear Petr&oacute;leos Mexicanos, que se convirti&oacute; en el pivote del desarrollo industrial de M&eacute;xico en el siglo XX.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Se trata de un caso evidente y claro que obliga al gobierno a aplicar la ley de expropiaci&oacute;n en vigor, no s&oacute;lo para someter a las empresas petroleras a la obediencia, sino porque, habiendo quedado rotos los contratos de trabajo entre las compa&ntilde;&iacute;as y sus trabajadores, por haberlo as&iacute; resuelto las autoridades del trabajo de no ocupar el gobierno las instalaciones de las compa&ntilde;&iacute;as, vendr&iacute;a la paralizaci&oacute;n inmediata de la industria petrolera, ocasionando estos males incalculables al resto de la industria y a la econom&iacute;a general del pa&iacute;s.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> En todas estas medidas, C&aacute;rdenas cont&oacute; con el apoyo decidido del pueblo, que lo sent&iacute;a como un mandatario austero, honesto y cercano a sus preocupaciones.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Su visi&oacute;n y la manera en la que la hizo realidad representan un ejemplo para todas y todos.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Gran presidente de M&eacute;xico, el general L&aacute;zaro C&aacute;rdenas.</p>
+
+<p>Bueno, ahora vamos a seguir hablando del caso Garc&iacute;a Luna: Rosa Icela va a presentar las investigaciones que hay en M&eacute;xico por parte de la Fiscal&iacute;a General de la Rep&uacute;blica; despu&eacute;s, Pablo G&oacute;mez nos va a presentar, a recordar las investigaciones que hizo la UIF, que tambi&eacute;n derivaron en carpetas de investigaci&oacute;n.</p>
+
+<p>Y despu&eacute;s, vamos a hablar de esta resoluci&oacute;n de una jueza que ordena bajar la publicaci&oacute;n de la reforma al Poder Judicial, a la presidenta, y entonces Ernestina Godoy y el ministro Zald&iacute;var van a explicar por qu&eacute; no tiene sustento esta solicitud que se est&aacute; haciendo, no tiene ning&uacute;n sustento jur&iacute;dico, y vamos a hablar de ello.</p>
+
+<p>Y despu&eacute;s pasamos a las preguntas y cerramos con la c&aacute;psula de &lsquo;Suave Patria&rsquo;.</p>
+
+<p>Adelante, Rosa Icela</p>
+
+<p><strong>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ, SECRETARIA DE GOBERNACI&Oacute;N:</strong> Con permiso, presidenta. Buenos d&iacute;as a todas y a todos.</p>
+
+<p>El contexto de este tema es que esta semana se confirm&oacute; que el exsecretario de Seguridad P&uacute;blica de M&eacute;xico y mano derecha del expresidente Felipe Calder&oacute;n, Genaro Garc&iacute;a Luna, ayud&oacute; durante una d&eacute;cada al c&aacute;rtel de Sinaloa a cambio de sobornos millonarios.</p>
+
+<p>Aqu&iacute; est&aacute;n. Recordar que el juez de distrito de Estados Unidos, Brian Cogan, lo conden&oacute; a 38 a&ntilde;os de prisi&oacute;n y le impuso una multa de dos millones de d&oacute;lares para participar en una empresa criminal continua, por conspiraci&oacute;n para la distribuci&oacute;n internacional de coca&iacute;na, conspiraci&oacute;n para distribuir y posesi&oacute;n con intenci&oacute;n de distribuir coca&iacute;na, conspiraci&oacute;n para importar coca&iacute;na y por hacer declaraciones falsas.</p>
+
+<p>As&iacute;, el Departamento de Justicia de Estados Unidos dio los detalles en un comunicado emitido, donde afirm&oacute; que el exfuncionario traicion&oacute; la confianza p&uacute;blica y a las personas que hab&iacute;a jurado proteger.</p>
+
+<p>Garc&iacute;a Luna inici&oacute; su carrera en 1989 en el Centro de Investigaci&oacute;n y Seguridad Nacional, en el Cisen, donde permaneci&oacute; hasta 1999 y ejerci&oacute; varios cargos; entre ellos, subdirector y director de &aacute;rea, director general y coordinador general de Inteligencia.</p>
+
+<p>Cuando era subdirector operativo de dicho centro tuvo lugar el homicidio lamentable del candidato presidencial Luis Donaldo Colosio, el 25 de octubre de 2021.</p>
+
+<p>Ya en esta &eacute;poca, la Comisi&oacute;n Nacional de Derechos Humanos emiti&oacute; una recomendaci&oacute;n para que se investigara este hecho, y la Fiscal&iacute;a General de la Rep&uacute;blica inici&oacute; la investigaci&oacute;n correspondiente, logrando probar que existe evidencia material y prueba cient&iacute;fica de que el 23 de marzo de 1994 en Lomas Taurinas dos personas accionaron en forma casi simult&aacute;nea armas de fuego contra el entonces aspirante a la Presidencia. El llamado &lsquo;segundo tirador&rsquo;, Jorge Antonio, fue detenido de forma inmediata y llevado a la entonces Procuradur&iacute;a General de la Rep&uacute;blica en Tijuana, en donde fue rescatado directamente por Garc&iacute;a Luna.</p>
+
+<p>El 29 de enero de 2024, la Fiscal&iacute;a General de la Rep&uacute;blica, a trav&eacute;s de un comunicado, dio a conocer que Garc&iacute;a Luna encubri&oacute; a Jorge Antonio, agente del Cisen asignado a proteger al aspirante priista.</p>
+
+<p>Todas las pruebas aportadas por la Fiscal&iacute;a General de la Rep&uacute;blica, y en especial las de an&aacute;lisis de sangre, demuestran que en la ropa de dicho agente se hall&oacute; el tipo de sangre de la v&iacute;ctima. Adem&aacute;s, se encuentra debidamente probado que el Cisen mand&oacute; al acusado, a Garc&iacute;a Luna, al lugar de los hechos para despu&eacute;s encubrirlo y sacarlo de Tijuana de manera urgente y subrepticia.</p>
+
+<p>Cabe se&ntilde;alar, para tambi&eacute;n contexto de este caso, que un juez tambi&eacute;n integrante del Poder Judicial neg&oacute; que se abriera esta carpeta de investigaci&oacute;n y continuar con la investigaci&oacute;n correspondiente. Estamos hablando del a&ntilde;o 2024.</p>
+
+<p>Recordando tambi&eacute;n que Garc&iacute;a Luna fue designado en 1999 coordinador general de Inteligencia de la Polic&iacute;a Federal Preventiva.</p>
+
+<p>Y en diciembre del a&ntilde;o 2000, en el gobierno de Vicente Fox, se convirti&oacute; en el director de Operaci&oacute;n y Planeaci&oacute;n de la Polic&iacute;a Judicial Federal.</p>
+
+<p>Y en 2001, fue nombrado titular de la Agencia Federal de Investigaci&oacute;n, la AFI.</p>
+
+<p>Ya con Calder&oacute;n, en 2006, se convirti&oacute; en secretario de Seguridad P&uacute;blica Federal, cargo en el que se mantuvo todo el sexenio.</p>
+
+<p>En noviembre de 2013, Garc&iacute;a Luna se fue a vivir a Miami, Florida. Fue detenido en diciembre de 2019 en Dallas, Texas; y unos d&iacute;as despu&eacute;s, trasladado al Centro de Detenci&oacute;n Metropolitano en Nueva York, donde hoy permanece, y su juicio dur&oacute; casi cinco, seis a&ntilde;os.</p>
+
+<p>Decir que entre las &oacute;rdenes de aprehensi&oacute;n que hoy tiene la Fiscal&iacute;a General de la Rep&uacute;blica en contra de Garc&iacute;a Luna por delitos cometidos en M&eacute;xico y que no tienen vinculaci&oacute;n con el proceso penal de Estados Unidos se encuentra la relacionada con su participaci&oacute;n en la operaci&oacute;n llamada &lsquo;R&aacute;pido y furioso&rsquo; por el delito de introducci&oacute;n al territorio nacional de forma clandestina de armas, municiones, cartuchos, explosivos y materiales de uso exclusivo del Ej&eacute;rcito, Armada y Fuerza A&eacute;rea o sujetos a control.</p>
+
+<p>Hay que decir que la averiguaci&oacute;n previa se inici&oacute; en 2009 por la Procuradur&iacute;a General de la Rep&uacute;blica y que fue hasta el a&ntilde;o 2020 cuando Garc&iacute;a Luna, que ya hab&iacute;a dejado de ser secretario de Seguridad, se pudo judicializar por la actual Fiscal&iacute;a General de la Rep&uacute;blica.</p>
+
+<p>En esta operaci&oacute;n de &lsquo;R&aacute;pido y furioso&rsquo; el grupo de trabajo sobre el control de drogas contra el crimen organizado introdujo m&aacute;s de dos mil armas de forma ilegal a M&eacute;xico con el fin de identificar compradores, financiadores, transportadores y traficantes de armas para los c&aacute;rteles y desarrollar, seg&uacute;n ellos, inteligencia que pudiera desmantelar organizaciones crim&iacute;nales, lo cual nunca ocurri&oacute;, sino que ese armamento sirvi&oacute; para potenciar la capacidad de actuaci&oacute;n de estos grupos y gener&oacute; una espiral de violencia en el pa&iacute;s.</p>
+
+<p>Otra orden de aprehensi&oacute;n en su contra es por el uso indebido de atribuciones, este delito, uso indebido de atribuciones y facultades, as&iacute; como por asociaci&oacute;n delictuosa. Esta investigaci&oacute;n tambi&eacute;n la lleva actualmente la Fiscal&iacute;a General de la Rep&uacute;blica y se debe a que la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana en el 2020 promovi&oacute; una denuncia penal ante la fiscal&iacute;a, ya que Garc&iacute;a Luna, promovi&oacute; un proyecto para la construcci&oacute;n de 12 Centros Federales de Readaptaci&oacute;n Social bajo el esquema de la partici&oacute;n con la iniciativa privada, logrando que se aprobara el 10 de diciembre de 2010 un presupuesto para la celebraci&oacute;n de contratos que se adjudicaron de forma directa a empresas creadas entre julio y octubre de este a&ntilde;o 2010 exprofeso para este fin.</p>
+
+<p>Y se hizo una justificaci&oacute;n del proyecto ante la Secretar&iacute;a de Hacienda para que el gasto por cada recluso se iba a reducir, lo cual no ocurri&oacute;; al contrario, subi&oacute; en exceso 10, 15 veces m&aacute;s por preso, ya que, al pagar un centro de reclusi&oacute;n semivac&iacute;o, increment&oacute; exageradamente este costo por interno, generando un quebranto a la hacienda p&uacute;blica.</p>
+
+<p>Y pues, finalmente decir que ayer, antier un tribunal de Estados Unidos sentenci&oacute; a Genaro Garc&iacute;a Luna, y con ello tambi&eacute;n quedan asentados sus v&iacute;nculos con el crimen organizado.</p>
+
+<p>Y pues recordar que el presidente L&oacute;pez Obrador desde esta tribuna, denunci&oacute; una y otra vez el involucramiento del secretario de Seguridad de Felipe Calder&oacute;n con organizaciones criminales. Y el Poder Judicial de la Federaci&oacute;n no quiso juzgarlo y, en cambio, liber&oacute; a su socia y le regres&oacute; las cuentas a su esposa.</p>
+
+<p>El expresidente Calder&oacute;n le dio a Garc&iacute;a Luna un poder ilimitado. Su gobierno declar&oacute; ante el pueblo una guerra contra los criminales que dej&oacute; muchas v&iacute;ctimas inocentes.</p>
+
+<p>Y las investigaciones de la Fiscal&iacute;a General de la Rep&uacute;blica en contra de Garc&iacute;a Luna, como aqu&iacute; vimos, contin&uacute;an abiertas, y tambi&eacute;n la recuperaci&oacute;n de los recursos del pueblo de M&eacute;xico que actualmente litiga el gobierno mexicano en Estados Unidos.</p>
+
+<p>Decir, subrayar que actualmente el Gobierno de M&eacute;xico, las autoridades han decidido siempre estar del lado correcto, del lado de los mexicanos, y estamos comprometidos con la cero corrupci&oacute;n, la cero impunidad y cero complicidad.</p>
+
+<p>Eso ser&iacute;a, presidenta.</p>
+
+<p>Compa&ntilde;ero Pablo G&oacute;mez.</p>
+
+<p><strong>PABLO G&Oacute;MEZ &Aacute;LVAREZ, TITULAR DE LA UNIDAD DE INTELIGENCIA FINANCIERA (UIF) DE LA SECRETAR&Iacute;A DE HACIENDA Y CR&Eacute;DITO P&Uacute;BLICO (SHCP): </strong>Buenos d&iacute;as, ciudadana presidenta; buenos d&iacute;as, compa&ntilde;eras, compa&ntilde;eros.</p>
+
+<p>Vamos a hablar de la trama corrupta de Garc&iacute;a Luna. Durante el periodo de 2009 a 2018, la Polic&iacute;a Federal, el Cisen y el OADPRS, que es el organismo de prisiones, otorgaron 30 contratos.</p>
+
+<p>Garc&iacute;a Luna, a trav&eacute;s del tejido empresarial del Grupo Weinberg, encabezado por Mauricio Samuel Weinberg L&oacute;pez y Jonathan Alexis Weinberg Pinto, obtuvo contratos por un total de 727 millones 923 mil 523 d&oacute;lares y 528 millones 26 mil 666 pesos, de los cuales fueron pagados 625 millones 188 mil 666 d&oacute;lares y 93 millones 866 mil 666 pesos con el siguiente detalle.</p>
+
+<p>Como ustedes pueden ver, la empresa Nunvav Inc recibi&oacute; pagos del organismo de prisiones OADPRS por 288 millones y medio.</p>
+
+<p>Nunvav recibi&oacute; del Cisen 44 millones de d&oacute;lares y algo m&aacute;s, y 67 millones y pico de pesos.</p>
+
+<p>Y de la Polic&iacute;a Federal, 14 millones 500 mil d&oacute;lares.</p>
+
+<p>Nunvav Technologies Inc, del Cisen, recibi&oacute; 208.83 millones de d&oacute;lares.</p>
+
+<p>Y Nice Systems recibi&oacute; de la Polic&iacute;a Federal 69 millones.</p>
+
+<p>Glac, que es una empresa que aparece como propiedad de Garc&iacute;a Luna y su esposa, recibi&oacute; de la Procuradur&iacute;a General de Justicia en la Ciudad de M&eacute;xico aqu&iacute; como contrato un reconocimiento de adeudo y le pagaron en alg&uacute;n momento 26 millones 666 mil 666 pesos mexicanos con 60 centavos.</p>
+
+<p>Este cuadro se conform&oacute; gracias al apoyo que llev&oacute; a cabo la entonces secretaria de Seguridad P&uacute;blica, Rosa Icela Rodr&iacute;guez, que est&aacute; aqu&iacute; presente; bueno, que estaba, se nos adelant&oacute; al trabajo.</p>
+
+<p>De estos pagos, entre 2009 y 2018, la Polic&iacute;a Federal, Cisen, el OADPRS y la procuradur&iacute;a, pagaron 625 millones y fracci&oacute;n de d&oacute;lares y 93 millones de pesos al Grupo Weinberg a cuentas en M&eacute;xico, Barbados e Israel.</p>
+
+<p>Entre julio de 2013 a enero de 2020, Nunvav, envi&oacute; recursos a Estados Unidos por un total de 528 millones de pesos y 28 millones de d&oacute;lares de manera directa.</p>
+
+<p>Los pagos del cuadro de arriba fueron hechos por entidades gubernamentales y depositados en cuentas de Nunvav en el extranjero. Los de los cuadros de abajo fueron hechos por la empresa Nunvav, cobrados en cuentas mexicanas y enviados al extranjero posteriormente, como se puede ver en ese cuadro, en donde tenemos 28 millones y medio de d&oacute;lares y 528 millones de pesos.</p>
+
+<p>Quiero decir que las empresas Nunvav son constituidas en Panam&aacute;, no son empresas constituidas en el territorio mexicano, aunque operaron en M&eacute;xico; nunca pagaron impuestos en M&eacute;xico y tampoco, que se sepa, en alg&uacute;n otro pa&iacute;s. Esta es una red internacional de lavado que complementa la red de defraudaci&oacute;n al Estado mexicano.</p>
+
+<p>Regresaron a M&eacute;xico, de cuentas del Grupo Weinberg, 189 millones 801 mil 468 d&oacute;lares a 109 beneficiarios; 82 empresas, entre 2012 y 2020, por un monto de 182 millones 543 mil 823 d&oacute;lares; 27 personas f&iacute;sicas, entre 12 y 20, tambi&eacute;n en ese periodo, por siete millones punto 257 de d&oacute;lares. Un total de 189.80 millones de d&oacute;lares que volvieron al pa&iacute;s en la triangulaci&oacute;n que estuvieron haciendo.</p>
+
+<p>O sea, les pagaba el Estado mexicano, sacaban el dinero al extranjero y una parte lo regresaban y lo entregaban a empresas que son pantalla, que son empresas de cart&oacute;n, muchos de ellos han sido considerados de esa manera como factureros por el Sistema de Administraci&oacute;n Tributaria; y algunas otras empresas existen, aunque no tienen un funcionamiento normal.</p>
+
+<p>Tambi&eacute;n, hay 27 personas a las que f&iacute;sicamente se les hicieron pagos.</p>
+
+<p>Ahora veamos un detalle. Como ya lo mencion&oacute; Rosa Icela, la secretaria de Gobernaci&oacute;n, la Fiscal&iacute;a Especial en Investigaci&oacute;n de Operaciones con Recursos de Procedencia Il&iacute;cita, Falsificaci&oacute;n y Alteraci&oacute;n de Moneda y fiscales de la Fiscal&iacute;a General de la Rep&uacute;blica integraron una carpeta de investigaci&oacute;n contra Genaro Garc&iacute;a Luna y sus socios relacionada con la contrataci&oacute;n en el organismo de prisiones, OADPRS contra 61 imputados, respecto a los cuales se obtuvo 61 &oacute;rdenes de aprehensi&oacute;n, 12 de las cuales fueron cumplidas, 36 est&aacute;n vigentes, ocho personas fueron detenidas, ocho vinculadas, adem&aacute;s, a proceso.</p>
+
+<p>El Estado mexicano est&aacute; en espera del proceso de extradici&oacute;n de Jonathan Alexis Weinberg Pinto, detenido el 31 de diciembre de 2023 en Madrid, como posible responsable del tejido empresarial del Grupo Weinberg, que fue el que utiliz&oacute; Garc&iacute;a Luna para poder conseguir los contratos, primero daba &eacute;l los contratos a trav&eacute;s de otros funcionarios que ya est&aacute;n sometidos a proceso y despu&eacute;s que dej&oacute; de ser servidor p&uacute;blico los consegu&iacute;a, ya en el sexenio de Enrique Pe&ntilde;a Nieto, &eacute;l oper&oacute; transexenalmente.</p>
+
+<p>Ahora, tenemos un proceso civil que va a culminar en un juicio en el estado de Florida, la demanda civil para la recuperaci&oacute;n de activos presentada por el Gobierno de M&eacute;xico en contra de Genaro Garc&iacute;a Luna y c&oacute;mplices ante las cortes del condado de Miami Dade, en el estado norteamericano de Florida.</p>
+
+<p>Se reclaman m&aacute;s de 600 millones de d&oacute;lares procedentes del Estado mexicano a trav&eacute;s de operaciones realizadas por el tejido empresarial del Grupo Weinberg, dirigido por Genaro Garc&iacute;a Luna, mediante una red de corrupci&oacute;n y lavado de dinero internacional, en la cual participan siete personas f&iacute;sicas, cuatro empresas contratistas, 40 empresas norteamericanas, constituidas para adquirir, poseer bienes, diseminar recursos, recibir pagos y simular actividades.</p>
+
+<p>Antes del juicio propiamente dicho, que se llevar&aacute; a cabo pr&oacute;ximamente, dentro del proceso civil le ha el juzgado ordenado entregarle al Gobierno de M&eacute;xico dos millones 406 mil 427 d&oacute;lares, producto de la venta de inmuebles y de un acuerdo reparatorio que se hizo como parte de este proceso.</p>
+
+<p>Adem&aacute;s, un departamento valuado en 555 mil 800 d&oacute;lares, que fue propiedad de Garc&iacute;a Luna, y que ya se entreg&oacute; al Gobierno de M&eacute;xico para su venta.</p>
+
+<p>Ya han sido aseguradas 15 propiedades adicionalmente pertenecientes a Garc&iacute;a Luna y sus c&oacute;mplices.</p>
+
+<p>Ahora, esto se adelant&oacute;, no hubo necesidad de concluir el juicio porque Garc&iacute;a Luna se neg&oacute; a comparecer en el juicio personalmente, y su esposa tambi&eacute;n, y fueron declarados en rebeld&iacute;a. Y entonces los bienes que estaban a su nombre, los que conocemos &mdash;puesto que ha sido una investigaci&oacute;n, que es muy complicada, pero tuvo algunos avances&mdash;, esos ya han estado siendo adjudicados al Gobierno de M&eacute;xico y han sido regresados, y entregado el dinero, conforme se ha ido vendiendo los inmuebles, a la Tesorer&iacute;a de la Federaci&oacute;n.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>ERNESTINA GODOY RAMOS, TITULAR DE LA CONSEJER&Iacute;A JUR&Iacute;DICA DE LA PRESIDENCIA:</strong> Con su permiso, presidenta. Muy buenos d&iacute;as.</p>
+
+<p>Vamos a explicar de manera muy general, tratando de no complicar, este tema de la actuaci&oacute;n que han tenido distintos jueces, sobre todo jueces de distrito, emitiendo resoluciones de suspensi&oacute;n en todo el proceso, en las distintas etapas que ha tenido la reforma al Poder Judicial. Desde la presentaci&oacute;n de la iniciativa lo intentaron con suspensiones jueces de los estados, son jueces de distrito, y as&iacute; han ido presentando a lo largo de todo este proceso legislativo, que ha llevado de manera muy pulcra el Poder Legislativo, y ellos han estado emitiendo una serie de resoluciones.</p>
+
+<p>El caso que nos ocup&oacute; ayer en los medios es que le est&aacute;n pidiendo a la presidenta eliminar la publicaci&oacute;n en el <em>Diario Oficial</em> el decreto por el que se reforman diversas disposiciones constitucionales en materia del Poder Judicial.</p>
+
+<p>El antecedente es que le hab&iacute;an ordenado tambi&eacute;n al presidente L&oacute;pez Obrador hacer lo propio cuando el d&iacute;a 15 de septiembre sali&oacute; publicado en el <em>Diario Oficial. </em>Se emiti&oacute; una resoluci&oacute;n, un amparo donde daban la suspensi&oacute;n ins&oacute;litamente con efectos restitutorios, a efecto de que se eliminara.</p>
+
+<p>Ahora se ha resuelto, seg&uacute;n entendemos, un incidente donde han revisado si se cumpli&oacute; o no con aquella orden. Llegaron a la determinaci&oacute;n, esta juez &mdash;es una juez mujer&mdash;, que no se ha cumplido y por eso le requieren ahora a la presidenta, la doctora Claudia Sheinbaum, que realice eso.</p>
+
+<p>Hay una serie de argumentos jur&iacute;dicos por los cuales es totalmente improcedente lo que est&aacute;n ordenando los jueces, s&oacute;lo les voy a decir algunos de manera muy r&aacute;pida:</p>
+
+<p>Es, uno, es una facultad soberana del Constituyente Permanente exenta de revisi&oacute;n judicial. El art&iacute;culo 135 de la Constituci&oacute;n establece que esta puede ser adicionada o reformada por el Congreso de la Uni&oacute;n por la aprobaci&oacute;n de dos terceras partes de sus integrantes, as&iacute; como la mayor&iacute;a de los Congresos locales. Esto es una facultad soberana y originaria conferida al Constituyente Permanente.</p>
+
+<p>No en todos los Estados est&aacute; esa posibilidad, en M&eacute;xico existe, es el &oacute;rgano depositario de la soberan&iacute;a popular a trav&eacute;s de los representantes, con lo cual el Poder Judicial no tiene ninguna injerencia.</p>
+
+<p>No existe en nuestro sistema jur&iacute;dico una disposici&oacute;n constitucional o legal que otorgue al Poder Judicial de la Federaci&oacute;n o a cualquier otro ente facultad para cuestionar, revisar o anular la labor del &oacute;rgano revisor de la Constituci&oacute;n; por el contrario, la normatividad prev&eacute; expresamente la improcedencia de juicio constitucional de los amparos y dem&aacute;s en contra de las adiciones o reformas a la Constituci&oacute;n.</p>
+
+<p>Un juzgado, por lo tanto, no se puede autofacultar para someter a revisi&oacute;n jurisdiccional una reforma constitucional porque, m&aacute;s all&aacute; de sus atribuciones expresas, implicar&iacute;a ponerse por encima del &oacute;rgano revisor, erigi&eacute;ndose en la m&aacute;xima autoridad del Estado mexicano y desconociendo el postulado del constituyente originario, seg&uacute;n el cual la soberan&iacute;a nacional reside esencial y originalmente en el pueblo y no en un juzgador de distrito.</p>
+
+<p>La actuaci&oacute;n de estos jueces usurpa atribuciones que le fueron conferidas al poder reformador, que es la m&aacute;xima expresi&oacute;n.</p>
+
+<p>Aunado a lo anterior, pretenden suspender un procedimiento que vulnerar&iacute;a el pacto federal. Es el pueblo quien ejerce la soberan&iacute;a por medio de los Poderes de la Uni&oacute;n, en ning&uacute;n caso las determinaciones de uno o de otro poder pueden contravenir las estipulaciones que les da al pueblo de M&eacute;xico.</p>
+
+<p>Resulta, pues, inveros&iacute;mil que un juez de distrito no s&oacute;lo pretenda intervenir y limitar las facultades constitucionales del Congreso, sino, adem&aacute;s, incluso de los Congresos estatales que forman parte del Constituyente Permanente.</p>
+
+<p>Miren, ellos mismos, ellos saben, son constitucionalistas, son peritos en derecho y saben que la propia Suprema Corte de Justicia en m&uacute;ltiples criterios, sentencias &mdash;hay jurisprudencia&mdash;, han negado la posibilidad de que se revise una reforma constitucional. Ah&iacute; est&aacute; clar&iacute;simo, lo dicen, no es susceptible de control jurisdiccional una reforma constitucional, ya que se encuentra en s&iacute; misma el tema constitucional. La labor del &oacute;rgano reformador de la Constituci&oacute;n constituye una funci&oacute;n soberana, no sujeta a ning&uacute;n tipo de control externo.</p>
+
+<p>Todo est&aacute;, todo lo tenemos desarrollado y esto... Quiero decirles tambi&eacute;n hay un claro conflicto de inter&eacute;s por si fuera&hellip; no fuera suficiente, ya que est&aacute;n desobedeciendo a la propia Constituci&oacute;n. No lo explico, es clar&iacute;simo, es obvio el conflicto de inter&eacute;s que tiene. Es un caso sin precedentes.</p>
+
+<p>Se har&aacute; hasta donde la presidenta ha informado, una denuncia ante el Consejo de la Judicatura para que revise. Tienen que revisar, este Consejo de la Judicatura, la actuaci&oacute;n de los jueces de distrito que est&aacute;n contraviniendo la Constituci&oacute;n, sus propios criterios, su propia jurisprudencia, y que determine el Poder Judicial si est&aacute;n actuando o no bien estos jueces de distrito que pretenden erigirse por encima de la soberan&iacute;a del pueblo de M&eacute;xico y del poder reformador que est&aacute; en el Congreso.</p>
+
+<p>Con eso me quedo, porque es mucho m&aacute;s complicado, pero de manera general.</p>
+
+<p>Gracias, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Rapid&iacute;simo.</p>
+
+<p><strong>ARTURO ZALD&Iacute;VAR LELO DE LARREA, COORDINADOR GENERAL DE POL&Iacute;TICA Y GOBIERNO, PRESIDENCIA DE LA REP&Uacute;BLICA:</strong> Con su permiso, presidenta. Muy buenos d&iacute;as.</p>
+
+<p>En complemento a lo que ya ha dicho la consejera jur&iacute;dica, simplemente se&ntilde;alo lo siguiente: la Constituci&oacute;n y las leyes tambi&eacute;n obligan al Poder Judicial Federal, es un poder constituido que no est&aacute; exento de actuar en el &aacute;mbito de sus competencias.</p>
+
+<p>Todas estas suspensiones que se han venido otorgando son abiertamente contrarias a derecho:</p>
+
+<p>Primero, porque hay una disposici&oacute;n en la ley de amparo que con claridad establece que el amparo no procede en contra de reformas constitucionales, y las y los jueces la han inaplicado de manera autom&aacute;tica.</p>
+
+<p>En segundo lugar, porque tampoco procede la suspensi&oacute;n en contra de un proceso legislativo, mucho menos de un proceso de reforma constitucional, como pretendieron.</p>
+
+<p>En tercer lugar, porque una suspensi&oacute;n no puede tener, en casos como este, un efecto restitutivo, que es invalidar o quitar una publicaci&oacute;n en el <em>Diario Oficial</em>. Entre otras cosas, se est&aacute; exigiendo a la presidenta algo que jur&iacute;dicamente es imposible, el acto ya est&aacute; consumado.</p>
+
+<p>Adicionalmente, se le est&aacute; pretendiendo dar a la suspensi&oacute;n efectos generales, lo que tambi&eacute;n est&aacute; prohibido. Y se pretende que las suspensiones tengan efectos en procesos y procedimientos electorales, lo que tambi&eacute;n est&aacute; prohibido.</p>
+
+<p>Es decir, en estos casos, los jueces y las juezas est&aacute;n actuando claramente al margen de sus atribuciones, con un inter&eacute;s personal y directo en contra de la reforma, estando impedidos para resolver, y est&aacute;n trastocando y desafiando el orden constitucional.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Bueno, resumiendo muy r&aacute;pidamente, al menos hay tres denuncias, aunque estamos haciendo una solicitud de informaci&oacute;n en la Fiscal&iacute;a General de la Rep&uacute;blica para saber cu&aacute;ntas denuncias hay, cu&aacute;ntas carpetas de investigaci&oacute;n hay abiertas contra Garc&iacute;a Luna en la Fiscal&iacute;a General de la Rep&uacute;blica.</p>
+
+<p>Al menos, como present&oacute; Rosa Icela Rodr&iacute;guez aqu&iacute;, hay tres:</p>
+
+<p>Una, relacionada con &lsquo;R&aacute;pido y furioso&rsquo;.</p>
+
+<p>Otra, relacionada con la construcci&oacute;n de estos espacios de detenci&oacute;n, reclusorios, que se hicieron a trav&eacute;s de contratos privados con costos muy altos y en donde hay participaci&oacute;n de Garc&iacute;a Luna.</p>
+
+<p>Y, por otro lado, esta investigaci&oacute;n que presenta la UIF, en donde Garc&iacute;a Luna est&aacute; involucrado en lavado de dinero, vamos a decirlo as&iacute;.</p>
+
+<p>Adem&aacute;s, est&aacute; la carpeta de investigaci&oacute;n abierta sobre el caso de Luis Donaldo Colosio, el asesinato de Colosio, en donde la fiscal&iacute;a encuentra que Genaro Garc&iacute;a Luna est&aacute; involucrado; sin embargo, un juez no dio la orden de aprehensi&oacute;n.</p>
+
+<p>Entonces, son al menos estos casos y estamos haciendo una consulta para ver si hay otros casos en donde hay investigaciones o incluso ya &oacute;rdenes de aprehensi&oacute;n contra Genaro Garc&iacute;a Luna en nuestro pa&iacute;s.</p>
+
+<p>Lo segundo, una juez &mdash;le preguntaba ahora a Paulina si me daban el nombre de la juez&mdash; el d&iacute;a de ayer&hellip; No nos han notificado, es a trav&eacute;s de los medios de comunicaci&oacute;n.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Nancy Ju&aacute;rez, de Veracruz.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Nancy Ju&aacute;rez, de Veracruz.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> De Coatzacoalcos, Veracruz</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> De Coatzacoalcos, Veracruz, ordena bajar la publicaci&oacute;n del Diario Oficial de la Federaci&oacute;n de la reforma al Poder Judicial. Y ah&iacute; dice que, si no se hace eso, se dar&aacute; vista al Ministerio P&uacute;blico y que el delito para la presidenta &mdash;porque es un amparo dentro de un juicio de amparo&mdash; son nueve a no s&eacute; cu&aacute;ntos a&ntilde;os de c&aacute;rcel. Entonces&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Tres a nueve a&ntilde;os.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Cu&aacute;nto?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Tres a nueve a&ntilde;os.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Tres a nueve a&ntilde;os de prisi&oacute;n.</p>
+
+<p>Entonces, en el primer caso es muy importante, lo de Garc&iacute;a Luna, porque hay temas jur&iacute;dicos, denuncias contra el criminal Genaro Garc&iacute;a Luna en M&eacute;xico.</p>
+
+<p>Y, lo segundo, la explicaci&oacute;n que dan Ernestina Godoy y el ministro Zald&iacute;var es que la juez no tiene ninguna atribuci&oacute;n para solicitar que se quite del <em>Diario Oficial de la Federaci&oacute;n </em>esta publicaci&oacute;n:</p>
+
+<p>Primero, porque no tiene atribuci&oacute;n, porque una juez no est&aacute; por encima del pueblo de M&eacute;xico.</p>
+
+<p>Segundo, porque jur&iacute;dicamente no tiene ning&uacute;n sustento lo que est&aacute; haciendo.</p>
+
+<p>Y tercero, porque es el Poder Legislativo quien ordena al presidente, el entonces presidente Andr&eacute;s Manuel L&oacute;pez Obrador, la publicaci&oacute;n en el <em>Diario Oficial de la Federaci&oacute;n</em>.</p>
+
+<p>Entonces, no vamos a bajar la publicaci&oacute;n, n&uacute;mero uno.</p>
+
+<p>Y n&uacute;mero dos, vamos a hacer una denuncia de esta juez ante el Consejo de la Judicatura.</p>
+
+<p>Ya sabemos que el Consejo de la Judicatura no necesariamente est&aacute; haciendo su trabajo, pero, de todas maneras, no queremos que quede en la impunidad, queremos que quede un antecedente de que hay una juez que por encima de su funci&oacute;n est&aacute; pidiendo que se baje una publicaci&oacute;n que se hizo a partir de un proceso legislativo, de cambio constitucional que est&aacute; establecido en la propia Constituci&oacute;n, y que deriva de la voluntad del pueblo de M&eacute;xico expresada en las urnas el 2 de junio del 2024.</p>
+
+<p>Entonces, esos dos temas quer&iacute;amos plantearles.</p>
+
+<p>Ahora s&iacute;, pasamos a las preguntas. Vamos de nuevo a la primera fila, pero ac&aacute;.</p>
+
+<p><strong>PREGUNTA:</strong> Muy buenos d&iacute;as, presidenta &mdash;Ram&oacute;n Flores, del <em>Centinela Informa</em> and <em>The Human Hoy</em>&mdash; y funcionarios que la acompa&ntilde;an.</p>
+
+<p>La verdad es que nos urg&iacute;a llegar aqu&iacute;, a la ma&ntilde;anera, porque para m&iacute; es una pena el haber escuchado c&oacute;mo ayer le matizaron la informaci&oacute;n varios periodistas, y tambi&eacute;n la publicaron aqu&iacute; en el pa&iacute;s, diciendo que el juez Brian Cogan hab&iacute;a comparado a Genaro Garc&iacute;a Luna con &lsquo;el Chapo&rsquo; Guzm&aacute;n. La verdad es que nosotros estuvimos presentes ah&iacute;, en el juicio, bueno, en el juicio ya de la condena, y &eacute;l nunca compar&oacute; a Genaro Garc&iacute;a Luna con &lsquo;el Chapo&rsquo; Guzm&aacute;n.</p>
+
+<p>Le voy a decir textuales sus palabras del juez Brian Cogan, donde despu&eacute;s de que termina de leer su carta Genaro Garc&iacute;a Luna, en unas breves palabras de su abogado C&eacute;sar de Castro, pues la verdad es que el rostro del juez Brian Cogan se descompuso y le dijo: &lsquo;Usted&hellip;&rsquo; Pr&aacute;cticamente le dice &lsquo;c&iacute;nico&rsquo;, porque le dice: &lsquo;Usted es capaz de estar en la iglesia los fines de semana y saliendo de la iglesia estar negociando con los narcotraficantes&rsquo;.</p>
+
+<p>Le dice: &lsquo;Yo entiendo que usted me dice que es un padre de familia, que fue muy educado, pero su carta no me conmueve porque, aparte, usted dej&oacute; que creciera &lsquo;el Chapo&rsquo; Guzm&aacute;n, que se expandiera &lsquo;el Chapo&rsquo; Guzm&aacute;n, que se fortaleciera &lsquo;el Chapo&rsquo; Guzm&aacute;n; le dio la espalda a la sociedad mexicana como secretario de Seguridad P&uacute;blica&rsquo;. Y remata diciendo esto: &lsquo;Usted no es como &lsquo;el Chapo&rsquo;, usted es peor que &lsquo;el Chapo&rsquo; Guzm&aacute;n&rsquo;.</p>
+
+<p>Entonces, esa declaraci&oacute;n la matizaron. La verdad, es lamentable que haya habido &mdash;les llaman &lsquo;vacas sagradas del periodismo&rsquo;&mdash;, ah&iacute;, en ese juicio, y matizaran que hab&iacute;a comparado el juez Brian Cogan a Genaro Garc&iacute;a Luna con &lsquo;el Chapo&rsquo;. Nunca lo compar&oacute;, le dijo que era peor.</p>
+
+<p>Bueno, y tambi&eacute;n, presidenta, preguntarle a don Pablo G&oacute;mez, porque tambi&eacute;n vimos el descaro brutal, de que llega la esposa de Genaro Garc&iacute;a Luna, que tiene una orden de aprehensi&oacute;n aqu&iacute;, en M&eacute;xico, llega all&aacute;, al juicio, y cuando sale &mdash;ahorita le voy a mandar el video a Paulina&mdash;, cuando sale, muchos hermanos migrantes la increpan, de que regresara lo robado. Y la se&ntilde;ora, con una sorna, con una sonrisa, se fue riendo.</p>
+
+<p>La verdad es que los medios independientes que est&aacute;bamos ah&iacute; les dec&iacute;amos que no la fueran a agredir porque no era v&aacute;lido. Pero con una sorna, y eso no lo tolera el pueblo.</p>
+
+<p>Entonces, preguntarle primero a don Pablo G&oacute;mez qu&eacute; avance hay sobre su orden de aprehensi&oacute;n con la Fiscal&iacute;a General de la Rep&uacute;blica, qu&eacute; pas&oacute; con la jueza que le liber&oacute; las cuentas.</p>
+
+<p>Y ahorita le hago una misma pregunta sobre el mismo tema.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Quieres comentar algo?</p>
+
+<p><strong>PABLO G&Oacute;MEZ &Aacute;LVAREZ: </strong>Gracias. Con permiso. S&iacute;, la orden de aprehensi&oacute;n contra Garc&iacute;a Luna y contra la esposa de Garc&iacute;a Luna es un proceso ya abierto que tiene a una gran cantidad de personas que est&aacute;n involucradas en ese procedimiento, que tienen orden de aprehensi&oacute;n; hay varias personas que est&aacute;n en la c&aacute;rcel por ese motivo.</p>
+
+<p>&iquest;Qu&eacute; procede?</p>
+
+<p>Solicitar la extradici&oacute;n, solicitar la extradici&oacute;n de todos los que est&aacute;n en Estados Unidos, empezando por Garc&iacute;a Luna y su esposa.</p>
+
+<p>El hecho de que Garc&iacute;a Luna est&eacute; en la c&aacute;rcel no quiere decir que no haya que solicitar extradici&oacute;n, porque una persona puede abandonar la c&aacute;rcel en cualquier&hellip; por cualquier motivo, y en ese momento se aplica la extradici&oacute;n. Y el gobierno de Estados Unidos estar&iacute;a en condiciones y con la obligaci&oacute;n de enviar a M&eacute;xico a esta persona cuando eventualmente abandone la c&aacute;rcel.</p>
+
+<p>En cuanto a su esposa, pues inmediatamente deber&iacute;an extraditarla.</p>
+
+<p>En cuanto a la jueza que quit&oacute; de la lista de personas bloqueadas a la esposa de Garc&iacute;a Luna, pues ustedes saben que no proceden. Se los voy a decir con sinceridad, las quejas contra los jueces pr&aacute;cticamente son&hellip; Excepcionalmente. Y siempre hemos presentado quejas, siempre hemos presentado recursos de revisi&oacute;n, y siempre hay una negativa porque est&aacute;n en connivencia permanentemente. No por nada se hizo la reforma judicial m&aacute;s grande de la historia de M&eacute;xico.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y presidenta, sobre el mismo tema, sobre la declaraci&oacute;n del juez Brian Cogan donde dice que Genaro Garc&iacute;a Luna es peor que &lsquo;el Chapo&rsquo; Guzm&aacute;n, preguntarle en concreto: &iquest;es un mensaje tambi&eacute;n directo para los pr&oacute;ximos funcionarios p&uacute;blicos en este pa&iacute;s saber en d&oacute;nde pueden terminar si ellos se coluden con el narcotr&aacute;fico o con el crimen organizado?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. Y no se requiere necesariamente de un juzgado de Estados Unidos, la cero impunidad es la cero impunidad a delincuentes y a quienes enga&ntilde;an al pueblo de M&eacute;xico diciendo que desarrollan una funci&oacute;n, cuando en realidad est&aacute;n en contra.</p>
+
+<p>Ahora, el tema tambi&eacute;n es que ayer&hellip; Qu&eacute; bueno que mencionas esto, porque no se conoce, qu&eacute; bueno que pudiste tomar la palabra y que mencionas que estuviste en el juicio y lo que realmente dijo el juez, porque ayer en varios medios ahora resulta que Garc&iacute;a Luna no&hellip; Qui&eacute;n sabe por qu&eacute; lo sentenciaron despu&eacute;s de cinco a&ntilde;os de juicio, ahora resulta que no hay pruebas. Y salen colaboradores del gobierno de Calder&oacute;n o parte de su gabinete diciendo que no saben por qu&eacute; Garc&iacute;a Luna fue sentenciado, cuando hay pruebas de personas, una embajadora; incluso, hay un general y hay otras personas que le dijeron a Calder&oacute;n lo que estaba ocurriendo y la colusi&oacute;n con los delincuentes.</p>
+
+<p>Pero, adem&aacute;s, como si el juicio de Garc&iacute;a Luna en Estados Unidos no hubiera tenido la suficiente informaci&oacute;n, cruce de pruebas, cruce de testigos como para declararlo culpable, y las palabras del juez.</p>
+
+<p>Y, adem&aacute;s, ayer tambi&eacute;n, o antes de ayer, otros periodistas, porque tambi&eacute;n hay que hablar de quien as&iacute; lo hizo, el montaje de Florence Cassez es previo, es cuando &eacute;l era director de la Agencia Federal de Investigaci&oacute;n, en invento de supuestamente bandas de secuestro, la denuncia que hicieron periodistas en aquel entonces, las amenazas de Garc&iacute;a Luna contra estos periodistas por ese montaje, en donde tambi&eacute;n particip&oacute; un conocido conductor&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Loret de Mola.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> As&iacute; es. Son previas a que Calder&oacute;n lo nombre como secretario de Seguridad.</p>
+
+<p>Entonces ahora resulta que es una v&iacute;ctima. Calder&oacute;n sab&iacute;a, y no puede &eacute;l ahora decir que no sab&iacute;a nada, porque adem&aacute;s hay declaraciones de &eacute;l diciendo: &lsquo;Yo me har&eacute; responsable si resulta culpable&rsquo;. Entonces, se cargan ayer un mont&oacute;n de exfuncionarios diciendo que Garc&iacute;a Luna es inocente; pues es triple cinismo, hipocres&iacute;a y todo lo dem&aacute;s.</p>
+
+<p>Entonces, como lo mencionamos ayer, es importante que el pueblo de M&eacute;xico sepa que hay &oacute;rdenes de aprehensi&oacute;n contra Garc&iacute;a Luna en M&eacute;xico, que hay investigaciones, que incluso hay una investigaci&oacute;n relacionada con el asesinato de Colosio, que tanto dolor le caus&oacute; a nuestro pa&iacute;s. Y tambi&eacute;n vamos a ver el tema de la extradici&oacute;n de la esposa.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Muchas gracias, presidenta.</p>
+
+<p>En mi segundo tema, tambi&eacute;n nos entrevistamos con much&iacute;simos hermanos migrantes, all&aacute; en Nueva York. Hay un conflicto que tienen ah&iacute; tambi&eacute;n con el consulado y con&hellip; Bueno, se acercaron muchos migrantes a quererle hacer una propuesta a usted, presidenta, a trav&eacute;s de un servidor, de que ellos quieren destrabar el conflicto, de que a veces quieren tramitar su pasaporte, su INE, su acta de nacimiento, su matr&iacute;cula consular y no les dan la informaci&oacute;n adecuada, y luego dicen que los funcionarios del gobierno de la 4T son los que no los atienden.</p>
+
+<p>Entonces, hubo un grupo que platic&oacute; conmigo y me dijo que le hiciera, bueno, que le hiciera llegar esta propuesta de que por qu&eacute; no el gobierno hace un convenio con la UNAM, un ejemplo, de que, por ejemplo, los licenciados en Ciencias de la Comunicaci&oacute;n, en vez de ir a hacer servicio a alg&uacute;n otro lado, lo hicieran en los consulados para que le pudieran brindar&hellip; No quiero ocupar la palabra &lsquo;ignorancia&rsquo;, porque todos somos ignorantes en ciertos temas, pero porque muchos hermanos migrantes ignoran c&oacute;mo hacer sus tr&aacute;mites para el acta de nacimiento, para la credencial de elector, para el pasaporte; y luego, afuera de los consulados hay veces que hay abusones, que les dicen: &lsquo;&iquest;Quieres que te tramite tu acta de nacimiento? Pues te cobro tantos d&oacute;lares. &iquest;Quieres que te tramite tu credencial de elector? Tantos d&oacute;lares&rsquo;.</p>
+
+<p>Entonces, ellos dec&iacute;an que si su gobierno podr&iacute;a proponer que cada s&aacute;bado en cada consulado pudieran darles alguna orientaci&oacute;n de c&oacute;mo hacer sus tr&aacute;mites a los hermanos migrantes para que no tuvieran tantos conflictos con los funcionarios all&aacute;, en Estados Unidos.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Se va a modificar la manera en que operan los consulados, esa es la principal funci&oacute;n del canciller, que est&aacute; trabajando en ello en varios sentidos:</p>
+
+<p>Uno, hay muchos tr&aacute;mites como, por ejemplo, un acta de nacimiento; son tr&aacute;mites que tienen que ver con los estados, no con la federaci&oacute;n, porque los registros civiles tienen que ver jur&iacute;dicamente con los estados; entonces, lo que estamos trabajando tambi&eacute;n, pues es la coordinaci&oacute;n de las 32 entidades de la Rep&uacute;blica con el sistema consular para poder facilitar la expedici&oacute;n de actas de nacimientos, actas de defunci&oacute;n o cualquier tr&aacute;mite que tenga que ver con el registro civil.</p>
+
+<p>Y, adem&aacute;s, otros. Por ejemplo, la emisi&oacute;n de la credencial de elector, pues tiene que ver con Instituto Nacional Electoral, y el consulado facilita el espacio para que se d&eacute;. Esto tiene que simplificarse.</p>
+
+<p>Entonces, no es responsabilidad de nuestros hermanos migrantes, no es responsabilidad de nuestros paisanos y paisanas que viven del otro lado el que los&hellip; el que la atenci&oacute;n no sea correcta; es responsabilidad de los consulados.</p>
+
+<p>Entonces, por eso tiene que modificarse la forma de atenci&oacute;n de los consulados, en donde su principal funci&oacute;n sea la atenci&oacute;n a las y los mexicanos que viven, en particular, en los Estados Unidos, pero no solamente. Entonces, est&aacute; trabajando en ello el secretario Juan Ram&oacute;n de la Fuente. Ya va a venir aqu&iacute; para poderlo presentar. Pero tenemos tambi&eacute;n que avanzar en la facilitaci&oacute;n de tr&aacute;mites para que pueda ser mucho m&aacute;s f&aacute;cil el acceso a todo lo que requiere un mexicano, mexicana que vive en el exterior.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y, por &uacute;ltimo, presidenta, yo soy originario de un municipio que se llama R&iacute;o Blanco, Veracruz. Es tiempo de mujeres, como usted lo dice. Se me acerc&oacute; una se&ntilde;ora de 92 a&ntilde;os y me dijo que se sent&iacute;a muy contenta porque ella pens&oacute; que iba a fallecer sin ver a una mujer presidenta, pero que ahora dice: &lsquo;Por favor, expl&iacute;cale a la presidenta&rsquo;, que mencionan a Josefa, a do&ntilde;a Josefa Ortiz, sin el Dom&iacute;nguez, y mencionan a varias mujeres m&aacute;s y dicen que es tiempo de mujeres, pero que si usted ser&iacute;a capaz de hacerle justicia a todas la hero&iacute;nas olvidadas que participaron tanto en el movimiento del 7 de julio de 1907, en lo que fue previo a la Revoluci&oacute;n all&aacute;, en R&iacute;o Blanco, Veracruz, las que estuvieron tambi&eacute;n en las huelgas de Cananea, o sea, todas las mujeres que no tienen nombre, que si usted podr&iacute;a hacerles un monumento llam&aacute;ndoles, no las hero&iacute;nas olvidadas, sino las hero&iacute;nas sin nombre, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> De hecho, lo hice en la Ciudad de M&eacute;xico, cuando fui jefa de Gobierno. Paseo de la Reforma, que es una avenida, no s&oacute;lo de la Ciudad de M&eacute;xico, sino del pa&iacute;s completo, porque la capital de la Rep&uacute;blica es capital de todas y todos los mexicanos, esta avenida tan importante de la Ciudad de M&eacute;xico, que le pertenece a las y los mexicanos, no ten&iacute;a una sola mujer, tiene much&iacute;simos monumentos dedicados a hombres que en la historia cumplieron alguna funci&oacute;n y tienen su reconocimiento.</p>
+
+<p>Entonces, como primera jefa de Gobierno electa dije: Vamos a hacer el &lsquo;Paseo de las hero&iacute;nas&rsquo; en Paseo de la Reforma, que va hacia el Bosque de Chapultepec, ah&iacute; hay 13 monumentos, uno de los monumentos es a las hero&iacute;nas an&oacute;nimas que no conocemos sus nombres, que hay que seguir investig&aacute;ndolas porque hay que conocer sus nombres, pero que han jugado un papel trascendental en la historia de M&eacute;xico, en las cuatro transformaciones, y, adem&aacute;s, apoyando a sus familias. Porque esta idea de que qui&eacute;n&hellip; A veces yo dec&iacute;a en los m&iacute;tines: &iquest;Qui&eacute;n le dio de comer a los revolucionarios? Pues una tarea tan importante, como otras tareas que de alguna manera fueron orientadas a las mujeres, que no deber&iacute;a ser as&iacute;, pero que las cumplimos durante much&iacute;simos a&ntilde;os, no son reconocidas como parte de la transformaci&oacute;n de nuestro pa&iacute;s.</p>
+
+<p>Entonces, s&iacute;, y hay que seguir reivindicando a las hero&iacute;nas an&oacute;nimas.</p>
+
+<p>Ac&aacute;.</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as, presidenta; buenos d&iacute;as, compa&ntilde;eros.</p>
+
+<p>De Hidalgo, presidenta. Preguntarle, pues est&aacute; muy sonado el tema del Poder Judicial. Tengo esta pregunta para usted. En este esfuerzo de combatir la corrupci&oacute;n, el juez federal, Gregorio Salazar Hern&aacute;ndez, sobresey&oacute; la causa de Gerardo Sosa Castel&aacute;n, quien fue acusado de lavado de dinero y delincuencia organizada, aun con pruebas, de un da&ntilde;o de m&aacute;s de 58 millones de pesos a la m&aacute;xima casa de estudios del estado de Hidalgo.</p>
+
+<p>&iquest;C&oacute;mo considera esta decisi&oacute;n usted, que fue emitida antes de la apertura del juicio? Y pues si usted cree que se siga reflejando la persistencia de la corrupci&oacute;n en el Poder Judicial.</p>
+
+<p>Por otro lado, mi otra pregunta es: considerando la magnitud del Centro de Reciclamiento de Econom&iacute;a Circular en Tula, el cual anunciaron en d&iacute;as pasados, &iquest;c&oacute;mo se garantiza que la operaci&oacute;n de las plantas recicladoras de residuos org&aacute;nicos y de materiales de construcci&oacute;n cumplan con los est&aacute;ndares internacionales de sustentabilidad? &iquest;Y qu&eacute; impacto econ&oacute;mico y ambiental se espera a corto y largo plazo para los hidalguenses?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Bueno, sobre el primer caso, hay que conocer pues todo lo que sustenta, y pues no se puede sobreseer un caso si tiene sustento, &iquest;no?</p>
+
+<p>Ahora, es importante que se sepa que la reforma al Poder Judicial tiene varias etapas; una etapa es con los jueces, magistrados, ministros y ministras federales. Bueno, ministras y ministros de la Suprema Corte s&oacute;lo son federales, pero magistrados y jueces federales.</p>
+
+<p>Pero la reforma establece un tiempo. &iquest;Cu&aacute;l es la fecha l&iacute;mite?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Ciento ochenta d&iacute;as.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> En 180 d&iacute;as, m&aacute;ximo 180 d&iacute;as; los estados y la Ciudad de M&eacute;xico deben cambiar sus constituciones para que los jueces locales y magistrados locales, estatales, tambi&eacute;n sean electos.</p>
+
+<p>Entonces, no solamente son los federales, tambi&eacute;n son los estatales, que llevan casos, por ejemplo, de la justicia familiar, que es un tema muy relevante, y tambi&eacute;n tiene que haber modificaciones.</p>
+
+<p>Entonces, la reforma al Poder Judicial va. Ni un juez, ni una jueza, ni ocho ministros pueden parar la voluntad del pueblo de M&eacute;xico. La reforma va.</p>
+
+<p>Ya estamos preparando otro paquete de leyes secundarias muy importantes que se derivan de la reforma constitucional, desde la Ley Org&aacute;nica de la Suprema Corte de Justicia, para determinar, adem&aacute;s, particularmente el Tribunal de Disciplina, para que no&hellip; para que tenga muy claras sus reglas y otras reglas, hasta muchas leyes que tienen que ver con los procedimientos.</p>
+
+<p>Recuerden que la reforma al Poder Judicial tambi&eacute;n establece tiempos. Por ejemplo, para resolver un juicio mercantil o un juicio que tiene que ver con pago de impuestos, ya no va a ser como ahora, que pueden pasar a&ntilde;os y a&ntilde;os y a&ntilde;os, amparos, amparos y amparos para que no se paguen los impuestos, sino que en seis meses se va a tener que resolver por parte del Poder Judicial. Para ello, tienen que cambiarse varias leyes secundarias; entonces, se est&aacute; trabajando para estas leyes secundarias &mdash;algunas incluso se est&aacute;n trabajando desde aqu&iacute;, tambi&eacute;n desde el propio Poder Legislativo&mdash; para que muy pronto quede ya todo el paquete de la reforma al Poder Judicial; y, adem&aacute;s, cuando se elijan los jueces, magistrados, magistradas, ministros, ministras, ya est&eacute; todo el sistema judicial nuevo para que entremos, pues a una nueva era de la justicia en M&eacute;xico.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y de la nueva, el nuevo Centro de Reclutamiento de Econom&iacute;a Circular, presidenta, por favor.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Ah, s&iacute;, perd&oacute;name. Ah&iacute; donde se iba a construir la refiner&iacute;a de Calder&oacute;n, que nunca se construy&oacute;, que qued&oacute; en media barda, se est&aacute; construyendo, en una parte, un hospital del IMSS que ya va a terminar muy pronto, lo vamos a ir inaugurar.</p>
+
+<p>En la otra parte son alrededor de 700 hect&aacute;reas. Tula es una ciudad que durante muchos a&ntilde;os ha recibido mucha contaminaci&oacute;n por r&iacute;o Tula, por los propios municipios conurbados a Tula, por la refiner&iacute;a, por la planta de generaci&oacute;n el&eacute;ctrica. Entonces, el objetivo es hacer un saneamiento integral, pero no solamente del municipio de Tula, sino desde la Zona Metropolitana del Valle de M&eacute;xico. Entonces, se est&aacute; trabajando en el saneamiento del r&iacute;o Tula y otros r&iacute;os que desembocan en el r&iacute;o Tula.</p>
+
+<p>Estamos trabajando para poder hacer la planta de generaci&oacute;n el&eacute;ctrica, que hoy usa combust&oacute;leo en una planta de ciclo combinado, lo cual reducir&iacute;a de manera muy importante las emisiones.</p>
+
+<p>La coquizadora de la refiner&iacute;a, que va a ayudar much&iacute;simo, que ya va muy adelantada, el presidente L&oacute;pez Obrador la dej&oacute; muy adelantada, y adem&aacute;s en ese terreno, un centro, le llamamos, de econom&iacute;a circular, de reciclamiento de residuos.</p>
+
+<p>Se va a hacer un convenio &mdash;todo este trabajo lo va a coordinar la secretaria Alicia B&aacute;rcena&mdash; se va a hacer un convenio con el Instituto de Ingenier&iacute;a de la UNAM para trabajar en un centro de reciclamiento de basura org&aacute;nica, otra inorg&aacute;nica, otra de residuos de la construcci&oacute;n e incluso otra que permita usar los lodos de las plantas de tratamiento de agua para producci&oacute;n de electricidad.</p>
+
+<p>Entonces, justicia a toda esta zona de Hidalgo. Y estamos trabajando muy bien con el gobernador y con la gobernadora Delfina y tambi&eacute;n con Clara, porque, finalmente, es un proyecto metropolitano.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;En cu&aacute;nto tiempo se podr&aacute; ver reflejado esta parte de&hellip;?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Se est&aacute;n haciendo los estudios, yo creo que los estudios para poder tener un proyecto ejecutivo definitivo estar&aacute;n en el primer trimestre o finales del primer trimestre del 2025, y a partir de ah&iacute; ya se presentar&iacute;a a la poblaci&oacute;n de la zona metropolitana el proyecto integral y cu&aacute;nto tiempo llevar&iacute;a su construcci&oacute;n.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidenta. Muy buenos d&iacute;as.</p>
+
+<p>Janet Galindo, de Grupo Transmedia<em>, La Chispa</em>.</p>
+
+<p>Presidenta, dentro de esta llamada y de esta imposici&oacute;n que quiso hacer esta jueza de Veracruz, Nancy Ju&aacute;rez, tambi&eacute;n hace un llamado hacia la parte judicial y, bueno, les dice que, si hay en alg&uacute;n momento, hay alguna, alguna respuesta, hace una invitaci&oacute;n, dice que van a ir contra el presidente, contra el expresidente Andr&eacute;s Manuel L&oacute;pez Obrador. &iquest;Cu&aacute;l ser&iacute;a su opini&oacute;n en este caso?</p>
+
+<p>Y tambi&eacute;n saber qu&eacute; es lo que ha pasado con el juez C&eacute;sar de Castro, que tambi&eacute;n fue quien&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> El abogado.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Ay, perd&oacute;n, el abogado, s&iacute;, el abogado C&eacute;sar de Castro, quien manch&oacute; o quiso manchar el nombre del presidente. No s&eacute; cu&aacute;l ser&iacute;a su opini&oacute;n en torno a esto, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Pues es que no tiene sustento. Y, adem&aacute;s, hay que repetirlo a los trabajadores y trabajadoras del Poder Judicial, ellos no tienen de qu&eacute; preocuparse, a menos que est&eacute;n defendiendo alg&uacute;n privilegio en particular o alg&uacute;n negocio, porque sus salarios, sus compensaciones, todo lo que cubre sus ingresos, van a ser respetados, as&iacute; lo dice un art&iacute;culo transitorio de la reforma en la Constituci&oacute;n.</p>
+
+<p>Un trabajador del Poder Judicial tiene su salario. Su ingreso, vamos a ponerlo as&iacute;; se compone de diferentes agregados: est&aacute; el salario base, luego tienen una compensaci&oacute;n por un&hellip; Usted sabe m&aacute;s.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Sus bonos.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Sus bonos, sus complementos, sus&hellip; Nada de eso va a cambiar, se les mantiene completo su ingreso. Ahora, ellos tienen acceso, por su contrato colectivo, a un seguro de gastos m&eacute;dicos mayores, est&aacute; en su contrato colectivo; yo no estoy de acuerdo, pero est&aacute; en su contrato colectivo y se tiene que respetar el contrato colectivo. Entonces, no.</p>
+
+<p>&iquest;Qu&eacute; est&aacute;n? &iquest;Por qu&eacute; est&aacute;n protestando? Tienen derecho a protestar porque no est&aacute;n de acuerdo con la reforma que se hizo, M&eacute;xico es un pa&iacute;s libre, democr&aacute;tico, y tienen raz&oacute;n; pero si est&aacute;n protestando porque se van a afectar sus derechos laborales o sus ingresos, no tiene raz&oacute;n de ser porque no se van a afectar; entonces, es importante que lo conozcan todos los trabajadores del Poder Judicial.</p>
+
+<p>Ahora, si siguen en paro a pesar de que el Consejo de la Judicatura ya dijo que tienen que regresar a trabajar, pues entonces que el Consejo de la Judicatura les aplique los descuentos que se tienen que aplicar, porque alguien no vaya a trabajar.</p>
+
+<p>Ahora, que una jueza por su propio criterio, que no tiene nada que ver con las leyes, con el Estado de derecho que tanto se habla, sino por una ocurrencia quiere hacer algo contra un servidor p&uacute;blico o exservidor p&uacute;blico, contra el presidente Andr&eacute;s Manuel L&oacute;pez Obrador, el expresidente Andr&eacute;s Manuel L&oacute;pez Obrador, pues &iquest;con qu&eacute; sustento? Es que no tiene sustento jur&iacute;dico.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Un golpe de Estado, presidenta?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> No, es que no tiene sustento jur&iacute;dico. Hasta un golpe de Estado tiene que construirse, aunque no sea dentro de la ley, con una legitimidad, con un&hellip; O sea, &iquest;cu&aacute;l golpe de Estado?</p>
+
+<p>La verdad. o sea, una jueza que por su invento le pide a la presidenta que quite del <em>Diario Oficial de la Federaci&oacute;n</em> lo que al presidente le orden&oacute; el Poder Legislativo despu&eacute;s de un proceso electoral en donde el pueblo de M&eacute;xico determin&oacute; la composici&oacute;n del Poder Legislativo y la Constituci&oacute;n y la Ley de Procedimientos Electorales, ese Poder Legislativo con todos los mecanismos de ley cambia el Poder Judicial a partir de una iniciativa que env&iacute;a el entonces presidente Andr&eacute;s Manuel L&oacute;pez Obrador, todo sustentado en la Constituci&oacute;n, bueno, que una jueza tenga una ocurrencia&hellip;</p>
+
+<p><strong>INTERLOCUTORA:</strong> Y en un plazo de 24 horas.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Por eso. Es una ocurrencia de una jueza que no tiene ning&uacute;n sustento jur&iacute;dico. Por eso le ped&iacute; a Ernestina, al ministro Zald&iacute;var, que explicaran por qu&eacute; no tiene ning&uacute;n sustento jur&iacute;dico.</p>
+
+<p>Entonces, no vamos a bajar la publicaci&oacute;n porque no tiene sustento jur&iacute;dico. Y aunque el Consejo de la Judicatura no sancione a los jueces, vamos a presentar esta queja, porque est&aacute; fuera de sus funciones.</p>
+
+<p>Un juez, una jueza, tambi&eacute;n tienen que cumplir con la ley, con la Constituci&oacute;n; es m&aacute;s, esa es su funci&oacute;n primordial. Entonces por un amparo que hace una jueza, ahora resulta que hay un problema de un golpe de Estado, no, yo no lo veo as&iacute;, sencillamente nosotros no podemos ir contra el pueblo de M&eacute;xico, y eso est&aacute; en el art&iacute;culo 39 de la Constituci&oacute;n.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Presidenta, y en otro tema, no s&eacute; si usted sepa, bueno, se logr&oacute; el registro de la licenciada Cristina Alonso para liderar el Sindicato de Trabajadores Petroleros de la Rep&uacute;blica Mexicana, pero resulta que es la &uacute;nica mujer y la &uacute;nica contrincante, por decirlo as&iacute;, de Ricardo Aldana.</p>
+
+<p>Entonces, pues ella hace un llamado tambi&eacute;n a todos los trabajadores a mantener la unidad y, pues, tambi&eacute;n pide que, como es tiempo de mujeres, que la apoyen los trabajadores; y tambi&eacute;n, hacia el secretario del Trabajo, lo &uacute;nico que les pide es que vigilen solamente el proceso. Este proceso, estas elecciones, ya se dar&aacute;n para el d&iacute;a 28 del presente. No s&eacute; cu&aacute;l ser&iacute;a su opini&oacute;n sobre esto, que ya una mujer ha logrado llegar a esta etapa, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Pues ahora s&iacute; que libertad a las y los trabajadores para que elijan a quien ellos y ellas decidan, esa es. Nosotros no tenemos por qu&eacute; meternos a una elecci&oacute;n sindical; eso se hac&iacute;a antes, pero no, esta es una decisi&oacute;n de las y los trabajadores petroleros.</p>
+
+<p>Ac&aacute;, o ac&aacute;, que te hab&iacute;a dicho antes, &iquest;verdad? Ya vamos a ir cerrando.</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as, presidenta.</p>
+
+<p>Fernando Mej&iacute;a, de <em>Grupo Siete Noticias</em>.</p>
+
+<p>El d&iacute;a de ayer, Oralia P&eacute;rez, abogada penalista, fallecida en Cuauht&eacute;moc, en Viaducto, en una camioneta sin placas, con vidrios polarizados. La pregunta ser&iacute;a: &iquest;qu&eacute; acciones tomar&aacute; el gobierno para garantizar la justicia en el caso del asesinato de la abogada y qu&eacute; medios de implementaci&oacute;n se tomar&aacute;n para&hellip;? O si se tomar&iacute;a como feminicidio.</p>
+
+<p>Esa ser&iacute;a mi primera pregunta, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Aqu&iacute; en la ciudad?</p>
+
+<p><strong>INTERLOCUTOR:</strong> S&iacute;.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, bueno, lo lleva la Fiscal&iacute;a General de Justicia de la Ciudad de M&eacute;xico.</p>
+
+<p>Entiendo que ayer hubo tres homicidios en la ciudad y creo que ayer dieron una conferencia de prensa ya muy noche el secretario de Seguridad de la ciudad y el fiscal de la ciudad, y es un caso que lo tienen que llevar ellos, y cualquier apoyo que requieran de las instituciones federales en el marco de la ley, pues lo van a tener.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Muy bien. Gracias.</p>
+
+<p>En otro tema, presidenta, respecto a la Estrategia Nacional de Seguridad que integra a la Guardia Nacional bajo el mando de la Sedena, un sector de la poblaci&oacute;n sigue preocupado por la posibilidad de una militarizaci&oacute;n del pa&iacute;s y el uso de la fuerza para reprimir las protestas y la libertad de la manifestaci&oacute;n. Sabemos que esto, pues evidentemente no suceder&aacute;, pero &iquest;de qu&eacute; manera le garantiza que esto no puede suceder a las personas que, pues aun as&iacute; lo siguen creyendo? Eso, por una parte.</p>
+
+<p>Y, en segundo lugar, &iquest;de qu&eacute; manera esta reforma ayuda a las denuncias an&oacute;nimas relacionadas con la distribuci&oacute;n minorista de droga en colonias conflictivas de la Ciudad de M&eacute;xico o en el pa&iacute;s en general? &iquest;c&oacute;mo ayuda?</p>
+
+<p>Eso ser&iacute;a.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> De la &uacute;ltima, &iquest;c&oacute;mo? &iquest;c&oacute;mo?</p>
+
+<p><strong>INTERLOCUTOR: </strong>Ah, s&iacute;, la &uacute;ltima, de la reforma, &iquest;c&oacute;mo ayuda a que las denuncias an&oacute;nimas en sectores peque&ntilde;os, en colonias conflictivas, ayuda a que la distribuci&oacute;n minorista pues sea atacada?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> A ver, empiezo por la &uacute;ltima. &iquest;Un ciudadano, una ciudadana a qui&eacute;n le presenta una denuncia? Al ministerio p&uacute;blico, a las fiscal&iacute;as. La fiscal&iacute;a tiene la obligaci&oacute;n de integrar, abre una carpeta de investigaci&oacute;n cuando se presenta la denuncia, y la fiscal&iacute;a tiene la obligaci&oacute;n de integrar las pruebas, sea que sean proporcionadas por la v&iacute;ctima o bajo la propia investigaci&oacute;n. Hay delitos m&aacute;s graves, delitos menos graves.</p>
+
+<p>&iquest;Qu&eacute; hace con esa carpeta de investigaci&oacute;n una vez que tiene las pruebas?</p>
+
+<p>Presentar ante un juez la solicitud de una orden de cateo para seguir con la investigaci&oacute;n, o una orden de aprehensi&oacute;n.</p>
+
+<p>&iquest;Qu&eacute; es lo que ha pasado hasta ahora?</p>
+
+<p>Adem&aacute;s de que las fiscal&iacute;as tienen sus propios problemas, se solicita una orden de aprehensi&oacute;n y no se otorga, no procede; o procede y de inmediato viene un amparo, que de manera poco clara se otorga para poder liberar al delincuente, sea del fuero com&uacute;n o delincuencia organizada o delincuencia de cuello blanco u otro tipo, cualquier tipo de delito.</p>
+
+<p>&iquest;Por qu&eacute; la reforma al Poder Judicial ayuda a todas y a todos los ciudadanos?</p>
+
+<p>Porque ya no va a estar el juez nombrado por alguien, ya no le va a deber su puesto a una persona.</p>
+
+<p>&iquest;A qui&eacute;n va a responder ese juez?</p>
+
+<p>Al pueblo, porque el pueblo lo eligi&oacute;. Y su elecci&oacute;n va a ser abierta, conocida, transparente.</p>
+
+<p>Pero, adem&aacute;s, en vez de que exista el Consejo de la Judicatura, va a haber un Tribunal de Disciplina que con una serie de normas y una serie de reglas va a sancionar al juez que cometa un acto de corrupci&oacute;n, alguna irregularidad con sus criterios, sin subjetividades. Ese tribunal tambi&eacute;n va a ser electo.</p>
+
+<p>Entonces, &iquest;qu&eacute; estamos construyendo? Un sistema de justicia y un Poder Judicial distinto al que tenemos ahora, que aqu&iacute; se ha presentado en muchas ocasiones las irregularidades. M&aacute;s del 60 por ciento de la poblaci&oacute;n en todas las encuestas a la fecha est&aacute; de acuerdo en la elecci&oacute;n, es incluso m&aacute;s de los que votaron por nosotros, est&aacute;n de acuerdo en la elecci&oacute;n. Entonces, esto es por un lado.</p>
+
+<p>Ahora, tu primer pregunta, el tema de la militarizaci&oacute;n, &iquest;qu&eacute; garantiza? Primero, que la comandanta suprema de las Fuerzas Armadas es una civil y que nunca va a ordenar la represi&oacute;n.</p>
+
+<p>El primer d&iacute;a que tuvimos la ma&ntilde;anera del pueblo, que estuvo aqu&iacute; Pablo, que fue dirigente estudiantil del 68, presentamos un decreto, una publicaci&oacute;n que sali&oacute; en el <em>Diario Oficial de la Federaci&oacute;n</em> en donde dec&iacute;amos: el m&aacute;ximo responsable de esa matanza del 2 de octubre fue el entonces comandante supremo de las Fuerzas Armadas, &iquest;por qu&eacute;? Porque &eacute;l mismo reconoci&oacute; y adem&aacute;s se jact&oacute; de lo que ocurri&oacute;, de ordenar esa represi&oacute;n como &uacute;nico responsable, m&aacute;s all&aacute; de las investigaciones judiciales.</p>
+
+<p>Entonces eso, por un lado.</p>
+
+<p>Por otro lado, que estamos viviendo un proceso de transformaci&oacute;n que busca la libertad, la democracia, que no queremos regresar al pasado represivo.</p>
+
+<p>Y, tercero, el marco jur&iacute;dico en el que act&uacute;a la Guardia Nacional o la propia Secretar&iacute;a de la Defensa Nacional, la Secretar&iacute;a de Marina o cualquier fuerza del Estado mexicano, que tiene que cumplir con el respeto a los derechos humanos.</p>
+
+<p>Entonces, no hay militarizaci&oacute;n.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Muchas gracias.</p>
+
+<p>Ya nada m&aacute;s para finalizar &mdash;bueno, estos temas los abordo porque realmente creo que hay un gran sector de la poblaci&oacute;n que a&uacute;n est&aacute; incisivo en esa parte y se cree que la militarizaci&oacute;n a&uacute;n existe o va a existir&mdash;, ya nada m&aacute;s para terminar, &iquest;qu&eacute; piensa con respecto a la divisi&oacute;n que existe dentro del PAN por la divisi&oacute;n con respecto a Genaro Garc&iacute;a Luna, con lo que se hablaba hace un momento, con respecto a que unos est&aacute;n a favor y otros totalmente se deslindan del tema de Genaro Garc&iacute;a Luna y del silencio del expresidente&hellip;?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Bueno, no, no estuvo en silencio, ha estado muy comunicativo.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Bueno, en silencio actual.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> No, ha estado muy comunicativo, la verdad. Ayer tuvo una entrevista con Ciro, despu&eacute;s de su largo tuit tuvo una entrevista con Ciro G&oacute;mez Leyva. En su tuit dice que &eacute;l nunca supo, pero que lo volver&iacute;a a hacer, que nunca supo, pero lo volver&iacute;a a hacer; y despu&eacute;s, en esta entrevista sale esta cuesti&oacute;n de que Genaro Garc&iacute;a Luna es una v&iacute;ctima y que no hay pruebas, cuando ya fue sentenciado.</p>
+
+<p>Entonces, por eso es importante lo que planteamos aqu&iacute;, no s&oacute;lo es lo que el juicio en Estados Unidos, sino que aqu&iacute; tiene cuentas pendientes con la ley, Garc&iacute;a Luna, que tienen todo el sustento. Y una que no se quiso dar, una orden, por un juez de aprehensi&oacute;n que est&aacute; vinculado &mdash;f&iacute;jense nada m&aacute;s&mdash; est&aacute; vinculado con el asesinato de Luis Donaldo Colosio.</p>
+
+<p>Y luego, el expresidente, que dice que lo volver&iacute;a a hacer, cuando adem&aacute;s &eacute;l ya sab&iacute;a, antes de asignarlo como secretario del caso del montaje de Florence Cassez y Vallarta &mdash;Vallarta se apellida, &iquest;verdad?&mdash; del caso de bandas delincuenciales vinculadas con secuestro que se hab&iacute;a &eacute;l inventado, amenazas que hab&iacute;an vivido periodistas. A ver, &iquest;por qu&eacute; eso no se dice?</p>
+
+<p>Entonces, no s&iacute; ha estado muy comunicativo, el asunto es que&hellip; La verdad es que el pueblo de M&eacute;xico sabe.</p>
+
+<p>Ac&aacute;. Ya nos vamos a ir, cinco minutos m&aacute;s y cerramos con la c&aacute;psula.</p>
+
+<p><strong>PREGUNTA:</strong> Hola, presidenta, buenos d&iacute;as.</p>
+
+<p>Manuel Galeazzi&nbsp;Ram&iacute;rez, de <em>Sin L&iacute;nea</em> y <em>El pol&iacute;tico en las redes</em>.</p>
+
+<p>Preguntarle su opini&oacute;n y su postura respecto a la suspensi&oacute;n en el INE de la elecci&oacute;n de jueces&hellip; Bueno, el proceso para elegir a jueces, magistrados y ministros. La presidenta del INE dijo que va a acatar las resoluciones para, pues no desobedecer esto y que, si bien sigue en curso todos los dem&aacute;s procedimientos, pues van a esperar a ver qu&eacute; resuelve, primero.</p>
+
+<p>Esa ser&iacute;a mi primer pregunta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> No est&aacute; suspendido. Lo que llam&oacute; la presidenta del INE, y creo que es pertinente, es a que el Tribunal Electoral del Poder Judicial de la Federaci&oacute;n pudiera manifestarse en torno a estos amparos que se est&aacute;n recibiendo.</p>
+
+<p>Porque tambi&eacute;n es importante que se sepa, en el caso de elecciones, quien tiene la atribuci&oacute;n final para determinar si procede o no una elecci&oacute;n, decir si se realiz&oacute; bien o mal, no es la Suprema Corte de Justicia de la Naci&oacute;n, es el Tribunal Electoral del Poder Judicial de la Federaci&oacute;n. Entonces, lo que hizo la presidenta del INE es decir, pedirle al Tribunal Electoral que se manifieste en torno a esto.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Bueno dice que est&aacute;n en espera de resoluciones jur&iacute;dicas precisamente. Y, bueno, &iquest;esto no podr&iacute;a llegar a frenar o pausar cada vez m&aacute;s la elecci&oacute;n de jueces, magistrados y ministros? Usted ahorita descartaba que hay un golpe de Estado, pero &iquest;no ser&iacute;a esto una estrategia de los mismos jueces, magistrados y ministros para dilatar el proceso?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> No tienen sustento jur&iacute;dico, no hay sustento jur&iacute;dico.</p>
+
+<p><strong>INTERLOCUTOR:</strong> <em>Okey</em>, perfecto.</p>
+
+<p>Y, por otro tema, preguntarle, dado que ha generado, pues cierta desinformaci&oacute;n en los medios el ataque que ocurri&oacute; ayer en las instalaciones del diario <em>El Debate</em>, esto con relaci&oacute;n tambi&eacute;n para preguntarle qu&eacute; avances tiene de la estrategia de seguridad que nos inform&oacute; aqu&iacute;. Dijo que se iba a atender de manera especial, y esto tambi&eacute;n permitir&iacute;a quitar cualquier amarillismo, cualquier sensacionalismo que pudiera haber en torno a esto. Si se coment&oacute; hoy en la mesa de seguridad en la ma&ntilde;ana, dado que es un tema que a los periodistas pues nos preocupa y nos ocupa.</p>
+
+<p>Gracias, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Pues, primero, condenar obviamente el hecho. Y se est&aacute;n haciendo las investigaciones. El 29, martes 29 de octubre viene todo el Gabinete de Seguridad a presentar los avances, los &iacute;ndices delictivos, los avances y todo lo que estamos desarrollando en el Gabinete de Seguridad.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Presidenta &iquest;va a haber alguna protecci&oacute;n a los periodistas de <em>El Debate</em> despu&eacute;s del atentado?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Si lo solicitan, por supuesto que s&iacute;. Vamos a estar en contacto con ellos.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidenta.</p>
+
+<p>Esteban Dur&aacute;n, <em>Vanguardia</em>, Veracruz.</p>
+
+<p>Presidenta, volviendo al tema de la reforma judicial, &iquest;qu&eacute; garantiza que estos cambios que est&aacute;n por llegar efectivamente se acabe la corrupci&oacute;n dentro de este sistema? Porque es bien sabido que la corrupci&oacute;n empieza con los polic&iacute;as cuando detienen a alguien ilegalmente, cuando revisan su veh&iacute;culo, le revisan su mochila, le siembran droga, le siembran armas, y ah&iacute; empieza ese penar para muchas personas, sobre todo para las madres, para las hermanas, para las hijas, que por estos motivos est&aacute;n sus familiares en las c&aacute;rceles, est&aacute;n ilegalmente con carpetas fabricadas de delitos.</p>
+
+<p>Entonces, ah&iacute;, repito, ah&iacute; empieza la corrupci&oacute;n y acaba con los jueces, donde algunos de ellos se prestan, ya sea por situaciones econ&oacute;micas a esta situaci&oacute;n. El expresidente Andr&eacute;s Manuel L&oacute;pez Obrador se&ntilde;alaba que la justicia estaba al mejor postor, quien tiene m&aacute;s dinero obviamente puede sacar a su familiar sin ning&uacute;n problema de estas c&aacute;rceles.</p>
+
+<p>&iquest;Qu&eacute; garantiza esto, presidenta, que efectivamente se acabe con esto? Porque la violencia, como usted lo manifest&oacute;, pues es contra las mujeres, contra las madres, contra las hermanas, contra las t&iacute;as, etc&eacute;tera, que ven con mucha pena, se acaban sus d&iacute;as aqu&iacute;, se acaba su poca econom&iacute;a que tienen, para poder recabar el dinero que les est&aacute;n exigiendo los abogados o seudoabogados que se aprovechan de las circunstancias para pedirles dinero por cualquier cosa, por copias, por aquello, por lo otro, e igualmente los jueces se ven involucrados en esas circunstancias.</p>
+
+<p>&iquest;Qu&eacute; garantiza esto, que efectivamente se acabe la corrupci&oacute;n en todos los niveles?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Desde mi punto de vista, siempre es mejor que decida el pueblo en el caso del Poder Judicial a lo que hemos vivido durante todo este periodo.</p>
+
+<p>Si un juez, una jueza, es electa, electo por el pueblo de M&eacute;xico, es muy distinto a que alguien lo nombre, aunque digan que hay carrera judicial, porque la corrupci&oacute;n se da cuando act&uacute;as en la clandestinidad, en el&hellip; cuando no hay transparencia, ni te debes al pueblo, al servicio p&uacute;blico.</p>
+
+<p>Pero, adem&aacute;s, se est&aacute; construyendo un sistema en donde va a haber este tribunal sancionador a los jueces. A ver, &iquest;cu&aacute;ntos jueces ha sancionado el Consejo de la Judicatura? Entonces, va a haber un tribunal que va a estar revisando con criterios, no se trata de que no tenga&hellip; Por eso es la ley org&aacute;nica que se va a presentar, que tengan reglas, pero que sean sancionados frente a denuncia ciudadana o frente a la propia actuaci&oacute;n de un caso.</p>
+
+<p>Entonces, es mucho mejor que se elijan al sistema actual, y los ministros y ministras de la corte. Por eso, cuando en un espacio preguntas qu&eacute; es mejor, que los elija el Senado o el pueblo de M&eacute;xico, la gente dice: &rsquo;El pueblo de M&eacute;xico&rsquo;.</p>
+
+<p>Entonces, es la propia instituci&oacute;n que se est&aacute; reformando, que va a responder al pueblo y, adem&aacute;s, pues todos los instrumentos que hay para poder vigilar su actuaci&oacute;n, y que responda tambi&eacute;n a la denuncia ciudadana.</p>
+
+<p><strong>INTERLOCUTOR:</strong> S&iacute;, gracias, presidenta.</p>
+
+<p>Quiz&aacute;s en este mismo sentido, hubo un periodo llamado &lsquo;la guerra sucia&rsquo;, principios de los 60, finales de los 80, donde se iban a abrir los expedientes, los archivos para que las v&iacute;ctimas de este periodo de sus hijos desaparecidos, de sus madres, de sus padres, etc&eacute;tera, pues tuvieran justicia y se diera igualmente con los responsables y as&iacute; mismo castigarles; quiz&aacute; ya algunos de ellos pues ya ni siquiera est&aacute;n aqu&iacute;. Pero ellos demandan, a&uacute;n a estas fechas, pues que se haga algo, que se abran esos archivos. Y no s&eacute; qu&eacute; opini&oacute;n le pueda merecer a Pablo G&oacute;mez, que &eacute;l sufri&oacute; pr&aacute;cticamente todo esto. Si se podr&iacute;a hacer, abrir esos archivos y dar con los responsables para que de esta manera se castigue y hacerle justicia a quienes sufrieron de este periodo de la guerra sucia, como usted menciona.</p>
+
+<p>Y, finalmente, presidenta, el 11 de octubre se cumplieron 15 a&ntilde;os de la desaparici&oacute;n de Luz y Fuerzas del Centro. Los trabajadores, por ende, quedaron, miles de ellos, quedaron desempleados, no han encontrado lugar, y muchos de ellos tampoco les han dado su dinero que les correspond&iacute;a.</p>
+
+<p>El Sindicato Mexicano de Electricistas, pues quiz&aacute; a lo mejor ya no puede ser reconocido porque ya no est&aacute; la empresa, pero a muchos de ellos a&uacute;n falta que se integren al Sistema de Compensaci&oacute;n por Justicia Social, son varios, y ellos tienen la esperanza de que efectivamente en esta administraci&oacute;n con usted ya sean integrados; y quienes pues todav&iacute;a est&aacute;n desamparados y quienes tienen todav&iacute;a la capacidad de trabajar, pues puedan incorporarse al gobierno en cualquier &aacute;rea.</p>
+
+<p>Eso es lo que demandan, y es una demanda que se qued&oacute; pendiente con el anterior presidente.</p>
+
+<p>Gracias, presidenta.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Con esta cerramos. En el primer caso, se hizo una Comisi&oacute;n de la Verdad. Vamos a pedirle a Arturo Medina que pudiera venir a platicar los avances de esa comisi&oacute;n que se hizo con el presidente Andr&eacute;s Manuel L&oacute;pez Obrador. Ayer le&iacute; que hubo un hallazgo ah&iacute;, en Guerrero, relacionado con este tema; entonces, vamos a pedirle a Arturo para que pueda platicar cu&aacute;les fueron los avances de esa comisi&oacute;n y de ese trabajo que se realiz&oacute;.</p>
+
+<p>En el segundo caso, ah&iacute; hay la posibilidad, lo est&aacute; viendo el Indep, que es quien est&aacute; a cargo, el Instituto para Devolverle al Pueblo lo Robado, es la instituci&oacute;n que el presidente orient&oacute;. Y, adem&aacute;s, por ley es as&iacute;, que viera el tema de la indemnizaci&oacute;n a las y los trabajadores de esta injusticia que se cometi&oacute; en el periodo de Calder&oacute;n, de la desaparici&oacute;n de Luz y Fuerza del Centro. Entonces, lo revisamos.</p>
+
+<p>Bueno, vamos a cerrar con la c&aacute;psula de &lsquo;Suave Patria&rsquo;. Adelante.</p>
+
+<p><strong>BULMARO JU&Aacute;REZ S&Aacute;NCHEZ, DIVULGADOR DEL INSTITUTO NACIONAL DE LENGUAS IND&Iacute;GENAS (INALI):</strong> Con su permiso, presidenta.</p>
+
+<p>(Habla en lengua ind&iacute;gena) a todos los que se encuentran en este recinto. Les acabo de decir &lsquo;buenos d&iacute;as&rsquo; en la lengua rar&aacute;muri del estado de Chihuahua.</p>
+
+<p>Voy a ser muy breve. Cada semana, nosotros vamos a presentar en esta secci&oacute;n unas c&aacute;psulas que se llaman &lsquo;Suave Patria&rsquo;, donde vamos a abordar mucha de las vidas, mucha de la experiencia de los triunfos que han tenido mujeres, hombres y la sociedad en general.</p>
+
+<p>En esta ocasi&oacute;n, el equipo de &lsquo;Suave Patria&rsquo; tenemos el honor de presentar a Lorena Ram&iacute;rez, una corredora rar&aacute;muri del municipio de G&uuml;ichocha, del estado de Chihuahua. Como ustedes ver&aacute;n, la historia &mdash;Guachochi, Chihuahua&mdash; como ustedes ver&aacute;n, la historia de Lorena Ram&iacute;rez es: ha estado en desaf&iacute;os, pero tambi&eacute;n es una historia que realmente ha servido y ha motivado a muchas mujeres mexicanas.</p>
+
+<p>Con ustedes, esta c&aacute;psula. Gracias.</p>
+
+<p><strong>(INICIA VIDEO)</strong></p>
+
+<p><strong><em>LORENA RAM&Iacute;REZ HERN&Aacute;NDEZ, CORREDORA RAR&Aacute;MURI:</em></strong><em> Yo me llamo Lorena Ram&iacute;rez. Soy ultramaratonista. Yo vengo de la sierra de Chihuahua. S&iacute; he vivido discriminaci&oacute;n por ser ind&iacute;gena, yo creo.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> De acuerdo con los datos m&aacute;s recientes de la Encuesta Nacional sobre Discriminaci&oacute;n 2022, el 28.9 por ciento de las mujeres que refirieron haber sufrido discriminaci&oacute;n se&ntilde;alaron que la raz&oacute;n fue por ser ind&iacute;gena o afromexicana.</em></p>
+
+<p><strong><em>LORENA RAM&Iacute;REZ HERN&Aacute;NDEZ:</em></strong><em> Como ando as&iacute;, pues, no me dejan pasar si hay mesa en la puerta, pues, ah&iacute; me quedaba.</em></p>
+
+<p><em>Me siento muy contenta de vestir as&iacute; como ando y correr en otros pa&iacute;ses, mostrar mi cultura rar&aacute;muri, c&oacute;mo somos y c&oacute;mo vestimos, representar a m&iacute; pa&iacute;s aqu&iacute;, en M&eacute;xico. </em></p>
+
+<p><em>Somos seis corredores, mi pap&aacute; era corredor. Cuando era ni&ntilde;a, sufr&iacute;a mucho por la necesidad, comida y ropa, no ten&iacute;a, ten&iacute;a ganas de tener ropas nuevas, tomar cosas de jugos, leches.</em></p>
+
+<p><em>Por eso hicimos fundaci&oacute;n, porque yo s&iacute; viv&iacute; en medio de la monta&ntilde;a, pues yo conozco c&oacute;mo vive la gente, mis hermanos ind&iacute;genas y yo soy una mujer rar&aacute;muri mexicana.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias a todas y a todos.</p>
+
+<p>&iquest;Van a ir a Tabasco? &iquest;S&iacute;? Vamos a Tabasco.</p>
+
+<p>Hasta luego.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-10-18 08:28:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de octubre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-octubre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-octubre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de octubre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-octubre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-octubre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 18 de octubre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-octubre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-octubre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-18-de-octubre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

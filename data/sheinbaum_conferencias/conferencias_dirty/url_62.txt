@@ -1,0 +1,1738 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de noviembre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de noviembre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/151495/Conferencia_matutina_8.39.40_AM__1_.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-noviembre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/151495/Conferencia_matutina_8.39.40_AM__1_.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="eCAqZlbWoiHnN4h4rSWlkzEE/KRmWiZQw6mwb1P5Iek=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7h3gz44jyta-f-6d7b9d46d-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":15,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"3f803ac2","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62489,"ak.gh":"23.47.207.175","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296870","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==jARnQiF2PQ2+wTDoVFAuEtoRVVeb+cSkwjNNzjdAdtiZzbcVMzbrVjywIM9GIhmh6tXMetQyczbaclFp5kpBFr/qcmc82Ce7gqpJPzsbSpN+ZkoIbzpE7dxVjJqKuaEz4URa0oPH/XaO5M5Nl5FbJQ2M8cVeghfvq2uzv0rZT2OOUZ6vRGh5rxCgscf2zCVbG+elPJjLFjz5ghr+1TShBwXTsLYSIifY5FCvNwmZ+2a0HcHQJxtriSZkJ7Lepj6mebEFfITg7WYl0LllRidL4wwJXSc/n2iEJ1DSKRe2v3pANZeXBpII2XunqDynGT7ZXkg3AFDWED4+MypjMpHYyX0OSNeORFlfszWQ6dz4ES+vAiSmFMtg70x8eevmg3mMjZF7ijpwCQ1tXKGEPnnqiTF01mUGumpm55jUOMpoi5A=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de noviembre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 21 de noviembre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/151495/Conferencia_matutina_8.39.40_AM__1_.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muy buenos d&iacute;as a todos, a todas.</p>
+
+<p>Hoy nos acompa&ntilde;a la secretaria de Semarnat, Alicia B&aacute;rcena &ndash;que tuvo una operaci&oacute;n de la rodilla y por eso viene&hellip; est&aacute; en recuperaci&oacute;n, pero est&aacute; perfecta&ndash;; Julio Berdegu&eacute;, secretario de Agricultura y Desarrollo Rural; Efra&iacute;n Morales, director general de Conagua; y acompa&ntilde;an a Efra&iacute;n: Aar&oacute;n Mastache, que es subdirector general de Infraestructura Hidroagr&iacute;cola; Felipe Zatar&aacute;in, subdirector general de Agua Potable; y Jes&uacute;s Heriberto Montes, gerente de Aguas Superficiales.</p>
+
+<p>Hoy vamos a hablar del Plan Nacional H&iacute;drico.</p>
+
+<p>Voy a darle la palabra a la secretaria de Semarnat; a Julio Berdegu&eacute;, secretario de Sader; y despu&eacute;s, a Efra&iacute;n Morales, que nos va a hacer la presentaci&oacute;n del Plan Nacional H&iacute;drico. Y despu&eacute;s, contestamos preguntas.</p>
+
+<p><strong>SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES, ALICIA B&Aacute;RCENA IBARRA:</strong> Muchas gracias y muy buenos d&iacute;as. &ndash;Ya me estoy preparando para el marat&oacute;n, as&iacute; es que muy pronto me ver&aacute;n corriendo por las calles&ndash;.</p>
+
+<p>Pero quiero decir, se&ntilde;ora Presidenta, con su permiso, que creo que lo que se va a presentar hoy, el Plan Nacional H&iacute;drico, es un instrumento indispensable para la gesti&oacute;n sustentable del agua. Y destaco, sobre todo, la enorme coordinaci&oacute;n que hemos tenido entre todos los sectores; particularmente, quiero destacar la Secretar&iacute;a de Agricultura y Desarrollo Rural, y la Conagua, que siendo parte de mi sector, pero hemos trabajado muy de la mano, especialmente con el equipo de Efra&iacute;n Morales, que seguro les va a presentar ya a detalle el plan.</p>
+
+<p>Pero quiero destacar algunos aspectos importantes:</p>
+
+<p>Primero, me parece que es un cambio de paradigma respecto al pasado, particularmente, porque vamos de los gobiernos neoliberales, donde prevaleci&oacute; un enfoque extractivista y privatizador del agua.</p>
+
+<p>Y en este momento, lo que este Plan pretende y va a lograr, sin duda, es privilegiar el agua para el consumo humano frente a usos intensivos con otros fines; la tecnificaci&oacute;n, que seguro Julio abordar&aacute;; la recarga natural de los acu&iacute;feros, es decir, el mundo est&aacute; viviendo una crisis de agua. La Presidenta acaba de estar en el G20 justamente abordando estos problemas y, sin duda, M&eacute;xico se prepara para que la recarga natural de los acu&iacute;feros sea una realidad y se logre evitar la extracci&oacute;n o la sobreexplotaci&oacute;n de los acu&iacute;feros.</p>
+
+<p>Y la verdad, es que algo muy interesante es poder tener un enfoque de cuenca que permita el ciclo natural del agua, evitando inundaciones, hundimientos y, a la vez, privilegiando tambi&eacute;n soluciones basadas en la naturaleza: la reforestaci&oacute;n de las cuencas, de las zonas riparias y, sobre todo, la restauraci&oacute;n de los humedales; los humedales son muy importantes porque permiten filtrar el agua y creo que a eso es a lo que se est&aacute; optando.</p>
+
+<p>Y, desde luego, algo muy importante es esta tarea que nos ha dado la Presidenta a todo el gobierno de sanear tres grandes r&iacute;os: el Lerma-Santiago, el Atoyac y el R&iacute;o Tula. Creo que esos tres proyectos van a ser hist&oacute;ricos en este periodo gubernamental y, sobre todo, porque, sin duda, se trata de tener una visi&oacute;n del agua que nos permita, por un lado, preservar este valioso recurso y, por otro lado, tambi&eacute;n hacerlo tanto con la colaboraci&oacute;n de muchos sectores, sin duda, estamos hablando del sector privado, del sector social, de los productivos.</p>
+
+<p>Y, sobre todo, que tengamos una visi&oacute;n de desarrollo desde la sustentabilidad donde este ahorro de agua, este Plan H&iacute;drico, va a permitir aumentar la productividad tambi&eacute;n a nivel nacional. As&iacute; es de que y, sobre todo, consumo humano, beneficio para la gente.</p>
+
+<p>Muchas gracias. Gracias, Presidenta.</p>
+
+<p><strong>SECRETARIO DE AGRICULTURA Y DESARROLLO RURAL, JULIO BERDEGU&Eacute; SACRIST&Aacute;N:</strong> Con su permiso, se&ntilde;ora Presidenta. Buenos d&iacute;as a todas y a todos.</p>
+
+<p>El director general, Efra&iacute;n Morales, presentar&aacute; el Plan en mucho detalle y yo solo quiero, como pr&oacute;logo, decir que, si bien este Plan est&aacute; centrado en la recuperaci&oacute;n del derecho humano al agua y el rescate de la soberan&iacute;a nacional en materia de agua, ser&aacute; tambi&eacute;n un formidable impulso a la producci&oacute;n y a la productividad agr&iacute;cola del pa&iacute;s.</p>
+
+<p>Como presentar&aacute; Efra&iacute;n, van a ser muchas miles de hect&aacute;reas que se va a tecnificar el riego, y eso significa que cada productor, cada productora, puede controlar de manera muy, muy precisa cu&aacute;nta agua llega a cada una de las plantas de su producci&oacute;n; solo por ese efecto, solo por ese efecto, sin ninguna acci&oacute;n adicional, nuestra estimaci&oacute;n es que en esa superficie tecnificada podemos aumentar la productividad en 51 por ciento, Presidenta. Entonces, esto no solo contribuye al derecho humano al agua, sino que tambi&eacute;n es una formidable contribuci&oacute;n a la soberan&iacute;a alimentaria de la naci&oacute;n.</p>
+
+<p>Esta inversi&oacute;n no se hab&iacute;a visto en mucho tiempo y, desde luego, ser&aacute; complementada con otras acciones, con otros programas que la Presidenta ha dado curso como parte del Segundo Piso, como es &ldquo;Cosechando Soberan&iacute;a&rdquo;, que en esa superficie tecnificada implica, adem&aacute;s: asistencia t&eacute;cnica, financiamiento, apoyo a la comercializaci&oacute;n.</p>
+
+<p>No solo ser&aacute; una revoluci&oacute;n en el uso del agua, eficiente, rescate de millones de metros c&uacute;bicos, como explicar&aacute; Efra&iacute;n Morales, sino que tambi&eacute;n ser&aacute; una revoluci&oacute;n en la producci&oacute;n agropecuaria de M&eacute;xico en esas zonas.</p>
+
+<p>Gracias, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Adelante, Efra&iacute;n.</p>
+
+<p><strong>DIRECTOR GENERAL DE LA COMISI&Oacute;N NACIONAL DEL AGUA, EFRA&Iacute;N MORALES L&Oacute;PEZ:</strong> Con su permiso, Presidenta. Buenos d&iacute;as a todas y a todos.</p>
+
+<p>Hoy vamos a hablar del Plan Nacional H&iacute;drico que tiene como objetivo principal garantizar el derecho humano al agua en cantidad y calidad suficiente, asegurar la sostenibilidad de nuestros recursos, y fomentar un manejo adecuado y responsable del agua en todos sus usos.</p>
+
+<p>Es importante partir de c&oacute;mo se distribuye el agua en nuestro pa&iacute;s.</p>
+
+<p>&ndash;Como se aprecia en la gr&aacute;fica&ndash;, el 76 por ciento est&aacute; destinado para el sector agr&iacute;cola, el 9 por ciento para la industria y la generaci&oacute;n de energ&iacute;a, y el 15 por ciento se destina para el uso p&uacute;blico urbano.</p>
+
+<p>El Plan Nacional H&iacute;drico se basa en cuatro ejes: Pol&iacute;tica h&iacute;drica y soberan&iacute;a nacional; Justicia y acceso al agua, para que haya prosperidad compartida debe haber agua para todas y para todos; Mitigaci&oacute;n del impacto ambiental y adaptaci&oacute;n al cambio clim&aacute;tico; y una Gesti&oacute;n integral y transparente de nuestros recursos.</p>
+
+<p>Antes de entrar a las acciones del Plan, quiero mencionar dos antecedentes que son importantes:</p>
+
+<p>Por un lado, compartir con ustedes el origen y el problema del actual sistema de concesiones. &ndash;Como se puede ver en la gr&aacute;fica&ndash;, durante 75 a&ntilde;os, que comprenden de 1917 a 1992, se entregaron en el pa&iacute;s alrededor de 2 mil 600 t&iacute;tulos de concesi&oacute;n.</p>
+
+<p>Con la llegada de Salinas de Gortari al gobierno y esta visi&oacute;n neoliberal que consider&oacute; al agua una mercanc&iacute;a, tan solo en una d&eacute;cada se entregaron m&aacute;s de 360 mil t&iacute;tulos de concesi&oacute;n. Y esta decisi&oacute;n dio todo un giro a la gesti&oacute;n del agua en nuestro pa&iacute;s porque los intereses econ&oacute;micos que se originaron tambi&eacute;n dieron paso a pr&aacute;cticas como el acaparamiento, la sobreexplotaci&oacute;n, el sobreconcesionamiento, y toda una serie de afectaciones que desafortunadamente seguimos viviendo.</p>
+
+<p>Por otro lado, en el 2018, con la llegada de la Cuarta Transformaci&oacute;n, hubo un cambio de rumbo, hubo un cambio de mentalidad, se implementaron acciones en favor del derecho humano al agua, sobre todo en favor de nuestras comunidades m&aacute;s desprotegidas y de los pueblos originarios.</p>
+
+<p>Ahora bien, retomando nuestras acciones, vamos a iniciar por ordenar las concesiones. Estamos revisando el uso y el aprovechamiento de todos los t&iacute;tulos de concesi&oacute;n, estamos identificando aquellos que no est&aacute;n siendo utilizados con la finalidad de que ese volumen se reincorpore a la disponibilidad nacional.</p>
+
+<p>Vamos a crear el Registro Nacional de Agua para el Bienestar. Actualmente, el Registro P&uacute;blico del Agua, el REDPA, se alimenta de informaci&oacute;n contenida en cuatro sistemas, cuatro plataformas distintas, y esto ha complicado la integraci&oacute;n de la informaci&oacute;n. El nuevo Registro Nacional de Agua para el Bienestar va a concentrar toda la informaci&oacute;n en una base de datos &uacute;nica y tambi&eacute;n va a tener una sola ventanilla de entrada; y esto nos va a permitir una gesti&oacute;n m&aacute;s eficiente, que exista total transparencia y, sobre todo, cero corrupci&oacute;n.</p>
+
+<p>Tambi&eacute;n, vamos a implementar un programa de inspecci&oacute;n en todo el pa&iacute;s para ordenar el uso y aprovechamiento del agua. Esto, en coordinaci&oacute;n con estados y municipios, as&iacute; como con distintas dependencias del gobierno; pero nuestro principal colaborador va a ser el pueblo de M&eacute;xico, por lo que hacemos un llamado para que se denuncie cualquier irregularidad en cuanto al uso del agua, a trav&eacute;s del correo denunciaciudadana@conagua.gob.mx.</p>
+
+<p>Uno de los grandes problemas que se gener&oacute; con el modelo neoliberal fue la creaci&oacute;n de un mercado alterno, en donde unos cuantos se aprovechan para hacer del agua un negocio. Por ejemplo, hay quien tiene un t&iacute;tulo de concesi&oacute;n agr&iacute;cola, no lo utiliza y vende esa concesi&oacute;n a un desarrollo inmobiliario o a un complejo industrial, primero bajo un cambio de uso y luego bajo una supuesta transmisi&oacute;n; o hay quien tiene un t&iacute;tulo de concesi&oacute;n, tampoco lo utiliza y paga una cuota de garant&iacute;a por mantener ese derecho de agua apartado, tener agua apartada, es decir, especula con el agua.</p>
+
+<p>Por eso, vamos a promover reformas a la Ley de Aguas Nacionales en lo relativo a transmisiones, cambios de uso y cuotas de garant&iacute;a, para terminar con cualquier tipo de especulaci&oacute;n, y cualquier tipo de mercado alterno. Y tambi&eacute;n vamos a promover la expedici&oacute;n de la nueva Ley General de Aguas; vamos a defender el agua que le pertenece al pueblo.</p>
+
+<p>Otro aspecto relevante es el trabajar, vamos a emitir un Decreto de Facilidades para regularizar las concesiones que se encuentran vencidas, siempre y cuando estas cumplan con la ley y siempre, y cuando exista la disponibilidad suficiente. Esto va a permitir que un poco m&aacute;s de 25 mil productores agr&iacute;colas y pecuarios, sobre todo, medianos y peque&ntilde;os, puedan acceder a cr&eacute;ditos, puedan acceder a subsidios y tambi&eacute;n a programas; actualmente no lo pueden hacer porque su documentaci&oacute;n no se encuentra en regla.</p>
+
+<p>Adem&aacute;s de la creaci&oacute;n del Registro Nacional de Agua para el Bienestar, vamos a simplificar y digitalizar todos los tr&aacute;mites que se realizan en la Conagua. Es crear una Ventanilla &Uacute;nica de Gesti&oacute;n, crear un expediente digital de cada tr&aacute;mite que se realiza, incluyendo concesiones; y reducir de 27 a 19 los tr&aacute;mites; de 19 a 9 los requisitos; y que los tiempos de respuesta sean de entre 15 y un m&aacute;ximo de 60 d&iacute;as. Para este programa estamos trabajando de manera coordinada con la Agencia de Transformaci&oacute;n Digital.</p>
+
+<p>En cuanto al Programa Nacional de Tecnificaci&oacute;n, en coordinaci&oacute;n con la Secretar&iacute;a de Agricultura &ndash;que encabeza el doctor Julio Berdegu&eacute;&ndash;, en este Segundo Piso de la Cuarta Transformaci&oacute;n vamos a tecnificar m&aacute;s de 200 mil hect&aacute;reas de riego; se trata de hacer un uso m&aacute;s eficiente del agua en el campo. Esto va a beneficiar la econom&iacute;a de m&aacute;s 225 mil familias productoras y tambi&eacute;n a todo el pueblo de M&eacute;xico porque vamos a producir m&aacute;s alimentos con menos agua.</p>
+
+<p>Debe recordarse que esta acci&oacute;n va a venir a complementar el trabajo realizado por el expresidente L&oacute;pez Obrador, quien tan solo en un sexenio cre&oacute; m&aacute;s de 100 mil hect&aacute;reas de riego.</p>
+
+<p>Parte del agua que recuperemos va a ser destinada para consumo humano y para la recarga de nuestros acu&iacute;feros.</p>
+
+<p>Como parte de este Plan vamos a realizar obras de infraestructura en todo el pa&iacute;s, estamos trabajando ya con estados y municipios en la elaboraci&oacute;n de un Plan Maestro. Hemos revisado el estado que guarda la infraestructura y tambi&eacute;n la necesidad que se tiene para desarrollar nuevos proyectos; estos proyectos se van a financiar a trav&eacute;s de los programas federalizados PROSANEAR, PROAGUA, PRODDER, y con inversi&oacute;n estatal y federal directa. Se tiene contemplado tambi&eacute;n que parte del Fondo de Infraestructura Social que reciben los municipios, durante 2025 se destine para temas de agua.</p>
+
+<p>Solo quisiera resaltar en este punto que es un programa sin precedentes. Nunca se han mezclado los recursos, nunca se ha establecido un Plan Maestro, y esto nos va a permitir tener una gesti&oacute;n que no solamente resuelva las problem&aacute;ticas de manera inmediata, sino que tengamos un Plan para los siguientes 30 a&ntilde;os en el cual podamos estar invirtiendo y este modelo nos va a permitir potenciar capacidades.</p>
+
+<p>Tambi&eacute;n impulsaremos proyectos estrat&eacute;gicos para incrementar la dotaci&oacute;n de agua potable en las zonas de mayor estr&eacute;s h&iacute;drico, y tambi&eacute;n vamos a realizar algunas obras de protecci&oacute;n para la poblaci&oacute;n. En principio, estos proyectos contemplan:</p>
+
+<p>La Presa de El Novillo, en La Paz.</p>
+
+<p>La Desaladora de Rosarito, en Baja California.</p>
+
+<p>Un Sistema de tres presas para Hermosillo.</p>
+
+<p>La Presa del Tunal II, en Durango.</p>
+
+<p>La Presa de Milpillas, en Zacatecas.</p>
+
+<p>Un Acueducto II, en Ciudad Victoria, en Tamaulipas.</p>
+
+<p>Una Presa Las Escobas, para la ciudad de San Luis Potos&iacute;.</p>
+
+<p>Redes troncales para complementar el Proyecto de Agua Saludable.</p>
+
+<p>El Acueducto Sol&iacute;s-Le&oacute;n, para Guanajuato.</p>
+
+<p>El Acueducto Zacualpan II, en Colima.</p>
+
+<p>El Acueducto La Cangrejera-Coatzacoalcos, en Veracruz.</p>
+
+<p>La Presa de Paso Ancho, en Oaxaca.</p>
+
+<p>El Acuaf&eacute;rico, de Campeche.</p>
+
+<p>Obras de protecci&oacute;n contra inundaciones para el estado de Tabasco.</p>
+
+<p>Un Plan Integral para Acapulco.</p>
+
+<p>Y un gran Plan Integral para abastecer de agua a la Zona Metropolitana del Valle de M&eacute;xico.</p>
+
+<p>Por instrucciones de la Presidenta, la Doctora Claudia Sheinbaum, uno de los objetivos centrales de este Plan es restaurar y sanear nuestros r&iacute;os. Vamos a dar prioridad a los tres r&iacute;os m&aacute;s contaminados del pa&iacute;s: el R&iacute;o Lerma-Santiago; el R&iacute;o Atoyac, que comprende los estados de Puebla y de Tlaxcala; y tambi&eacute;n el R&iacute;o Tula.</p>
+
+<p>Para la planeaci&oacute;n y ejecuci&oacute;n de este programa estamos trabajando de manera muy estrecha, de manera muy coordinada con la Secretar&iacute;a de Medio Ambiente, con la doctora Alicia B&aacute;rcena, y tambi&eacute;n con gobiernos locales.</p>
+
+<p>Entre las acciones que vamos a realizar, las que se van a llevar a cabo se encuentran: eliminar descargas contaminantes; reforestar; rehabilitar y construir plantas de tratamiento y colectores; y un tema muy relevante es buscar soluciones basadas en la naturaleza como la construcci&oacute;n de humedales, esto entre otras muchas acciones que se van a realizar.</p>
+
+<p>Tambi&eacute;n un punto central, un punto de gran importancia para este Plan es la firma de este gran Acuerdo Nacional por el Derecho Humano al Agua y la Sustentabilidad. Es una iniciativa en la que participan distritos y unidades de riego, los principales consumidores industriales, instituciones acad&eacute;micas y de investigaci&oacute;n, comunidades usuarias del agua y, por supuesto, el gobierno en sus distintos niveles.</p>
+
+<p>&iquest;En qu&eacute; consiste este acuerdo? Hemos conversado con los principales distritos de riego y unidades de riego quienes, a partir del programa de tecnificaci&oacute;n, van a realizar una devoluci&oacute;n progresiva del volumen que tienen concesionado.</p>
+
+<p>Tambi&eacute;n hemos platicado con los principales consumidores del sector industrial para que, de manera voluntaria, devuelvan parte del volumen que tienen concesionado y que actualmente no utilizan, esto sin comprometer la producci&oacute;n o los planes de crecimiento.</p>
+
+<p>Hasta el momento, en su conjunto, se han hecho compromisos para la devoluci&oacute;n de m&aacute;s de 2 mil 500 millones de metros c&uacute;bicos que, para ponerlo en contexto, equivalen a abastecer a la Ciudad de M&eacute;xico durante dos a&ntilde;os y medio completos.</p>
+
+<p>El acuerdo tambi&eacute;n contempla que las empresas firmantes inviertan en eficientar sus procesos de producci&oacute;n para ahorrar agua y que incluso se invierta en algunas obras de car&aacute;cter comunitario que va a beneficiar a distintas regiones del pa&iacute;s. Hasta el momento, se tienen contempladas, se tienen compromisos por una inversi&oacute;n superior a los 16 mil 400 millones de pesos de inversi&oacute;n privada.</p>
+
+<p>Y como parte de este acuerdo, tambi&eacute;n se va a implementar una campa&ntilde;a de concientizaci&oacute;n, ahorro, uso y cuidado del agua.</p>
+
+<p>Este acuerdo se va a firmar el pr&oacute;ximo 25 de noviembre. Es importante mencionar que hay un gran &aacute;nimo, hay una gran disposici&oacute;n de participar y, sobre todo, hay mucha conciencia de la relevancia que tiene este acuerdo para el &eacute;xito de la gesti&oacute;n h&iacute;drica en el pa&iacute;s durante los siguientes a&ntilde;os.</p>
+
+<p>Por &uacute;ltimo, dos anotaciones:</p>
+
+<p>El Gobierno de M&eacute;xico va a invertir, durante 2025, 20 mil millones de pesos aproximadamente por lo que tiene que ver a proyectos de agua.</p>
+
+<p>Y no quisiera terminar sin decirles a ustedes que, en efecto, el panorama en el pa&iacute;s y en el mundo en cuanto a agua es un panorama complejo, sobre todo, por la situaci&oacute;n de estr&eacute;s h&iacute;drico y por las complicaciones que trae el cambio clim&aacute;tico. Sin embargo, del acuerdo de la voluntad de una distribuci&oacute;n equitativa y, sobre todo, de una gesti&oacute;n adecuada de nuestros recursos, va a hacer posible que el agua en el futuro no sea un tema de disputa, sino sea un tema de vida y un tema de prosperidad para nuestro pa&iacute;s.</p>
+
+<p>Y recordar a todas y a todos que el agua es bienestar.</p>
+
+<p>Gracias, por su atenci&oacute;n.</p>
+
+<p>Gracias, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &ndash;No present&eacute; a Noem&iacute;, que va a cerrar con &ndash;&ldquo;Mujeres en la historia&rdquo;&ndash;.</p>
+
+<p>Nada m&aacute;s para cerrar:</p>
+
+<p>El agua deja de verse como una mercanc&iacute;a y se reconoce como un derecho, esa es una de las esencias del Plan Nacional H&iacute;drico. Se deja atr&aacute;s la visi&oacute;n neoliberal. Ya hab&iacute;a iniciado con el Presidente L&oacute;pez Obrador, pero le vamos a dar un impulso mayor a recuperar el agua como un bien de la naci&oacute;n y como un derecho humano.</p>
+
+<p>&iquest;Qu&eacute; tiene de esencia? Uno, ordenar las concesiones. Hay usuarios que tienen una concesi&oacute;n de agua, pero no la usan, en algunos casos hasta la venden.</p>
+
+<p>Entonces, &iquest;qui&eacute;n se beneficia de esa concesi&oacute;n? El particular. Entonces, lo que queremos es que esa agua que no se usa se le regrese a la naci&oacute;n para que se pueda disponer de ella, porque hasta los municipios tienen la concesi&oacute;n de agua.</p>
+
+<p>El agua le pertenece a la naci&oacute;n.</p>
+
+<p>Entonces, ordenar las concesiones. Y ah&iacute;, afortunadamente hemos tenido mucho di&aacute;logo, a partir de Conagua, con industriales, con distritos de riego, y est&aacute;n dispuestos, incluso de manera voluntaria, a regresar esa concesi&oacute;n de agua que tienen que no la est&aacute;n utilizando.</p>
+
+<p>Entonces, ordenar las concesiones. Eso nos va a permitir disminuir la sobreexplotaci&oacute;n y poder disponer de agua, que hoy est&aacute; concesionada para otros usos, principalmente, para el consumo humano.</p>
+
+<p>Dos. Eficiencia en el riego agr&iacute;cola, es decir, tecnificar el riego. Tenemos identificados distritos de riego, se est&aacute; hablando con ellos, se va a financiar una parte, otra parte ser&aacute; financiada por los estados y otra parte directamente por los usuarios. Entonces, la tecnificaci&oacute;n del riego nos va a permitir ser m&aacute;s productivos en el campo y tener disponibilidad de agua, esa agua que no se va a usar porque ahora se va a usar m&aacute;s eficiente, para disponerla para otros usos.</p>
+
+<p>Tres. Un Plan Maestro: municipios, estados y Gobierno de M&eacute;xico, para que los recursos federales, estatales y locales los pongamos todos a trabajar conjuntamente, para que no cada quien trabaje por su lado. Entonces, un Plan Maestro: municipios, estados y Federaci&oacute;n, para infraestructura de agua potable.</p>
+
+<p>Cuatro. Proyectos estrat&eacute;gicos de agua, que est&aacute;n definidos para poder, a partir de todo esto, hacer inversiones que permitan destinar agua ah&iacute; en donde en este momento hay mayor necesidad de uso humano de derecho al agua.</p>
+
+<p>Y, cinco. Saneamiento, la parte ambiental. Vamos a restaurar varios cuerpos de agua y, en particular, tres r&iacute;os.</p>
+
+<p>Todo esto es parte de un Plan Nacional Integral en donde una de las primeras acciones es esta firma que se hace el lunes, que se ha venido trabajando ya por meses, en donde hay incluso industriales que van a decir &ldquo;yo regreso esta agua que ten&iacute;a concesionada porque en esto momento no la estoy utilizando&rdquo; e incluso compromisos de inversi&oacute;n privada para cumplir con las normas para reciclar agua, para utilizar en la industria agua tratada.</p>
+
+<p>Entonces, todo esto es parte de este Plan. Estamos contentos, entusiasmados.</p>
+
+<p>Y hay recursos que le va a destinar la Federaci&oacute;n, para todos aquellos que dicen que &ldquo;no va a haber recursos&rdquo;; hay recursos, a partir del 2025 y en adelante, para poder cumplir este Plan ambicioso, hist&oacute;rico, el Plan Nacional H&iacute;drico para M&eacute;xico.</p>
+
+<p>&ndash;Bueno, sobre el tema. A ver, aqu&iacute;&ndash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Muy buenos d&iacute;as, Presidenta. Ram&oacute;n Flores, del <em>Centinela Informa and Human Hoy</em>. Buenos d&iacute;as a todos los funcionarios que la acompa&ntilde;an.</strong></p>
+
+<p><strong>Pues misteriosamente tambi&eacute;n ya se fue a quejar un diputado del PAN, que se llama Daniel Chimal, en la Conferencia de las Partes de la Convenci&oacute;n Marco de las Naciones Unidas para el Cambio Clim&aacute;tico 29, en Azerbaiy&aacute;n, dice que la reducci&oacute;n de presupuesto a la Semarnat afectar&aacute; Agenda Internacional Ambiental.</strong></p>
+
+<p><strong>Pero, tambi&eacute;n, hay otro medio que saca una declaraci&oacute;n de la secretaria de Semarnat, donde dice que &mdash;estoy buscando sus palabras textuales&mdash; dice: &ldquo;No cabe duda que s&iacute;, este recorte afectar&aacute;, sin duda, la forma en que podamos trabajar&rdquo;. Nada m&aacute;s preguntarle a la secretaria, si &iquest;realmente hizo esa declaraci&oacute;n o no?, porque ya est&aacute;n circulando varias notas donde dicen que ustedes van a recortar el presupuesto a la Semarnat y tambi&eacute;n a la Conagua. Mi primera pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Ayer lo expliqu&eacute;: la Semarnat, como Secretar&iacute;a, no reduce su presupuesto.</p>
+
+<p>Ahora, en el sector se ve una disminuci&oacute;n, &iquest;por qu&eacute;?, porque se cerraron los proyectos estrat&eacute;gicos de agua del Presidente L&oacute;pez Obrador y ahora, vamos a entrar a los nuevos proyectos estrat&eacute;gicos.</p>
+
+<p>Aunque le hubi&eacute;ramos dado 40 mil millones de pesos a Conagua, tienen que hacerse los proyectos ejecutivos, tienen que hacerse, de estos 16 proyectos que se presentaron &ndash;a ver si los ponen&ndash;... Para poder iniciar esas obras necesitamos proyectos ejecutivos, y eso requiere su tiempo.</p>
+
+<p>Entonces, en donde hay menor presupuesto en este momento es en la Conagua. Eso no quiere decir que no se va a implementar todo este Plan Nacional; lo que pasa es que el primer a&ntilde;o se destina una parte a los proyectos ejecutivos que nos van a permitir en los siguientes a&ntilde;os poder desarrollar todas las obras. Esa es, digamos, la explicaci&oacute;n.</p>
+
+<p>Entonces, lo que ya no va a haber, y eso es importante y eso es lo que les molesta a los adversarios, pues es el tema de que el agua ya no va a ser un negocio para ellos.</p>
+
+<p><strong>PREGUNTA: Entonces, &iquest;se le desmiente al diputado panista que se fue a quejar a la ONU?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues&hellip;</p>
+
+<p><strong>PREGUNTA: <em>Ok</em>. Bueno, mi segundo planteamiento, Presidenta. Hace unos d&iacute;as se dio a conocer que la Fiscal&iacute;a General de la Rep&uacute;blica reactiv&oacute; la investigaci&oacute;n en contra del gobernador de San Luis Potos&iacute;, Ricardo Gallardo; esto tras una denuncia de la Unidad de Inteligencia Financiera, por el desv&iacute;o de m&aacute;s de 700 millones de pesos, donde aparecen 19 personas, entre ellas sus padres y hermanos, donde supuestamente desviaron y lavaron dinero del erario p&uacute;blico.</strong></p>
+
+<p><strong>Ahora, el gobernador, en represalia, comenz&oacute; una persecuci&oacute;n pol&iacute;tica en contra del empresario Gerardo S&aacute;nchez Zumaya, al que ya hab&iacute;a atacado y que, incluso, el Presidente Andr&eacute;s Manuel L&oacute;pez Obrador orden&oacute; a la secretaria, en aquel entonces, Rosa Icela que lo protegieran porque est&aacute; en riesgo, &eacute;l est&aacute; dando a conocer todo lo que est&aacute; pasando en San Luis Potos&iacute;.</strong></p>
+
+<p><strong>Y el gobernador ya utiliz&oacute; a <em>Latinus</em>, ya utiliz&oacute; a <em>Reforma</em>, para decir que tanto su gobierno como el gobierno pasado del Presidente L&oacute;pez Obrador le est&aacute;n otorgando contratos en Pemex a este empresario Gerardo S&aacute;nchez Zumaya. O sea, est&aacute;n haciendo un golpeteo pol&iacute;tico, Presidenta.</strong></p>
+
+<p><strong>Y tambi&eacute;n, aqu&iacute; en &ldquo;La Ma&ntilde;anera&rdquo; se present&oacute; la denuncia de la persecuci&oacute;n del gobernador a este empresario, que comparte los ideales de la 4T y que dice que nunca m&aacute;s alguna corrupci&oacute;n. Lo que est&aacute; pasando en San Luis Potos&iacute; es muy delicado, Presidenta, sobre este empresario, &iquest;usted lo apoyar&iacute;a, al igual que el Presidente, que est&aacute; dando a conocer las corruptelas del gobierno de San Luis?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No tengo conocimiento de que haya una investigaci&oacute;n contra el gobernador, habr&iacute;a que preguntarle en todo caso a la Fiscal&iacute;a General de la Rep&uacute;blica. Entonces, eso primero, porque no es algo que venga del Gobierno Federal y no tengo conocimiento si realmente hay una investigaci&oacute;n contra el gobernador.</p>
+
+<p>Lo que s&iacute;, y hay que decirlo claro, en cualquier lugar donde se demuestre que hay corrupci&oacute;n, y lo subrayo: se demuestre, porque tambi&eacute;n hay muchas noticias que quieren acusar a alguien cuando en realidad no hay nada de fondo para poder da&ntilde;ar a la 4T. Entonces, tiene que haber pruebas, evidentemente, pero nosotros no vamos a solapar ning&uacute;n acto de corrupci&oacute;n de nadie.</p>
+
+<p>Nosotros tenemos una responsabilidad con el pueblo de M&eacute;xico y con la historia, y con nuestro proyecto. Honestidad y honradez, ante todo. Entonces, no vamos a solapar ning&uacute;n acto de corrupci&oacute;n, ninguno.</p>
+
+<p><strong>PREGUNTA: Al igual que el Presidente, &iquest;usted ordenar&iacute;a a su secretaria, perd&oacute;n, al secretario de Seguridad P&uacute;blica que le brindara la atenci&oacute;n? Porque, la verdad, que est&aacute; siendo muy acosado.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Si... Vamos a preguntarle a Rosa Icela c&oacute;mo se estaba apoyando. Y s&iacute; es el caso, pues se apoyar&aacute;.</p>
+
+<p><strong>PREGUNTA: Muchas gracias. Y ya, por &uacute;ltimo, Presidente, una demanda&hellip; perd&oacute;n, Presidenta, una demanda presentada&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Presidenta con &ldquo;a&rdquo;.</p>
+
+<p><strong>PREGUNTA: Presidenta, con &ldquo;a&rdquo;; Presidenta, con &ldquo;a&rdquo;. Una disculpa, una disculpa, perd&oacute;n.</strong></p>
+
+<p><strong>Una demanda presentada por un particular en contra de una instituci&oacute;n bancaria cuenta ya con un fallo a favor de los afectados. Sin embargo, la defensa de esta instituci&oacute;n, concretamente, Banorte, ha aprovechado recovecos legales para dilatar el pago de una indemnizaci&oacute;n que ya fue determinada por un juzgador, o sea, vaya, por el Poder Judicial.</strong></p>
+
+<p><strong>&iquest;La reforma apoyar&iacute;a a que se establezcan mecanismos para evitar la injerencia de grupos de inter&eacute;s en la impartici&oacute;n de justicia, Presidenta, esta reforma? O sea, &iquest;apoyar&iacute;a a la gente?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Pues ese es el objetivo central de la nueva Constituci&oacute;n. La Cuarta Transformaci&oacute;n deja atr&aacute;s el r&eacute;gimen de corrupci&oacute;n y privilegios. Y queremos que el Poder Judicial pues, en efecto, sea una instituci&oacute;n, un Poder en donde no haya corrupci&oacute;n y no se privilegie la justicia a unos frente a los otros, que haya una verdadera justicia.</p>
+
+<p>Y este caso, en todo caso, se revisar&aacute;.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PREGUNTA: (inaudible) familia en Guanajuato.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: &ndash;</strong>Ahorita lo vemos&ndash;.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Shaila Rosagel, corresponsal de Grupo Healy: <em>El imparcial</em>, de Sonora; <em>La Cr&oacute;nica</em>, de Mexicali; y <em>Frontera</em>, de Tijuana.</strong></p>
+
+<p><strong>Presidenta, bueno, en primer lugar, me gustar&iacute;a si nos pudieran ahondar un poquito m&aacute;s sobre el plan para Sonora. Estaba viendo que est&aacute; el Sistema de Presas para Hermosillo. No s&eacute; si nos puedan adelantar, &iquest;cu&aacute;ntos recursos en total se van a destinar para Sonora en el Plan H&iacute;drico?, &iquest;cu&aacute;nto tiempo se va a llevar a cabo esta ejecuci&oacute;n de estos recursos?, &iquest;y qu&eacute; proyectos en espec&iacute;fico vienen en el Plan H&iacute;drico para Sonora?</strong> <strong>Y, en particular, &iquest;cu&aacute;ntos recursos son para el Sistema de Presas para Hermosillo?</strong></p>
+
+<p><strong>Esas ser&iacute;an mis preguntas. &ndash;D&eacute;jeme ver si no se me pasa una de las que apunte, porque estuvo muy interesante&ndash;. Tambi&eacute;n, Presidenta, no s&eacute; si nos puedan adelantar tambi&eacute;n el monto global de la inversi&oacute;n en el Plan H&iacute;drico. O sea, no se habl&oacute; mucho de las inversiones, solamente a grandes rasgos de los proyectos.</strong></p>
+
+<p><strong>Tambi&eacute;n viene lo de la Desaladora en Baja California, en Rosarito. Tambi&eacute;n, si nos pudieran un poquito pues compartir, &iquest;cu&aacute;l es el plan para esta desaladora?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &ndash;Efra&iacute;n, &iquest;quieres comentar?&ndash;.</p>
+
+<p><strong>DIRECTOR GENERAL DE LA COMISI&Oacute;N NACIONAL DEL AGUA, EFRA&Iacute;N MORALES L&Oacute;PEZ: </strong>Bueno, se&ntilde;alar que, en el caso de las presas, este sistema de presas consiste en tener sobre el R&iacute;o Sonora, construir tres presas, tres peque&ntilde;as presas que ayuden a retener agua para poder abastecer a la Ciudad de Hermosillo.</p>
+
+<p>Estamos trabajando en el costo final del proyecto; como coment&oacute; la Presidenta hace un momento, se van a realizar estudios y programas. Es una inversi&oacute;n de alrededor de 7 mil millones para la realizaci&oacute;n de estas presas y todo lo que se requiere para este espacio y eso va a&hellip;</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En tres a&ntilde;os.</p>
+
+<p><strong>DIRECTOR GENERAL DE LA COMISI&Oacute;N NACIONAL DEL AGUA, EFRA&Iacute;N MORALES L&Oacute;PEZ: </strong>S&iacute;. Eso va a determinar el proyecto y tambi&eacute;n los tiempos, pero se va a ejecutar en tres a&ntilde;os aproximadamente.</p>
+
+<p><strong>PREGUNTA: En tres a&ntilde;os. &iquest;Me dice que las presas van a estar sobre el R&iacute;o Sonora?</strong></p>
+
+<p><strong>DIRECTOR GENERAL DE LA COMISI&Oacute;N NACIONAL DEL AGUA, EFRA&Iacute;N MORALES L&Oacute;PEZ: </strong>S&iacute;.</p>
+
+<p><strong>PREGUNTA: &iquest;No se incluye el R&iacute;o Sonora en los tres r&iacute;os que mencionaron en el saneamiento por el problema que hay de contaminaci&oacute;n?</strong></p>
+
+<p><strong>DIRECTOR GENERAL DE LA COMISI&Oacute;N NACIONAL DEL AGUA EFRA&Iacute;N MORALES L&Oacute;PEZ: </strong>Vamos a iniciar con los otros r&iacute;os&hellip; pero va a contestar la secretaria.</p>
+
+<p><strong>SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES, ALICIA B&Aacute;RCENA IBARRA, </strong>Bueno, en el caso del R&iacute;o Sonora-Bacanuchi estamos trabajando, de parte de la Semarnat, en todo un programa de remediaci&oacute;n. De hecho, ya nos reunimos con los empresarios y acordamos hacer un plan conjunto de remediaci&oacute;n del R&iacute;o Sonora-Bacanuchi; y tambi&eacute;n de establecer y de cumplir los compromisos que se hicieron para la poblaci&oacute;n en materia de salud, ya estamos en contacto con la Secretar&iacute;a de Salud, con Cofepris para que nos ayude tambi&eacute;n.</p>
+
+<p>Porque la verdad es que la contaminaci&oacute;n del R&iacute;o Sonora, s&iacute; es cierto que proviene de aquella explosi&oacute;n que hubo en su momento o ese accidente que hubo en 2014, pero tambi&eacute;n es verdad que el manto fre&aacute;tico, o sea, la parte geol&oacute;gica de Sonora, contiene ya de por s&iacute; algunos metales pesados.</p>
+
+<p>Entonces, estamos tratando de ver c&oacute;mo hacemos la remediaci&oacute;n. S&iacute;, ya tenemos un plan para remediar el R&iacute;o Sonora y lo estamos haciendo en conjunto con la empresa principal que act&uacute;a por all&aacute;.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, secretaria. No s&eacute; si &mdash;Efra&iacute;n, bueno, viene lo del sistema de presas&mdash;, si &iquest;incluyen algunos proyectos m&aacute;s en otros municipios, por ejemplo, en Ciudad Obreg&oacute;n, en Guaymas, en materia de agua?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Si, el objetivo&hellip; Hay varios fondos que da la Conagua y adem&aacute;s, municipios y estado invierten en municipios; por eso, los ponemos en dos v&iacute;as. Uno que es para todos los municipios y las 32 entidades de la Rep&uacute;blica, que es la coordinaci&oacute;n de los distintos recursos con un solo plan: que nos permita, en el caso de Sonora, atender el sur tambi&eacute;n, pero como proyecto estrat&eacute;gico, particularmente &mdash;y eso lo hablamos con el gobernador&mdash;, se prioriz&oacute; la atenci&oacute;n del abastecimiento de agua para Hermosillo.</p>
+
+<p><strong>PREGUNTA: Y de la desaladora, si nos pudiera adelantar tambi&eacute;n un poco de c&oacute;mo viene este proyecto.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Si, es un proyecto que tiene desde hace tiempo Baja California. En alg&uacute;n momento, en periodos anteriores, era un proyecto, una asociaci&oacute;n p&uacute;blico-privada, que era muy costoso para el estado; entonces, la gobernadora nos plante&oacute; que su principal proyecto estrat&eacute;gico es dotar de agua a Tijuana y su Zona Metropolitana.</p>
+
+<p>Entonces, tomamos la decisi&oacute;n de apoyar la desaladora. Tiene que hacerse el impacto ambiental, la revisi&oacute;n. Hay un primer estudio, pero tiene que revisarse, porque cuando se desala agua pues en alg&uacute;n lugar tiene que quedar la sal, y entonces el mayor impacto de una desaladora es &iquest;d&oacute;nde queda esa sal?</p>
+
+<p>Entonces, tiene que hacerse un estudio importante para ver los impactos ambientales y adem&aacute;s, los costos, no solo de inversi&oacute;n, sino de operaci&oacute;n, porque las desaladoras tienen su costo de operaci&oacute;n tambi&eacute;n importante.</p>
+
+<p>Pero vamos a apoyar. Todo ello lo estamos revisando con el estado y el pr&oacute;ximo a&ntilde;o iniciamos con la primera parte.</p>
+
+<p><strong>PREGUNTA: Muchas gracias. Presidenta, ya en un segundo tema, preguntarle si, &iquest;ya han contactado al equipo del presidente electo, Donald Trump, para poner fecha para sentarse a platicar sobre este tema de la migraci&oacute;n y el proyecto que trae &eacute;l de las deportaciones entrando a gobernar?</strong></p>
+
+<p><strong>Y, pues, tambi&eacute;n &iquest;qu&eacute; opina sobre estas declaraciones que hizo en la semana, de que utilizar&aacute;, usar&aacute; militares para las deportaciones, y que est&aacute; dispuesto tambi&eacute;n a declarar emergencia nacional el tema de las deportaciones migratorias?</strong></p>
+
+<p><strong>Y, bueno, tambi&eacute;n en el mismo tema, si &iquest;existe ya un plan con los estados fronterizos?, que ser&iacute;an en un primer momento los receptores de los migrantes que estar&iacute;an deportando.</strong></p>
+
+<p><strong>Ser&iacute;a todo, Presidenta. Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Primero, evidentemente, no estamos de acuerdo en que se trate a los migrantes como criminales, para eso existen las instituciones de justicia en cualquier lugar del mundo.</p>
+
+<p>Y por eso ayer hice un especial &eacute;nfasis, y lo vamos a seguir haciendo, y lo tenemos cuantificado y lo vamos a presentar en su momento, p&uacute;blicamente y cuando tengamos las reuniones con el equipo del presidente Trump, de la importancia del trabajo que realizan las y los mexicanos en Estados Unidos: cu&aacute;ntos recursos pagan en impuestos; el trabajo que realizan, que es de primera; la necesidad de los Estados Unidos de esos trabajadores y esas trabajadoras. Entonces, ese es un primer punto que es importante que lo definamos.</p>
+
+<p>Segundo, que en caso de que hubiera deportaciones nosotros vamos a recibir a las y los mexicanos, y tenemos un plan para ello, pero vamos a trabajar, previo a ello, en demostrar que no tienen por qu&eacute; deportarse a nuestros connacionales que est&aacute;n del otro lado de la frontera que, al contrario, benefician incluso a la econom&iacute;a de los Estados Unidos. Entonces, eso en primera.</p>
+
+<p>Ahora, tenemos un plan y lo estamos desarrollando. De hecho, hoy hay una reuni&oacute;n sobre ese tema con el Gabinete, sobre los distintos temas que vamos a tratar con la administraci&oacute;n del presidente Trump: comercio, migraci&oacute;n, seguridad, hasta cuestiones culturales, de amistad, todo lo que tiene que ver con la relaci&oacute;n bilateral y trilateral, tambi&eacute;n con Canad&aacute; en el caso del T-MEC.</p>
+
+<p>Entonces, todav&iacute;a no hay una reuni&oacute;n, pero esperamos que se pueda dar para poder mostrar toda esta informaci&oacute;n, porque a veces con una frase que no tiene un sustento se acusa, por ejemplo, a las y los mexicanos en Estados Unidos.</p>
+
+<p>Y la otra pues es todo el fortalecimiento a los Consulados, que tambi&eacute;n estamos trabajando.</p>
+
+<p>Porque he le&iacute;do por ah&iacute; que dicen que &ldquo;la Presidenta y su equipo no est&aacute;n preparados&rdquo;. No, s&iacute; tenemos un plan, estamos preparados y en su momento, cuando sea propicio, vamos a hacer estas conversaciones con el equipo del presidente Trump.</p>
+
+<p><strong>PREGUNTA: Presidenta, &iquest;oficialmente ya se solicit&oacute; con el equipo del presidente&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>No, todav&iacute;a no, estamos en eso, y ya habr&aacute;, estoy segura que habr&aacute; en su momento las reuniones.</p>
+
+<p><strong>PREGUNTA: Sobre el tema, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Sobre el agua. &ndash;A ver, vamos por ac&aacute;, ac&aacute; en la esquina&ndash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Elia Cruz, de <em>La Hoguera</em>.</strong></p>
+
+<p><strong>Presidenta, yo quisiera insistir un poco en el tema que trataba usted ayer de lo que dialog&oacute; con el primer ministro de Canad&aacute;, Justin Trudeau, sobre la presi&oacute;n que estaban ejerciendo algunos primeros ministros de algunas sedes de Canad&aacute; para dejar fuera a M&eacute;xico del Tratado trilateral que se tiene con Estados Unidos, tambi&eacute;n.</strong></p>
+
+<p><strong>Ayer, despu&eacute;s de sus declaraciones, se sumaron m&aacute;s regiones a este llamado que le hacen al primer ministro. &iquest;Usted no cree que pueda ceder el ministro Trudeau, ante estas presiones de todas estas &aacute;reas que le est&aacute;n ejerciendo sus gobernadores, bueno, lo equivalente a los gobernadores aqu&iacute;? Sobre todo, porque ellos insisten en lo que tambi&eacute;n ha dicho el presidente electo, Donald Trump, de que M&eacute;xico est&aacute; enviando mercanc&iacute;as &mdash;seg&uacute;n dicen ellos&mdash; de origen chino, pero que solamente la etiquetan con &ldquo;Hecho en M&eacute;xico&rdquo;.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Si, el primer ministro no est&aacute; de acuerdo en sacar a M&eacute;xico del Tratado, me lo coment&oacute; muy claramente, y acordamos seguir dialogando. Ellos tienen tambi&eacute;n sus propias elecciones pronto, entonces tambi&eacute;n usan estos temas como parte de una campa&ntilde;a electoral; pero el primer ministro no est&aacute; de acuerdo.</p>
+
+<p>Y hay que recordar que quien en su momento defendi&oacute; que Canad&aacute; se quedara en el Tratado fue el Presidente L&oacute;pez Obrador, porque hab&iacute;a la idea, del entonces presidente Trump, de que fuera nada m&aacute;s M&eacute;xico-Estados Unidos. Eso es lo primero.</p>
+
+<p>Lo segundo, me pregunt&oacute; de una marca de veh&iacute;culos de fabricaci&oacute;n china, que si hab&iacute;a una planta en M&eacute;xico, es una marca de veh&iacute;culos el&eacute;ctricos. Y le dije: La &uacute;nica planta de esa marca que hay en Norteam&eacute;rica est&aacute; en Pasadena, California, o sea, est&aacute; en Estados Unidos.</p>
+
+<p>Entonces, nosotros tenemos tambi&eacute;n nuestro propio programa de fortalecimiento de la econom&iacute;a nacional, de disminuci&oacute;n de importaciones, por ejemplo, que vienen de Asia.</p>
+
+<p>Eso es un tema, por supuesto, que tiene que ver con el Tratado, pero de fortalecimiento de nuestra econom&iacute;a y de disminuir la dependencia; lo mismo que en el caso, por ejemplo, de granos o de otros productos agr&iacute;colas, que estamos fortaleciendo la autosuficiencia alimentaria, como en el caso del frijol, por ejemplo, pero ese es un asunto de desarrollo nacional.</p>
+
+<p>Entonces, Estados Unidos se beneficia mucho, y Canad&aacute;, del Tratado, porque tal parece que solamente es un beneficio para M&eacute;xico, y no; Estados Unidos tiene grandes beneficios, es un Tratado que firm&oacute; el propio presidente Trump.</p>
+
+<p>Entonces, nosotros creemos que hacia adelante hay muchos argumentos, muchos datos, mucha informaci&oacute;n, que fortalecen el mantenimiento o que se mantenga el Tratado. Y en su momento, en el 2026, va a haber una revisi&oacute;n, ni siquiera es una renegociaci&oacute;n, es una revisi&oacute;n como fue pactado en su momento.</p>
+
+<p><strong>PREGUNTA: &iquest;El primer ministro entonces se qued&oacute; tranquilo con la explicaci&oacute;n que usted le dio?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Quedamos de seguir platicando, es parte de este proceso de relaciones bilaterales y tambi&eacute;n dentro del Tratado, pero claramente me manifest&oacute; que &eacute;l no est&aacute; de acuerdo en lo que han manifestado algunos de los actores pol&iacute;ticos de Canad&aacute;.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. Una segunda pregunta: a ra&iacute;z de la equivocaci&oacute;n que hubo en el presupuesto para las universidades, en especial para la UNAM, el exrector Jos&eacute; Narro Robles public&oacute; un art&iacute;culo en un diario, donde &eacute;l califica de &ldquo;fraude educativo&rdquo; a las Universidades del Bienestar.</strong></p>
+
+<p><strong>&iquest;Y por qu&eacute; raz&oacute;n? Porque &eacute;l se estaba quejando. Dice que &ldquo;afortunadamente corrigieron el error de la UNAM, pero que usted le est&aacute; asignando un incremento de mil 400 millones de pesos a las Universidades del Bienestar&rdquo;, que &eacute;l tasa o cifra en 93 por ciento m&aacute;s. &iquest;C&oacute;mo usted calificar&iacute;a estas declaraciones de llamar &ldquo;fraude educativo&rdquo; a estas universidades?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues desconocimiento total.</p>
+
+<p>Recuerdo que, cuando el movimiento estudiantil del &acute;86-87, defend&iacute;an que hubiera cuotas en la UNAM, que hubiera restricci&oacute;n en el ingreso. &Eacute;l fue el que llam&oacute; &ldquo;ninis&rdquo; a los j&oacute;venes. Entonces, es un desconocimiento total.</p>
+
+<p>&iquest;Es un programa educativo distinto? S&iacute;, pero hay que preguntarle a las y los j&oacute;venes que asisten a las Universidades &ldquo;Benito Ju&aacute;rez&rdquo;.</p>
+
+<p>Ahora, ayer lo expliqu&eacute;, vamos a fortalecer y ampliar las &ldquo;Benito Ju&aacute;rez&rdquo; y vamos con un nuevo, una nueva, un nuevo sistema educativo para la educaci&oacute;n superior que son las Universidades &ldquo;Rosario Castellanos&rdquo; y las Universidades de la Salud.</p>
+
+<p>Vamos a firmar, ya pronto, el decreto para hacer de la Universidad &ldquo;Rosario Castellanos&rdquo; la Universidad Nacional &ldquo;Rosario Castellanos&rdquo;. Y como saben, vamos a iniciar con dos sedes: una en Chiapas y la otra en Baja California.</p>
+
+<p>Cuando fui Jefa de Gobierno&hellip; La &ldquo;Rosario Castellanos&rdquo; hoy ya atiende a cerca de 60 mil j&oacute;venes, que antes no ten&iacute;an otra opci&oacute;n en la educaci&oacute;n superior. Entonces, son distintos sistemas educativos que cumplen diferentes funciones.</p>
+
+<p>Entonces, las Universidades &ldquo;Benito Ju&aacute;rez&rdquo; son universidades consolidadas que tienen un sistema educativo distinto.</p>
+
+<p>Y es mucha ignorancia el que diga que &ldquo;es fraudulento&rdquo;.</p>
+
+<p>Segundo, las Universidades Nacionales &ldquo;Rosario Castellanos&rdquo; o la Universidad Nacional &ldquo;Rosario Castellanos&rdquo;, que se va a ampliar. Y, por otro lado, el TecNM, el Instituto Polit&eacute;cnico Nacional y las universidades p&uacute;blicas, que van a tener su presupuesto.</p>
+
+<p>Habl&eacute; por tel&eacute;fono con el rector de la UNAM cuando vino la disminuci&oacute;n del presupuesto, porque ellos sacaron un comunicado. Le ped&iacute; al secretario de Educaci&oacute;n que hablara con &eacute;l, y a la secretaria, igual que al director del Polit&eacute;cnico, para decirles que, en efecto, hab&iacute;a sido un error al disminuir la parte de personal que se disminuy&oacute; en otras &aacute;reas que no afecta, por cierto, la operaci&oacute;n.</p>
+
+<p>Y despu&eacute;s, me escribi&oacute; un mensaje y entonces le llam&eacute; por tel&eacute;fono.</p>
+
+<p>E incluso &eacute;l me dijo que estaba de acuerdo en que ten&iacute;an que revisar sus gastos, en qu&eacute; se destinaban sus recursos, por la declaraci&oacute;n que yo hice ese d&iacute;a, de que respetando la autonom&iacute;a y conociendo mi <em>alma mater</em> era importante que se hiciera un programa de Austeridad Republicana en las universidades p&uacute;blicas; que se dejara de destinar tanto recurso en la burocracia universitaria y que se destine a las funciones sustantivas de las universidades que son docencia, investigaci&oacute;n y difusi&oacute;n de la cultura, por lo menos en la UNAM.</p>
+
+<p>Entonces, por eso en el presupuesto, no todo es incremento a la &ldquo;Benito Ju&aacute;rez&rdquo;; de ah&iacute; va a salir, porque todav&iacute;a no sale, como no se ha creado la Universidad Nacional &ldquo;Rosario Castellanos&rdquo;, se va a crear, entonces de ah&iacute; va a salir el presupuesto para las tres universidades.</p>
+
+<p>Lo que s&iacute;, es que nuestra visi&oacute;n desde hace much&iacute;simos a&ntilde;os, desde que &eacute;ramos &mdash;digo &ldquo;&eacute;ramos&rdquo; porque es una generaci&oacute;n&mdash; muy j&oacute;venes es que la educaci&oacute;n p&uacute;blica es un derecho, no es una mercanc&iacute;a y no es un privilegio, no es un privilegio para los que puedan pagar por la universidad, viene desde los <em>Sentimientos de la Naci&oacute;n</em> de Morelos.</p>
+
+<p>Y por eso no se entiende, por eso no se entiende que s&iacute;, que los gobiernos de la Cuarta Transformaci&oacute;n lo que queremos es mejorar la educaci&oacute;n, pero con una visi&oacute;n humanista, de recuperaci&oacute;n de nuestra historia, de nuestra memoria hist&oacute;rica.</p>
+
+<p>Ayer fue muy hermoso, la verdad, el evento del 20 de noviembre que, entre otras cosas, recupera el papel de la mujer en la historia y, particularmente, en la Revoluci&oacute;n Mexicana.</p>
+
+<p>Entonces, s&iacute; tiene esta visi&oacute;n la educaci&oacute;n b&aacute;sica; el fortalecimiento de la media superior, que ya vamos a presentar este programa, que lo hemos venido trabajando; y m&aacute;s espacios para que las y los j&oacute;venes mexicanos tengan derecho a estudiar la universidad. Eso es lo que est&aacute;, en esencia, en el fondo del asunto.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Y una &uacute;ltima pregunta. Ayer una compa&ntilde;era le preguntaba sobre los bloqueos que estaban haciendo algunos habitantes de los municipios de la Costa Chica, que dicen que no los han censado. Ellos est&aacute;n ac&aacute; afuera ahora mismo de Palacio Nacional, un grupo como de 100 personas que traen cajas con evidencia de fotograf&iacute;as, videos y dem&aacute;s, de c&oacute;mo fueron destrozadas sus viviendas; y que desde hace como tres semanas les proporcionaron a ellos el n&uacute;mero telef&oacute;nico que usted ayer mencion&oacute; de la Secretar&iacute;a del Bienestar.</strong></p>
+
+<p><strong>Dicen que han estado llamando, pero que les responden dici&eacute;ndoles solamente que, &ldquo;bueno, que esa es como una especie de queja&rdquo;; les dan un n&uacute;mero de folio, pero que les dicen que eso no les va a garantizar que vayan a regresar a censarlos. Entonces, ellos quieren saber, &iquest;realmente van a regresar a censarlos?</strong></p>
+
+<p><strong>Ellos est&aacute;n aqu&iacute;, tambi&eacute;n est&aacute;n pidiendo una audiencia con usted, para que alguien les resuelva el tema de su preocupaci&oacute;n, que no tienen los recursos para reconstruir sus viviendas. &iquest;Qu&eacute; deben hacer? &iquest;O qu&eacute; deben de esperar? &iquest;O c&oacute;mo se solucionar&aacute; esto, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Los va a atender Atenci&oacute;n Ciudadana. Adriana, que hace muy, muy bien su trabajo, y es una mujer con mucha sensibilidad.</p>
+
+<p>Pero s&iacute; es importante una cosa: no se atiende por organizaci&oacute;n, no vamos a regresar a eso. Es directo: gobierno-familia damnificada.</p>
+
+<p>Porque se acostumbraba en el pasado, antes de que llegara el Presidente L&oacute;pez Obrador, que era por organizaci&oacute;n; tambi&eacute;n en el caso de apoyos al desarrollo rural, a la agricultura, llegaban las organizaciones, ya sab&iacute;an que ven&iacute;a su monto, se repart&iacute;an entre muchos liderazgos, llegaba poco a la gente.</p>
+
+<p>Entonces, no, eso cambi&oacute;, entonces es uno a uno. Y en todo caso lo que se hace es ir a visitarlos a su domicilio para ver realmente si hubo afectaci&oacute;n; y si hubo afectaci&oacute;n, pues tienen derecho al apoyo.</p>
+
+<p><strong>PREGUNTA: Entonces, &iquest;de inmediato que los van a recibir?, porque ellos dicen que no son organizaci&oacute;n, o sea, cada quien se viene representando a s&iacute; mismo, &iquest;no?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Pero Adriana los va a recibir.</p>
+
+<p><strong>PREGUNTA: <em>Ok</em>. Gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>O el equipo de Adriana.</p>
+
+<p><strong>PREGUNTA: &iquest;C&oacute;mo est&aacute;, Presidenta? Buenos d&iacute;as.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Buenos d&iacute;as.</p>
+
+<p><strong>PREGUNTA: Luis &Aacute;ngel Mar&iacute;n, de <em>Radio Resultados</em>, con 90 estaciones en todo el pa&iacute;s, estaciones de radio.</strong></p>
+
+<p><strong>Sobre el tema del agua, muy importante, hablaba usted en el punto 3, de los que nos explicaba, acerca de que se va a trabajar en conjunto con los municipios, con los gobiernos de los estados y la Federaci&oacute;n.</strong></p>
+
+<p><strong>&iquest;Tiene pensado crear, as&iacute; como esta Comisi&oacute;n Federal de Electricidad en todo el pa&iacute;s para el tema de la energ&iacute;a el&eacute;ctrica, hacer algo para el agua?, porque cada estado tiene su organismo y hay hasta municipios que tienen su propio organismo de agua potable. Y eso hace diferencias en tarifas, en la calidad del servicio, hace que muchas veces no se les d&eacute; mantenimiento a las bombas, etc&eacute;tera.</strong></p>
+
+<p><strong>&iquest;Tiene pensado unificar todo este procedimiento de distribuci&oacute;n de agua potable en el pa&iacute;s, Presidenta? Ser&iacute;a mi primera pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En la Constituci&oacute;n est&aacute; que la atribuci&oacute;n est&aacute; en los municipios de la administraci&oacute;n del agua; en algunos estados la Constituci&oacute;n estatal los ha centralizado en el estado. En la Ciudad de M&eacute;xico, por ejemplo, hay Alcald&iacute;as, que no son municipios, precisamente, porque los residuos s&oacute;lidos, porque el agua, como es una unidad urbana, no pueden administrarse de manera separada, sino que se administra por una sola instituci&oacute;n.</p>
+
+<p>Entonces, no tenemos pensado m&aacute;s que capacitar, orientar y generar un Plan &uacute;nico que permita que haya recursos.</p>
+
+<p>Hay problemas, por ejemplo, como bien dices, en donde hay un municipio que construy&oacute; hace tiempo una planta de tratamiento y no tiene los recursos para poderla operar, porque es muy cara la electricidad para los recursos que tiene el propio municipio; o no cara, sino no tienen los recursos para poder darle el mantenimiento.</p>
+
+<p>Entonces, todo eso es parte de este programa integral, pero la Constituci&oacute;n lo establece de esa manera y no tenemos pensado modificarlo.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. Otra pregunta, tambi&eacute;n sobre el mismo tema del agua. En tiempos pasados muchas comunidades se abastec&iacute;an de agua con pozos perforados, pozos artesianos, hay ciudades donde todav&iacute;a hay pozos artesianos en las colonias y la gente iba y de ah&iacute; abastec&iacute;a el agua potable. &iquest;Tiene pensado alg&uacute;n proyecto para ayudar a las comunidades a que tengan sus propios pozos, en la perforaci&oacute;n? </strong></p>
+
+<p><strong>Tiene un costo, tambi&eacute;n el uso de bombas el&eacute;ctricas tambi&eacute;n tiene un costo; o bombas mec&aacute;nicas tambi&eacute;n se pueden utilizar. &iquest;Tiene pensado alg&uacute;n programa para que haya pozos en muchas comunidades? Eso ayudar&iacute;a tambi&eacute;n mucho al uso de agua potable o de agua para el consumo dom&eacute;stico.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ese es el objetivo de este programa. Por ejemplo, si hay una localidad en un municipio que no tiene agua, pero hay agua en el acu&iacute;fero y es factible extraerla, pues entonces se juntan los recursos para poder destinarlo a ese pozo, a que haya pozo en esa localidad y que pueda suministrarse agua.</p>
+
+<p>En otro casos, por ejemplo, recientemente estuvimos en San Luis Potos&iacute;, en Santa Mar&iacute;a &mdash;se llama la localidad, &iquest;verdad?&mdash;, ah&iacute; pasa un acuaf&eacute;rico. Que, por cierto, se est&aacute; revisando &ndash;aqu&iacute; alguno de ustedes lo pregunt&oacute;&ndash;. Es una concesi&oacute;n que se dio hace mucho tiempo y lo estamos revisando junto con el Gobierno de San Luis Potos&iacute;.</p>
+
+<p>Pero pasa muy cerca un acuaf&eacute;rico y la comunidad no tiene agua; entonces ah&iacute; lo que se requiere pues es un ducto que permita que la comunidad pueda tener agua.</p>
+
+<p>Entonces, todo esto tiene que ver con el an&aacute;lisis de los municipios, de las localidades de los municipios; porque a veces la cabecera municipal s&iacute; tiene resuelto el problema, pero las localidades no, que est&aacute;n en el propio municipio.</p>
+
+<p>Entonces el objetivo es, los seis a&ntilde;os que estemos aqu&iacute; es ese diagn&oacute;stico por municipio y poder destinar los recursos, que de por s&iacute; van al agua, a este Plan Maestro para poder resolver el problema del acceso al agua en muchas localidades de nuestro pa&iacute;s.</p>
+
+<p><strong>PREGUNTA: Y hablaba tambi&eacute;n del saneamiento de algunos r&iacute;os, en este proyecto nos presentaban tres principalmente, pero hay muchos tambi&eacute;n municipios donde el desag&uuml;e, el drenaje, va directamente a arroyos, a r&iacute;os. &iquest;Tiene pensado que cada estado pueda tambi&eacute;n implementar este tipo de proyectos, de evitar que se sigan usando como drenaje?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Por ejemplo, en los tres r&iacute;os que planteamos que son prioridad ya est&aacute;n en brigadas coordinadas por Semarnat, Conagua, los estados, los municipios.</p>
+
+<p>Entonces, se hace un recorrido por el cauce del r&iacute;o, se identifican descargas. En algunos casos son descargas municipales, es decir, que el municipio descarga su drenaje ah&iacute; sin tener tratamiento; en otros casos son descargas individuales; en otros casos son descargas industriales que deber&iacute;an tratar el agua y no la est&aacute;n tratando.</p>
+
+<p>Entonces, se est&aacute; identificando, ahora s&iacute; que, en todo el recorrido para poder hacer ese Plan que permita saber si se hace un &ldquo;drenaje marginal&rdquo;, se llama, un drenaje especial para todas salidas de agua de los municipios que permita llevarlo a una planta de tratamiento. En otros casos, que se cumpla con la ley en las empresas para que traten el agua.</p>
+
+<p>Entonces, en todas estas tres cuencas se est&aacute; haciendo este trabajo territorial que permita hacer un verdadero diagn&oacute;stico. Usar muchos estudios, porque tambi&eacute;n hay muchos estudios que ya se hicieron, para poder ver en qu&eacute; lugares se ponen plantas de tratamiento, en qu&eacute; lugares sencillamente se hace cumplir la ley, en qu&eacute; otros lugares se hace un drenaje marginal, etc&eacute;tera, etc&eacute;tera, etc&eacute;tera.</p>
+
+<p>Igual en la Zona Metropolitana; el R&iacute;o Tula, por ejemplo, recibe afluentes de otros r&iacute;os.</p>
+
+<p>Entonces, todo ese trabajo. Y hay un responsable por cada &aacute;rea que nos va a permitir tener el diagn&oacute;stico, lo que se tiene qu&eacute; hacer y pues poder tener r&iacute;os sanos, porque un r&iacute;o contaminado no solamente afecta a los recursos naturales, sino la salud de los habitantes.</p>
+
+<p>Entonces, esos tres r&iacute;os son la prioridad.</p>
+
+<p><strong>PREGUNTA: Ya ser&iacute;a mi &uacute;ltima pregunta la que viene, Presidenta. Estuvo ahora en Brasil, en el G20, vimos que tuvo reuniones bilaterales, adem&aacute;s de seguramente saludarse con mandatarios y mandatarias de otros pa&iacute;ses.</strong></p>
+
+<p><strong>&iquest;Recibi&oacute; alguna invitaci&oacute;n para visitar, no s&eacute;, Francia o Canad&aacute; o alg&uacute;n otro pa&iacute;s, o usted hizo alguna invitaci&oacute;n a alg&uacute;n mandatario para que visite nuestro pa&iacute;s?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>S&iacute;, recibimos invitaciones para ir a varios lugares, pero&hellip;</p>
+
+<p><strong>PREGUNTA: &iquest;A cu&aacute;les ser&iacute;an?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Bueno, hasta China, recibimos invitaci&oacute;n; recibimos invitaci&oacute;n para ir a Francia, a Corea, a Vietnam, pero, bueno, ya lo vamos a&hellip; Y nosotros tambi&eacute;n pues hicimos invitaciones. Entonces, ya iremos viendo con calma, nuestra principal tarea est&aacute; aqu&iacute;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Alberto Marroqu&iacute;n Espinoza, de <em>JF Informa</em>, desde Canc&uacute;n, <em>Frecuencia CAD.com</em> y <em>EsAhoraAm.com</em>, en Quer&eacute;taro.</strong></p>
+
+<p><strong>Aprovechando, bueno, que est&aacute; aqu&iacute; el secretario de Sader y el director de la Conagua, hay un tema todav&iacute;a pendiente con Sader, porque todav&iacute;a hay unos apoyos al campo que no se les ha pagado; ya lo hab&iacute;a comentado aqu&iacute; una compa&ntilde;era. Pero siguen muy inquietos. Incluso son siete estados, no nada m&aacute;s es Quer&eacute;taro, son siete estados los que est&aacute;n en esta situaci&oacute;n.</strong></p>
+
+<p><strong>No s&eacute; si, &iquest;ya est&eacute; destinado o ya se contempl&oacute; este recurso para este a&ntilde;o, que es adeudo de este a&ntilde;o? </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo est&aacute; revisando el secretario, estamos revisando que una parte se pueda entregar este a&ntilde;o y otra parte el pr&oacute;ximo a&ntilde;o, pero lo estamos revisando y vamos a cumplir.</p>
+
+<p><strong>PREGUNTA: Y para el director de la Conagua: tambi&eacute;n, ya ve que cuando fue a Quer&eacute;taro, pues el gobernador de Quer&eacute;taro, Mauricio Kuri, le present&oacute; varios proyectos, entre ellos le present&oacute; la firma de un convenio para el proyecto de El Bat&aacute;n. No s&eacute; si ya haya, si, &iquest;se va a destinar por parte de la Federaci&oacute;n recursos para ese proyecto o si usted va a firmar ese proyecto?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo estamos revisando con ellos. Ellos tienen la idea de hacer una coordinaci&oacute;n con las entidades, una APP o alg&uacute;n otro esquema de inversi&oacute;n privada. Entonces, estamos viendo si podemos apoyar en el proyecto o sencillamente se dan los permisos para que ellos puedan desarrollar ese proyecto.</p>
+
+<p><strong>PREGUNTA: Presidenta, tambi&eacute;n, la importancia siempre de un trabajo coordinado, ahora que viene la obra del Tren M&eacute;xico-Quer&eacute;taro, digo, sabemos que ya existe una buena coordinaci&oacute;n por parte de incluso la Guardia Nacional y la Segob, de Quer&eacute;taro, con el gobierno del estado, pero aqu&iacute; la pregunta es, sobre todo, &iquest;c&oacute;mo van a estar ahora las delegaciones federales a nivel del pa&iacute;s?, &iquest;van a seguir con la misma estructura de un delegado que est&eacute; comandando a los dem&aacute;s delegados o seguir&aacute; la figura de delegado, superdelegado?, &iquest;c&oacute;mo va a estar?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, es parte de lo que se est&aacute; revisando. Se van a hacer m&aacute;s chiquitas las delegaciones que son necesarias, eso es una parte; y otras de plano van a desaparecer o no se van a ocupar. Entonces, estamos en ese trabajo.</p>
+
+<p><strong>PREGUNTA: Porque hay delegaciones importantes &mdash;aprovechando que est&aacute; aqu&iacute; la secretaria de Semarnat&mdash; pues son delegaciones a veces transversales, que son muy importantes para la operaci&oacute;n, incluso de cualquier secretario, incluso con la relaci&oacute;n, la buena relaci&oacute;n tambi&eacute;n, incluso, con los gobiernos estatales y municipales.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo que decidi&oacute; aqu&iacute; la secretaria es que &mdash;si quieres comentarlo t&uacute;&mdash; que van a centralizar ah&iacute; los...</p>
+
+<p><strong>SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES, ALICIA B&Aacute;RCENA IBARRA:</strong> S&iacute;. Estamos revisando todas las estructuras de las oficinas estatales porque tenemos 31 oficinas de Semarnat, luego tenemos 31 de la Profepa, 31 de la Conafor, y tenemos 13 de las &Aacute;reas Naturales Protegidas.</p>
+
+<p>Entonces, lo que estamos haciendo es, por instrucciones de la Presidenta, viendo c&oacute;mo podemos consolidar estas oficinas. Hay funciones que s&iacute; necesitan estar en territorio; Profepa, por ejemplo, ni duda cabe, saldr&iacute;a mucho m&aacute;s caro ir desde aqu&iacute; a inspeccionar en el pa&iacute;s, necesitamos una buena estructura.</p>
+
+<p>En los otros casos podemos, quiz&aacute;s, apoyarnos tambi&eacute;n en las secretar&iacute;as de Medio Ambiente de los gobiernos de los estados. Estamos haciendo un an&aacute;lisis supercuidadoso.</p>
+
+<p>Y tambi&eacute;n viendo otra opci&oacute;n que son techos &uacute;nicos, porque tenemos muchos locales; realmente tenemos muchos que son federales muchos de ellos, otros no, otros son arrendados. Entonces, creemos que ah&iacute; puede haber un ahorro bastante importante si hacemos una consolidaci&oacute;n.</p>
+
+<p>Y esto se vincula a otra instrucci&oacute;n de la Presidenta muy importante, que son los tr&aacute;mites. Nosotros estamos haciendo una consolidaci&oacute;n de los tr&aacute;mites muy importante con la Agencia Digital y de Telecomunicaciones porque vamos a digitalizar la mayor parte de los tr&aacute;mites, eso va a&hellip;&nbsp; De Manifestaciones de Impacto Ambiental, de Cambio de Uso del Suelo; de Inspecciones es m&aacute;s dif&iacute;cil porque esas se tienen que hacer <em>in situ</em>; pero todo lo dem&aacute;s lo podemos digitalizar y creo que eso va a ayudar much&iacute;simo.</p>
+
+<p>Creemos que podemos avanzar en estos 100 d&iacute;as realmente a una disminuci&oacute;n, sobre todo, en ASEA, por ejemplo, que es la Agencia que tambi&eacute;n supervisa los hidrocarburos, y eso va de la mano con las oficinas regionales, porque muchas oficinas regionales est&aacute;n dando a veces permisos que no les corresponde, como nos pas&oacute; ya con Baja California Sur.</p>
+
+<p>Entonces, estamos yendo a estado por estado, analizando uno por uno, c&oacute;mo consolidamos; y haci&eacute;ndolo tambi&eacute;n con Conagua y con Sader, porque tenemos realmente funciones muy parecidas.</p>
+
+<p><strong>PREGUNTA: Aprovechando a la Secretar&iacute;a del Medio Ambiente, incluso yo he investigado en las delegaciones de Semarnat, no hay una estructura ya formal, a veces se excede; en alg&uacute;n lugar existe un delegado o bueno, ya no es la figura como delegado, pero alg&uacute;n encargado o est&aacute; el subdelegado de gesti&oacute;n.</strong></p>
+
+<p><strong>Han desaparecido muchas. Incluso hay Delegaciones que ni siquiera ya tienen un administrativo, hay un jefe de departamento que maneja toda la parte de la administraci&oacute;n, cuando hist&oacute;ricamente hab&iacute;a un subdelegado administrativo, cuando hab&iacute;a un subdelegado de planeaci&oacute;n y un subdelegado de gesti&oacute;n. Esa estructura como que&hellip;</strong></p>
+
+<p><strong>SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES, ALICIA B&Aacute;RCENA IBARRA:</strong> Esa es la que estamos revisando, porque hay otro tema, y es que muchos de estos delegados tienen una posici&oacute;n muy baja en la estructura, y eso tambi&eacute;n se presta a malos manejos, sin duda.</p>
+
+<p>Y por eso estamos ordenando, para darle un piso parejo siguiendo las instrucciones de la Presidenta, capaz, que haya&hellip; Por ejemplo, &ldquo;Sembrando Vida&rdquo;, nosotros hemos analizado, estamos analizando el programa.</p>
+
+<p>Ellos tienen una cantidad de personas en el territorio que para nosotros son fundamentales, capaz que los capacitamos ah&iacute; tambi&eacute;n para que nos ayuden a combatir incendios, o sea, tenemos que juntarlo.</p>
+
+<p>Yo ya estoy en contacto con Ariadna Montiel, porque el programa de ellos tiene ya una estructura territorial que a nosotros nos puede ayudar mucho y, como bien dices, homogeneizar un poco.</p>
+
+<p>Hay estados que no necesitan una presencia tan grande de Semarnat, hay otros que s&iacute;; entonces, pues eso es lo que tenemos que evaluar.</p>
+
+<p><strong>PREGUNTA: Ya nada m&aacute;s para cerrar con la secretaria, aprovechando que est&aacute; aqu&iacute;. Ahora que estuvimos en Acapulco, tambi&eacute;n yo asist&iacute; a Acapulco, tambi&eacute;n me reportaban mucho que hay muchas descargas de aguas de los hoteles hacia la bah&iacute;a, hacia el centro de la bah&iacute;a. Incluso, lo que hacen ellos es primero asomarse si nadie los ve, bajan la palanca y hacen la descarga; y se ven los borbotones a la mitad de la bah&iacute;a, es algo muy com&uacute;n ah&iacute; en Guerrero. </strong></p>
+
+<p><strong>Yo viv&iacute; hace muchos a&ntilde;os en Acapulco, cuatro a&ntilde;os, conozco bien la problem&aacute;tica de esa zona; ahora lo corrobor&eacute; obviamente despu&eacute;s de varios a&ntilde;os. Pero, &iquest;qu&eacute; se va a hacer ah&iacute; al respecto?, porque es algo hist&oacute;rico y que sigue.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Estamos con Semarnat; con Efra&iacute;n, Conagua. Va a haber una inversi&oacute;n de alrededor de 8 mil millones de pesos en los siguientes a&ntilde;os para Acapulco: en agua, en tratamiento de agua, en desazolve de r&iacute;os, en drenajes marginales, en vivienda, en caminos, en mejora urbana.</p>
+
+<p>Porque, f&iacute;jense, este a&ntilde;o, entre nada m&aacute;s Marina &mdash;sin contar la parte de emergencia inmediata, sino de inversi&oacute;n&mdash; entre Conagua y Marina, ha de haber sido una inversi&oacute;n en las bombas y todo eso, en Acapulco m&aacute;s de&hellip; &mdash;no, pero el dragado de los r&iacute;os y todo eso&mdash;, f&aacute;cil como 200 millones de pesos.</p>
+
+<p>&iquest;Qu&eacute; tenemos qu&eacute; hacer para que no vuelva a ocurrir en el caso? Porque m&aacute;s episodios de lluvias intensas muy probablemente se van a presentar; entonces, lo que queremos es que las plantas de bombeo no se vuelvan a azolvar, entonces necesitamos elevarlas. Pero, adem&aacute;s, las plantas de tratamiento, que hay 16, no est&aacute;n operando adecuadamente.</p>
+
+<p>Entonces, por eso es una inversi&oacute;n integral del gobierno federal, estatal y municipal para atender el saneamiento de Acapulco, el desazolve de r&iacute;os, etc&eacute;tera, etc&eacute;tera, etc&eacute;tera.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: &ndash;</strong>Bueno, a ver aqu&iacute;&ndash;. Quiero comentarles otro tema antes de que&hellip;</p>
+
+<p><strong>PREGUNTA: Hola, buenos d&iacute;as, Presidenta, secretarios. Hoy le quer&iacute;a preguntar por algo, una obviedad que pensaba que iban a preguntar otros compa&ntilde;eros, pero anoche se vot&oacute; la desaparici&oacute;n de dos organismos aut&oacute;nomos por los diputados. Me gustar&iacute;a saber, &iquest;qu&eacute; mensaje le puede dar a todos aquellos que dicen que &ldquo;esto puede crear inestabilidad en el pa&iacute;s&rdquo;?, porque, sobre todo, lo que tengo entendido es que desaparecen los organismos, pero las funciones van a continuar. &iquest;D&oacute;nde van a continuar esas funciones?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Si... A ver, vamos a sacar lo de la Auditor&iacute;a Superior de la Federaci&oacute;n, del INAI, para recordar un poquito.</p>
+
+<p>&ndash;A ver, pr&eacute;stamelo. Aqu&iacute; lo tienen en la lista, lo voy a tomar&ndash;.</p>
+
+<p>Esto no era problema antes. Para los que hoy defienden a capa y espada al INAI, se les olvid&oacute; la corruptela.</p>
+
+<p>Esta es la Auditor&iacute;a Superior de la Federaci&oacute;n que, en su momento, cuando sali&oacute;, sali&oacute; en <em>Contral&iacute;nea</em>, en <em>La Jornada</em>, en otros medios de comunicaci&oacute;n.</p>
+
+<p>Entonces, &ldquo;Desde 2018, trabajadores y extrabajadores han denunciado que altos mandos del INAI les exigen a la quincena entre 10 y hasta 60 por ciento de sus sueldos&rdquo;. &iexcl;Ah! Pero eso no era problema para la estabilidad del pa&iacute;s, &iquest;por qu&eacute;?, porque &ldquo;era parte de la cultura&rdquo;, dec&iacute;an, &iquest;no? La corrupci&oacute;n.</p>
+
+<p>&ldquo;Tambi&eacute;n se detect&oacute; a personal que no labora directamente en las oficinas del INAI&rdquo;; Auditor&iacute;a Superior de la Federaci&oacute;n.</p>
+
+<p>Nepotismo. &ldquo;La Auditor&iacute;a Forense descubri&oacute; lazos de parentesco, desde padres, hijos, hermanos, primos, t&iacute;os, esposos, incluso, omitiendo requisitos para poder ocupar diversos cargos&rdquo;, de puestos en donde tiene que haber carrera.</p>
+
+<p>&ldquo;Adecuaci&oacute;n de los requisitos de los perfiles de puesto para incorporar al INAI a personas que no cumpl&iacute;an con los mismos&rdquo;.</p>
+
+<p>&ldquo;La Auditor&iacute;a tambi&eacute;n document&oacute; que los siete comisionados &ndash;entre ellos los cuatro que se mantienen vigentes&ndash; habr&iacute;an incurrido en gastos indebidos relacionados con pagos de comidas, desayunos, viajes al extranjero y al interior el pa&iacute;s, as&iacute; como el manejo de la tarjeta corporativa American Express&rdquo;, para ir a centros nocturnos &ndash;ya no lo puso Paulina, pero yo lo puedo decir&ndash;.</p>
+
+<p>&ldquo;Los comisionados que se mencionan ah&iacute; incurrieron en cargos a las tarjetas corporativas sin acreditarlos; vi&aacute;ticos sin acreditar que hayan sido estrictamente necesarios para las actividades de la comisi&oacute;n, y falta de acreditaci&oacute;n del registro presupuestal y contable por concepto de vi&aacute;ticos devengados&rdquo;.</p>
+
+<p>Hasta ah&iacute;.</p>
+
+<p>Va a haber m&aacute;s transparencia ahora, pero no va a haber corrupci&oacute;n, eso s&iacute;. Entonces, la desaparici&oacute;n del INAI como organismo aut&oacute;nomo lo que hace es acabar con esto.</p>
+
+<p><strong>PREGUNTA: Pero, &iquest;las funciones van a continuar?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pero las funciones se incorporan a la Secretar&iacute;a Anticorrupci&oacute;n y los datos personales se van a resguardar.</p>
+
+<p>Y vamos a generar mecanismos de obligatoriedad de transparencia de todas las Secretar&iacute;as, en donde f&aacute;cilmente la ciudadan&iacute;a pueda revisar las funciones, el gasto, todo lo que hace el Gobierno de M&eacute;xico.</p>
+
+<p>Pero me llama la atenci&oacute;n, y hay que decirlo, &iquest;no?, porque toda la comentocracia hoy s&iacute; dice que &ldquo;se est&aacute; poniendo en riesgo el pa&iacute;s&rdquo;.</p>
+
+<p>La transparencia ah&iacute; tiene que estar y es una de las obligaciones sustantivas de los gobiernos: la rendici&oacute;n de cuentas, la transparencia y la protecci&oacute;n de datos personales, pero lo que ya no va a haber es mil millones de pesos que se destinaban para esto.</p>
+
+<p>Porque entonces ahora&hellip; Lo dije hace poco, o sea: est&aacute; el INAI, y para que no haya corrupci&oacute;n en el INAI, &iquest;entonces qu&eacute;?, &iquest;hay que crear otro organismo que revise al INAI? Pues no, que se cumpla la ley, eso es todo. Y para eso no requieres organismos, y organismos, y organismos, y organismos aut&oacute;nomos que tienen estos resultados.</p>
+
+<p><strong>PREGUNTA: Perd&oacute;n por no presentarme, soy Jos&eacute; Lebe&ntilde;a, de <em>Publimetro</em>. Un dato que acaba de salir recientemente hace unos minutos es que en M&eacute;xico, creci&oacute; el PIB, de M&eacute;xico, creci&oacute; 1.3 por ciento en el &uacute;ltimo trimestre, se sit&uacute;a&hellip; es el segundo pa&iacute;s de la OCDE que m&aacute;s ha crecido.</strong></p>
+
+<p><strong>Me gustar&iacute;a saber &iquest;si M&eacute;xico tambi&eacute;n est&aacute; preparado para un posible aumento en las tensiones en el mundo por la guerra de Ucrania?, que especialmente hoy se ha lanzado un misil bal&iacute;stico por parte de Rusia.</strong></p>
+
+<p><strong>Biden est&aacute; autorizando las minas antipersona. Y tambi&eacute;n conocer un mensaje suyo sobre esta autorizaci&oacute;n para colocar minas antipersona, que al final del d&iacute;a son los civiles los que m&aacute;s sufren.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> M&eacute;xico tiene una tradici&oacute;n pacifista, y la vamos a seguir teniendo; de la b&uacute;squeda de la paz en el mundo; y el di&aacute;logo y la pol&iacute;tica como la forma de resolver los conflictos. Est&aacute; en nuestra Constituci&oacute;n.</p>
+
+<p>Evidentemente, esto que ocurre en Europa, impacta toda la econom&iacute;a mundial, pero m&aacute;s all&aacute; de los impactos econ&oacute;micos pues es que no podemos estar&hellip; no podemos quedarnos callados, tenemos que exigir la paz en el mundo frente a acontecimientos como estos. M&eacute;xico, esa es su historia de la pol&iacute;tica exterior y la vamos a seguir ejerciendo.</p>
+
+<p><strong>PREGUNTA: &iquest;Y qu&eacute; interpretaci&oacute;n puede dar a este dato del 1.3 por ciento?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues ya ven. Es que dicen, ya ven Moody&rsquo;s dijo que &ldquo;era exagerado el crecimiento econ&oacute;mico que est&aacute;bamos planteando para el pr&oacute;ximo a&ntilde;o, que el paquete presupuestal no era real&rdquo;, y otros m&aacute;s que se van ah&iacute; con&hellip; Pero la econom&iacute;a mexicana est&aacute; bien, va a estar bien y vamos a seguir, no solamente creciendo, porque el PIB es un indicador, eso lo trabaj&oacute; mucho Alicia cuando fue directora de la CEPAL &mdash;&iquest;directora se dice?&mdash; de la CEPAL, que puso en el centro de la discusi&oacute;n la desigualdad, y que el crecimiento como el PIB no era suficiente para poder hablar del desarrollo sustentable y equitativo de los pa&iacute;ses.&nbsp; Entonces, nosotros queremos que haya crecimiento, pero que haya distribuci&oacute;n y bienestar.</p>
+
+<p><strong>PREGUNTA: Y ya, por &uacute;ltimo, nada m&aacute;s hacer un llamado para ver si en las pr&oacute;ximas conferencias pudieran tratar el tema de los <em>hackeos,</em> especialmente por WhatsApp y las tarjetas bancarias, porque, sobre todo, en esta &eacute;poca navide&ntilde;a en la que la gente va a cobrar aguinaldos probablemente aumente. </strong></p>
+
+<p><strong>Y sabemos que se roban, hay ciertas mafias que se roban miles de pesos cada d&iacute;a a los ciudadanos por <em>hackeos</em> de WhatsApp, pidiendo paquetes, por llegada de paqueter&iacute;as, o porque es un amigo, un familiar que necesita dinero. Y ver si pudieran tratar esto y aprovechar este altavoz para que hagan un llamamiento a las personas que no hagan caso a todo este tipo de fraudes.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>S&iacute;, lo tomamos en cuenta, le decimos a Profeco y ah&iacute;, a Seguridad.</p>
+
+<p>&ndash;Bueno, vamos por la &uacute;ltima porque ya son las 9:00 y poder cerrar con &ldquo;Mujeres en la historia&rdquo;. A ver, aqu&iacute; adelante&ndash;.</p>
+
+<p><strong>PREGUNTA: Presidenta, muy buenos d&iacute;as. Sandra Aguilar, de <em>AE Grupo Informativo</em>.</strong></p>
+
+<p><strong>En alg&uacute;n momento, y usted lo sabe, llegu&eacute; a cuestionar todav&iacute;a antes de que tomara posesi&oacute;n como Presidenta, precisamente, el tema h&iacute;drico, y pues era un tema pendiente que estaba para Tamaulipas, para mi tierra.</strong></p>
+
+<p><strong>Hoy, pues, bueno, las buenas noticias han llegado y ciertamente se habla de esa coordinaci&oacute;n, no solamente de imposici&oacute;n por parte del gobierno federal, sino de la participaci&oacute;n de los gobernadores de los estados del norte del pa&iacute;s. Buenas noticias para Tamaulipas.</strong></p>
+
+<p><strong>Y, en ese sentido, quiero continuar con las buenas noticias y compartirle que, en breve, precisamente en este estado, el gobernador Am&eacute;rico Villarreal Anaya firmar&aacute; la declaratoria para hacer una entidad o de esta entidad, una regi&oacute;n en donde los sectores p&uacute;blicos y privados impulsen la ciencia, la tecnolog&iacute;a y, en este sentido, para desde ni&ntilde;os, ni&ntilde;as y adolescentes.</strong></p>
+
+<p><strong>Este pacto que se estar&aacute; firmando har&aacute; con ello el territorio &ldquo;STEAM&rdquo;, as&iacute; le han llamado. Y en ese sentido, tener que decirlo as&iacute;, este <em>boom </em>de tecnolog&iacute;a que ha llegado desde que usted toma posesi&oacute;n. En ese sentido, &iquest;cu&aacute;l es la opini&oacute;n que le merece? Es un modelo que se est&aacute; ya replicando en los estados y Tamaulipas en breve ser&aacute; uno de ellos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues es parte de este trabajo que est&aacute;n desarrollando todas las Secretar&iacute;as, pero en particular la doctora Rosaura Ruiz en la Secretar&iacute;a de Ciencia, Humanidades, Tecnolog&iacute;a e Innovaci&oacute;n, de incorporar a las universidades, todas, pero principalmente p&uacute;blicas, los Tecnol&oacute;gicos, en el desarrollo del pa&iacute;s.</p>
+
+<p>Entonces, qu&eacute; bueno que tambi&eacute;n se est&aacute; haciendo en Tamaulipas y sabemos que se est&aacute; haciendo tambi&eacute;n en otras entidades.</p>
+
+<p><strong>PREGUNTA: Y, bueno, retomando, precisamente, el tema del compa&ntilde;ero, en efecto, el tema de los fraudes. Nos espera la &eacute;poca navide&ntilde;a, ya ha llegado, y son muchas las instituciones que lamentablemente, en efecto, en el tema de las aplicaciones se comparten datos personales y gente que trabaja al interior, inclusive de estas dependencias o de estas instituciones bancarias han comenzado ya a hacer fraudes. Ya tenemos detectados al menos dos casos, le puedo compartir inclusive cuales son las instituciones.</strong></p>
+
+<p><strong>Pero precisamente tambi&eacute;n en el Banco del Bienestar se han presentado estos casos. Tengo entendido o debe de ser que usted ya tenga conocimiento, de c&oacute;mo inclusive personal al interior de los Bancos del Bienestar est&aacute;n clonando estas tarjetas, estas cuentas, esta informaci&oacute;n confidencial que ha estado afectando.</strong></p>
+
+<p><strong>&iquest;C&oacute;mo act&uacute;an? Le comparto: pues ciertamente llaman a los usuarios pregunt&aacute;ndoles si &ldquo;&iquest;autorizan cierta compra o si reconocen cierta compra?&rdquo;, ellos contestan que &ldquo;no&rdquo;. Entonces, les piden que revisen su correo para que anulen esta cuenta; y en autom&aacute;tico, al abrir el correo electr&oacute;nico, se roban la cantidad que les est&aacute;n mencionando.</strong></p>
+
+<p><strong>En ese sentido, Presidenta, y ante esta denuncia, llamado, &iquest;podr&iacute;an implementar medidas?, porque no solamente es un caso, ya son muchos los que se han presentado. Insisto, no solamente en el Banco del Bienestar, instituciones como Santander, instituciones como BBVA, son algunas de las, pues s&iacute;, de las empresas, que ya no solamente son uno, son varios.</strong></p>
+
+<p><strong>Y bueno, como dice el compa&ntilde;ero, no hay que esperar a que caigan los aguinaldos, no hay que esperar a que sigan sucediendo estos casos, porque, pues en efecto esto ya est&aacute; ocurriendo.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No tenemos una denuncia en particular sobre personal del Banco de Bienestar, hay que aclararlo. Si hay una denuncia concreta de alguien que trabaje en Banco de Bienestar que haya hecho esto, pues que se presente; pero no tenemos denuncias.</p>
+
+<p><strong>PREGUNTA: Es que no tienen nombres, Presidenta, solamente les llaman.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Por eso. Pero puede ser que aparentan que son del Banco de Bienestar y no necesariamente trabajadores o trabajadoras del Banco de Bienestar.</p>
+
+<p><strong>PREGUNTA: Pero se est&aacute; filtrando la informaci&oacute;n, que es confidencial, de la instituci&oacute;n.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Por eso. Pero para cualquier cosa, hay que presentar pruebas. Entonces, vamos a llamar a la Secretar&iacute;a de Seguridad, a la ADIP, a las instituciones como&hellip; &ndash;&iquest;C&oacute;mo se llama esta instituci&oacute;n que se dedica a ver los fraudes en los bancos?&ndash;</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, es una instituci&oacute;n donde est&aacute; &Oacute;scar&hellip;</p>
+
+<p><strong>PREGUNTA: &iquest;La Condusef?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> La Condusef, para que en conjunto puedan venir a dar la informaci&oacute;n, a proteger a todos los consumidores; a la Profeco, para que sea, para que no caigan pues en un fraude.</p>
+
+<p>Y si hay denuncias espec&iacute;ficas de alg&uacute;n trabajador de alguna instituci&oacute;n del gobierno o privada, pues tambi&eacute;n es importante que se presenten, para que&hellip;</p>
+
+<p><strong>PREGUNTA: Finalmente, le quiero compartir a usted, que estuvo precisamente cerca de los l&iacute;deres en esta Cumbre del G20, pues precisamente, y usted lo sabe, que existe una buena relaci&oacute;n entre M&eacute;xico y Jap&oacute;n.</strong></p>
+
+<p><strong>En ese sentido, sabe tambi&eacute;n que se cuenta con un Tratado y es importante, son importantes las inversiones que se est&aacute;n realizando, precisamente aqu&iacute; en M&eacute;xico.</strong></p>
+
+<p><strong>Le comparto que el pr&oacute;ximo 13 de abril del 2025 se llevar&aacute; a cabo en Osaka, Jap&oacute;n, una expo, esta expo que tiene como fin el dise&ntilde;ar a la sociedad pues del futuro, y pues para ello mejorar tambi&eacute;n o cambiar las vidas.</strong></p>
+
+<p><strong>Hay un grupo de empresarios que precisamente en el 2020 solicit&oacute; el aval, precisamente, del Gobierno del Estado de M&eacute;xico, para poder asistir a esta Cumbre o a esta expo. Evidentemente no genera ning&uacute;n costo del erario p&uacute;blico, todo lo contrario, es costo o inversiones privadas para poder hacer presencia en esta expo.</strong></p>
+
+<p><strong>Y solamente comentarle o compartirle si, &iquest;para esta ocasi&oacute;n, para el 2025, estos empresarios pudieran contar con su aval?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues vamos a ver, ah&iacute; le vamos a encargar al secretario de Econom&iacute;a.</p>
+
+<p><strong>PREGUNTA: Le agradezco. Ser&iacute;a todo de mi parte. Buen d&iacute;a.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>&ndash;S&iacute;, la &uacute;ltima&ndash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Stephanie Palacios, del peri&oacute;dico <em>Quequi </em>de Quintana Roo y Ciudad de M&eacute;xico. Buenos d&iacute;as al Gabinete.</strong></p>
+
+<p><strong>Pues preguntarle sobre esta transici&oacute;n que hay de estos Fideicomisos. Antes, el Fonatur estaba encargado de dar esta estructuraci&oacute;n a Canc&uacute;n, esta playa hotelera, pero ahora nacen estos Fideicomisos. Entonces, &iquest;c&oacute;mo ha sido esta transici&oacute;n? Si ah&iacute;, se hace como un &ldquo;comit&eacute;&rdquo; para que todos vigilen, &iquest;c&oacute;mo va funcionando? Pero hay un peque&ntilde;o como&hellip; Pues no est&aacute; como funcionando totalmente al 100, hay algunas cosas que todav&iacute;a no quedan claras, pero esta zona hotelera de Canc&uacute;n est&aacute; un poco abandonada. </strong></p>
+
+<p><strong>De hecho, hay algunas carreteras que solamente se van a destinar para, de 28 kil&oacute;metros hay 5 kil&oacute;metros. Entonces, para saber, &iquest;si hay algo sobre este tema? Es el Fideicomiso para el Fortalecimiento de la Actividad Tur&iacute;stica, de aqu&iacute; del estado, bueno, del estado de Quintana Roo. &iquest;No s&eacute;, si tiene alguna informaci&oacute;n?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Le pedimos a Lyndia que nos informe para que lo podamos contestar e informamos un d&iacute;a aqu&iacute; en &ldquo;La Ma&ntilde;anera&rdquo;.</p>
+
+<p><strong>PREGUNTA: S&iacute;, adem&aacute;s porque este Comit&eacute; T&eacute;cnico est&aacute; integrado por empresarios, integrado por personas de grupos empresariales, adem&aacute;s de restaurantes; pero, adem&aacute;s, es eso, justo, porque en el tema de Quintana Roo hay esta zona tur&iacute;stica, adem&aacute;s de alta demanda. Y adem&aacute;s porque tambi&eacute;n s&iacute; va a haber recursos de estas&hellip; Parece que va a haber en este Paquete Econ&oacute;mico del a&ntilde;o que entra, del 2025, para las dependencias, lo que es Secretar&iacute;a de Turismo y Secretar&iacute;a de Finanzas, va a haber una reducci&oacute;n de presupuesto. No s&eacute; si, &iquest;eso nos pudiera hablar un poquito, si, s&iacute; est&aacute; confirmado o no?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Le pedimos a Lyndia que nos informe para ver el presupuesto para el mantenimiento de Canc&uacute;n.</p>
+
+<p><strong>PREGUNTA: S&iacute;, &iquest;pero este Fideicomiso s&iacute; fue una mejor opci&oacute;n para Quintana Roo y quitar el&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Le pedimos a Lyndia que nos informe. Gracias.</p>
+
+<p>Vamos con &ldquo;Mujeres en la Historia&rdquo;.</p>
+
+<p>&ndash;S&iacute;, gracias. Es que son 9:10&ndash;.</p>
+
+<p><strong>SUBSECRETARIA DE EDUCACI&Oacute;N B&Aacute;SICA DE LA SECRETAR&Iacute;A DE EDUCACI&Oacute;N P&Uacute;BLICA, NOEM&Iacute; JU&Aacute;REZ P&Eacute;REZ:</strong> Con su permiso, Presidenta. Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Recordemos que ayer se conmemor&oacute; el 114 aniversario del inicio de nuestro proceso revolucionario, la primera revoluci&oacute;n del siglo XX, la Revoluci&oacute;n Mexicana. Y como a lo largo de todo el mes de noviembre, hemos dedicado a destacar, primero, aquellas mujeres que fueron precursoras de este movimiento, desde el muy temprano 1903, 1904, mujeres como Elisa Acu&ntilde;a, Juana Bel&eacute;n, que escrib&iacute;an ya contra la dictadura porfirista, donde ya luchaban contra este r&eacute;gimen.</p>
+
+<p>Posteriormente, hablamos de mujeres como las hermanas Carmen y Natalia Serd&aacute;n, porque tuvieron acciones incluso previas a este 20 de noviembre de 1910, esta acci&oacute;n armada que se da en esta casa de Santa Clara el 18 de noviembre.</p>
+
+<p>Y, bueno, ahora que ya nos encontramos con la fecha conmemorativa, me gustar&iacute;a que vi&eacute;ramos la siguiente c&aacute;psula que prepar&oacute; el equipo de SPR sobre las distintas acciones en las que se involucraron las mujeres en el proceso revolucionario.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE LA SECCI&Oacute;N &ldquo;MUJERES EN LA HISTORIA&rdquo; SOBRE LA PARTICIPACI&Oacute;N DE LAS MUJERES EN LA REVOLUCI&Oacute;N MEXICANA)</strong></p>
+
+<p><strong>SUBSECRETARIA DE EDUCACI&Oacute;N B&Aacute;SICA DE LA SECRETAR&Iacute;A DE EDUCACI&Oacute;N P&Uacute;BLICA, NOEM&Iacute; JU&Aacute;REZ P&Eacute;REZ:</strong> As&iacute; es.</p>
+
+<p>Me gustar&iacute;a mucho destacar, por ejemplo, en el caso de las propagandistas a las maestras Guadalupe y Rosa Narv&aacute;ez, de Puebla, que utilizaban los espacios escolares para el trabajo antirreeleccionista. Paulina Maraver, tambi&eacute;n una profesora de Puebla que fue &ldquo;correo&rdquo; para Emiliano Zapata, de todo lo que acontec&iacute;a en el estado de Veracruz, y era a trav&eacute;s de Puebla que llegaba la informaci&oacute;n hacia Morelos.</p>
+
+<p>Las enfermeras tambi&eacute;n, sin duda, un papel fundamental porque en ese momento la Cruz Roja solamente atend&iacute;a a los heridos por parte del ej&eacute;rcito porfirista. Y una enfermera muy importante en la frontera va a ser Elena Arizmendi, que va a crear la Cruz Blanca Neutral.</p>
+
+<p>El lema era &ldquo;por la humanidad&rsquo;, as&iacute; que estas mujeres no se fijaban a qu&eacute; bando pertenec&iacute;an, la finalidad era dar la atenci&oacute;n humanitaria.</p>
+
+<p>Y, bueno, sin duda, tambi&eacute;n las soldaderas, aquellas que estuvieron en los campos de batalla.</p>
+
+<p>Y ya vimos, la historiadora Gabriela Cano ha denominado esto &ldquo;travestismo estrat&eacute;gico&rdquo; , &iquest;qu&eacute; quiere decir?, que ten&iacute;an que adoptar muchas veces esta identidad masculina, primero para salvaguardar muchas veces la vida haci&eacute;ndose pasar por hombres, y tambi&eacute;n para que pudiera acceder a mandos o grados militares.</p>
+
+<p>El ej&eacute;rcito de Emiliano Zapata es el que reconoce a m&aacute;s mujeres, otorg&aacute;ndoles el grado de Coronela. Y una de ellas va a ser Rosa Bobadilla que, en lo particular, es una mujer que admiro mucho, ella fue Coronela; Genovevo de la O la reconoce 168 acciones de guerra. Fue parte del ej&eacute;rcito zapatista en la zona del Estado de M&eacute;xico, y, bueno, lleg&oacute; a comandar hasta m&aacute;s de mil 500 hombres.</p>
+
+<p>Cuando a ella le preguntan, en las entrevistas que se hacen al equipo que estaba cercano a ella: &ldquo;&iquest;el por qu&eacute; se hab&iacute;a incorporado, si ella era una mediana propietaria?&rdquo; La contestaci&oacute;n que ella daba era que, efectivamente, &ldquo;otras mujeres no ten&iacute;an tierra&rdquo;; entonces, por eso, ella se incorporaba.</p>
+
+<p>Y, bueno, tambi&eacute;n para finalizar, creo que es un tema muy importante el que enunciemos que en 1916 se dan los primeros congresos feministas. A la par que se estaba dando esta revoluci&oacute;n social en todo nuestro pa&iacute;s, las mujeres estaban encabezando tambi&eacute;n su propia revoluci&oacute;n.</p>
+
+<p>Muchas veces creemos que la lucha feminista en nuestro pa&iacute;s es algo reciente, y no es as&iacute;: 1916, en Yucat&aacute;n, en M&eacute;rida, gran parte de las mujeres en ese momento, pues estaban ya organizando, teniendo una agenda, las problem&aacute;ticas de las mujeres de la &eacute;poca. As&iacute; es que tambi&eacute;n es muy importante enunciar que dentro de esta Revoluci&oacute;n ellas estaban encabezando la propia.</p>
+
+<p>Y, bueno, finalmente, yo creo que la mejor o una de las grandes herencias que nos deja la Revoluci&oacute;n mexicana en nuestro pa&iacute;s es, sin duda, la consagraci&oacute;n del art&iacute;culo 3o. constitucional porque, como lo ha enfatizado la Presidenta en distintas ocasiones: la educaci&oacute;n es un derecho y no un privilegio. Y este art&iacute;culo, este derecho a la educaci&oacute;n, es una de las herencias que nos dej&oacute; nuestra Revoluci&oacute;n Mexicana.</p>
+
+<p>Que tengan excelente d&iacute;a.</p>
+
+<p>Es cuanto, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias a todas y a todos. Nos vemos ma&ntilde;ana.</p>
+
+<p>&ndash;Pedro Miguel&ndash;.</p>
+
+<p>Gracias.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-11-21 08:17:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de noviembre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-noviembre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-noviembre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de noviembre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-noviembre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-noviembre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 21 de noviembre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-noviembre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-noviembre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-21-de-noviembre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

@@ -1,0 +1,1784 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de noviembre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de noviembre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/151021/mananera_del_pueblo__16_.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-noviembre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/151021/mananera_del_pueblo__16_.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="yBvFF5AA6gcXWF3HcP3ssvPKi1orIMtzK+jIFU8uufU=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7h3gz44jyra-f-8aa4b4f12-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":15,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"3f801050","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62481,"ak.gh":"23.47.207.175","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296866","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==KEQd+7GABBRMGvZMOtcPFPFw3N63tNXoOxCkQkJKfA0Li4OOjZxMTBAay5xaVKpJAhKMI3qUzs0EWYHzlallsyxyaBNVHQTmwDn4q5VPtDEFoWreyDhMVvqJiaksJjpgxqNlLPIw3HdMdkBk/R4F6UrHdZD4zMw0h7m91WUFOKtxrVuEW5Tn/oz34ArjHnA4r4+F0SBnj3SH5hBbARALuTYpXl3kZcvsXV8NePJAxsM8KeXkjWkd7QGAjNim5Y4/5sTi9XBB/st32sViwT6AR5j/SWOgrTJm/3JnBt4ZLGqpWpwofZ24BeTlFhF1vUCrrWHiqzHZ2hi3Zw0fGdRxN73obpXNN1dSJN3ddYDWkuPXhTgwWEfh4fx6HA2l2ggkpNWADRIdbcfJzRPrcRwcPP8/FeITLkCt7bJ0WewTw6A=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de noviembre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 05 de noviembre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/151021/mananera_del_pueblo__16_.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Buenos d&iacute;as. &iquest;C&oacute;mo est&aacute;n? &iquest;Bien?</p>
+
+<p>Bueno, el d&iacute;a de hoy viene todo el equipo de Secretar&iacute;a de Salud. Nos van a presentar el Plan de Salud o por lo menos en t&eacute;rminos generales, lo que es el Plan de Salud.</p>
+
+<p>Est&aacute; el doctor David Kershenobich, secretario de Salud; Ramiro L&oacute;pez Elizalde, subsecretario de Prevenci&oacute;n y Promoci&oacute;n de la Salud; Eduardo Clark, subsecretario de Integraci&oacute;n y Desarrollo del Sector Salud; Zo&eacute; Robledo, director del IMSS; Mart&iacute; Batres, director del Issste; Alejandro Svarch, director del IMSS-Bienestar; y varias compa&ntilde;eras tambi&eacute;n, que son parte de la Secretar&iacute;a de Salud.</p>
+
+<p>Despu&eacute;s vamos -o m&aacute;s bien al principio, &iquest;verdad?- Hoy es &ldquo;Qui&eacute;n es qui&eacute;n en los precios&rdquo;, que est&aacute; tambi&eacute;n con nosotros Iv&aacute;n Escalante.</p>
+
+<p>Entonces, vamos con Iv&aacute;n y despu&eacute;s, presentamos el Plan de Salud, y despu&eacute;s contestamos las preguntas.</p>
+
+<p>-Adelante-.</p>
+
+<p><strong>IV&Aacute;N ESCALANTE RUIZ, PROCURADOR FEDERAL DEL CONSUMIDOR: </strong>Muy buenos d&iacute;as a todas y a todos. Con su permiso, se&ntilde;ora Presidenta.</p>
+
+<p>En estos valiosos minutos que nos ofrece la Presidenta Claudia Sheinbaum, informamos sobre el comportamiento de los precios de productos de primera necesidad, combustibles y agregaremos un par de temas de temporada o de coyuntura que sean de mayor inter&eacute;s para la poblaci&oacute;n consumidora.</p>
+
+<p>En el monitoreo semanal que la Profeco realiz&oacute; en el tema de la canasta de primera necesidad, del 21 al 25 de octubre, sobre los precios de esta canasta de 24 productos, los cinco establecimientos a nivel nacional m&aacute;s altos que encontramos fueron: Walmart sucursal M&eacute;rida Campestre, en M&eacute;rida, Yucat&aacute;n, con un precio de 960 pesos con 10 centavos; Chedraui Selecto, en La Paz, Baja California Sur, con un precio de 973 pesos con 72 centavos; Walmart sucursal Interlomas, en Naucalpan, Estado de M&eacute;xico, con un precio de 979 pesos 40 centavos; Bodega Aurrera Camino del Seri, en Hermosillo, Sonora, en 982 pesos con 10 centavos; y Walmart Vallarta, en Zapopan, Jalisco, con mil 08 pesos con 30 centavos.</p>
+
+<p>Aprovecho la oportunidad que me da esta conferencia para comentarle que hemos establecido comunicaci&oacute;n ya con Grupo Walmart, a fin de que contin&uacute;en vigilando los precios de esta canasta de primera necesidad y se comprometieron a realizarlo.</p>
+
+<p>Ahora, vamos a mencionar los cinco establecimientos que encontramos en este monitoreo con los precios m&aacute;s bajos, ellos son Chedraui sucursal Apizaco, en Apizaco, Tlaxcala, 780 pesos con 40 centavos; Bodega Aurrera Fuentes del Valle, en Tultitl&aacute;n, Estado de M&eacute;xico, 772 pesos con 60 centavos; Bodega Aurrera 3869, en Cuernavaca, Morelos, con un precio de 754 pesos; Bodega Aurrera Emilio Carranza, en Saltillo, Coahuila, en 747 pesos con 50 centavos; y la canasta que encontramos m&aacute;s barata en este monitoreo fue en el Chedraui Plaza del Carmen Centro, en Solidaridad, Quintana Roo, en 737 pesos.</p>
+
+<p>Como podemos observar, la diferencia entre la canasta con el precio m&aacute;s alto y el precio m&aacute;s bajo es de 271 pesos con 30 centavos.</p>
+
+<p>Atendiendo los comentarios que hicieron muchas personas consumidoras en las redes sociales las &uacute;ltimas dos semanas, traemos un reporte especial sobre el precio de la mandarina, que es una fruta caracter&iacute;stica de esta temporada.</p>
+
+<p>Durante la cuarta semana de octubre se vendi&oacute; en un precio promedio nacional de 49 pesos con 17 centavos kilo, y ha tenido una disminuci&oacute;n de 6 pesos con un poco m&aacute;s en comparaci&oacute;n con la cuarta semana del mes de septiembre. En este sentido, y conforme a nuestro monitoreo, la mandarina lleva dos semanas con el precio a la baja.</p>
+
+<p>Ahora, comentemos el &ldquo;Qui&eacute;n es qui&eacute;n en los precios de los combustibles&rdquo;.</p>
+
+<p>Para el 31 de octubre, el precio promedio por litro de gasolina regular fue de 23 pesos con 83 centavos; gasolina premium, 25 pesos con 22 centavos; el di&eacute;sel, 25 pesos con 48 centavos.</p>
+
+<p>Vamos a presentar el comparativo de estaciones de servicio.</p>
+
+<p>Encontramos en los precios m&aacute;s altos&hellip; Ahora hicimos&hellip; Esto es una diferencia en la presentaci&oacute;n, el estudio completo se encuentra en la p&aacute;gina de internet, pero ahora solamente descartando las estaciones de servicio ubicadas en la frontera norte, hicimos un comparativo nacional y podemos asegurar que, despu&eacute;s de nuestro monitoreo, encontramos que la gasolina regular m&aacute;s cara que encontramos se vende en Monterrey, Nuevo Le&oacute;n, es una estaci&oacute;n marca Mobil, permisionario Orsan del Norte, que encontramos el precio por litro de 26 pesos con 25 centavos.</p>
+
+<p>En el caso de la gasolina premium, encontramos una de la marca Pemex, permisionario Abastecedora y Distribuidora Cuatro Hermanos del Sureste, en Santa Mar&iacute;a Huatulco, con 27 pesos 35 centavos. Y el di&eacute;sel, de la marca FullGas, un permisionario que est&aacute; en Canc&uacute;n, Quintana Roo, Servicios Ecol&oacute;gicos Chich&eacute;n Itz&aacute;, en 27 pesos con 53 centavos.</p>
+
+<p>Y en este mismo comparativo, ahora vamos a presentar los precios m&aacute;s bajos que encontramos, los tres combustibles son de la marca Pemex. Y destacamos que, en el caso de gasolina regular, el permisionario Gas Bosques del Lago, en Cuautitl&aacute;n Izcalli, Estado de M&eacute;xico, con 22 pesos con 39 centavos litro.</p>
+
+<p>En el caso de la gasolina premium, en Ixhuatl&aacute;n del Sureste, en Veracruz, el permisionario Enrique Giraud Mart&iacute;nez, quien comercializ&oacute; el litro de premium en 22 pesos con 65 centavos. Y el di&eacute;sel de la marca Pemex, tambi&eacute;n, el permisionario S&uacute;per Servicio Atizap&aacute;n, en Atizap&aacute;n de Zaragoza, vendiendo el litro de di&eacute;sel en 23 pesos con 96 centavos.</p>
+
+<p>Y ahora presentamos, se&ntilde;ora Presidenta, en otro cruce de informaci&oacute;n o en otro ejercicio, un comparativo entre 21 marcas de gasolina que est&aacute;n en el mercado.</p>
+
+<p>Y se hizo en este monitoreo a nivel nacional, de nuevo descartando los municipios de la frontera norte, y encontramos que las marcas que venden la gasolina regular a m&aacute;s alto precio son Chevron, Redco y Oxxo Gas; y las tres marcas que comercializaron, por lo menos en esta semana de monitoreo, las gasolinas m&aacute;s baratas, las marcas fueron Hidrosina, Orsan y G500. Recordemos que esto es en promedio.</p>
+
+<p>Los estudios completos pueden ser identificados en la p&aacute;gina profeco.gob.mx</p>
+
+<p>Dos temas m&aacute;s y concluimos.</p>
+
+<p>Este es un peque&ntilde;o informe del operativo que se hizo por el D&iacute;a de Muertos del 28 de octubre al 2 de noviembre. Profeco realiza acciones de vigilancia y verificaci&oacute;n en tiendas en donde comercializan art&iacute;culos relativos a estas festividades, como florer&iacute;as, tiendas de disfraces, panader&iacute;as, restaurantes, dulcer&iacute;as, tiendas de art&iacute;culos religiosos, entre otros.</p>
+
+<p>Se instalaron 20 m&oacute;dulos de atenci&oacute;n en puntos estrat&eacute;gicos, se repartieron m&aacute;s de 3 mil 136 dec&aacute;logos sobre los derechos de las personas consumidoras, se ofrecieron asesor&iacute;as, se realizaron visitas de vigilancia y verificaci&oacute;n, y se verificaron los precios de m&aacute;s de 41 mil productos.</p>
+
+<p>Finalmente, es un honor comentar que ya est&aacute; disponible la <em>Revista del Consumidor</em> del mes de noviembre. En este caso estamos presentando dos estudios de calidad: uno sobre purificadores de agua y otro sobre c&aacute;maras de seguridad de videovigilancia inal&aacute;mbricas, entre otros consejos muy importantes para las personas consumidoras y consumidores.</p>
+
+<p>Concluyo, Presidenta. La Procuradur&iacute;a seguir&aacute; promoviendo un consumo informado en las familias mexicanas, procurando que cada ingreso rinda para su bienestar.</p>
+
+<p>Muy buenos d&iacute;as. Muchas gracias.</p>
+
+<p><strong>DAVID KERSHENOBICH STALNIKOWITZ, SECRETARIO DE SALUD:</strong> Con su permiso, Presidenta.</p>
+
+<p>Algo que quisi&eacute;ramos comentar es, hablamos mucho de qu&eacute; significa la salud. Y la salud significa m&aacute;s all&aacute; de nada m&aacute;s tener enfermedad porque afecta distintos aspectos individuales, colectivos y sociales. Cada vez m&aacute;s, despu&eacute;s de la pandemia de COVID-19, tenemos el concepto de salud mental, emocional, social, que es algo muy importante.</p>
+
+<p>La salud es un proceso, entonces, social, cultural e hist&oacute;rico. Tradicionalmente lo entendemos como tener o no tener enfermedad, sin embargo, abarca muchos otros conceptos en la calidad de vida de las personas. Los pa&iacute;ses que tienen un sistema de atenci&oacute;n primaria, y no nada m&aacute;s enfocado a la atenci&oacute;n de la enfermedad en sus fases tard&iacute;as, generalmente se consideran que tienen mejores sistemas de salud; por lo tanto, la prevenci&oacute;n y la promoci&oacute;n de la salud es un componente muy importante de un plan de gobierno en relaci&oacute;n al sistema de salud.</p>
+
+<p>La mejor estrategia para vencer a una enfermedad es precisamente prevenirla, y de lo que se trata es de evitar que las personas se enfermen y que tengan un acceso eficiente a los servicios de salud para todas y todos, y no esperar a las fases tard&iacute;as de la enfermedad cuando generalmente acuden, sino que activamente promovamos la prevenci&oacute;n y la promoci&oacute;n de la salud.</p>
+
+<p>El trabajo coordinado es muy importante entre distintas entidades, no nada m&aacute;s la Secretar&iacute;a de Salud, sino el gobierno, economistas, pol&iacute;ticos, medios de comunicaci&oacute;n, asociaciones civiles, soci&oacute;logos. Todo ello trae como consecuencia una atm&oacute;sfera de cooperaci&oacute;n de calidad entre todos ellos para tratar de procurar una mejor salud en forma integral.</p>
+
+<p>Por ejemplo, cuando tenemos diabetes mellitus, no nada m&aacute;s es el endocrin&oacute;logo, sino tambi&eacute;n la nutri&oacute;loga, la trabajadora social, el responsable de hacer ejercicio. Entonces, el trabajo coordinado es un aspecto muy importante para avanzar en la salud.</p>
+
+<p>De tal manera que algunas de las metas que tenemos en el sector salud para este plan sexenal es priorizar la promoci&oacute;n de la salud. Y escuchar&aacute;n dentro de unos momentos c&oacute;mo, por ejemplo, la vacunaci&oacute;n es un aspecto muy importante para la prevenci&oacute;n; se trata de aumentar la calidad de la atenci&oacute;n m&eacute;dica y reducir los tiempos de espera.</p>
+
+<p>Nos acompa&ntilde;an hoy, por ejemplo, la doctora Marta Zapata, coordinadora de los institutos; Patricia Clark, que es la secretaria del Consejo de Salubridad General.</p>
+
+<p>Queremos fortalecer el IMSS-Bienestar para atender a la poblaci&oacute;n sin seguridad social y queremos garantizar que todas las cl&iacute;nicas y hospitales cuenten con medicamentos, insumos y equipamientos para atender plenamente a la poblaci&oacute;n.</p>
+
+<p>Nos acompa&ntilde;a tambi&eacute;n Armida Z&uacute;&ntilde;iga, la directora de Cofepris, la comisionada.</p>
+
+<p>Y tambi&eacute;n se trata de modernizar y de integrar el sector salud para que todas las personas puedan recibir atenci&oacute;n en forma oportuna, pero, sobre todo, en cualquier unidad del sector p&uacute;blico.</p>
+
+<p>Le pedir&iacute;a, entonces, Presidenta, a continuaci&oacute;n a Eduardo Clark que nos desglosara cada uno de estos puntos.</p>
+
+<p><strong>EDUARDO CLARK GARC&Iacute;A DOBARGANES, SUBSECRETARIO DE INTEGRACI&Oacute;N Y DESARROLLO DEL SECTOR SALUD:</strong> Gracias, doctor. Con su permiso, Presidenta. Muy buenos d&iacute;as. Es un gusto estar aqu&iacute; con ustedes.</p>
+
+<p>Como ya comentaba el doctor Kershenobich, queremos platicarles un poco m&aacute;s a detalle estos cinco puntos estrat&eacute;gicos del Plan Sectorial del Sector Salud para esta administraci&oacute;n:</p>
+
+<p>El primero es priorizar la promoci&oacute;n de la salud, la prevenci&oacute;n de las enfermedades y la vacunaci&oacute;n a lo largo de la vida. Nuestra prioridad n&uacute;mero uno, debe quedar claro, ser&aacute; la promoci&oacute;n de la salud; la mejor manera de garantizar la salud es prevenir la enfermedad y sus complicaciones.</p>
+
+<p>Algunas de las metas espec&iacute;ficas y acciones que queremos implementar son las siguientes: la reducci&oacute;n del porcentaje de ni&ntilde;os y ni&ntilde;as con obesidad infantil; pero, por otra parte, tambi&eacute;n las personas adultas que ya tienen una enfermedad cr&oacute;nica que no est&aacute; diagn&oacute;stica, particularmente diabetes, hipertensi&oacute;n. En concreto, incrementar el porcentaje de ellas que est&aacute;n diagnosticadas, y de esas que esas que est&aacute;n diagnosticadas, incrementar el porcentaje que efectivamente se encuentran en control rutinario dentro de sus Unidades de Salud.</p>
+
+<p>De igual manera, tenemos como objetivo el fortalecimiento de las coberturas de vacunaci&oacute;n universal tanto en ni&ntilde;os como en adultos, y tambi&eacute;n incrementar el n&uacute;mero de mujeres embarazadas que acuden a seguimiento m&eacute;dico rutinariamente durante su embarazo, as&iacute; como el de sus hijos reci&eacute;n nacidos.</p>
+
+<p>La segunda prioridad es incrementar la calidad de la atenci&oacute;n m&eacute;dica y disminuir los tiempos de espera en los hospitales y cl&iacute;nicas del sector p&uacute;blico.</p>
+
+<p>Nosotros consideramos que para dar m&aacute;s y mejor atenci&oacute;n tenemos que poner a trabajar al m&aacute;ximo al personal que tenemos, as&iacute; como la propia infraestructura que ya tenemos en las cl&iacute;nicas y hospitales de nuestro pa&iacute;s. Por eso, estamos tambi&eacute;n present&aacute;ndoles algunas prioridades, como las Unidades M&eacute;dicas de tiempo completo, que involucra abrir las Cl&iacute;nicas de Salud siete d&iacute;as a la semana para que las personas puedan acudir inclusive el s&aacute;bado y domingo a atenci&oacute;n.</p>
+
+<p>Tambi&eacute;n la homologaci&oacute;n y la implementaci&oacute;n de los protocolos nacionales de atenci&oacute;n m&eacute;dica para las enfermedades que m&aacute;s padecen los mexicanos y las mexicanas. Y para incrementar la capacidad de atenci&oacute;n en las cl&iacute;nicas estamos tambi&eacute;n considerando fortalecer el rol de la enfermer&iacute;a en las cl&iacute;nicas y Unidades de Salud, de tal manera que podamos dar m&aacute;s atenci&oacute;n a&uacute;n con el mismo personal.</p>
+
+<p>Esto, lo que esperamos es que impacte en reducir los tiempos de espera para consultas, para estudios y cirug&iacute;as junto con otro tipo de iniciativas.</p>
+
+<p>Estamos tambi&eacute;n, y lo presentaremos a detalle pr&oacute;ximamente, por iniciar un programa distinto de toma de muestras de laboratorio para que se pueda tomar muestras para distintos estudios en la mayor&iacute;a de las Unidades del pa&iacute;s. De igual manera, estamos tambi&eacute;n formando y contratando personal que opere plenamente cada una de estas Unidades M&eacute;dicas, tanto hospitalarias como de nivel de atenci&oacute;n primaria.</p>
+
+<p>Y uno de los programas estrat&eacute;gicos de toda la administraci&oacute;n, que es el programa &ldquo;Casa por Casa&rdquo;, para visitar de manera rutinaria una o dos veces cada dos meses a adultos mayores y personas con discapacidad.</p>
+
+<p>La tercera prioridad es fortalecer al IMSS-Bienestar para que se vuelva, efectivamente, la instituci&oacute;n que atiende con calidad y gratuidad a toda la poblaci&oacute;n sin seguridad social. Estaremos implementando distintas acciones, por ejemplo:</p>
+
+<p>M&eacute;dicos y M&eacute;dicas del Bienestar, que presentar&aacute; mi compa&ntilde;ero Alejandro Svarch en unos minutos. Completar el equipamiento de todos los hospitales y cl&iacute;nicas que han sido transferidos ya a esta nueva instituci&oacute;n. Implementar tecnolog&iacute;a y sistemas en toda la atenci&oacute;n para sacarle el mayor provecho. Y facilitar la relaci&oacute;n entre las personas que se atiendan en el IMSS-Bienestar y la propia instituci&oacute;n. Garantizar la disponibilidad de medicamentos gratuitos, el tema que hablamos el jueves pasado en este mismo espacio.</p>
+
+<p>Concluir el rescate de la infraestructura que durante d&eacute;cadas pudo estar abandonado durante el periodo neoliberal, todav&iacute;a falta poquito por terminar; y un programa excelente ha sido &ldquo;La Cl&iacute;nica es Nuestra&rdquo;, que continuar&aacute;. As&iacute; como continuar con la contrataci&oacute;n de personal para operar plenamente todas y cada una de las Unidades.</p>
+
+<p>Por otra parte, tenemos que garantizar los insumos, que son desde medicamentos, material curativo, pero tambi&eacute;n el equipamiento para que cada cl&iacute;nica y hospital opere plenamente. Lo que consideramos son planeaci&oacute;n con digitalizaci&oacute;n, con mejora de procesos podemos obtener las mejores condiciones para obtener todos estos insumos, darlos de la mejor calidad al mejor precio y que se implementen en todas nuestras Unidades de Salud.</p>
+
+<p>Estamos presentando, la semana pasada estuvimos&hellip; El modelo de compra y distribuci&oacute;n de medicamentos, que esperamos pueda ayudar much&iacute;simo, no solo a conseguir mejores precios, pero que tambi&eacute;n lo que se consiga sea de la mayor calidad y efectividad para los pacientes, implementando los m&oacute;dulos de receta electr&oacute;nica para darle seguimiento a cada una de estas recetas.</p>
+
+<p>Un programa que presentaremos a su tiempo, de equipamiento de hospitales y cl&iacute;nicas que ya existen para no solo construir nuevas cosas, sino darle capacidad resolutiva a las que ya est&aacute;n. Y el programa de Farmacias del Bienestar, que se anunci&oacute; en alg&uacute;n momento, tambi&eacute;n ser&aacute; parte de este eje transversal.</p>
+
+<p>Y, finalmente, el quinto objetivo es modernizar, traer al siglo XXI al sector salud, al Sistema Nacional de Salud P&uacute;blica e integrar todo el sector, es decir, a las tres instituciones grandes, as&iacute; como a las m&aacute;s peque&ntilde;as, reduciendo los desiertos de atenci&oacute;n, los lugares a donde la gente le queda muy lejos la atenci&oacute;n a la salud. Y crear un modelo para operar como un sistema unificado, donde las personas puedan acudir a su unidad m&aacute;s cercana sin importar la derechohabiencia, utilizando para todo esto la ciencia y la tecnolog&iacute;a.</p>
+
+<p>Una de las acciones importantes son la implementaci&oacute;n del Expediente M&eacute;dico Electr&oacute;nico universal en todo el sector. La construcci&oacute;n de Unidades de Salud en solo los lugares donde tengamos muchos desiertos de atenci&oacute;n, donde no haya capacidad para llegar, pero, al mismo tiempo, complementarlos con nuevos modelos de consulta v&iacute;a celular o consulta remota.</p>
+
+<p>Tambi&eacute;n, implementar los sistemas de agendar citas y seguimiento a la espera de manera digital.</p>
+
+<p>Y dos de los programas m&aacute;s estrat&eacute;gicos: Uno, es operar como un sistema unificado de salud sin importar si se cuenta con seguridad social; es decir, que nosotros somos Sistema P&uacute;blico de Salud, nos pongamos de acuerdo para que cualquier persona que tenga una necesidad pueda acudir a cualquier Unidad de Salud, independientemente de su derechohabiencia, y sea atendida.</p>
+
+<p>Y, finalmente, tambi&eacute;n, garantizar el derecho al acceso a la salud a trav&eacute;s de una credencializaci&oacute;n universal de afiliaci&oacute;n al Sistema Nacional de Salud para el Bienestar, que ya est&aacute; en la Constituci&oacute;n.</p>
+
+<p>Ser&iacute;an esas algunas de las acciones, no todas, debe de quedar claro eso, pero quer&iacute;amos darles una visi&oacute;n transversal de lo que buscamos crear en esta administraci&oacute;n como las metas del sector salud.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS):</strong> Con su permiso, Presidenta. Compa&ntilde;eras y compa&ntilde;eros, muy buenos d&iacute;as.</p>
+
+<p>Y as&iacute; como se ha comentado, hoy nos corresponde presentar dos de las acciones que la instituci&oacute;n, en este caso el Seguro Social, est&aacute; ya realizando para alcanzar estas metas y objetivos de todo el sector y, desde luego, del Gobierno de M&eacute;xico, en este caso, en lo que respecta a la mejora de la calidad de la atenci&oacute;n, al tema del equipamiento, y esto que ya ha comentado el subsecretario Clark de traer al siglo XXI a los sistemas p&uacute;blicos de salud en nuestro pa&iacute;s con el uso de tecnolog&iacute;a.</p>
+
+<p>Entonces, vamos a empezar con el primero, que es el Expediente Cl&iacute;nico Electr&oacute;nico.</p>
+
+<p>Aqu&iacute; es importante aclararle a quienes nos ven: &iquest;qu&eacute; es el Expediente Cl&iacute;nico Electr&oacute;nico?</p>
+
+<p>Cada vez que vamos a un consultorio y nos atiende un m&eacute;dico o una m&eacute;dica realiza un interrogatorio; todos aqu&iacute; yo creo que en alg&uacute;n momento de nuestras vidas hemos estado en esa situaci&oacute;n. El m&eacute;dico o la m&eacute;dica necesita tener acceso inmediato a la historia completa del paciente, necesita conocer sus antecedentes, necesita conocer si ha tenido alergias, si tiene alguna alergia, cu&aacute;les son los medicamentos que est&aacute; tomando o que ha tomado en el pasado, alguna prueba de laboratorio que le hayan realizado, si le hicieron en alg&uacute;n momento una cirug&iacute;a, si tuvo un ingreso hospitalario y qu&eacute; ocurri&oacute; en ese ingreso hospitalario, si tuvo que llegar a urgencias en alg&uacute;n momento&nbsp; tambi&eacute;n ser&aacute; parte de este eje transversal.</p>
+
+<p>Y, finalmente, el quinto objetivo es modernizar, traer al siglo XXI al sector salud, al Sistema Nacional de Salud P&uacute;blica, e integrar todo el sector, es decir, a las tres instituciones grandes as&iacute; como a las m&aacute;s peque&ntilde;as, reduciendo los desiertos de atenci&oacute;n, los lugares a donde la gente le queda muy lejos la atenci&oacute;n a la salud y crear un modelo para operar como un sistema unificado, donde las personas puedan acudir a su unidad m&aacute;s cercana sin importar la derechohabiencia, utilizando para todo esto la ciencia y la tecnolog&iacute;a.</p>
+
+<p>Una de las acciones importantes son:</p>
+
+<p>La implementaci&oacute;n del Expediente M&eacute;dico Electr&oacute;nico universal en todo el sector.</p>
+
+<p>La construcci&oacute;n de unidades de salud en s&oacute;lo los lugares donde tengamos muchos desiertos de atenci&oacute;n, donde no haya capacidad para llegar, pero, al mismo tiempo, complementarlos con nuevos modelos de consulta v&iacute;a celular o consulta remota.</p>
+
+<p>Tambi&eacute;n, implementar los sistemas de agendar citas y seguimiento a la espera de manera digital.</p>
+
+<p>Y dos de los programas m&aacute;s estrat&eacute;gicos:</p>
+
+<p>Uno es operar como un sistema unificado de salud sin importar si se cuenta con seguridad social; es decir, que nosotros somos sistema p&uacute;blico de salud, nos pongamos de acuerdo para que cualquier persona que tenga una necesidad pueda acudir a cualquier unidad de salud independientemente de su derechohabiencia y sea atendida.</p>
+
+<p>Y, finalmente, tambi&eacute;n, garantizar el derecho al acceso a la salud a trav&eacute;s de una credencializaci&oacute;n universal de afiliaci&oacute;n al Sistema Nacional de Salud para el Bienestar, que ya est&aacute; en la Constituci&oacute;n.</p>
+
+<p>Ser&iacute;an esos algunas de las acciones, no todas, debe de quedar claro eso, pero quer&iacute;amos darles una visi&oacute;n transversal de lo que buscamos crear en esta administraci&oacute;n como las metas del sector salud.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS):</strong> Con su permiso, Presidenta. Compa&ntilde;eras y compa&ntilde;eros, muy buenos d&iacute;as.</p>
+
+<p>Y as&iacute; como se ha comentado, hoy nos corresponde presentar dos de las acciones que la instituci&oacute;n, en este caso el Seguro Social, est&aacute; ya realizando para alcanzar estas metas y objetivos de todo el sector y, desde luego, del Gobierno de M&eacute;xico, en este caso en lo que respecta a la mejora de la calidad de la atenci&oacute;n, al tema del equipamiento, y esto que ya ha comentado el subsecretario Clark de traer al siglo XXI a los sistemas p&uacute;blicos de salud en nuestro pa&iacute;s con el uso de tecnolog&iacute;a.</p>
+
+<p>Entonces, vamos a empezar con el primero, que es el Expediente Cl&iacute;nico Electr&oacute;nico. Aqu&iacute; es importante aclararle a quienes nos ven qu&eacute; es el Expediente Cl&iacute;nico Electr&oacute;nico. Cada vez que vamos a un consultorio y nos atiende un m&eacute;dico o una m&eacute;dica realiza un interrogatorio, todos aqu&iacute; yo creo que en alg&uacute;n momento de nuestras vidas hemos estado en esa situaci&oacute;n, el m&eacute;dico o la m&eacute;dica necesita tener acceso inmediato a la historia completa del paciente, necesita conocer sus antecedentes, necesita conocer si ha tenido alergias, si tiene alguna alergia, cu&aacute;les son los medicamentos que est&aacute; tomando o que ha tomado en el pasado, alguna prueba de laboratorio que le hayan realizado, si le hicieron en alg&uacute;n momento una cirug&iacute;a, si tuvo un ingreso hospitalario y qu&eacute; ocurri&oacute; en ese ingreso hospitalario, si tuvo que llegar a urgencias en alg&uacute;n momento.</p>
+
+<p>Esto cambia radicalmente la posibilidad en t&eacute;rminos de la calidad y el seguimiento de la atenci&oacute;n.</p>
+
+<p>&iquest;Por qu&eacute; es tan importante para las instituciones que prestamos atenci&oacute;n m&eacute;dica contar con un Expediente Cl&iacute;nico Electr&oacute;nico? Mejora, desde luego, la atenci&oacute;n. Permite un acceso mucho m&aacute;s r&aacute;pido y completo al historial m&eacute;dico, y eso permite diagn&oacute;sticos mucho m&aacute;s precisos y tratamientos mejor informados.</p>
+
+<p>Reduce errores que la parte manual muchas veces puede traer consigo, registros en papel que a veces son ilegibles o la p&eacute;rdida de datos o la cl&aacute;sica p&eacute;rdida de un expediente que entonces se tiene que volver a construir.</p>
+
+<p>Adem&aacute;s, permite dar continuidad a la atenci&oacute;n, es decir, una persona no va a acudir siempre al mismo lugar, a una Unidad de Medicina Familiar. Por ejemplo, en el IMSS es probable que necesite una consulta de especialidad en el segundo nivel de atenci&oacute;n o en el tercer nivel de atenci&oacute;n en alguno de los centros m&eacute;dicos nacionales; para eso, el expediente debe de viajar con la persona y no quedarse f&iacute;sicamente en la Unidad en donde se origin&oacute;. Pero, adem&aacute;s, optimiza recursos y es una herramienta extraordinaria para todo el sector, sobre todo, para la Secretar&iacute;a de Salud, para el monitoreo y an&aacute;lisis de los datos de salud p&uacute;blica.</p>
+
+<p>En este sentido, esto es el cambio de los &uacute;ltimos a&ntilde;os y la construcci&oacute;n que se est&aacute; haciendo, el Expediente Cl&iacute;nico Electr&oacute;nico en el IMSS.</p>
+
+<p>Antes era &ndash;como lo tenemos aqu&iacute; del lado izquierdo&ndash; era un expediente no estandarizado; hab&iacute;a muchos aplicativos, pero en su mayor&iacute;a eran manuales. Adem&aacute;s, la informaci&oacute;n del expediente no pod&iacute;a viajar, no se pod&iacute;a compartir entre diferentes Unidades; si una persona se mudaba y se adscrib&iacute;a a una nueva Unidad de Medicina Familiar ten&iacute;a que volver a construirse su expediente, incluso en la misma ciudad, en una Unidad diferente no pod&iacute;a viajar.</p>
+
+<p>Hoy, el Expediente Cl&iacute;nico Electr&oacute;nico del IMSS es un sistema integral que almacena y gestiona toda la informaci&oacute;n cl&iacute;nica de manera segura, de manera organizada, de los &uacute;ltimos siete a&ntilde;os de la historia m&eacute;dica de las pacientes o los pacientes derechohabientes del IMSS.</p>
+
+<p>Con este expediente, hoy los m&eacute;dicos y las m&eacute;dicas pueden consultar las notas m&eacute;dicas registradas. Ustedes lo han visto, los m&eacute;dicos van haciendo notas, pero las van haciendo en su computadora, ah&iacute; puede consultar todas las notas que el propio m&eacute;dico o m&eacute;dica hizo, pero tambi&eacute;n si alguien m&aacute;s las realiz&oacute;. Tambi&eacute;n si hubo consultas en el segundo o en el tercer nivel de atenci&oacute;n; los procedimientos quir&uacute;rgicos que se le han aplicado al paciente, los procedimientos aplicados durante su instancia hospitalaria; la evoluci&oacute;n en urgencias; y adem&aacute;s, los resultados de laboratorio y las recetas emitidas a lo largo del tiempo, as&iacute; como las incapacidades.</p>
+
+<p>&ndash;Ahora, en la siguiente podemos ver c&oacute;mo vamos en este sentido&ndash;.</p>
+
+<p>Ya no es solo un plan, sino un proyecto que ha ocurrido en los &uacute;ltimos a&ntilde;os. Hoy el IMSS tiene 53.7 millones de expedientes electr&oacute;nicos de 53.7 millones de derechohabientes del Seguro Social; esto nos ubica como el segundo expediente cl&iacute;nico electr&oacute;nico m&aacute;s grande del mundo, y es explicable porque somos un sistema p&uacute;blico que atiende, en este caso, a las personas con seguridad social.</p>
+
+<p>En el registro se cuenta ya con 722 millones de notas m&eacute;dicas, se han registrado mil 796 millones de recetas, mil 186 millones de estudios de laboratorio, 2.6 millones de ingresos hospitalarios, 7.8 millones de ingresos a urgencias y 68.9 millones de incapacidades. Con todo eso es que se construyen todos los expedientes de estos 53 millones de personas.</p>
+
+<p>Ah&iacute; tenemos algunos de los otros pa&iacute;ses que tienen una aplicaci&oacute;n masiva, pero con una gran diferencia para nosotros, y eso es parte de este Segundo Piso de la Cuarta Transformaci&oacute;n: que este expediente originado en el IMSS sea el origen para que se construya el expediente cl&iacute;nico de toda la poblaci&oacute;n.</p>
+
+<p>Ya estamos trabajando con la Agencia de Transformaci&oacute;n Digital para que este, que es un desarrollo propio, no es una licencia de un proveedor privado, sino un desarrollo propio del Seguro, pueda transferirse y entonces, una persona que deja de tener seguridad social y empieza a cotizar en el Issste, por ejemplo, ese expediente inmediatamente en el Issste lo puedan consultar.</p>
+
+<p>O mejor a&uacute;n, en el caso del IMSS-Bienestar, las personas a lo largo de su vida entran y salen a la seguridad social, y en ese sentido cambian de prestador de servicios de atenci&oacute;n m&eacute;dica. Con el Expediente Cl&iacute;nico Electr&oacute;nico ya no solo del IMSS, sino universal, lograremos que, en todos los lugares, en todos los consultorios se pueda acceder a &eacute;l sin importar la derechohabiencia de la persona o el lugar en donde se est&aacute; atendiendo.</p>
+
+<p>Entonces, era una primera parte de lo que quer&iacute;amos presentar.</p>
+
+<p>Y el otro tema, que es un poco m&aacute;s breve, pero tambi&eacute;n impacta en una de las acciones que tiene que ver con el equipamiento.</p>
+
+<p>Durante el gobierno del Presidente Andr&eacute;s Manuel L&oacute;pez Obrador, sobre todo, en la etapa de COVID, hubo una indicaci&oacute;n de mejorar y de equipar las instalaciones del IMSS, los hospitales y los centros de salud.</p>
+
+<p>Antes se hac&iacute;a agregando las necesidades de cada uno de los hospitales y de cada una de las Unidades de Medicina Familiar. Ahora, lo que hicimos, a partir de 2019, fue un diagn&oacute;stico territorial de campo que nos permit&iacute;a ver en d&oacute;nde necesit&aacute;bamos y era m&aacute;s urgente que se hiciera la sustituci&oacute;n de un alg&uacute;n equipo que ya estaba obsoleto, tambi&eacute;n lo utilizamos para trabajos de conservaci&oacute;n y mantenimiento.</p>
+
+<p>Pero en este caso, solo de equipamiento se invirtieron, en el gobierno pasado, 25 mil millones de pesos &ndash;como podemos ver&ndash; fue un incremento muy importante con respecto a los a&ntilde;os anteriores del periodo neoliberal, en donde se dejaba de invertir en el IMSS, siempre procurando la contrataci&oacute;n de servicios privados y cada vez m&aacute;s esta privatizaci&oacute;n silenciosa: &ldquo;&iquest;no sirven los Rayos X? Pues que haga alguien m&aacute;s los Rayos X afuera de la instituci&oacute;n&rdquo;. Hab&iacute;a que regresar esto y as&iacute; lo hicimos.</p>
+
+<p>Y esta es la inversi&oacute;n del &acute;19 al 2023, porque todav&iacute;a no estamos contando lo que est&aacute; ocurriendo este a&ntilde;o: una inversi&oacute;n para 2024 de 5 mil 68 millones de pesos en la adquisici&oacute;n de 6 mil 416 -ah&iacute; est&aacute; mal ese signo de pesos- son 6 mil 416 diferentes equipos m&eacute;dicos.</p>
+
+<p>Por &uacute;ltimo -en la siguiente, solo para decirlo-, hay equipos que muchas veces no se ven, no se inauguran, pero que son fundamentales para la atenci&oacute;n.</p>
+
+<p>Esta es la distribuci&oacute;n que tenemos, son 517 unidades que est&aacute;n recibiendo equipamiento ya desde el &uacute;ltimo trimestre de este a&ntilde;o, 265 hospitales, es decir, pr&aacute;cticamente todos los hospitales del IMSS y 252 UMFs.</p>
+
+<p>Pero lo hicimos tambi&eacute;n en programas concentrados y centralizados para que todos los equipos que se necesitaban ocurrieran en licitaciones p&uacute;blicas, de manera central, y adquiri&eacute;ramos mejores equipos con mejor precio.</p>
+
+<p>Y ah&iacute; est&aacute;n algunos de los ejemplos: estos 455 electrocauterios que son fundamentales para todos los quir&oacute;fanos; las m&aacute;quinas de anestesia, 381 que compramos; 343 monitores de signos vitales, 320 cunas de calor radiante, 277 ultrasonidos ginecobst&eacute;tricos, 277 l&aacute;mparas quir&uacute;rgicas que hac&iacute;an falta sustituir, 270 incubadoras para reci&eacute;n nacidos, 264 mesas de cirug&iacute;a, adem&aacute;s de equipos m&aacute;s grandes, entre angi&oacute;grafos, Rayos X, laboratorios especializados, para algunos centros m&eacute;dicos nacionales.</p>
+
+<p>Entonces, es lo que quer&iacute;amos presentar el d&iacute;a de hoy sobre estas acciones que ya impactan de manera directa las metas de todo el sector.</p>
+
+<p>Muchas gracias, Presidenta.</p>
+
+<p><strong>ALEJANDRO SVARCH P&Eacute;REZ, DIRECTOR GENERAL DEL IMSS-BIENESTAR:</strong> Muy buenos d&iacute;as, Presidenta; se&ntilde;or secretario; compa&ntilde;eras y compa&ntilde;eros.</p>
+
+<p>Presentaremos hoy &ldquo;M&eacute;dicas y M&eacute;dicos del Bienestar&rdquo;, la iniciativa del IMSS-Bienestar a trav&eacute;s de la cual lograremos consolidar la red de servicios p&uacute;blicos de salud m&aacute;s grande del mundo.</p>
+
+<p>Con la m&iacute;stica que inspira &ldquo;M&eacute;dicas y M&eacute;dicos del Bienestar&rdquo; reforzamos el compromiso de garantizar que ninguna persona en nuestro pa&iacute;s quede sin acceso a servicios p&uacute;blicos de salud de forma oportuna y, por supuesto, de forma digna.</p>
+
+<p>&ldquo;M&eacute;dicas y M&eacute;dicos del Bienestar&rdquo; ser&aacute; un grupo de trabajo colectivo, colaborativo, que atienda la salud de las personas que m&aacute;s lo necesitan, en especial en aquellas situaciones en las cuales las personas no cuentan con seguridad social con un enfoque de derechos humanos, con un enfoque de alta justicia social, y con altos est&aacute;ndares de calidad y de calidez en la atenci&oacute;n m&eacute;dica.</p>
+
+<p>Este programa tiene como prop&oacute;sito reclutar equipos multidisciplinarios que puedan responder a las necesidades de atenci&oacute;n de la poblaci&oacute;n garantizando atenci&oacute;n resolutiva y oportuna, especialmente en zonas de alta demanda y de dif&iacute;cil acceso.</p>
+
+<p>Nuestro primer objetivo es avanzar en la equidad en salud.</p>
+
+<p>Por ello, aseguraremos la conformaci&oacute;n de equipos cl&iacute;nico quir&uacute;rgicos, denominados &ldquo;Equipos Cl&iacute;nico Quir&uacute;rgicos del Bienestar&rdquo; en los 282 hospitales ubicados en las zonas rurales, vulnerables o remotas de nuestro pa&iacute;s. Para optimizar el funcionamiento de estas Unidades se va a garantizar una atenci&oacute;n continua y disponible las 24 horas del d&iacute;a y los 365 d&iacute;as del a&ntilde;o.</p>
+
+<p>Asimismo, &ldquo;M&eacute;dicas y M&eacute;dicos del Bienestar&rdquo; incentiva el desarrollo profesional, laboral y, sobre todo, humano de las personas dedicadas a la salud. Las m&eacute;dicas y m&eacute;dicos del Bienestar que se sumen a este equipo recibir&aacute;n una remuneraci&oacute;n econ&oacute;mica efectiva que va de los 50 a los 55 mil pesos mensuales; adem&aacute;s de un contrato base federal por dos a&ntilde;os; apoyo en transporte, hospedaje y alimentaci&oacute;n; as&iacute; como la posibilidad de adquirir sin costo una maestr&iacute;a en su &aacute;rea de <em>expertise</em>.</p>
+
+<p>A continuaci&oacute;n, presentaremos un video sobre la iniciativa, por favor.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO)</strong></p>
+
+<p><strong>ALEJANDRO SVARCH P&Eacute;REZ, DIRECTOR GENERAL DEL IMSS-BIENESTAR:</strong> Muchas gracias. Invitamos a todos los profesionales de la salud interesados en formar parte de la red de servicios p&uacute;blicos de salud m&aacute;s grande del mundo a registrarse en m&eacute;dicasym&eacute;dicosdelbienestar.imssbienestar.gob.mx.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>MART&Iacute; BATRES GUADARRAMA, DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE):</strong> Muy buenos d&iacute;as, Presidenta. Buenos d&iacute;as, compa&ntilde;eros y amigos de los medios de comunicaci&oacute;n.</p>
+
+<p>En el caso del Issste, evidentemente vamos a seguir todos los lineamientos del Plan de Salud que se est&aacute; presentando para todo el sector, con especial acento en todos los temas que tienen que ver con la prevenci&oacute;n de las enfermedades para fortalecer, sobre todo, esta parte que es fundamental para evitar el desarrollo de enfermedades.</p>
+
+<p>Ahora bien, tenemos algunas prioridades espec&iacute;ficas del Issste.</p>
+
+<p>Una de ellas tiene que ver con la disminuci&oacute;n de los tiempos de espera de los derechohabientes para ser atendidos en las Unidades M&eacute;dicas; y en este caso, tambi&eacute;n el aumento en las cirug&iacute;as, en el n&uacute;mero de cirug&iacute;as que se realicen en nuestras Unidades M&eacute;dicas junto con la mejora constante, continua, de la calidez en el trato a los derechohabientes. Este es un tema que nos interesa mucho ir profundizando y desarrollando.</p>
+
+<p>En segundo lugar, hay un tema fundamental en el Issste, que es la homologaci&oacute;n en el salario del personal del Issste con el IMSS. El IMSS tiene salarios m&aacute;s altos que el Issste y vamos a buscar que a lo largo del sexenio, de forma gradual y paulatina, se vayan nivelando los salarios del Issste con el IMSS hasta lograr su homologaci&oacute;n.</p>
+
+<p>Al mismo tiempo, tambi&eacute;n en el caso del personal, tenemos la necesidad de ampliar el personal, especialmente el personal m&eacute;dico del Issste; vamos a estar trabajado tambi&eacute;n en este sentido a lo largo de la administraci&oacute;n.</p>
+
+<p>Un tercer elemento que es fundamental para el Issste es fortalecer los v&iacute;nculos con el IMSS y con el IMSS-Bienestar. Eso nos permitir&iacute;a el intercambio de informaci&oacute;n, pero tambi&eacute;n el uso de instalaciones, de tal forma que se puedan combatir fen&oacute;menos como la subrogaci&oacute;n de servicios privados y, en cambio, podamos aprovechar al m&aacute;ximo los servicios que ofrecen las diversas instituciones p&uacute;blicas de salud.</p>
+
+<p>Asimismo, vamos a continuar con el proceso de nacionalizaci&oacute;n paulatina de los servicios del Issste. Ya se ha trabajado en este sentido desde la administraci&oacute;n pasada y vamos a seguir fortaleciendo la nacionalizaci&oacute;n de diversos servicios.</p>
+
+<p>Hemos estado trabajando con la nacionalizaci&oacute;n de los servicios de hemodinamia y de anestesia, hay otros servicios que seguir&aacute;n nacionalizando a lo largo del sexenio, de tal forma que los servicios que brinde el Issste sean servicios p&uacute;blicos y no sea simplemente un intermediario, la instituci&oacute;n, con servicios privados.</p>
+
+<p>Finalmente, dir&iacute;a que tambi&eacute;n vamos a trabajar para agregar al Issste este gran programa que es &ldquo;La Cl&iacute;nica es Nuestra&rdquo;, que nos permitir&aacute; fortalecer nuestras instalaciones con participaci&oacute;n social y ciudadana.</p>
+
+<p>Muchas gracias, Presidenta.</p>
+
+<p>Bonito d&iacute;a.</p>
+
+<p><strong>RAMIRO L&Oacute;PEZ ELIZALDE, SUBSECRETARIO DE PREVENCI&Oacute;N Y PROMOCI&Oacute;N DE LA SALUD:</strong> Buenos d&iacute;as, Presidenta.</p>
+
+<p>Queremos compartirle a la poblaci&oacute;n que la Campa&ntilde;a de Vacunaci&oacute;n para la Temporada Invernal 2024-2025 se lleva a cabo desde el 15 de octubre del &acute;24 al 28 de marzo del 2025 para prevenir las enfermedades respiratorias graves relacionadas con la influenza y COVID-19.</p>
+
+<p>Nos anticipamos a la llegada del invierno y proseguimos durante el transcurso del mismo, a fin de brindar opciones de cobertura y protecci&oacute;n a las personas con m&aacute;s riesgo de presentar complicaciones que conduzcan a la hospitalizaci&oacute;n.</p>
+
+<p>Por lo cual estamos invitando a vacunarse contra el COVID-19 a personas &mdash;ah&iacute; tienen en la diapositiva&mdash;, personas que no han recibido ninguna dosis de vacuna contra Coronavirus, a partir de los 5 a&ntilde;os de edad cumplidos con al menos uno de las siguientes comorbilidades: diabetes no controlada, obesidad m&oacute;rbida, enfermedad pulmonar cr&oacute;nica -incluyendo asma-, enfermedad cardiovascular -incluida la hipertensi&oacute;n arterial-, insuficiencia renal cr&oacute;nica, inmunodepresi&oacute;n adquirida por enfermedad o por tratamiento; c&aacute;ncer y personas que viven con VIH y SIDA, as&iacute; como mujeres embarazadas sin importar el trimestre en que se encuentren, personas de 60 a&ntilde;os y m&aacute;s, al personal de salud y personas de 5 a 59 a&ntilde;os con comorbilidades, como hab&iacute;a comentado.</p>
+
+<p>Por su parte, la vacuna contra la influenza la recomendamos a ni&ntilde;as y ni&ntilde;os de 6 a 59 meses, poblaci&oacute;n de 60 y m&aacute;s, personas embarazadas, personal de salud y personas de 50 a 59 a&ntilde;os con las mismas comorbilidades que ya coment&eacute; para la vacuna de COVID-19.</p>
+
+<p>Les vamos a invitar a que vean un video breve de la campa&ntilde;a que estamos haciendo para la vacunaci&oacute;n.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO)</strong></p>
+
+<p><strong>RAMIRO L&Oacute;PEZ ELIZALDE, SUBSECRETARIO DE PREVENCI&Oacute;N Y PROMOCI&Oacute;N DE LA SALUD:</strong> Aprovecho la ocasi&oacute;n para agradecer y reconocer al personal de salud, especialmente al equipo de enfermer&iacute;a, quienes a&ntilde;o con participan con entrega y dedicaci&oacute;n en estas campa&ntilde;as de inmunizaci&oacute;n.</p>
+
+<p>Hoy vamos a invitar a la Presidenta de nuestro pa&iacute;s a que se vacune, entonces por ah&iacute; le tenemos una sorpresa. No se hab&iacute;a dado cuenta, pero&hellip;</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Terminando la conferencia.</p>
+
+<p><strong>RAMIRO L&Oacute;PEZ ELIZALDE, SUBSECRETARIO DE PREVENCI&Oacute;N Y PROMOCI&Oacute;N DE LA SALUD:</strong> -Me va a rega&ntilde;ar despu&eacute;s-.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Terminando la conferencia nos vacunamos de influenza, que no me he vacunado. Aqu&iacute;, aqu&iacute;, lo vamos a hacer, en la conferencia, pero terminando las preguntas.</p>
+
+<p>-Adelante-.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Buenos d&iacute;as, Presidenta. Sandy Gonz&aacute;lez, periodista de Quintana Roo, <em>Canal 5 TV</em>, y periodista del sur.</strong></p>
+
+<p><strong>Bueno, la primera visita, siendo la &uacute;nica mujer periodista que tiene este privilegio de estar cerca de autoridades estatales, federales, perd&oacute;n. Y, bueno, unas preguntas r&aacute;pidamente. En el municipio de Tulum va creciendo a pasos agigantados, bien vemos las grandes obras que ha realizado el Gobierno Federal, como el aeropuerto, el Parque del Jaguar, siendo este uno de los m&aacute;s grandes atractivos tur&iacute;sticos en la zona, y con ello, se han colocado nuevos arcos y c&aacute;maras de seguridad, esto mejorando y fortaleciendo ah&iacute; mucho la seguridad.</strong></p>
+
+<p><strong>Y pues preguntarle acerca de los nuevos proyectos, porque tambi&eacute;n se ha decretado ya este municipio como una zona de desarrollo tur&iacute;stico sustentable, esto, para preservar y fomentar los ambientes naturales. &iquest;Qu&eacute; proyectos? &iquest;Y c&oacute;mo va? &iquest;Cu&aacute;ndo se piensa concretar este gran decreto para Tulum?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Si, recientemente el municipio public&oacute; el Programa de Ordenamiento Territorial que es muy importante, porque al llegar nuevos vuelos a Tulum, con el Tren Maya, con el aeropuerto, obviamente, pues tiene el riesgo &ndash;vamos a ponerlo as&iacute;&ndash; de que haya un crecimiento desordenado de la zona.</p>
+
+<p>Entonces, lo que queremos es que contin&uacute;e siendo Tulum un espacio vinculado con la naturaleza y que no tenga impactos particularmente sobre la selva tropical y los recursos naturales. Entonces, estamos trabajando en ello, tanto con la gobernadora como con la Presidencia Municipal; est&aacute; tanto la secretaria de SEDATU como la secretaria de Medio Ambiente.</p>
+
+<p>Entonces, ese es el objetivo, que siga recibiendo visitantes, pero que no impacte la naturaleza y que el crecimiento no sea desordenado.</p>
+
+<p>Caso similar, aunque est&eacute; en otro estado de la Rep&uacute;blica, es Puerto Escondido, que tambi&eacute;n tiene ese riesgo de crecer si no hay un reordenamiento territorial.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Perfecto. Gracias. En otro tema, bueno, ya hab&iacute;a expuesto yo aqu&iacute; anteriormente, un tema de extrabajadores del Inegi. Ellos son 520 extrabajadores que fueron despedidos injustificadamente de esta instituci&oacute;n y que, bueno, anteriormente los pudo atender la secretaria del Trabajo, Luisa Alcalde, donde se ha tenido muy buena atenci&oacute;n y todo. Sin embargo, no ha llegado a&uacute;n en acuerdo con el Inegi, a una soluci&oacute;n ante esta instituci&oacute;n para, de alguna manera, ser indemnizados, obtener alg&uacute;n tipo de apoyo por este despido injustificado de los trabajadores.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Le pedimos a Marath que se ponga en contacto contigo, a trav&eacute;s de Atenci&oacute;n Ciudadana para que le pueda dar seguimiento.</p>
+
+<p><strong>PREGUNTA: Perfecto. Y, bueno, comentarle tambi&eacute;n, hace poco tuvimos la inauguraci&oacute;n de la Secretar&iacute;a de Mujeres en el estado de Quintana Roo. Ahora s&iacute; que, viene siendo el primer estado en homologarse con el Gobierno Federal al crear tambi&eacute;n su Secretar&iacute;a de Mujeres, tomando en cuenta a muchas de nosotras que estamos, que somos quintanarroenses y que s&iacute; necesitamos ese tipo de apoyo, de ayuda, al tener una Secretar&iacute;a. Y quer&iacute;a saber su opini&oacute;n.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, pues me parece muy bien. Adem&aacute;s, pues ustedes saben, le tenemos mucho aprecio a Mara, la gobernadora Mara Lezama. Es una mujer entregada, activa, con muchas convicciones y que quiere mucho a su estado; y que tiene diversos programas de atenci&oacute;n a las mujeres. Es de los pocos estados que ha entregado propiedades o derechos de propiedad, tanto en el medio rural como en el urbano, a mujeres. Entonces, me da mucho gusto saber que ahora tambi&eacute;n tiene Secretar&iacute;a de las Mujeres.</p>
+
+<p><strong>PREGUNTA: Muy bien. Ya, por &uacute;ltimo y aprovechando, igual, que tenemos al titular de la Profeco. En Chetumal, la capital de Quintana Roo, se han vivido muchos fraudes de empresas privadas hacia los ciudadanos, donde han sido v&iacute;ctimas de muchos sucesos, de esto y en la capital no contamos con una Profeco, &uacute;nicamente tenemos en Canc&uacute;n, lo que complica bastante a los ciudadanos el poder tener que pagar un transporte e ir hasta Canc&uacute;n para ver este tipo de situaciones que lamentablemente les afecta mucho. Ver la posibilidad de tener una Profeco en la capital de Quintana Roo.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, lo vemos. Y ahora, se est&aacute;n planteando tambi&eacute;n oficinas digitales tambi&eacute;n -y el tel&eacute;fono. &iquest;Cu&aacute;l es?-</p>
+
+<p><strong>IV&Aacute;N ESCALANTE RUIZ, PROCURADOR FEDERAL DEL CONSUMIDOR:</strong> Es el 55 68 87 22.</p>
+
+<p>Perd&oacute;n, si me lo permite, Doctora, en el caso de Chetumal ya se ha estado explorando la posibilidad de poner un m&oacute;dulo. Aparte de las 38 delegaciones que tenemos en el pa&iacute;s, existen 40 m&oacute;dulos de atenci&oacute;n en otras ciudades importantes y no se requiere tener la infraestructura de un m&oacute;dulo tal cual, de una&hellip; nosotros le llamamos &ldquo;ODECOS&rdquo;, que es una oficina, una delegaci&oacute;n. Entonces, en Chetumal podemos explorar con el presidente municipal, presidenta municipal de Chetumal la posibilidad de poner un m&oacute;dulo de atenci&oacute;n, con mucho gusto.</p>
+
+<p>Con permiso. Gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> -Adelante. A ver, vamos por ac&aacute; ahora-.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Muy buenos d&iacute;as, Presidenta. Soy Roc&iacute;o Jard&iacute;nez, de <em>W Radio</em> y <em>TeleUrban</em>.</strong></p>
+
+<p><strong>Hacerle algunos cuestionamientos. Primero saber: el d&iacute;a de ayer usted comentaba esta solidaridad que podr&iacute;a existir con Espa&ntilde;a ante la inundaci&oacute;n que se tuvo este fin, los &uacute;ltimos d&iacute;as. Saber si, &iquest;ya tuvo alguna comunicaci&oacute;n con el gobierno espa&ntilde;ol? Hemos visto que han rechazado algunos apoyos, incluso de Francia, para poder ayudar a la gente ante esta situaci&oacute;n. Saber si, &iquest;la Canciller&iacute;a ya tuvo este acercamiento, qu&eacute; tipo de ayuda se ofrece por parte de M&eacute;xico, si existen fechas? Saber un poquito m&aacute;s de eso.</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Est&aacute; en contacto el canciller con el embajador de Espa&ntilde;a, y ellos son los que tienen que decirnos en qu&eacute; podemos ayudar. Ayer dec&iacute;a: la solidaridad al pueblo espa&ntilde;ol.</p>
+
+<p>Yo creo que es momento siempre de solidarizarse frente a una tragedia como esta. Y tambi&eacute;n creo que es importante para Espa&ntilde;a o para otros pa&iacute;ses, la experiencia que se tiene con el Plan DN-III, Plan Marina, Plan Guardia Nacional, que es un programa que desarrollan instituciones, que le dan permanencia a la atenci&oacute;n a la ciudadan&iacute;a, que se ha venido perfeccionando.</p>
+
+<p>Entonces, es una muy buena experiencia que se ha mantenido alrededor o a lo largo de los a&ntilde;os y que cualquier pa&iacute;s que quiera tener esta experiencia, por supuesto, a trav&eacute;s de la Coordinaci&oacute;n de Protecci&oacute;n Civil y de las Fuerzas Armadas.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Gracias. Bueno, en otros temas, tambi&eacute;n, internacional. En Carolina del Norte, el candidato republicano, Donald Trump, nuevamente se lanza contra M&eacute;xico, asegura que, bueno, de ser elegido el d&iacute;a de hoy como presidente, le informar&aacute; a usted que &ldquo;se frena el flujo migratorio de drogas hacia el pa&iacute;s vecino o va a imponer un arancel del 25 por ciento a exportaciones&rdquo;. Saber su respuesta ante ello.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Va a haber buena relaci&oacute;n.</p>
+
+<p>Yo creo que es importante, porque a veces no se tiene la suficiente informaci&oacute;n &mdash;de &eacute;l y de otros, de cualquiera del Partido Dem&oacute;crata o Republicano&mdash; del esfuerzo que ha hecho M&eacute;xico para disminuir la migraci&oacute;n o la presencia de migrantes en la frontera, a trav&eacute;s de un mecanismo muy importante de distintas &aacute;reas del gobierno, que se siguen reuniendo y que ha permitido, desde dar empleo en M&eacute;xico hasta el retorno humanitario, el rescate humanitario.</p>
+
+<p>De diciembre de 2023 a octubre, al cierre de octubre, hay una disminuci&oacute;n del 75 por ciento de migrantes que llegan a la frontera norte. Este trabajo y c&oacute;mo se hace, y c&oacute;mo se ha desarrollado desde el periodo del Presidente Andr&eacute;s Manuel L&oacute;pez Obrador, lo va a presentar el canciller el viernes; viene el viernes a presentarnos, tanto el tema de migraci&oacute;n, donde tambi&eacute;n participa la Secretar&iacute;a de Gobernaci&oacute;n y otras Secretar&iacute;as.</p>
+
+<p>Es un Comit&eacute; que se re&uacute;ne de manera permanente, que ven&iacute;a desde la Secretar&iacute;a de Relaciones Exteriores, cuando fue primero Marcelo Ebrard, y luego Alicia B&aacute;rcena, y que se le est&aacute; dando continuidad, adem&aacute;s del proyecto de desarrollo de la frontera sur, que es muy importante.</p>
+
+<p>Hay dos Polos de Bienestar en Tapachula que se van a desarrollar, y que es muy importante esta informaci&oacute;n para que se conozca lo que ha hecho M&eacute;xico. Y, adem&aacute;s, este di&aacute;logo de alto nivel que se tiene que seguir desarrollando una vez que las organizaciones electorales determinen qui&eacute;n es el triunfador o triunfadora en la elecci&oacute;n de Estados Unidos.</p>
+
+<p><strong>PREGUNTA: Entonces, &iquest;habla Trump desde su desconocimiento, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, no quiero&hellip; No estoy calificando particularmente al presidente Trump ni mucho menos. Estoy diciendo que es muy importante que en el momento en que se determine qui&eacute;n es el ganador o ganadora, en ese momento tienen que haber reuniones, informaci&oacute;n de alto nivel, para que se conozca lo que se ha hecho en M&eacute;xico, tanto en t&eacute;rminos del combate al narcotr&aacute;fico, de evitar que llegue fentanilo a los Estados Unidos.</p>
+
+<p>Recientemente hubo una detenci&oacute;n muy importante, que es una detenci&oacute;n internacional incluso, de una persona de otra nacionalidad que fue detenido, que era parte del trabajo con Interpol. Y tambi&eacute;n en t&eacute;rminos de la migraci&oacute;n.</p>
+
+<p>Entonces, no califico ni a uno ni a otro, ni a uno ni a otra candidata, a los candidatos a la Presidencia de Estados Unidos, sino que estoy convencida de que va a haber buena relaci&oacute;n y que tiene que haber este proceso de informaci&oacute;n de inicio, y de colaboraci&oacute;n y coordinaci&oacute;n.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Y, por &uacute;ltimo, preguntarle, Presidenta. El d&iacute;a de ayer, Doctora, ya supimos que en el INE se aprob&oacute; la solicitud de estos m&aacute;s de 13 mil millones de pesos para la elecci&oacute;n de jueces, magistrados y ministros. Hab&iacute;a negociaciones con la Secretar&iacute;a de Gobernaci&oacute;n o reuniones precisamente para hablar sobre esto. &iquest;Fracasaron estas pl&aacute;ticas? &iquest;Qu&eacute; ocurri&oacute;, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>No, todav&iacute;a vamos a seguir insistiendo.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&iquest;Ha hablado con la Secretar&iacute;a de Hacienda, Presidenta? Porque, digo&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>No, no es un asunto de la Secretar&iacute;a de Hacienda, es del INE.</p>
+
+<p>No debe costar tanto la elecci&oacute;n, no le puede costar tanto la democracia al pueblo de M&eacute;xico, y hay manera de reducir los costos. Entonces, la Secretar&iacute;a de Gobernaci&oacute;n va a estar en contacto con el INE, vamos a seguir insistiendo en que no es necesario tanto recurso, sobre todo, cuando no hay financiamiento a los partidos pol&iacute;ticos en esta ocasi&oacute;n, para que sea tan onerosa la elecci&oacute;n del Poder Judicial.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&iquest;Es decir que el gobierno va a trabajar para que esta propuesta no llegue al Congreso?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Vamos a estar en di&aacute;logo, di&aacute;logo, di&aacute;logo.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Ok, Presidenta. Perd&oacute;n. Sobre, tambi&eacute;n, el Poder Judicial, el juez Francisco Javier Garc&iacute;a, titular del Juzgado Segundo de Distrito en Colima, ya fij&oacute; una multa de 54 mil 258 &mdash;85 pesos, perd&oacute;n&mdash; a los integrantes del INE porque no se acat&oacute; esta suspensi&oacute;n de la organizaci&oacute;n precisamente de las elecciones que, se dijo por parte del Tribunal, se deber&iacute;an realizar para la elecci&oacute;n.</strong></p>
+
+<p><strong>Gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Les voy a pasar algo de una vez. &ndash;Pr&eacute;stame el micr&oacute;fono. Miren lo que me encontr&eacute;. &iquest;Ya lo hab&iacute;an visto este?&ndash; Bueno, es un documento que public&oacute; Mexicanos contra la Corrupci&oacute;n en el 2018. Lo digo porque su mayor exponente dice que va a marchar hoy para defender al Poder Judicial.</p>
+
+<p>&ndash;&iquest;C&oacute;mo le llamamos all&aacute; en Baja California? Bueno, f&iacute;jense bien, es muy interesante, muy, muy interesante&ndash;.</p>
+
+<p>Mexicanos contra la Corrupci&oacute;n en 2018 publica un documento que se llama &mdash;vamos a ver c&oacute;mo se llama. Atr&aacute;s, abajo, abajo, la primera, por favor, la portada&mdash; &ldquo;El poder familiar de la Federaci&oacute;n&rdquo;.</p>
+
+<p>&ndash;Ahora s&iacute;&ndash;.</p>
+
+<p>&ldquo;Un estudio entregado ayer al Consejo de la Judicatura y a los ministros de la Suprema Corte de Justicia de la Naci&oacute;n desnuda el nepotismo imperante en el Poder Judicial de la Federaci&oacute;n: al menos 500 jueces y magistrados de todo el Pa&iacute;s tienen trabajando en tribunales y juzgados a esposas, hijos, pap&aacute;s, sobrinos, t&iacute;os, cu&ntilde;ados y hasta suegras &ndash;publicado en el 2018&ndash;. Estas &acute;redes clientelares&acute; se extienden a m&aacute;s de 7 mil servidores p&uacute;blicos de 31 circuitos que tambi&eacute;n tienen familiares en la n&oacute;mina&rdquo;.</p>
+
+<p>Ejemplos:</p>
+
+<p>&ldquo;El nepotismo se ha instalado en el Poder Judicial de la Federaci&oacute;n&rdquo;, publicado en 2018 por Mexicanos Contra la Corrupci&oacute;n. &ldquo;Hijos, parejas, pap&aacute;s, sobrinos, t&iacute;os, cu&ntilde;ados y hasta suegras de al menos 500 jueces&rdquo;.</p>
+
+<p>&ldquo;Desvirt&uacute;an facultad constitucional&rdquo;.</p>
+
+<p>&ldquo;Los jueces y magistrados tienen facultades para nombrar y remover a los funcionarios y empleados de los Tribunales de Circuito y los Juzgados de Distrito, seg&uacute;n establece el art&iacute;culo 97 de la Constituci&oacute;n&rdquo;.</p>
+
+<p>&ldquo;Un magistrado con 17 parientes&rdquo;</p>
+
+<p>&ldquo;(...) Durango, que integr&oacute; a 17 miembros de su familia entre hijos, hermanos, concu&ntilde;os, cu&ntilde;adas, primos y sobrinos en puestos administrativos, como actuarios, secretarios de tribunal, juzgados, asesor jur&iacute;dico y analista especializado&rdquo;.</p>
+
+<p>-Abajo-.</p>
+
+<p>&ldquo;Nepotismo entre jueces&rdquo;</p>
+
+<p>&ldquo;De acuerdo con el diagn&oacute;stico casi la mitad de los jueces y magistrados federales &ndash;&ldquo;casi la mitad, &iexcl;eh!&rdquo;&ndash; tienen parientes en el Poder Judicial; de 1,031 plazas revisadas en 31 circuitos, 501 tienen familiares, lo que representa el 48.6% (...) Guanajuato, en donde 38 de 46 titulares tienen familiares, que equivale al 82.61%&rdquo;.</p>
+
+<p>Dicho por el que hoy va a marchar a favor del Poder Judicial, a defender el Poder Judicial.</p>
+
+<p>&ndash;M&aacute;s abajo&ndash;.</p>
+
+<p>&ldquo;Estado chico, nepotismo grande&rdquo;</p>
+
+<p>&ldquo;En Colima (...) De 199 empleados, al menos 136 tienen parientes &ndash;principalmente esposas, hermanos e hijos&ndash;, lo que representa el 68.34% del total de plazas&rdquo;.</p>
+
+<p>&ldquo;Jalisco: el virreinato de los hijos&rdquo;. As&iacute; le llaman ellos, &iexcl;eh! No es un documento de Morena, de la 4T. Es un documento en 2018, publicado y le pongo comillas, porque &iquest;c&oacute;mo es &ldquo;Mexicanos contra la Corrupci&oacute;n&rdquo; y hoy ya se les olvid&oacute; todo esto?</p>
+
+<p>&ldquo;El tercer circuito, que corresponde a Jalisco, ocupa el primer lugar nacional en contratar a los hijos de jueces y magistrados. En este circuito hay 33 juzgadores que tienen en el mismo Poder Judicial federal a 54 de sus hijos&rdquo;. &iquest;Cu&aacute;l carrera judicial? &ldquo;Por mencionar algunos ejemplos: uno de los magistrados de circuito tiene trabajando a sus 4 hijos. Uno de ellos es oficial administrativo, dos m&aacute;s son secretarios de tribunal y de juzgado (...) En la lista del estado de Jalisco aparece el caso de otros tres hijos de un magistrado que trabajan como secretarios de juzgado y de tribunal (...) Nuevo Le&oacute;n ocupa el segundo lugar nacional de casos de v&aacute;stagos, con 22 jueces y magistrados que tienen 36 hijos trabajando en el Poder Judicial&rdquo;.</p>
+
+<p>&ldquo;Con sus exesposas y exparejas&rdquo;.</p>
+
+<p>&ldquo;En el estudio realizado en 31 circuitos se identific&oacute; a 112 juzgadores que tienen a su c&oacute;nyuge, pareja o exesposa trabajando en el Poder Judicial&rdquo;.</p>
+
+<p>&ldquo;Hermanos y pap&aacute;s&rdquo;.</p>
+
+<p>&ldquo;En el recuento entregado (...) sobresalen los casos de 136 juzgadores que tienen hermanos que trabajan en los juzgados y tribunales. Michoac&aacute;n est&aacute; en primer lugar con 20 de estos casos, seguido de Jalisco con 17&rdquo;. Estamos hablando del Poder Judicial de la Federaci&oacute;n. &ldquo;Otros dos magistrados de Quer&eacute;taro y de Nuevo Le&oacute;n tienen 14 sobrinos en la n&oacute;mina de los circuitos judiciales correspondientes a esas entidades&rdquo;.</p>
+
+<p>Esto es contra la corrupci&oacute;n. Que no se nos olvide: la reforma al Poder Judicial que hoy es parte de la Constituci&oacute;n no sale de la nada, sale de una lucha contra la corrupci&oacute;n y los privilegios que imperan en el Poder Judicial de la Federaci&oacute;n, tanto, que en un documento en el 2018 &ldquo;Mexicanos Contra la Corrupci&oacute;n&rdquo;, que hoy son los que defienden al Poder Judicial, le llamaron &ldquo;Poder familiar de la Federaci&oacute;n&rdquo;.</p>
+
+<p>Entonces, parece que es un asunto entre algunos ministros de la Corte y la Presidenta de la Rep&uacute;blica. No, esta es la defensa del pueblo de M&eacute;xico por la justicia, por la honestidad, por la honradez, por erradicar en M&eacute;xico lo que tanto da&ntilde;o le ha hecho a nuestro pa&iacute;s, que es la corrupci&oacute;n. El nepotismo es corrupci&oacute;n en el Poder Judicial.</p>
+
+<p>Ahora defienden la Carrera Judicial como si cualquier persona que viniera sin nombre, sin apellido, sin v&iacute;nculos, sin palancas, pudiera entrar al Poder Judicial y llegar a ser juez. No, se los dividen entre los ministros y ministras, los espacios en la Corte.</p>
+
+<p>Entonces, &iquest;por qu&eacute; se cambi&oacute; la Constituci&oacute;n? &iquest;Por qu&eacute; el pueblo de M&eacute;xico est&aacute; a favor de este cambio constitucional? Porque no queremos que haya corrupci&oacute;n, que haya privilegios, porque estamos en un proceso de transformaci&oacute;n del pa&iacute;s que decidi&oacute; el pueblo de M&eacute;xico.</p>
+
+<p>Entonces, hoy va a discutir la Corte. No sabemos si van a terminar hoy la discusi&oacute;n o se vaya a prolongar hasta el jueves, pero en cualquiera de los casos, que revise la ministra presidenta otros casos que haya resuelto o c&oacute;mo ha votado, en donde ha dicho que &ldquo;no puede la Corte invalidar la Constituci&oacute;n&rdquo;. Y que revise, qui&eacute;n va a marchar el d&iacute;a de hoy y todos sus seguidores &mdash;que no son muchos, por cierto&mdash;, este documento. A ver, que nos expliquen qu&eacute; cambi&oacute;, si la propia ministra hace unos meses public&oacute; un documento donde habla del nepotismo en el Poder Judicial.</p>
+
+<p>Si la gente elige a los jueces, a las juezas, a las y los magistrados, a las y los ministros, pues entonces se va a transformar el Poder Judicial.</p>
+
+<p>Y las Comisiones que ayer publicaron sus convocatorias, pues tienen que pensar en ello: en que no porque no tienes un apellido que tiene que ver con la alcurnia del Poder Judicial puedes entrar a ser juez. &iquest;Tienes que estar preparado? S&iacute;. &iquest;Tienes que estar preparada? S&iacute;. &iquest;Tienes que ser un buen abogado? S&iacute;, abogada, pero no esto, que es una revoltura de unas cuantas familias.</p>
+
+<p>En 2018 y en 2024 el pueblo de M&eacute;xico dijo &ldquo;basta de corrupci&oacute;n y de privilegios&rdquo;, y se est&aacute; construyendo un nuevo pa&iacute;s.</p>
+
+<p>Eso es lo que est&aacute; a debate. Entonces, es interesante este documento para que lo revisen, lo vean.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, est&aacute;. &iquest;Saben c&oacute;mo lo encontr&eacute;? En Google, me lo encontr&eacute; hace dos d&iacute;as. No lo conoc&iacute;a, pero se los compartimos</p>
+
+<p>-Adelante-.</p>
+
+<p><strong>PREGUNTA: Muy buenos d&iacute;as. Sandra Aguilar, de <em>Grupo AE Informativo</em>. Iniciar&eacute;, precisamente, con el tema de salud hoy, que est&aacute;n presentes los responsables en este sector.</strong></p>
+
+<p><strong>Presidenta, una pregunta, saber&hellip; Sabemos que todos los mexicanos tienen derecho a la asistencia en el tema de salud, y mi pregunta es si, las personas que no cuentan con alg&uacute;n&hellip; adscritos a alg&uacute;n sistema de salud o alguna cl&iacute;nica, saber si, &iquest;pueden ir a atenderse aun sin contar con esta asistencia, sin estar inscritos en esta propuesta del IMSS-Bienestar? En ese sentido, &iquest;s&iacute; pueden acudir los mexicanos, aunque sean de otros estados y que se encuentren no en el lugar de donde habitan o donde radican, pueden recibir atenci&oacute;n m&eacute;dica en caso de que as&iacute; se requiera?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>A ver, el Instituto Mexicano del Seguro Social es para los derechohabientes del Seguro Social, &iquest;no? El Issste es para los trabajadores del Estado. Pemex tiene su propio sistema de salud; la Secretar&iacute;a de la Defensa, la Secretar&iacute;a de Marina tambi&eacute;n. Y para todos aquellos que no tienen derechohabiencia, el Presidente L&oacute;pez Obrador, federaliz&oacute; los servicios de salud que antes estaban descentralizados, de manera voluntaria, a aquellos estados que quisieran hacerlo; hoy son 23 entidades de la Rep&uacute;blica &ndash;22 estados y la Ciudad de M&eacute;xico&ndash;, qui&eacute;nes se han integrado a este modelo del IMSS-Bienestar.</p>
+
+<p>&iquest;Qui&eacute;nes son quienes no son parte de ello? Pues estados que han decidido no integrarse son.. bueno, Yucat&aacute;n ahora se va a integrar; pero est&aacute; Coahuila, Durango, Chihuahua, Quer&eacute;taro, Aguascalientes, Guanajuato, Jalisco, y Nuevo Le&oacute;n &ndash;&iquest;ya dije?&ndash;. Bueno, ellos tienen sus propios sistemas estatales; de todas maneras, frente a una urgencia te tienen que recibir en cualquier lugar, y hay cinco&hellip;</p>
+
+<p><strong>DAVID KERSHENOBICH STALNIKOWITZ, SECRETARIO DE SALUD:</strong> Trauma, c&aacute;ncer.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Cinco, en donde, aunque seas del IMSS-Bienestar, puedes ir al IMSS, puedes ir al Issste o puedes ir a cualquier instituci&oacute;n; si eres del IMSS tambi&eacute;n puedes ir al IMSS-Bienestar. Es decir, hay cinco atenciones que son universales en este momento.</p>
+
+<p><strong>DAVID KERSHENOBICH STALNIKOWITZ, SECRETARIO DE SALUD:</strong> Cualquier persona que tenga un infarto o un accidente cerebrovascular puede acudir en cualquier sitio de la Rep&uacute;blica; hay un n&uacute;mero de Salas de Hemodinamia superior a lo que se requiere internacionalmente, de Salas de Hemodinamia. Ese es un ejemplo de los que pueden.</p>
+
+<p>Cualquier persona que tenga una urgencia de cualquier tipo puede acudir a un servicio para su atenci&oacute;n, tambi&eacute;n puede acudir cuando tenga una complicaci&oacute;n de una enfermedad neopl&aacute;sica y puede acudir a cualquiera de las instituciones. No mencion&eacute; el c&oacute;digo, &ldquo;C&oacute;digo Mater&rdquo;, en todo lo que tiene que ver con complicaci&oacute;n de un embarazo.</p>
+
+<p><strong>PREGUNTA: Perm&iacute;tame compartirle el siguiente caso: &Eacute;l es Francisco L&oacute;pez Sierra, tuvo un accidente, fractura en una o dos de sus piernas. &Eacute;l es del Estado de M&eacute;xico, sufre esa fractura el pasado s&aacute;bado aqu&iacute; en la Ciudad de M&eacute;xico. Acudi&oacute; a los hospitales, al Hospital General de M&eacute;xico, al Hospital de Ju&aacute;rez, al Hospital General Xoco, al Hospital Magdalena de las Salinas, a la Cl&iacute;nica de Especialidades en Ixtapaluca, y en todos, absolutamente en todos estos hospitales les dijeron que no contaban con m&eacute;dicos y que no cuentan con insumos.</strong></p>
+
+<p><strong>Adem&aacute;s, quisiera agregar, ellos detectaron que al menos entre 15 o 20 d&iacute;as est&aacute;n tardando para atender a las personas; que si ustedes se dan en estos momentos una vuelta se encuentran a las afueras de estos hospitales.</strong></p>
+
+<p><strong>Y mi pregunta con respecto a si cualquier persona puede ser atendida en cualquier otra entidad. Es preguntarle, en este caso esta persona no cuenta con ning&uacute;n, no est&aacute; adscrito a ning&uacute;n sistema de salud; s&iacute; lo recibieron, pero la respuesta fue &ldquo;no contamos ni con insumos ni con m&eacute;dicos que practiquen este tipo de operaci&oacute;n&rdquo;.</strong></p>
+
+<p><strong>DAVID KERSHENOBICH STALNIKOWITZ, SECRETARIO DE SALUD:</strong> Bueno, yo quisiera comentarle, primero, que nos haga llegar el caso y podemos revisar el caso para ver, efectivamente, qu&eacute; es los aspectos que lo condicionan.</p>
+
+<p>D&eacute;jeme tambi&eacute;n decirle que estamos lanzando dos programas para cirug&iacute;a que son muy importantes: Uno, cirug&iacute;a de cataratas, donde pensamos operar 60 mil pacientes en los pr&oacute;ximos tres meses. Y tambi&eacute;n cirug&iacute;a ortop&eacute;dica menor, que no requiere hospitalizaci&oacute;n artrosc&oacute;pica.</p>
+
+<p>Pero en ese caso en particular h&aacute;ganoslo saber y con mucho gusto revisamos, vemos, porque s&iacute; debe de atenderse.</p>
+
+<p><strong>PREGUNTA: Le agradezco. Mi &uacute;ltimo tema, Presidenta, saber si, &iquest;se reunir&aacute; con el secretario de Relaciones Exteriores, se reunir&aacute; con el secretario de Econom&iacute;a, seguir&aacute; las elecciones que est&aacute;n en estos momentos llev&aacute;ndose a cabo en Estados Unidos? Y sobre todo, preguntarle si, &iquest;habr&aacute; alg&uacute;n posicionamiento una vez que se tengan los resultados de dicha elecci&oacute;n?</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Lo mencion&oacute; el secretario de Relaciones Exteriores el viernes, si mal no recuerdo, hizo un comunicado; nos vamos a esperar hasta que sea el Colegio Electoral de los Estados Unidos quien determine qui&eacute;n gana la elecci&oacute;n.</p>
+
+<p>-Ac&aacute;-.</p>
+
+<p><strong>PREGUNTA: Gracias, Doctora. Buenos d&iacute;as. Eduardo Ortega, del peri&oacute;dico <em>El Financiero</em>.</strong></p>
+
+<p><strong>En primer t&eacute;rmino, quiero preguntarle sobre la impugnaci&oacute;n que puso el PAN ante la Suprema Corte de Justicia de la Naci&oacute;n de la reforma de supremac&iacute;a constitucional. Y el tema que est&aacute;n argumentando es de que el diputado Pedro Haces vot&oacute;, aunque no estaba en el pleno, porque, al parecer, estaba en un partido de b&eacute;isbol en Nueva York. Entonces &iquest;qu&eacute; opini&oacute;n le merece esto, Doctora?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ayer le pregunt&eacute; al coordinador parlamentario, a Ricardo Monreal. En las, digamos, lo que es oficial es el acta de esa sesi&oacute;n, y ah&iacute; no aparece el voto del diputado Pedro Haces; es lo que es legal, m&aacute;s all&aacute; de las pantallas.</p>
+
+<p><strong>PREGUNTA: Claro. En otro tema, Doctora, el 2 de noviembre elementos de la Guardia Nacional&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Que, por cierto, de todas maneras se tienen las dos terceras partes, aunque &eacute;l no haya asistido ese d&iacute;a.</p>
+
+<p><strong>PREGUNTA: S&iacute;, bueno, pero es que lo que argumenta el PAN, justamente por eso impugn&oacute; ante la Corte&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, pero lo que impugnas es lo que es legal, no es una pantalla, y lo que es legal en el libro de actas &ndash;a ver si me dices c&oacute;mo se llama exactamente&ndash;.</p>
+
+<p><strong>PREGUNTA: Diario de los Debates.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;C&oacute;mo?</p>
+
+<p><strong>PREGUNTA: Diario de los Debates.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Diario de los Debates. Ah&iacute; no aparece el voto del diputado Pedro Haces.</p>
+
+<p><strong>PREGUNTA: Por otra parte, el 2 de noviembre, elementos de la Guardia Nacional&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya qued&oacute; sin sustancia.</p>
+
+<p><strong>PREGUNTA: Ok. Elementos de la Guardia Nacional mataron a dos migrantes colombianos en Baja California. Entonces, no s&eacute; si este tema se habr&aacute; abordado en la reuni&oacute;n de seguridad y &iquest;qu&eacute; le informaron?, Doctora.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, se est&aacute; investigando y el martes vamos a tener, de hoy en ocho, el Informe de Seguridad. Y ah&iacute;, hicieron un bolet&iacute;n ellos, y ah&iacute; puede informar con todo detalle el General secretario.</p>
+
+<p><strong>PREGUNTA: Vale, Doctora. Por otra parte, ayer la Coparmex, el presidente de Coparmex, que es Jos&eacute; Medina Mora, dec&iacute;a que M&eacute;xico ya vive una crisis de constitucionalidad y que esto se podr&iacute;a agudizar si se acata o no se acata la decisi&oacute;n que determine la Corte hoy.</strong></p>
+
+<p><strong>Y, bueno, lo que yo le quiero preguntar es si, &iquest;usted ha sopesado bien los efectos que esto podr&iacute;a tener en la incertidumbre de las inversiones e incluso en la afectaci&oacute;n en la creaci&oacute;n de empleos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>&iquest;Y por qu&eacute; no le preguntan a la Corte? &iquest;Por qu&eacute; le preguntan a la Presidenta? &iquest;Por qu&eacute; no le preguntan a la Corte, al presidente de Coparmex, sobre su decisi&oacute;n?</p>
+
+<p>O sea, porque quienes est&aacute;n violando la Constituci&oacute;n es la Corte, quienes se est&aacute;n sobrepas&aacute;ndose en sus funciones es la Corte. Entonces, &iquest;por qu&eacute; el peri&oacute;dico <em>El Financiero</em>, o Coparmex, no le pregunta a los ocho ministros de la Corte si ya sopesaron bien su decisi&oacute;n? &iquest;Si ocho ministros pueden ir en contra de un pueblo de millones y millones de votos, por ah&iacute; de 36 millones?</p>
+
+<p>Si ya preguntaron a la Corte si, &iquest;puede ir en contra del Constituyente? O sea, &iquest;por qu&eacute; el tema es de la Presidenta? Cuando es la Corte quien est&aacute; queriendo legislar cuando no tiene esas funciones en la Constituci&oacute;n; ocho ministros por encima de la C&aacute;mara de Diputados, de la C&aacute;mara de Senadores, de la mayor&iacute;a de los Congresos locales, de la soberan&iacute;a que est&aacute; en el pueblo.</p>
+
+<p>Entonces, habr&iacute;a que preguntarle, habr&iacute;a que dirigir este cuestionamiento a los ocho ministros de la corte y ministras.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Bueno, quiz&aacute; el sentido de mi pregunta es en que si, &iquest;usted ha sopesado las afectaciones que podr&iacute;a tener sobre la econom&iacute;a en torno a este choque de Poderes, digamos, o sea, es el Poder Judicial por un lado, el Poder Ejecutivo y Legislativo por otro, y esto lo que puede generar? O sea, m&aacute;s all&aacute; de, digamos, de las posiciones de uno o de otro, sino lo que puede generar en la econom&iacute;a, en la incertidumbre entre los inversionistas. No s&eacute; si, &iquest;usted ha sopesado eso?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Pero regreso a la pregunta, &iquest;por qu&eacute; la Corte no sopesa eso? Porque la decisi&oacute;n hoy, est&aacute; en ellos. Hoy van a empezar la discusi&oacute;n. Entonces, esa pregunta hoy recae sobre los ministros y las ministras, no recae sobre la Presidenta. O sea, lo que est&aacute; haciendo la Presidenta hoy es decirle al pueblo de M&eacute;xico que su voluntad la cumpli&oacute; el Constituyente y quien est&aacute; poniendo en tela de juicio esa decisi&oacute;n es la Corte.</p>
+
+<p>Entonces, por eso digo: todo a su tiempo. Hoy le toca a la Corte, no le toca a la Presidenta, hoy le toca a la Corte la decisi&oacute;n. Entonces, la pregunta es a la Corte: &iquest;Ya sopesaron las y los ministros de la Corte la decisi&oacute;n que van a tomar?</p>
+
+<p>O sea, &iquest;por qu&eacute; ahora dicen que defienden la democracia, que defienden la Constituci&oacute;n? Bueno, si defendieran la Constituci&oacute;n, pues estar&iacute;an defendiendo lo que ya decidi&oacute; el Constituyente.</p>
+
+<p>Entonces, el d&iacute;a de hoy esa decisi&oacute;n recae en la Corte, no en una minor&iacute;a que quiere mantener sus privilegios. Hace unos d&iacute;as una compa&ntilde;era de ustedes me dijo: &ldquo;&iquest;qu&eacute; no son juez y parte, ahora s&iacute;?&rdquo; Pues por eso les presento este estudio. No es un estudio de un medio de comunicaci&oacute;n; de los mismos que defienden hoy al Poder Judicial y que hace seis a&ntilde;os dec&iacute;an que se llamaba &ldquo;Poder familiar de la Federaci&oacute;n&rdquo;. &iquest;Qu&eacute; ha cambiado? Si la propia ministra presidenta dice &ldquo;s&iacute;, en efecto&rdquo;.</p>
+
+<p>Ahora, &iquest;no les gusta esa Constituci&oacute;n? Pues no es un asunto de los ocho ministros, es un asunto de una decisi&oacute;n que tom&oacute; el pueblo de M&eacute;xico.</p>
+
+<p>&iquest;A la oposici&oacute;n no le parece bien? Bueno, vean el resultado de la elecci&oacute;n. Entonces, hoy por hoy, esta pregunta que haces hay que hac&eacute;rsela a los ministros de la Corte y a las ministras de la Corte.</p>
+
+<p><strong>PREGUNTA: Vale. Finalmente, ayer se conoci&oacute; la convocatoria del Comit&eacute; de Evaluaci&oacute;n del Poder Legislativo y del Judicial, pero no del Ejecutivo.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>S&iacute;, se public&oacute;.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&iquest;Se public&oacute;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>S&iacute;.</p>
+
+<p><strong>PREGUNTA: Vale. Gracias.</strong></p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Esteban Dur&aacute;n, <em>Vanguardia</em>, Veracruz. </strong></p>
+
+<p><strong>Ayer el titular del Seguro Social dio estad&iacute;sticas sobre el aumento de empleo. Sin embargo, cabe destacar &mdash;a ver si &eacute;l nos puede aclarar esta situaci&oacute;n&mdash;&nbsp; que hay empleados en diversos organismos p&uacute;blicos que est&aacute;n contratados bajo el sistema de <em>outsourcing</em>. Y en este sentido, ellos inscriben a los trabajadores al Seguro Social, pero ellos mismos dicen que despu&eacute;s de un periodo de seis meses, cinco meses, ya los dan de baja y ya no tienen ninguna prestaci&oacute;n. Y, finalmente, tambi&eacute;n los despiden sin ninguna liquidaci&oacute;n, los dejan al desamparo y pierden todos sus derechos en este sentido de salud.</strong></p>
+
+<p><strong>Entonces, puede ser, a lo mejor es enga&ntilde;oso esta estad&iacute;stica, no porque el director lo d&eacute; as&iacute;, sino porque son estas mismas empresas quienes dan a conocer quienes inscriben a estos trabajadores, pero finalmente los dan de baja sin que tengan conocimiento las autoridades de salud. No s&eacute; si esto sea cierto.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> A ver, los datos que se presentaron ayer son datos de afiliados al IMSS en ese mes. Entonces, el mes de octubre es el mes de 2024, es el mes m&aacute;s alto hist&oacute;rico del n&uacute;mero de empleos formales. Puede ser que alg&uacute;n trabajador o trabajadora en el mes de noviembre ya no est&eacute; contratado en alguna instituci&oacute;n que tiene que darle seguro social y ya no aparece, digamos, en noviembre.</p>
+
+<p>Ahora, estas irregularidades de las que hablas, de una empresa&hellip; El <em>outsourcing</em> pr&aacute;cticamente en todos los rubros se elimin&oacute; en el gobierno del Presidente L&oacute;pez Obrador, menos en la contrataci&oacute;n directa de algunos servicios. Si ocurre esto, pues es una irregularidad.</p>
+
+<p>-No s&eacute; si quieras comentarlo-.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS):</strong> S&iacute;, muchas gracias, Presidenta.</p>
+
+<p>Me llam&oacute; la atenci&oacute;n esto que dec&iacute;a de organismos p&uacute;blicos porque, s&iacute;, lo que se present&oacute; ayer es, como lo acaba de mencionar la Presidenta, de la cotizaci&oacute;n al IMSS, es decir, las empresas, algunas entidades p&uacute;blicas como la CFE, pero generalmente los organismos p&uacute;blicos tienen cotizaci&oacute;n al Issste; y eso del apartado A no est&aacute; contabilizado en este crecimiento.</p>
+
+<p>Sin embargo, efectivamente, puede haber empresas o la iniciativa privada que siga recurriendo a estas pr&aacute;cticas. Por eso, habl&aacute;bamos ayer tambi&eacute;n de la calidad del empleo, es decir, muchos trabajadores y trabajadoras que ahora est&aacute;n contratados de manera permanente y ya no eventual. Y segundo, el incremento del salario base de cotizaci&oacute;n.</p>
+
+<p>Ahora, desde el 2021 implementamos algo que adem&aacute;s empata mucho con un planteamiento de la Presidenta, la mejor supervisi&oacute;n siempre van a ser los ciudadanos. Y en ese sentido, aparejado a la reforma en materia de subcontrataci&oacute;n que, durante todo el periodo neoliberal, se calcula que le cost&oacute; al Seguro Social casi 120 mil millones de pesos por subregistro, personas que deber&iacute;an estar registradas y no lo est&aacute;n o tambi&eacute;n porque los registraban con salarios menores, la cl&aacute;sica &ldquo;te voy a registrar al IMSS con este salario, pero te voy a pagar por fuera de otras maneras&rdquo;, y para eso todos estos <em>outsurseros</em>, ten&iacute;an mucha imaginaci&oacute;n; 3 millones de trabajadores migraron de una empresa de subcontrataci&oacute;n de personal a la empresa real.</p>
+
+<p>Pero en este sentido de la supervisi&oacute;n, y la pregunta nos da pie para poder promocionar algo.</p>
+
+<p>Desde 2022 tenemos el reporte especializado de cotizaci&oacute;n, que solo hace falta la CURP y un correo electr&oacute;nico para que el propio trabajador sea quien solicite al Seguro Social de manera electr&oacute;nica, sin mediar ning&uacute;n otro tr&aacute;mite, un reporte mensual sobre sus semanas cotizadas, el salario como lo tienen registrados los patrones, que luego por contabilidades y dem&aacute;s hacen movimientos, pero que afectan derechos.</p>
+
+<p>Al final de cuentas, nosotros tenemos que ser instituciones garantistas de derechos y los trabajadores&hellip; los empleadores, perd&oacute;n, tienen que garantizar y cumplir esos derechos.</p>
+
+<p>Entonces, sin duda, debe de seguirse trabajando en evitar cualquier modelo de subcontrataci&oacute;n. Hay trabajos particulares, sectores de la econom&iacute;a que tienen estacionalidades, temporadas altas, el tema en el campo, pero lo ideal es que los trabajadores puedan conocer y solicitar su reporte de cotizaci&oacute;n que les llegara a partir de eso una vez al mes, y que nos ha dado mucha&hellip; ha sido muy &uacute;til para que, a partir de eso, puedan hacer denuncias a autoridades laborales o al propio Seguro Social respecto a una baja indebida o un salario con mejor cantidad de lo que debe estar registrado.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Gracias.</strong> <strong>El mismo tema, el tema de las adicciones, que ata&ntilde;e tambi&eacute;n al sistema de salud, en este sentido el consumo de la marihuana que ya se ha dado abiertamente en distintas partes, principalmente de la Ciudad de M&eacute;xico, lo vemos en Hidalgo, lo vemos por all&aacute; por Chapultepec, en otras zonas, y en las que&hellip; No s&eacute; si las autoridades de salud est&eacute;n interviniendo en este sentido, aparte de que pueda ser la autoridad de la Ciudad de M&eacute;xico, donde no solamente se consume marihuana, sino tambi&eacute;n se est&aacute; vendiendo esta; y a lo mejor otras drogas ah&iacute; mismo sin que las autoridades act&uacute;en en este sentido.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; puede hacer el sector salud para detener este consumo y que no aumente, pues, con todos los que pasan ah&iacute;, que los j&oacute;venes, lejos de ir a la escuela se concentran en esos lugares?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Estamos d&aacute;ndole continuidad y lo vamos a reforzar, es parte del programa &ldquo;Vida Saludable&rdquo;. No solamente tiene que ver con alimentaci&oacute;n, sino tambi&eacute;n con el cuidado de la salud. Entonces, la campa&ntilde;a que se hizo en la administraci&oacute;n pasada con el Presidente L&oacute;pez Obrador para evitar el consumo de cualquier tipo de droga la vamos a continuar en las escuelas y en otros espacios.</p>
+
+<p>Nosotros no queremos tener situaciones como las que tiene hoy Estados Unidos con la adicci&oacute;n al fentanilo, que es grav&iacute;sima.</p>
+
+<p>Entonces, esta campa&ntilde;a, en donde tenemos que participar el gobierno, pero tambi&eacute;n las familias y toda la ciudadan&iacute;a, tenemos que involucrarnos en que cada ciudadano sepamos lo que significa una vida saludable, y eso significa alimentaci&oacute;n, significa ejercicio y significa tambi&eacute;n no consumir estas sustancias y estas drogas que siempre hacen da&ntilde;o a la salud.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Finalmente, ya en otro tema, ya por estos d&iacute;as, estas fechas, se han dado las votaciones al interior de varios sindicatos, ya aqu&iacute; se ha mencionado. </strong></p>
+
+<p><strong>Uno de estos sindicatos es el ferrocarrilero, donde V&iacute;ctor Flores Morales se quiere reelegir por s&eacute;ptima ocasi&oacute;n. Y en ese sentido, los activos y jubilados ferrocarrileros quieren que la autoridad del Centro Federal de Conciliaci&oacute;n y Registro Laboral, act&uacute;e conforme a Derecho, dadas las violaciones en las cuales ha incurrido V&iacute;ctor Flores Morales. Esta situaci&oacute;n, que &eacute;l quiere reelegirse ante varias anomalidades, tiene conocimiento Alfredo Dom&iacute;nguez Marrufo, director de este Centro.</strong></p>
+
+<p><strong>Entonces, le piden a usted, Presidenta, que si puede actuar ante esta situaci&oacute;n dadas las m&uacute;ltiples violaciones a los estatutos en los que ha incurrido este actual l&iacute;der. Inclusive, lleva un proceso judicial ante la Fiscal&iacute;a General de la Rep&uacute;blica, de la cual no se ha podido llevar a cabo que un juez libere &oacute;rdenes de aprehensi&oacute;n contra este l&iacute;der, dada la situaci&oacute;n que est&aacute; ocurriendo con el sistema judicial.</strong></p>
+
+<p><strong>Entonces, est&aacute;n pidiendo a usted, &iquest;qu&eacute; es lo que se puede hacer para evitar que siga esta violaci&oacute;n a los derechos de los trabajadores? Y llaman al humanismo que usted tiene, a partir de este sexenio para que de esta manera no sigan siendo pisoteados los derechos de los trabajadores por l&iacute;deres que se han mantenido durante a&ntilde;os ah&iacute; y que no quieren dejar el poder, dado todo lo que han generado. Yque fue V&iacute;ctor Flores uno de los principales tambi&eacute;n, o sea, que apoy&oacute; a Ernesto Zedillo en su momento para privatizar los ferrocarriles, Presidenta.</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a pedirle al secretario del Trabajo, a Marath, que pueda atenderlos.</p>
+
+<p>Ustedes saben que nosotros, yo no estoy de acuerdo en la intervenci&oacute;n del gobierno, y adem&aacute;s no debe ser, y est&aacute; en las leyes hoy que no debe de ser as&iacute;; pero s&iacute; hay, s&iacute; se coadyuva, y se apoya. Y entonces, que los reciba el secretario del Trabajo.</p>
+
+<p>-A ver, ac&aacute;-.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Muy buenos d&iacute;as a todas y a todos. Liliana Noble, de <em>Pulso Saludable.</em></strong></p>
+
+<p><strong>Presidenta, el mi&eacute;rcoles pasado tuve la oportunidad de estar en el Auditorio Nacional en la presentaci&oacute;n de estos Semilleros Creativos, que cada a&ntilde;o hacen su representaci&oacute;n. Si no ha tenido oportunidad de verla, v&eacute;ala, porque la verdad es que es una obra de teatro majestuosa.</strong></p>
+
+<p><strong>M&aacute;s de 2 mil ni&ntilde;os participando, ni&ntilde;as, adolescentes, de todos los estados del pa&iacute;s. Y una de las ni&ntilde;as, Alessandra De la Cruz Guerrero de 11 a&ntilde;os, de &ldquo;Semilleros de Altamira&rdquo;, en Tamaulipas, le env&iacute;a esto. Ellos hicieron una parte de los trabajos. &iquest;S&iacute; se lo puedo entregar?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;.</p>
+
+<p><strong>PREGUNTA: &iquest;Paso o no paso?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, s&iacute;.</p>
+
+<p><strong>PREGUNTA: &iquest;S&iacute;? Ay, gracias. Y le cuento r&aacute;pido, Presidenta, la historia. Pues este trabajo que hacen las ni&ntilde;as y los ni&ntilde;os &ndash;esos eran much&iacute;simos, alrededor de unos 300, 400 que simulaban parte del escenario, que son p&eacute;talos&ndash;. Y el tema era &ldquo;Tengo un sue&ntilde;o&rdquo;, de esta obra, y la representaci&oacute;n la hicieron ni&ntilde;as, ni&ntilde;os.</strong></p>
+
+<p><strong>Y esta peque&ntilde;ita en &ldquo;Es tiempo de mujeres&rdquo;, ella pens&oacute; que este era el momento de entregarle esto a usted. Me pidieron que le hiciera favor de entregarle.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias. &iquest;C&oacute;mo se llama la peque&ntilde;a?</p>
+
+<p><strong>PREGUNTA: Alessandra De la Cruz Guerrero de 11 a&ntilde;os, de Altamira, Tamaulipas. Y tambi&eacute;n tuve la oportunidad d&iacute;as antes de estar en Oaxtepec, en donde se hicieron estos ensayos, ah&iacute; en las instalaciones del IMSS; tambi&eacute;n, le agradecieron ese d&iacute;a al maestro Zo&eacute;. </strong></p>
+
+<p><strong>Y la verdad, es que tuve la oportunidad, como en muchos otros momentos, de tener a estos ni&ntilde;os, ni&ntilde;as en el programa de radio, que nos platican todo lo que est&aacute;n haciendo. </strong></p>
+
+<p><strong>Y todo el tiempo pens&eacute; en esta forma, usted dec&iacute;a, palabras m&aacute;s, palabras menos, que &ldquo;si le quitas un ni&ntilde;o a la delincuencia se lo agregas a la cultura y a las artes&rdquo;, y as&iacute; est&aacute; haciendo, pero ellas y ellos tienen hoy una duda; con este cambio piensan muchos que ya no van a haber Semilleros, que se van a acabar, est&aacute;n muy preocupados. Entonces, ese ser&iacute;a mi primer pregunta, si, &iquest;el programa de Semilleros Creativos de la Secretar&iacute;a de Cultura continuar&aacute; tal como ellos lo han vivido, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>S&iacute;, s&iacute; va a continuar Semilleros Creativos.</p>
+
+<p>Aprovecho tambi&eacute;n para decir que&hellip; bueno, para felicitar a Alejandra Frausto, que es la anterior secretaria de Cultura, que hoy est&aacute; de secretaria de Turismo en el Gobierno de la Ciudad, que realiz&oacute; este extraordinario trabajo.</p>
+
+<p>Yo en la campa&ntilde;a al gobierno de la Ciudad de M&eacute;xico dec&iacute;a: &ldquo;Un artista m&aacute;s es un delincuente menos, un estudiante m&aacute;s es un delincuente menos&rdquo;. Y es de lo que hablamos, del acceso a los derechos de las ni&ntilde;as y los ni&ntilde;os y de las y los adolescentes.</p>
+
+<p>Entonces, Semilleros Creativos va a continuar.</p>
+
+<p>Y tambi&eacute;n, vamos a fortalecer todo el sistema educativo que tiene hoy Secretar&iacute;a de Cultura del INBAL. Estuve platicando hace unos d&iacute;as con Claudia Curiel, la secretaria de Cultura; con Marina, la subsecretaria. Hay una demanda del Conservatorio, de la Escuela Nacional de Danza, de todas las Escuelas Nacionales de mayor atenci&oacute;n; y vamos a hacerlo tanto en sus instalaciones, va a ser paulatino, como a la mejora de las condiciones en las que est&aacute;n llevando sus clases.</p>
+
+<p>Y uno de los ejes de nuestro programa de cultura es la educaci&oacute;n, la educaci&oacute;n formal, que haya educaci&oacute;n formal para las artes, y la &ldquo;educaci&oacute;n comunitaria&rdquo; que le llamamos, que son Semilleros Creativos y otros esquemas que incluso tienen que ver con los clubes de lectura que se desarrollan con el Fondo de Cultura Econ&oacute;mica, que vamos a impulsar de manera muy importante.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Gracias, Presidenta. Y en segundo tema, la semana pasada, que nos hicieron favor de presentarnos el tema de la adquisici&oacute;n de los medicamentos, yo ten&iacute;a una duda y quisiera conocer, &iquest;c&oacute;mo van a conocer la seguridad, la eficacia y la calidad de los productos que van a adquirir? Si se van a apegar a lo que anteriormente se hace, es que si una vez que ya los acept&oacute; la FDA o la EMA, en Europa, o Cofepris aqu&iacute; en M&eacute;xico, ya ser&iacute;a un <em>check</em> de darle palomita.</strong></p>
+
+<p><strong>Y pensando, doctor Kershenobich, pensando en el tema, sobre todo, de los costos, que de pronto hoy, por ejemplo, hay medicamentos para la gente que vive con enfermedades cardiovasculares, que le llaman cardi&oacute;patas, que hoy toman cinco o seis medicamentos. </strong></p>
+
+<p><strong>Y hoy hay mol&eacute;culas que esos cinco o seis medicamentos est&aacute;n en una sola toma, que pudieran ser un poco m&aacute;s costosos, pero a la larga es m&aacute;s ben&eacute;fico y el apego al tratamiento, que es lo que se busca en el tema de la prevenci&oacute;n tambi&eacute;n es mejor. Entonces, &iquest;qu&eacute; hay al respecto, esa ser&iacute;a mi segunda pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: &ndash;</strong>A ver. Y luego, le pedimos a Eduardo o a David que nos hablen de la compra. Adelante&ndash;.</p>
+
+<p><strong>ARMIDA Z&Uacute;&Ntilde;IGA ESTRADA, DIRECTORA DE LA COMISI&Oacute;N FEDERAL PARA LA PROTECCI&Oacute;N CONTRA RIESGOS SANITARIOS (COFEPRIS):</strong> Buenos d&iacute;as a todos. Soy Armida Z&uacute;&ntilde;iga, titular de la Cofepris.</p>
+
+<p>Efectivamente, en el nuevo modelo de adquisici&oacute;n de medicamentos presentado la semana anterior se tiene la participaci&oacute;n de la Cofepris. La Cofepris es la agencia sanitaria mexicana encargada de garantizar la calidad, seguridad y eficacia de los medicamentos y otros insumos para la salud que est&aacute;n considerados en esta compra consolidada.</p>
+
+<p>Entonces, s&iacute; hay participaci&oacute;n de la Cofepris y lo hacemos a trav&eacute;s de los esquemas para obtener los registros sanitarios de cada uno de estos insumos para la salud, es decir, de contar con un registro sanitario en M&eacute;xico que est&aacute; basado precisamente en el an&aacute;lisis con base t&eacute;cnica-cient&iacute;fica de la informaci&oacute;n que cada fabricante presenta para que estos insumos precisamente obtengan este registro. Entonces, son insumos de calidad que se est&aacute;n comprando a trav&eacute;s de este esquema consolidado.</p>
+
+<p><strong>PREGUNTA: Gracias. Y finalmente, Presidenta&hellip; &iquest;Iba a contestar alguien m&aacute;s?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Todo lo contestaron.</p>
+
+<p><strong>PREGUNTA: Gracias. Y, finalmente, Presidenta, hoy celebro mucho que en su Gobierno Federal se le ponga mucha atenci&oacute;n al tema de la prevenci&oacute;n. Yo considero que uno de los activos m&aacute;s intangibles, pero m&aacute;s medibles, es justamente el tema de la prevenci&oacute;n.</strong></p>
+
+<p><strong>En ese sentido, yo quisiera saber qu&eacute; estrategias particularmente van a seguir en el tema de las enfermedades cardiovasculares. A nivel global, y en M&eacute;xico no es la excepci&oacute;n, desafortunadamente es la primera causa de muerte.</strong></p>
+
+<p><strong>Sabemos que en el mes de octubre siempre se concientiza mucho a las mujeres de tocarnos, la concientizaci&oacute;n del c&aacute;ncer de mama, pero desafortunadamente queda esta imagen pensando en que el c&aacute;ncer de mama es la enfermedad que m&aacute;s muertes produce en las mujeres y la realidad &mdash;los expertos aqu&iacute; no me dejar&aacute;n mentir&mdash; es que no es as&iacute;. La primer causa de muerte en mujeres que no tiene nada qu&eacute; ver con una neoplasia, es justamente en las enfermedades cardiovasculares. &iquest;Particularmente, doctor Kershenobich &mdash;gracias, me da gusto verlo&mdash; qu&eacute; se va a hacer al respecto?</strong></p>
+
+<p><strong>Gracias.</strong></p>
+
+<p><strong>DAVID KERSHENOBICH STALNIKOWITZ, SECRETARIO DE SALUD: </strong>S&iacute;, efectivamente, las enfermedades cardiovasculares y la hipertensi&oacute;n arterial es uno de los principales problemas. Las personas, muchas, alrededor de 40 por ciento tienen hipertensi&oacute;n arterial sin saber que tienen hipertensi&oacute;n arterial.</p>
+
+<p>Por eso, es muy importante las campa&ntilde;as precisamente de promoci&oacute;n a la salud, de que se tomen la presi&oacute;n arterial cuando menos una vez al a&ntilde;o, cuando menos. De esa manera, se trata de detectarlos en forma temprana; si se detecta en forma temprana antes de que acudan a un m&eacute;dico, se puede alterar la historia natural de la hipertensi&oacute;n arterial.</p>
+
+<p>Alguien que tiene controlada su hipertensi&oacute;n arterial no tiene por qu&eacute; fallecer de una enfermedad cardiaca. Fallecen porque 40 por ciento lo desconoce.</p>
+
+<p>Entonces, la promoci&oacute;n de tomarse &mdash;yo dir&iacute;a que todos los que est&aacute;n aqu&iacute;&mdash; deber&iacute;an de tener cuando menos una vez medida la presi&oacute;n arterial anualmente, sepan o no sepan que tienen la enfermedad.</p>
+
+<p>Y vamos a hacer campa&ntilde;as muy intensas alrededor de eso en sitios laborales, en sitios educativos, etc&eacute;tera.</p>
+
+<p><strong>PREGUNTA: Doctor, &iquest;para la medici&oacute;n de la presi&oacute;n es mejor un bauman&oacute;metro convencional o uno digital?</strong></p>
+
+<p><strong>DAVID KERSHENOBICH STALNIKOWITZ, SECRETARIO DE SALUD: </strong>No, pues mucho mejor con un bauman&oacute;metro convencional y un estetoscopio que en el digital.</p>
+
+<p><strong>PREGUNTA: Gracias. Gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Para eso es el programa &ldquo;Salud Casa por Casa&rdquo;. A todos los adultos y adultas de 65 a&ntilde;os y m&aacute;s, a partir del pr&oacute;ximo a&ntilde;o van a tener enfermeros, enfermeras, m&eacute;dicos o m&eacute;dicas que los visiten en su hogar. Ellos van a saber a qu&eacute; horas van a ir y entonces, les van a tomar todos sus signos vitales.</p>
+
+<p>Ah&iacute;, si encuentran que alguien&hellip;&nbsp; Es un programa preventivo, de un impacto, estamos hablando de m&aacute;s de 12 millones de personas, particularmente en la edad adulta mayor, que es donde puede ser m&aacute;s riesgoso, aunque no solo.</p>
+
+<p>Entonces, van a tener, van a ir a su casa, les van a medir la presi&oacute;n, van a o&iacute;r el coraz&oacute;n incluso, az&uacute;car, y as&iacute; van a poder tener un seguimiento y poder decirle: Tiene usted que ir al centro de salud. Acompa&ntilde;arlo o todo lo que requiera en este programa preventivo que es de un alcance enorme y nos va a ayudar a disminuir muertes por esta causa.</p>
+
+<p>&ndash;A ver, ya va la &uacute;ltima, porque hay que vacunarse. Salud preventiva&ndash;.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Es un honor saludarla, Presidenta, y a toda su mesa directiva. Mi nombre es Ricardo Felipe Ram&iacute;rez, de <em>Radio Relax 104.5 FM</em>.</strong></p>
+
+<p><strong>Comunicarle que la semana pasada el diputado Alfonso Ram&iacute;rez Cuellar, de Morena, hizo la propuesta de desaparecer al Instituto Federal de Telecomunicaciones y la Comisi&oacute;n Federal de Competencia Econ&oacute;mica (Cofece) para fusionarlos y un organismo, a fin de evitar las competencias antimonop&oacute;licas en beneficio de los ciudadanos. Mi pregunta ser&iacute;an dos: Una &iquest;qu&eacute; pasar&aacute; de (inaudible) social comunitarias ind&iacute;genas afrodescendientes? Dos, &iquest;cu&aacute;l ser&iacute;a su marco jur&iacute;dico y c&oacute;mo influir&iacute;a las concesiones no comerciales?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Bueno, en el caso de estos organismos aut&oacute;nomos, desde el 5 de febrero en la propuesta que hizo el Presidente L&oacute;pez Obrador, est&aacute; a discusi&oacute;n en el Congreso su desaparici&oacute;n. Nosotros sugerimos a los diputados, que es la primera C&aacute;mara donde se va a presentar, que ser&iacute;a importante que se pusiera ah&iacute;, por el tema del Tratado y particularmente, que quede el tema de organismo con independencia t&eacute;cnica, porque as&iacute; est&aacute; redactado tal cual en el Tratado, entonces para que no haya ning&uacute;n problema.</p>
+
+<p>Entonces, plantearon que iban a evaluar c&oacute;mo se inclu&iacute;a este tema particularmente, en la Cofece y en el&hellip; Creo que es la Cofece la que principalmente plantea este tema, para que no haya contradicciones con el Tratado, pero que al mismo tiempo no tengamos estos organismos que se tienen ahora. Entonces, est&aacute; a discusi&oacute;n en el Congreso y ah&iacute; se podr&aacute; tomar la decisi&oacute;n.</p>
+
+<p>Y evidentemente, se busca evitar pr&aacute;cticas monop&oacute;licas, que haya un organismo t&eacute;cnicamente independiente, pero que no haya esta&hellip; pues estos organismos que hoy en realidad, que ni siquiera han demostrado su eficiencia, vamos a ponerlo as&iacute;.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>En otro tema, la comunidad ind&iacute;gena otom&iacute; de Llano Grande Azcapotzaltongo, en Villa Nicol&aacute;s Romero, se dirige a usted de forma respetuosa para exponer lo siguiente: Solicitamos de la manera m&aacute;s atenta su amable intervenci&oacute;n pol&iacute;tica para coadyuvar en el ejercicio de la libertad del se&ntilde;or Tom&aacute;s Mart&iacute;nez Mandujano, preso pol&iacute;tico en el Estado de M&eacute;xico desde el a&ntilde;o 2022. </strong></p>
+
+<p><strong>El se&ntilde;or Tom&aacute;s Mart&iacute;nez Mandujano es un l&iacute;der social de nuestra comunidad ind&iacute;gena otom&iacute;, de oficio alba&ntilde;il y defensor de derechos humanos, particularmente defensor de medio ambiente y los sectores m&aacute;s vulnerables de nuestra sociedad, personas ind&iacute;genas, adultos mayores, infancia, mujeres, quienes han encontrado en un su liderazgo el apoyo necesario para que de forma organizada mejoremos nuestras vidas.</strong></p>
+
+<p><strong>De forma arbitraria y violando el debido proceso, al se&ntilde;or Tom&aacute;s Mart&iacute;nez Mandujano se le neg&oacute; el acceso a la justicia impredecible, ofrecer pruebas su inocencia. En la etapa intermedia, se neg&oacute; el reconocimiento de ser juzgado como persona ind&iacute;gena y, por si fuera poco, fue torturado al momento de su detenci&oacute;n arbitraria.</strong></p>
+
+<p><strong>Es un grave peligro que los l&iacute;deres sociales sean criminalizados y perseguidos por grupos facticios del poder, empresas y algunos gobiernos municipales, quienes, haciendo un uso indebido del sistema penal, llevan a prisi&oacute;n de forma injusta a los leg&iacute;timos liderazgos que dan impulso a los cambios sociales.</strong></p>
+
+<p><strong>Por eso, es que es oportuno solicitar su intervenci&oacute;n pol&iacute;tica para que las autoridades involucradas y competentes sepan que hay atenci&oacute;n e inter&eacute;s en el tema de nuestro compa&ntilde;ero Tom&aacute;s Mart&iacute;nez. Y, asimismo, creemos oportuno que la sociedad en general se entere de la exigencia de libertad a los presos pol&iacute;ticos en M&eacute;xico y por ello, el derecho a la protesta sigue siendo fundamental para que los menos favorecidos seamos escuchados.</strong></p>
+
+<p><strong>De tal manera que creemos significativo compartir que la comunidad de Llano Grande Azcapotzaltongo, est&aacute; evaluando realizar la toma del Estado de M&eacute;xico, lo cual consiste en protestas masivas pac&iacute;ficas y simult&aacute;neas en los principales accesos a la capital pol&iacute;tica de la Rep&uacute;blica Mexicana como una acci&oacute;n que aspira llamar a la atenci&oacute;n de M&eacute;xico y el mundo.</strong></p>
+
+<p><strong>Esperamos su amable respuesta y quedamos atentos a cualquier convocatoria para trabajar seriamente en las rutas legales a seguir la historia de los hechos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Le pedimos a la secretaria de Gobernaci&oacute;n que lo atienda, a Rosa Icela Rodr&iacute;guez.</p>
+
+<p>-&iquest;Listo?-</p>
+
+<p><strong>PREGUNTA: No, mire, en otro tema, Presidenta, en nuestro pa&iacute;s hay evidencia de la fabricaci&oacute;n de delitos contra gente inocente que en muchos penales compurga apenas injustamente por hechos que no cometieron. Esto por falta de verdaderos profesionales en investigaci&oacute;n o encargo de personas que pagan para mandar a prisi&oacute;n a inocentes, quienes roban a&ntilde;os de su vida.</strong></p>
+
+<p><strong>Por ejemplo, de esto podr&iacute;a ser el caso de una mujer que vive en este tipo de injusticia, que la han convertido de v&iacute;ctima y responsable de la desaparici&oacute;n de la muerte de su esposo. En esa postura pone la Fiscal&iacute;a General de Justicia del Estado de M&eacute;xico a la se&ntilde;ora Blanca Flor Vargas Col&iacute;n, madre de tres menores de edad. En el a&ntilde;o de (inaudible) sufre el secuestro de su esposo, padre de sus hijos. </strong></p>
+
+<p><strong>La Fiscal&iacute;a luego de cinco a&ntilde;os de investigaci&oacute;n y ante la llegada del MP, Luis Vilchis Trujillo, de la Unidad 4 de Secuestros de Toluca, sorpresivamente se presentan testigos falsos, al parecer &ldquo;comprados&rdquo;, para responsabilizar a la mujer por desaparici&oacute;n y su muerte de su esposo. Siendo los mismos polic&iacute;as de la Fiscal&iacute;a quienes vigilaban y secuestraron a la v&iacute;ctima; hay pruebas y datos robustecidos por esa misma dependencia, as&iacute; lo dan a conocer familiares de Blanca Flor, quien ahora se encuentra privada de su libertad en el penal de Santiaguito.</strong></p>
+
+<p><strong>Comentan tambi&eacute;n que ella durante estos cinco a&ntilde;os se dedicaba a trabajar para sacar adelante a sus hijos, confiando y esperando a que las autoridades pudieran dar con quienes secuestraron a su esposo. Los menores con l&aacute;grimas en sus ojos dicen: &ldquo;Primero perdimos a pap&aacute; y ahora nos arrebatan a mam&aacute;&rdquo;. Ellos sufren la incompetencia y suciedad del sistema.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; podr&aacute; hacer algo por ella?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bien, le pedimos a la secretaria de Gobernaci&oacute;n, a Rosa Icela que lo vea.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. Muy amable.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Listo, vamos a la vacuna.</p>
+
+<p>Muchas gracias a todos y a todas.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>&iquest;Cu&aacute;l le van a poner?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Influenza.</p>
+
+<p><strong>ENFERMERA:</strong> Influenza, as&iacute; es. Buenos d&iacute;as a todos y a todas. Hoy vamos a vacunar a la Presidenta, de influenza. Mi compa&ntilde;era nos va a hacer el favor de preparar la vacuna.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Est&aacute; bien. Listo. Muchas gracias a todas y a todos. Buen d&iacute;a.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-11-05 08:19:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de noviembre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-noviembre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-noviembre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de noviembre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-noviembre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-noviembre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de noviembre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-noviembre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-noviembre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-noviembre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

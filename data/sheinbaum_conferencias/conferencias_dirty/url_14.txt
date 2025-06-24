@@ -1,0 +1,1612 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 4 de octubre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 4 de octubre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/150196/497ac8d6-dfc3-4b80-853d-2dc114348316.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-4-de-octubre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/150196/497ac8d6-dfc3-4b80-853d-2dc114348316.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="ONSxSFW+fADVjyhB6iNZUXZgC8f8Qvza/YQ1L/SVf08=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nn567jbez44jyea-f-efaa6a3fa-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":20,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"b8fc7b8","ak.r":46322,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62425,"ak.gh":"189.247.210.14","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296840","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==nH+YqozIX7VcxKbzEcvmOvFFoFBB5I1q+BHMCAQgTkf/tPK5FucSCMc0fyDqhuyvNdm1d5py+yPpfTSSQ9G87A10miny+oPgtjTQQidCodnznWy07KJbr5lnPy+QWBftx4RGFlxrzlsog66exotQwOozER+CK0/xUTiWmB+85XEvCkPdhxsiTq4DTfn75DtZzxv80A5r6dI1RSe+99+gVL7NZ1RIDI6hFY9ScfEEVARdl+zCM1p8trsEC2BOEIQcbPCFqhMyjDl2kLPkPXpieX3V1vYrZbjYnnmrFt7mRMBC4qHChHrItwm+41vu+S95vkUaw36O0DapDXvOaxD5r4EEKWFgDlMWs2I/KV23A9Gej24TvicDHT03fHEPBLGz1dgMp4/oUfvTjehY9kXuAvWj9tYtTIHQZ5bTnKSiE7k=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 4 de octubre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 04 de octubre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/150196/497ac8d6-dfc3-4b80-853d-2dc114348316.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO</strong>:&nbsp;&iquest;C&oacute;mo est&aacute;n? Muy buenos d&iacute;as.</p>
+
+<p>El d&iacute;a de hoy vamos a presentar el programa de&nbsp;becas para&nbsp;ni&ntilde;os y ni&ntilde;as.&nbsp;Est&aacute;n aqu&iacute; &mdash;si&eacute;ntense&mdash; Mario Delgado y Julio Le&oacute;n, que es el coordinador de Becas para el Bienestar, y Mario Delgado, secretario&nbsp;de Educaci&oacute;n. Entonces, nos van a presentar el programa de becas.&nbsp;Antes de ello, le quiero pedir a Laura que haga una presentaci&oacute;n muy r&aacute;pida de la situaci&oacute;n de Guerrero y Oaxaca, de las afectaciones del hurac&aacute;n.&nbsp;Entonces, ser&iacute;a Laura, luego Mario y Julio. Y Mariana Ter&aacute;n, que est&aacute; aqu&iacute; con nosotros, zacatecana, ella nos va a hablar hacia el final de la Constituci&oacute;n de 1824, que hoy cumple 200 a&ntilde;os; los viernes, como saben, los vamos a dedicar a &lsquo;Suave Patria&rsquo; y vamos a iniciar con esto.</p>
+
+<p>Hoy vamos, m&aacute;s tarde, a Veracruz. Normalmente el 4 de octubre se celebraba&nbsp;&mdash;lo instituy&oacute; el presidente L&oacute;pez Obrador&mdash;&nbsp;el aniversario de la Marina Armada de M&eacute;xico, porque es justo un 4 de octubre, previo a que llegara Guadalupe Victoria, que se crean cuatro secretar&iacute;as;&nbsp;entre ellas,&nbsp;la Secretar&iacute;a de Guerra y Marina, ya en el M&eacute;xico independiente.</p>
+
+<p>Pero hoy vamos a Veracruz, para no dejar de estar&nbsp;con la Marina, pero a conmemorar la Constituci&oacute;n de 1824. Aunque se firm&oacute; aqu&iacute;, cerca de San Ildefonso &mdash;vamos a ver un video m&aacute;s tarde&mdash;,Guadalupe Victoria la mayor parte de su vida estuvo en Veracruz; entonces, vamos a aprovechar para&hellip; Su lucha de independencia la desarroll&oacute; por la independencia en Veracruz. Entonces, m&aacute;s tarde vamos a ir a Veracruz. Pero aqu&iacute; vamos a tocar el tema, y con esto vamos a iniciar &lsquo;Suave Patria&rsquo;, que adem&aacute;s es el poema de L&oacute;pez Velarde, que adem&aacute;s es zacatecano.</p>
+
+<p>Bueno, entonces Laura primero sobre Guerrero y Oaxaca, y despu&eacute;s Mario Delgado.</p>
+
+<p><strong>LAURA VEL&Aacute;ZQUEZ ALZ&Uacute;A, COORDINADORA NACIONAL DE PROTECCI&Oacute;N CIVIL:&nbsp;</strong>Muchas gracias. Muy buen d&iacute;a para todos y para todas. Con su permiso, se&ntilde;ora presidenta.</p>
+
+<p>Informo sobre los efectos por el hurac&aacute;n John, principalmente en el estado de Guerrero y, como ya lo mencion&oacute; la presidenta, en el estado de Oaxaca y tambi&eacute;n algunas afectaciones en infraestructura en Michoac&aacute;n.&nbsp;Est&aacute; la presentaci&oacute;n, por favor, si son tan amables.</p>
+
+<p>El pasado 23 de septiembre,&nbsp;como sabemos, a las 21 horas con 15 minutos el hurac&aacute;n John,&nbsp;de categor&iacute;a 3,&nbsp;toc&oacute; tierra en Marquelia, Guerrero.&nbsp;Se tienen identificados 29 municipios afectados directamente en Guerrero y en la costa, en toda la zona&nbsp;costera&nbsp;ocho municipios.</p>
+
+<p>De inmediato,&nbsp;se implement&oacute;, se activ&oacute; el Plan DN-III, el Plan Marina, Plan Guardia Nacional. Evidentemente que iniciamos d&iacute;as antes con acciones preventivas que nos ayudaron a implementar una acci&oacute;n fundamental en Acapulco y en los ocho municipios costeros.</p>
+
+<p>El d&iacute;a lunes,&nbsp;cuando impacta el hurac&aacute;n, la gente se qued&oacute; en sus domicilios o acudieron a refugios para poder resguardar a sus familias y sus vidas, esto nos ayud&oacute; mucho a tener los resultados obtenidos.</p>
+
+<p>De inmediato,&nbsp;Sedena, Marina y el gobierno de Guerrero iniciaron la limpieza y la habilitaci&oacute;n de caminos obstruidos por los &aacute;rboles. B&aacute;sicamente este hurac&aacute;n nos dej&oacute; vientos sostenidos de 195 kil&oacute;metros,&nbsp;afectando aproximadamente a 15 mil personas en esta zona.</p>
+
+<p>En la&nbsp;Costa&nbsp;Chica se han entregado 12 mil 54 despensas, 96 mil 432 litros de agua.</p>
+
+<p>En la localidad de Cruz Grande, la&nbsp;Sedena&nbsp;ha brindado m&aacute;s de 15 mil raciones calientes.</p>
+
+<p>Para despu&eacute;s,&nbsp;el lunes 23, del lunes 23 al viernes 27 de septiembre se registr&oacute; lluvia acumulada por mil 15 mil&iacute;metros en Acapulco, Guerrero;&nbsp;es decir, esta precipitaci&oacute;n, la media anual en el estado de Guerrero es de mil 200 mil&iacute;metros; lo que significa que en cuatro d&iacute;as llovi&oacute; el 84.5 por ciento de lo que llueve en el promedio en todo el a&ntilde;o en el estado de Guerrero.</p>
+
+<p>Aqu&iacute; vemos el mapa con la afectaci&oacute;n.</p>
+
+<p>La siguiente l&aacute;mina son todos los municipios y las regiones en donde tuvimos afectaciones por las lluvias y las inundaciones en 108 mil 792 personas&nbsp;afectadas con 27 mil viviendas.&nbsp;</p>
+
+<p>Asimismo, es importante mencionar que se dividi&oacute; un an&aacute;lisis en Acapulco de dos zonas: evidentemente en la zona urbana del puerto y otra en la zona rural afectada. Aqu&iacute; se estima una afectaci&oacute;n promedio de 39 mil 941 viviendas y 127 mil personas, lo anterior son 39 colonias en la zona urbana y 18 localidades rurales.</p>
+
+<p>Es importante la siguiente l&aacute;mina porque podemos ver&hellip; Est&aacute; l&aacute;mina es mucho muy importante, en la l&iacute;nea azul, este es el r&iacute;o La Sabana, arriba se ve c&oacute;mo corren los arroyos, en color beige o amarillo es la poblaci&oacute;n que lleg&oacute; a asentarse en esta zona, que acumula Acapulco&hellip; Tiene un alto &iacute;ndice de invasi&oacute;n.</p>
+
+<p><strong>PRESIDENTA&nbsp;CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>(inaudible)&nbsp;de hace d&iacute;as.</p>
+
+<p><strong>LAURA VEL&Aacute;ZQUEZ ALZ&Uacute;A:</strong>&nbsp;Ah, s&iacute;, es de hace d&iacute;as, esto ya no es de ahora, eso es. Entonces, de los primeros d&iacute;as, cuando estaba lloviendo, el &iacute;ndice de invasi&oacute;n de los cuerpos de agua y de las llanuras es muy alta. En la colonia&nbsp;La Poza&nbsp;se encuentra exactamente ah&iacute; en los m&aacute;rgenes del r&iacute;o Sabana.&nbsp;</p>
+
+<p>Es muy importante resaltar&nbsp;que&nbsp;del 24 al 28 de septiembre, que son estas im&aacute;genes, fueron cuatro d&iacute;as en donde nos abocamos a sacar a la gente que estaba en las zonas de riesgo, a evacuar a la poblaci&oacute;n.Todos, absolutamente, los servidores p&uacute;blicos de los tres niveles de gobierno nos dedicamos &uacute;nica y exclusivamente a evacuar a 10 mil 147 personas,&nbsp;Sedena, Guardia Nacional, Marina, Conagua, el gobierno de Guerrero, Protecci&oacute;n Civil, el municipio de Acapulco, Cruz Roja y voluntarios, m&aacute;s de 985 personas con 30 veh&iacute;culos de los altos y con 40 lanchas pudimos evacuar m&aacute;s de 10 mil personas.&nbsp;</p>
+
+<p>Hay un refugio temporal muy importante que instalamos en Mundo Imperial, es un centro de convenciones que est&aacute; en Acapulco, muy cercano a la zona que fue afectada, que es la zona este de Acapulco.</p>
+
+<p>La&nbsp;Sedena&nbsp;ha preparado y entregado m&aacute;s de 13 mil 550 raciones de comida caliente desde el pasado 27 de septiembre,&nbsp;y est&aacute;n todos los servicios muy dignos para la poblaci&oacute;n que se encuentra ah&iacute; y que a&uacute;n no ha podido regresar a sus domicilios hasta que no concluya la limpieza de las calles y de sus viviendas.&nbsp;</p>
+
+<p>Se inici&oacute; la distribuci&oacute;n de 100 mil despensas a trav&eacute;s de la&nbsp;Sedenay&nbsp;de la Marina.&nbsp;En Acapulco se han entregado hasta el momento m&aacute;s de 22 mil 560 despensas.</p>
+
+<p>La Comisi&oacute;n Federal de Electricidad inform&oacute;:&nbsp;en Acapulco sufrieron cortes del servicio el&eacute;ctrico 67 mil 690 usuarios. El servicio fue restaurado desde el 29 de septiembre,&nbsp;est&aacute; estable, ya no hay cortes y fue restablecido el servicio completo del servicio el&eacute;ctrico.</p>
+
+<p>La Secretar&iacute;a de Infraestructura, Comunicaciones y Transportes mantiene acciones en todos los puntos carreteros afectados. En su momento llegaron a ser 190 cortes o afectaciones o deslaves.&nbsp;Ya hay un avance que m&aacute;s adelante mencionar&eacute;.&nbsp;Hay 18,&nbsp;hubo 18 cortes a la circulaci&oacute;n y 162 fueron sin&nbsp;cortes de circulaci&oacute;n.</p>
+
+<p>A partir del 29 de septiembre el aeropuerto de Acapulco en funciones,&nbsp;sin ning&uacute;n problema.</p>
+
+<p>La Secretar&iacute;a de Salud ha brindado 18 mil 569 atenciones m&eacute;dicas.</p>
+
+<p>La Conagua ha implementado toda una estrategia con el gobierno del estado y los municipios para regresar los servicios a la normalidad.&nbsp;En efecto, quisiera yo concluir mi participaci&oacute;n mencionando que uno de los temas relevantes que tenemos trabajando en estos momentos,&nbsp;y por instrucciones de la presidenta, es coordinar todo el restablecimiento del servicio del agua en los cuatro puntos que distribuye el agua en Acapulco.</p>
+
+<p>La Marina se encuentra haciendo desazolve, la Secretar&iacute;a de Infraestructura, Comunicaciones y Transportes est&aacute; rehabilitando todos los caminos.</p>
+
+<p>Asimismo, menciono que se est&aacute; trabajando en ocho puntos carreteros en Michoac&aacute;n y tenemos 22 municipios afectados en&nbsp;Oaxaca,&nbsp;en donde tambi&eacute;n se est&aacute; trabajando.</p>
+
+<p>Hemos estado trabajando muy bien, presidenta, trabajando con la comunidad. Seguimos en territorio limpiando las calles, que eso es b&aacute;sicamente el trabajo que ahorita nos ocupa y restableciendo los servicios de agua.</p>
+
+<p>Esso ser&iacute;a todo.&nbsp;Con permiso.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Nada m&aacute;s para cerrar esta parte, ayer tuvimos una reuni&oacute;n, le estamos dando seguimiento.&nbsp;En este momento se est&aacute; trabajando por parte de la Marina para desazolvar las plantas de bombeo en Acapulco,&nbsp;para que pueda ser restablecido el servicio de agua potable, pero est&aacute;n llegando muchas m&aacute;s pipas para poder apoyar a la poblaci&oacute;n.</p>
+
+<p>Y, adem&aacute;s, Bienestar ya&nbsp;est&aacute;, a partir del d&iacute;a de&nbsp;hoy inicia su visita casa por casa&nbsp;en las colonias m&aacute;s afectadas de Acapulco y en todos los municipios de Guerrero, y tambi&eacute;n en los municipios de Oaxaca, que son 22 municipios afectados. A partir de este censo se va a dar un apoyo de limpieza de ocho mil pesos. Y despu&eacute;s, una vez revisado cu&aacute;les son las afectaciones, se dar&iacute;a el siguiente apoyo a la poblaci&oacute;n.</p>
+
+<p>Y, al mismo tiempo, est&aacute; llegando maquinaria de&nbsp;Sedena&nbsp;y de Secretar&iacute;a de Infraestructura, Comunicaciones y Transportes para hacer una limpieza integral del puerto de Acapulco, y las carreteras. Ya les vamos informando poco a poco c&oacute;mo se van mejorando, abriendo. En La Monta&ntilde;a y en la sierra de Guerrero tambi&eacute;n hay afectaciones en las carreteras; lo est&aacute; atendiendo el estado y, si es necesario, pues nosotros entrar&iacute;amos a apoyarles.</p>
+
+<p>Bueno, esto sobre Guerrero y Oaxaca.</p>
+
+<p><strong>MARIO DELGADO CARRILLO, SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA:</strong>&nbsp;Muchas gracias,&nbsp;presidenta. Buenos d&iacute;as a todas y a todos. Con su permiso, presidenta.&nbsp;</p>
+
+<p>Bueno, vimos el martes pasado, el 1&ordm; de octubre, dentro de los 100 puntos que ley&oacute; la presidenta, la alta prioridad que tiene la educaci&oacute;n. Hoy presentamos uno de los principales programas que ella ha planteado, que plante&oacute; durante toda su campa&ntilde;a y que empezamos a hacer realidad: las becas.</p>
+
+<p>En la pasada administraci&oacute;n del presidente Andr&eacute;s Manuel L&oacute;pez Obrador inici&oacute; el programa de Becas para el Bienestar &lsquo;Benito Ju&aacute;rez&rsquo;. En educaci&oacute;n b&aacute;sica hab&iacute;a una cobertura de 4.9 millones de familias, una beca por familia, que beneficiaba a 6.6 millones de estudiantes. Eran familias que eran elegidas en situaci&oacute;n de pobreza; en educaci&oacute;n media superior fue una beca universal para todas y todos los estudiantes que estaban en ese nivel educativo, 4.1 millones de estudiantes; en educaci&oacute;n superior se ten&iacute;a un promedio de 460 mil beneficiarios. Es decir, un total de 11.2 millones de estudiantes que recib&iacute;an una beca.&nbsp;</p>
+
+<p>&iquest;Cu&aacute;l es el siguiente paso?</p>
+
+<p>Una nueva beca universal para todas y todos los estudiantes en el nivel b&aacute;sico, esto es preescolar, primaria y secundaria, para todos tendr&aacute;n una beca, esto es un universo de 21.4 millones de estudiantes en educaci&oacute;n b&aacute;sica que se va a ir logrando de manera paulatina en esta administraci&oacute;n.</p>
+
+<p>&iquest;Con qu&eacute; vamos a empezar?</p>
+
+<p>En el 2025, con estudiantes de secundaria, es decir, habr&aacute; 5.6 millones de estudiantes beneficiados con una beca en el 2025.</p>
+
+<p>Es importante decir c&oacute;mo funciona esta beca. En este a&ntilde;o, la beca era de mil 840 pesos por familia, familias en situaci&oacute;n de pobreza. En el 2025, la beca se va a actualizar, se va a aumentar, por inflaci&oacute;n, como fue uno de los compromisos de la presidenta Sheinbaum; por lo tanto, llegar&aacute; a mil 900 pesos.</p>
+
+<p>Pero, adem&aacute;s, se va a dar 700 pesos m&aacute;s por cada ni&ntilde;o que tenga estas familias; es decir, si soy una familia que tiene un hijo en secundaria, recibo mi beca de mil 900 pesos; pero si tengo dos ni&ntilde;os o tres ni&ntilde;os, por cada ni&ntilde;o adicional es un gasto adicional que tienen las familias, por eso se les dar&aacute; 700 pesos m&aacute;s por cada ni&ntilde;o integrante de la familia. Es como funcionar&aacute; esta beca.</p>
+
+<p>Ahora, &iquest;d&oacute;nde tener la beca? Bueno, vamos a iniciar a partir del 14 de octubre y hasta el 17 de enero, en todas las escuelas vamos a hacer asambleas informativas, los servidores de la naci&oacute;n junto con los servidores de la educaci&oacute;n van a visitar las 35 mil secundarias p&uacute;blicas que hay en nuestro pa&iacute;s. Vamos a avisar una semana antes ah&iacute; en la propia secundaria, en la p&aacute;gina de internet, para que vayan los padres de familia, para que est&eacute;n tambi&eacute;n los maestros, que est&eacute;n los alumnos; no vamos a interrumpir clases, pero s&iacute; vamos a tener estas asambleas informativas para decirles c&oacute;mo va a funcionar la beca.</p>
+
+<p>&iquest;Qu&eacute; requisitos necesitamos?</p>
+
+<p>Lo vamos a poner en la p&aacute;gina de internet, ah&iacute; lo encontrar&aacute;n, la documentaci&oacute;n, las fechas de cu&aacute;ndo vamos a ir a las secundarias, y todo lo que necesitamos para obtener la beca y puedan, a partir de enero, recibir su tarjeta y ya empezar a recibir los apoyos.</p>
+
+<p>La educaci&oacute;n es un derecho, no es una mercanc&iacute;a, es algo que nos ha dicho la presidenta durante todo este tiempo.</p>
+
+<p>Ahora, algo muy significativo, la beca lleva el nombre de una mujer, la beca se llama &lsquo;Rita Cetina&rsquo;, por decisi&oacute;n de la presidenta Claudia Sheinbaum.&nbsp;</p>
+
+<p>&iquest;Qui&eacute;n fue Rita Cetina?</p>
+
+<p>Rita Cetina Guti&eacute;rrez fue una maestra, poeta y gestora literaria, fue una mujer mexicana que sent&oacute; las bases para la emancipaci&oacute;n femenina en el M&eacute;xico del siglo XIX. Su labor se centr&oacute; en la ense&ntilde;anza a ni&ntilde;as y j&oacute;venes de Yucat&aacute;n en la gesti&oacute;n, edici&oacute;n y redacci&oacute;n de proyectos literarios que impulsaron a m&aacute;s mujeres a ser parte del mundo letrado, el cual, hasta entonces, era dominio de puros hombres.&nbsp;</p>
+
+<p>Rita Cetina naci&oacute; el 22 de mayo de 1846 en M&eacute;rida, Yucat&aacute;n, dentro de una familia de &eacute;lite, yucateca, ligada a la pol&iacute;tica y a la milicia.&nbsp;</p>
+
+<p>El 4 de junio de 1870, Rita fund&oacute;, con otras mujeres meridenses, la sociedad literaria y de beneficencia llamada &lsquo;La siempre viva&rsquo;, que ten&iacute;an una revista, una publicaci&oacute;n y tambi&eacute;n un c&iacute;rculo cient&iacute;fico. A trav&eacute;s de este proyecto, hizo posible la creaci&oacute;n de una escuela primaria para ni&ntilde;as de escasos recursos, muchas de ellas eran hu&eacute;rfanas, en el cual Rita inici&oacute; su labor magisterial, tambi&eacute;n fue directora de esta escuela.&nbsp;</p>
+
+<p>Las materias que daban ah&iacute;, en esa escuela, eran materias elementales como lectura, gram&aacute;tica y geograf&iacute;a, pero tambi&eacute;n, f&iacute;jense, dentro de la tira matricular inclu&iacute;an asignaturas de bellas artes y aritm&eacute;tica, las cuales, en conjunto, constitu&iacute;an una de las&nbsp;curr&iacute;culas&nbsp;m&aacute;s amplias e innovadoras de educaci&oacute;n para mujeres en el estado de Yucat&aacute;n y en todo M&eacute;xico.</p>
+
+<p>Al incluir estos conocimientos, Rita Cetina y sus compa&ntilde;eras buscaban que la mujer no s&oacute;lo se instruyera como el alma del lugar, sino que fueran mujeres curiosas por la ciencia y la raz&oacute;n.</p>
+
+<p>Despu&eacute;s de su experiencia en &lsquo;La siempre viva&rsquo;, Rita tambi&eacute;n se desempe&ntilde;&oacute; como maestra y directora del Instituto Literario de Ni&ntilde;as, el cual fue la primera Escuela Normal de la ciudad. En esta instituci&oacute;n, Rita impuls&oacute; la profesionalizaci&oacute;n de las alumnas para que se convirtieran en profesoras. Fue este instituto, fue cuna del feminismo mexicano.</p>
+
+<p>El 11 de octubre de 1908, Rita Cetina Guti&eacute;rrez muri&oacute; a causa de una enfermedad en M&eacute;rida, Yucat&aacute;n.</p>
+
+<p>La semana que entra se conmemorar&aacute;n 116 a&ntilde;os de su muerte.</p>
+
+<p>Y tras sus pasos, hab&iacute;a consolidado importantes proyectos educativos para las mujeres de su entidad. La labor de Rita influenci&oacute; a decenas de mujeres de su &eacute;poca y de las d&eacute;cadas posteriores a su muerte.</p>
+
+<p>El m&aacute;s claro ejemplo fue, sin duda, Elvia Carrillo Puerto, quien adem&aacute;s da el nombre de su maestra a la liga feminista que fund&oacute; bajo el lema: &lsquo;Instrucci&oacute;n, progreso y derecho de las mujeres&rsquo;. Con el apoyo, Elvia Carrillo Puerto, con el apoyo de sus ense&ntilde;anzas y la lucha encabezada por la emancipaci&oacute;n de la mujer a trav&eacute;s de la educaci&oacute;n, impuls&oacute; la conquista de m&aacute;s derechos para las mujeres en todo el pa&iacute;s.</p>
+
+<p>Por eso, en homenaje a Rita Cetina Guti&eacute;rrez, la presidenta Claudia Sheinbaum Pardo ha decidido ponerle el nombre a la esta beca universal para estudiantes de b&aacute;sica.</p>
+
+<p>Es todo.</p>
+
+<p>Arrancamos la pr&oacute;xima semana visitando las secundarias p&uacute;blicas del pa&iacute;s y tendremos toda la informaci&oacute;n en la p&aacute;gina de internet que mencionamos.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Germ&aacute;n,&nbsp;ponel n&uacute;mero de beneficiarios. La que sigue, porfa.</p>
+
+<p>&iquest;En este momento cu&aacute;ntos son en secundaria?</p>
+
+<p><strong>MARIO DELGADO CARRILLO:&nbsp;</strong>5.6 millones.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;No, pero la beca que atiende hoy. &iquest;En este momento cu&aacute;ntos estudiantes?</p>
+
+<p><strong>MARIO DELGADO CARRILLO:&nbsp;</strong>(inaudible) por familia&hellip;</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>No. &iquest;Cu&aacute;ntos estudiantes de secundaria tienen beca? &iquest;Cu&aacute;ntas familias de estudiantes de secundaria tienen beca?</p>
+
+<p><strong>MARIO DELGADO CARRILLO:</strong>&nbsp;Un mill&oacute;n 100.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Ah, okey. Pasamos de un mill&oacute;n 100 a 5.6 millones de beneficiarios en el 2025.&nbsp;</p>
+
+<p>La beca que daba, que se da hasta ahora, la &lsquo;Benito Ju&aacute;rez&rsquo;, solamente en preparatoria es por estudiante. En el caso de las &lsquo;Benito Ju&aacute;rez&rsquo; para educaci&oacute;n b&aacute;sica, preescolar, primaria y secundaria, es por familia, entonces se dan mil 840 pesos a la familia, independientemente si tienen un hijo, dos hijos, tres hijos, cuatro hijos.</p>
+
+<p>&iquest;Qu&eacute; vamos a hacer?</p>
+
+<p>Dar un adicional a la familia por cada hijo que tenga adicional. Entonces, son mil 900 de base a la familia; si tienen dos hijos, pues ser&aacute;n mil 900, m&aacute;s 700; si tienen tres hijos, mil 900, m&aacute;s mil 400. Ese es el esquema de la beca &lsquo;Rita Cetina&rsquo;.&nbsp;</p>
+
+<p>Vamos a pasar de una vez el video de la Constituci&oacute;n. Despu&eacute;s, al final hacemos las preguntas.&nbsp;</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p><strong>KARLA MOTTE, HISTORIADORA:</strong>&nbsp;En este maravilloso recinto, el Archivo General de la Naci&oacute;n, se encuentra el manuscrito original de la Constituci&oacute;n de 1824. Esta Constituci&oacute;n representa el ideal insurgente para constituir una rep&uacute;blica, fue la derrota de&nbsp;los monarquistas, defensores de privilegios para unos cuantos.</p>
+
+<p>Tras 11 a&ntilde;os de batallas, en septiembre de 1821 se consum&oacute; la independencia a trav&eacute;s de una alianza entre realistas e insurgentes. Cuando se consuma la independencia, se implant&oacute; una monarqu&iacute;a bajo el imperio de Agust&iacute;n de Iturbide, y esto representaba lo contrario a los principios de quienes iniciaron la gesta independentista, como Hidalgo, Morelos y Guerrero.</p>
+
+<p>En algunos documentos, como los Sentimientos de la Naci&oacute;n o la Constituci&oacute;n de Apatzing&aacute;n,&nbsp;se hab&iacute;a propuesto un gobierno republicano.</p>
+
+<p>Aqu&iacute;, en el antiguo templo de San Pedro y San Pablo, se reuni&oacute; el&nbsp;Congreso Constituyente&nbsp;que firm&oacute; la Constituci&oacute;n de 1824, aqu&iacute; se puede observar la trayectoria hist&oacute;rica de las constituciones de nuestro pa&iacute;s.&nbsp;</p>
+
+<p>Durante el imperio de Agust&iacute;n, ya en 1822, se form&oacute; un Congreso Constituyente, que ten&iacute;a el objetivo&nbsp;de formular una Constituci&oacute;n. Como esto iba en contra de los intereses imperiales de Iturbide, decidi&oacute; disolver el Congreso. Y entonces, el descontento pues no se hizo esperar, varias provincias quisieron separarse de la naci&oacute;n y volverse independientes; y ante esta crisis, Agust&iacute;n de Iturbide tuvo que abdicar.</p>
+
+<p>En noviembre de ese a&ntilde;o, se integr&oacute; un nuevo congreso,&nbsp;en donde participaron personajes que estaban en favor de instituir una rep&uacute;blica federal. Los intereses conservadores y monarquistas ya estaban francamente debilitados.</p>
+
+<p><strong>RODRIGO MORENO ELIZONDO, SUBDIRECTOR DE ACCESO Y SERVICIOS AL P&Uacute;BLICO DEL ARCHIVO GENERAL DE LA NACI&Oacute;N:</strong>&nbsp;Nos encontramos ante un documento encuadernado, en forma de libro, con forros de piel, remates dorados. Para cuidar un documento tan importante como estos, el Archivo General de la Naci&oacute;n tiene un espacio que se denomina b&oacute;veda de seguridad.</p>
+
+<p><strong>VOZ MUJER:&nbsp;</strong>En su t&iacute;tulo 1&ordm;, este libro establece los principios fundantes de la naci&oacute;n mexicana. Dice que la naci&oacute;n mexicana es para siempre,&nbsp;libre e independiente del gobierno espa&ntilde;ol y de cualquier otra potencia.</p>
+
+<p>En su t&iacute;tulo 2&ordm;, establece la forma de gobierno de la naci&oacute;n, as&iacute; como sus partes integrantes, y establece este principio fundacional que tenemos hasta el d&iacute;a de hoy, la divisi&oacute;n de poderes, es decir, el Legislativo, el Ejecutivo y el Judicial.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>Doctora.</p>
+
+<p><strong>MARIANA TER&Aacute;N FUENTES, DOCENTE E INVESTIGADORA DE LA UNIVERSIDAD AUT&Oacute;NOMA DE ZACATECAS (UAZ):&nbsp;</strong>Con su permiso, presidenta de la Rep&uacute;blica. Buenos d&iacute;as a todas, a todos ustedes.</p>
+
+<p>&iquest;Por qu&eacute; es importante que el pueblo de M&eacute;xico recuerde la Constituci&oacute;n promulgada el 4 de octubre de 1824, exactamente hace 200 a&ntilde;os?</p>
+
+<p>Porque tenemos un pasado com&uacute;n que nos ha hecho naci&oacute;n, porque esa Constituci&oacute;n logr&oacute; armar una Rep&uacute;blica que fue capaz de integrar los suelos tostados de Veracruz con el esplendoroso desierto de Sonora, porque esa Constituci&oacute;n uni&oacute; lo que estaba a un paso de separarse y logr&oacute; sobreponerse a contrastantes geograf&iacute;as, sociedades y culturas.</p>
+
+<p>Ven&iacute;amos de un pasado virreinal, donde la Nueva Espa&ntilde;a era parte integrante de la monarqu&iacute;a espa&ntilde;ola. Con la consumaci&oacute;n de la independencia, el imperio no logr&oacute; formar constituci&oacute;n, la monarqu&iacute;a mexicana no sobrevivi&oacute;; sin embargo, el poder no conoce vac&iacute;os, el poder fue asumido por las provincias que se movilizaron, las cuatro provincias m&aacute;s radicales, entre las que se cuentan Oaxaca, Yucat&aacute;n, Jalisco y Zacatecas, decidieron que la forma de gobierno deb&iacute;a ser la rep&uacute;blica federal para asegurar su autonom&iacute;a.</p>
+
+<p>En 1823 qued&oacute; dibujado el federalismo. Con el acta constitutiva del 31 de enero de 1824, la carta fundamental de octubre de aquel a&ntilde;o, y las 19 constituciones estatales. se dio vida a la Rep&uacute;blica&nbsp;mexicana.</p>
+
+<p>Con la rep&uacute;blica federal, los diputados constituyentes encontraron una f&oacute;rmula novedosa, audaz, arriesgada, en la que las distintas entidades podr&iacute;an encontrar su lugar, el nopal representa las partes que se decidieron por el pacto federal, ning&uacute;n pueblo es superior a otro.</p>
+
+<p>Hemos recordado la guerra de insurgencia, las Leyes de Reforma y la Revoluci&oacute;n de 1910, pero tambi&eacute;n es fundamental recordar los momentos en que nos hemos constituido y las gestas de esta transformaci&oacute;n. Las j&oacute;venes generaciones deber&aacute;n saber que esto cost&oacute; vidas, luchas, infinidad de debates por confirmar cu&aacute;l ser&iacute;a la mejor forma de gobierno. Es nuestro deber moral recordarlo porque este d&iacute;a, hace 200 a&ntilde;os, se sentaron las bases para formar una naci&oacute;n, la nuestra.&nbsp;</p>
+
+<p>Mexicanos y mexicanas nos debemos a ese pacto federal, por &eacute;l tenemos un gobierno representativo, por &eacute;l se ha ejercido la divisi&oacute;n de poderes, la integraci&oacute;n del territorio, a partir de &eacute;l hacemos valer nuestros derechos y obligaciones ciudadanos, por ese pacto elegimos a nuestras autoridades y estamos puestos a la defensa de la soberan&iacute;a nacional.&nbsp;</p>
+
+<p>Nuestra rep&uacute;blica ha demostrado no s&oacute;lo su viabilidad y consistencia, ha demostrado su permanencia, potencia cultural a nivel mundial. Por eso, las campanas deber&aacute;n replicar, las salvas deber&aacute;n sonar, los himnos&nbsp;deber&aacute;n entonarse todos los que vamos a pie debemos voltear a aquellos constituyentes de 1824 y reconocer su val&iacute;a. El pasado est&aacute; contenido en nuestro presente, lo que somos como naci&oacute;n es lo que hemos sido a lo largo de nuestra historia&rsquo;.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>Bueno, pues este es el&hellip;</p>
+
+<p>Ya me dijeron que hay una t&oacute;mbola, &iquest;no?, en la ma&ntilde;ana. Yo no sab&iacute;a.&nbsp;A ver, vamos primero&hellip; Hay tiempo, vamos a ver si alcanzamos a varias.</p>
+
+<p><strong>PREGUNTA</strong>:&nbsp;Sobre el tema&hellip;</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>&iquest;Sobre el tema de las becas?</p>
+
+<p><strong>INTERLOCUTOR</strong>:&nbsp;S&iacute;.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>Ah s&iacute;, pues es la misma pregunta que traen todos.&nbsp;</p>
+
+<p>A ver, vamos por ac&aacute;, Sonora, a ver, y luego t&uacute; y luego los de ac&aacute;.</p>
+
+<p><strong>PREGUNTA</strong>:&nbsp;Hola, qu&eacute; tal. Buenos d&iacute;as, se&ntilde;ora presidenta. Un gusto.</p>
+
+<p>Bueno,&nbsp;quiero&nbsp;antes que nada, felicitarle &mdash;Yo soy Demian Duarte, de&nbsp;Sonora&nbsp;Power&mdash; felicitarle por su llegada. El pasado 1&ordm; se inaugura una nueva era en este pa&iacute;s y creo que es importante esta visi&oacute;n de que es tiempo de mujeres, yo lo saludo con mucho gusto, con mucho honor y con mucho privilegio de estar aqu&iacute; con la oportunidad de dialogar con usted.</p>
+
+<p>Mire, recuerdo&nbsp;que&nbsp;en alguna ocasi&oacute;n, cuando empezaba este asunto de la precampa&ntilde;a, yo en Nogales le dec&iacute;a que en usted confi&aacute;bamos; creo que usted debe de recordar ese momento, cuando apenas estaba perfil&aacute;ndose a esta importante empresa de convertirse en la primera mujer presidenta.</p>
+
+<p>Y mire, la felicitaci&oacute;n yo se la extiendo al asunto de la congruencia con la que se ha comportado, v&aacute;lgame, en esta primera semana. El primer tema, la memoria hist&oacute;rica, muy importante, el asunto del 68. Usted dice es hija del 68; nosotros tambi&eacute;n. Al final de cuentas, nuestros padres emprendieron&nbsp;luchas importantes en la izquierda de muchas maneras, y bueno, pues al final de cuentas nos dieron esta identidad que hoy tenemos como pa&iacute;s.</p>
+
+<p>Y, bueno, el asunto tambi&eacute;n del g&eacute;nero es muy importante. Su gobierno es el primer gobierno que habla justamente de esta necesidad de que haya igualdad, pero igualdad&nbsp;sustantiva&nbsp;adem&aacute;s, que es un concepto muy importante. En este concepto, presidenta, yo le quiero plantear el asunto &mdash;que a m&iacute; me ha generado molestias, seguramente a muchos tambi&eacute;n&mdash; de la misoginia que prevalece.</p>
+
+<p>Mire, en los &uacute;ltimos d&iacute;as ha circulado un video de un actor, Rafael Incl&aacute;n que, bueno, se refiri&oacute; despu&eacute;s de su triunfo, porque esto fue en junio, a que tendr&iacute;amos una ama de casa por seis a&ntilde;os. Y ha habido otro t&eacute;rmino, que no lo voy a repetir porque es muy peyorativo, al que algunos&nbsp;opin&oacute;logos&nbsp;y representantes de la oposici&oacute;n &mdash;yo le digo la oposici&oacute;n medi&aacute;tica&mdash; se refieren a usted de manera que me parece muy negativa.</p>
+
+<p>Yo le quiero pedir su opini&oacute;n sobre este contexto justamente de la misoginia, el &aacute;nimo de descalificar a la primera mujer que es la presidenta de todos los mexicanos.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Primero, hay esta idea de hace tiempo, desde la campa&ntilde;a, que Andr&eacute;s Manuel L&oacute;pez Obrador iba a estar gobernando durante estos seis a&ntilde;os, del 24 al 2030. Pues &eacute;l se fue a Palenque y ah&iacute; est&aacute; desempe&ntilde;ando su nuevo periodo de reflexi&oacute;n y escritura. Y la presidenta de M&eacute;xico se llama Claudia Sheinbaum Pardo y ayer en la salutaci&oacute;n que se hace cuando llega un presidente, o presidenta en este caso, comandanta suprema de las Fuerzas Armadas.</p>
+
+<p>Esta idea de que las mujeres no tenemos capacidad y que siempre tiene que haber un hombre atr&aacute;s dici&eacute;ndonos qu&eacute; es lo que tenemos que hacer,&nbsp;pues es parte de una cultura machista. Y es algo que, as&iacute; como vamos a seguir hablando de la discriminaci&oacute;n por situaci&oacute;n social, por color de la piel, tambi&eacute;n vamos a seguir hablando del&nbsp;machismo, porque eso se tiene que desterrar en nuestro pa&iacute;s. Todos somos iguales ante la ley y, adem&aacute;s, ahora queremos que se reconozca la igualdad sustantiva en la Constituci&oacute;n.&nbsp;</p>
+
+<p>Pero lo que a m&iacute; me parece m&aacute;s lamentable es que se utilice la palabra &lsquo;ama de casa&rsquo; como algo peyorativo. No, yo soy presidenta, abuela, mam&aacute; y ama de casa, y con orgullo.&nbsp;</p>
+
+<p>Todas las amas de casa, es decir, las mujeres, esposas que se dedican al hogar,&nbsp;merecen absolutamente todo nuestro reconocimiento. Realizan un trabajo que nadie reconoce: todos los d&iacute;as se levantan, despiertan a los ni&ntilde;os, preparan el desayuno, les dan de comer, los llevan a la escuela, regresan, ya est&aacute;n preparando la comida, limpian la casa, preparan la comida, van por los hijos a la escuela, regresan, les dan de comer; despu&eacute;s, les ayudan a hacer la tarea, y despu&eacute;s vuelven a limpiar la casa, y despu&eacute;s llega el marido y tambi&eacute;n lo atienden. Y al otro d&iacute;a,&nbsp;lo mismo. Parece como un trabajo menor. A ver, a todos los que no hacen ese trabajo, los conmino a que realicen el trabajo de la tarea del hogar. Tiene su complejidad, &iquest;eh?</p>
+
+<p>O la otra, las mujeres que son amas de casa y, adem&aacute;s, dejan a los hijos en la escuela, se van a trabajar, regresan a recoger a los hijos a la escuela. A veces comparten esta tarea con la pareja, que as&iacute; deber&iacute;a ser, a veces no. Entonces, ah&iacute; est&aacute; lo que se llama la doble jornada, porque salen a trabajar, y aparte la jornada del hogar.</p>
+
+<p>O en otro caso, las mujeres que salen a trabajar y que contratan a una mujer, una trabajadora del hogar, para que realice esas tareas, que, como dec&iacute;a ayer, despectivamente y de una manera lamentable hay muchos que se sienten que se quedaron en la Colonia y les llaman &lsquo;sirvientas&rsquo;.&nbsp;</p>
+
+<p>No, eso se acab&oacute;, el esclavismo no existe en nuestro pa&iacute;s, se llaman trabajadoras del hogar. Salen de&nbsp;sus pueblos, muchas veces con muchas penurias, tienen a sus hijos, muchas de ellas madres solteras, y realizan un trabajo digno, que adem&aacute;s por ley&nbsp;tienen que tenerseguridad social.</p>
+
+<p>Entonces a todos aquellos que crean que por decir &lsquo;ama de casa&rsquo; es despectivo, no. Nosotros nos vamos a encargar, tambi&eacute;n, como mujeres, de reconocer el trabajo de todas las mujeres que realizan en el hogar.</p>
+
+<p>Esa es una de las razones por las cuales estamos apoyando a las mujeres de 60 a 64 a&ntilde;os, que cuando ya crecieron los hijos, ahora cuidan a los nietos o a las nietas, pues que tengan. Muchas de ellas no tienen ni siquiera un ingreso propio, no tienen autonom&iacute;a econ&oacute;mica, y ahora van a recibir un apoyo del gobierno para que puedan tener al menos un poco de recurso para ellas, &iquest;por qu&eacute;?Porque se lo merecen.</p>
+
+<p><strong>INTERLOCUTOR</strong>:&nbsp;Claro que s&iacute;. Adem&aacute;s de ser tiempo de mujeres, creo que debe de ser tiempo de hombre solidarios, &iquest;verdad?, que es un asunto tambi&eacute;n importante en la formaci&oacute;n que&nbsp;tenemos que tener.</p>
+
+<p>Presidenta, mire, el arranque de su administraci&oacute;n tambi&eacute;n ha dado una nota que es muy interesante, el peso, el superpeso, se sigue fortaleciendo, hoy amanece en niveles de 19 pesos con 20 centavos por d&oacute;lar, es un asunto que es relevante. Se escribi&oacute; una p&aacute;gina importante en nuestra historia financiera al cierre de la administraci&oacute;n del presidente L&oacute;pez Obrador, es el primer presidente desde Manuel &Aacute;vila Camacho que logra un resultado positivo en la cotizaci&oacute;n del tipo de cambio con esta ganancia que cerr&oacute; con un cuatro por ciento de ganancia frente al d&oacute;lar respecto al nivel en el que asumi&oacute; la administraci&oacute;n. Usted en los primeros dos d&iacute;as ya logr&oacute; una revaloraci&oacute;n de aproximadamente el dos por ciento de nuestra moneda, esto me da pie a preguntarle.</p>
+
+<p>Mire, usted es cient&iacute;fica, sabe que lo que no se puede medir pues no existe, &iquest;verdad?, porque no se puede corregir. El asunto es que yo le quisiera preguntar qu&eacute; tipo de expectativas econ&oacute;micas hay de su administraci&oacute;n.</p>
+
+<p>Usted, en los 100 compromisos y tambi&eacute;n en el mensaje que ofreci&oacute; en la C&aacute;mara de Diputados, hablaba de este empe&ntilde;o por hacer de M&eacute;xico un pa&iacute;s muy atractivo para la inversi&oacute;n, la construcci&oacute;n de infraestructura; ayer habl&oacute; de la necesidad de que los salarios m&iacute;nimos sigan increment&aacute;ndose en niveles anuales del 12 por ciento. Todo esto prefigura un buen ambiente, evidentemente, para la econom&iacute;a.</p>
+
+<p>Yo, preguntarle si ya tiene usted visualizado cu&aacute;les son los objetivos en materia econ&oacute;mica, qu&eacute; tipo de crecimiento, c&oacute;mo cree que va a comportarse el tipo de cambio. Hay factores importantes; por ejemplo, las reservas del Banco de M&eacute;xico est&aacute;n en niveles r&eacute;cord actualmente, 226 mil millones de d&oacute;lares, si mal no recuerdo, es el dato.</p>
+
+<p>Entonces, la econom&iacute;a, como usted sabe, es muy importante, es un tema muy relevante para todos nosotros porque al final de cuentas a c&oacute;mo le va a la econom&iacute;a del pa&iacute;s es a c&oacute;mo nos va a todos los mexicanos.</p>
+
+<p>Entonces, preguntarle las perspectivas que usted encuentra en este asunto.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Estamos preparando el paquete, lo que se llama el&nbsp;paquete econ&oacute;mico para presentarlo en noviembre al&nbsp;Congreso, entonces ya invitar&iacute;a yo al secretario&nbsp;de Hacienda para que &mdash;hacia unas dos semanas, m&aacute;s o menos&mdash; para que se pueda presentar qu&eacute; es lo que estamos visualizando.</p>
+
+<p>Vamos a cerrar bien, hay recursos, el presidente L&oacute;pez Obrador se asegur&oacute; de que hubiera recursos suficientes para un buen cierre de a&ntilde;o. Y el pr&oacute;ximo a&ntilde;o, como lo dijimos, estamos planteando una disminuci&oacute;n del d&eacute;ficit y esquemas tambi&eacute;n de mejora de la recaudaci&oacute;n, que no tienen que ver con reforma fiscal, sino mejora en aduanas, en el propio SAT y algunas acciones importantes que vamos a desarrollar para poder incrementar a&uacute;n m&aacute;s los ingresos, adem&aacute;s de seguir con que no haya condonaci&oacute;n de impuestos y que no haya evasi&oacute;n fiscal.</p>
+
+<p>La econom&iacute;a de M&eacute;xico est&aacute; fuerte. Muchas veces se dec&iacute;a que el cambio de la paridad peso-d&oacute;lar&nbsp;ten&iacute;a que ver con la reforma al Poder Judicial;&nbsp;tan no es cierto,&nbsp;que el d&iacute;a que se aprueba la reforma al&nbsp;Poder Judicial el peso retoma, se aprecia ese mismo d&iacute;a, y al siguiente d&iacute;a tambi&eacute;n; entonces, en realidad no ten&iacute;a nada qu&eacute; ver, son asuntos internacionales, porque somos una econom&iacute;a que est&aacute; vinculada con la econom&iacute;a del mundo, y lo que ocurre en Estados Unidos particularmente,&nbsp;pues tiene implicaciones, y tambi&eacute;n lo que ocurre en otras partes del mundo;&nbsp;particularmente,&nbsp;ocurri&oacute; hace unos meses un aumento de tasa en Jap&oacute;n y eso hizo que,&nbsp;pues se movieran los capitales internacionales.</p>
+
+<p>Pero la econom&iacute;a de M&eacute;xico est&aacute; bien, est&aacute; fuerte, eso se logr&oacute; con el Humanismo Mexicano, y por eso vamos a continuar con la pol&iacute;tica de fortalecimiento del mercado interno.</p>
+
+<p>Ya presentaremos el paquete econ&oacute;mico pronto.</p>
+
+<p>A ver, ac&aacute;, que hab&iacute;a dicho&nbsp;</p>
+
+<p><strong>PREGUNTA</strong>:&nbsp;Qu&eacute; tal, doctora, buenos d&iacute;as.</p>
+
+<p>Carlos Calzada, de&nbsp;Radio Educaci&oacute;n.</p>
+
+<p>La primera pregunta ser&iacute;a esta decisi&oacute;n que tom&oacute; la Suprema Corte de Justicia ayer, de dar entrada para saber si puede revisar la&hellip; realizar esta controversia en contra de la reforma judicial. Me gustar&iacute;a conoce su opini&oacute;n, sobre todo porque dos de las ministras consideraron que esto era un golpe de Estado t&eacute;cnico. Me gustar&iacute;a saber cu&aacute;l es su posici&oacute;n al respecto a estas acciones de la Suprema Corte.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>S&iacute;. Le ped&iacute; a Paulina que hici&eacute;ramos una presentaci&oacute;n para que recordemos c&oacute;mo es que nuestra coalici&oacute;n tiene mayor&iacute;a calificada en la C&aacute;mara de Diputados y en la C&aacute;mara de Senadores, cu&aacute;l fue el resultado de la elecci&oacute;n, qu&eacute; dice la Constituci&oacute;n para cambiar la Constituci&oacute;n, cu&aacute;l es la votaci&oacute;n que se obtuvo y por qu&eacute; &mdash;que no ha tomado una decisi&oacute;n&mdash; acepta lo que le plantea la corte, algunos ministros de la corte para analizar la constitucionalidad de la Constituci&oacute;n, que est&aacute; totalmente fuera de norma. Entonces, vamos a&hellip;</p>
+
+<p>A ver, primero, para todos los adversarios, los que no est&aacute;n de acuerdo con lo que se est&aacute; aprobando, es una decisi&oacute;n del pueblo de M&eacute;xico. Hay que recordar que el 5 de febrero del 2024 el presidente L&oacute;pez Obrador present&oacute; 20 reformas constitucionales, las envi&oacute; a la C&aacute;mara de Diputados, 18 constitucionales y dos de leyes secundarias. A partir de esa fecha, previo a la jornada electoral, a la campa&ntilde;a, empieza a analizar la C&aacute;mara de Diputados, que es la c&aacute;mara de origen, estas reformas;&nbsp;entre ellas,&nbsp;la reforma al Poder Judicial.</p>
+
+<p>Lo que se planteaba en la reforma al Poder Judicial esencialmente: que jueces, ministros, jueces, magistrados, magistradas, ministros y ministras, sean electas por voto popular.&nbsp;</p>
+
+<p>Durante toda la campa&ntilde;a, quienes me acompa&ntilde;aron&nbsp;&mdash;&nbsp;que algunos est&aacute;n aqu&iacute;&mdash;&nbsp;saben que yo en plaza p&uacute;blica explicaba siempre lo que llam&aacute;bamos el plan C,&nbsp;y ah&iacute; explicaba lo que significaba particularmente la reforma al Poder Judicial, y explicaba que para poder transformar al Poder Judicial&hellip;&nbsp;</p>
+
+<p>&iquest;Que por qu&eacute; se requiere transformar?</p>
+
+<p>Pues tambi&eacute;n aqu&iacute; el presidente L&oacute;pez Obrador dio varias veces decisiones del Poder Judicial que ten&iacute;an que ver, incluso, con liberaciones de delincuentes de la delincuencia organizada, no solamente asuntos mercantiles, sino tambi&eacute;n liberaci&oacute;n de delincuentes, &lsquo;sabadazos&rsquo;, etc&eacute;tera, etc&eacute;tera, etc&eacute;tera.</p>
+
+<p>Entonces, en campa&ntilde;a pon&iacute;a yo a votaci&oacute;n en la plaza p&uacute;blica: &iquest;qui&eacute;n cree que deba seguirse eligiendo a ministros de la Suprema Corte por los senadores o qui&eacute;n cree que deba elegirse por el pueblo de M&eacute;xico? Es decir, hicimos campa&ntilde;a planteando la reforma al Poder Judicial y las otras reformas.&nbsp;</p>
+
+<p>El 2 de junio ganamos con esta diferencia de votaci&oacute;n, en caso de la Presidencia obtuve 35 millones 924 mil 519.</p>
+
+<p>&iquest;Cu&aacute;nto obtuvo la candidata del&nbsp;Prian?</p>
+
+<p>16 millones 502 mil 697. Y Movimiento Ciudadano, 6.2 millones.</p>
+
+<p>La votaci&oacute;n m&aacute;s alta que se haya tenido en la historia.</p>
+
+<p>Ahora,&nbsp;diputados y diputadas. F&iacute;jense nada m&aacute;s, son 300 distritos electorales en el pa&iacute;s, la coalici&oacute;n gan&oacute; 256,&nbsp;diputados y diputadas.</p>
+
+<p>Y en votaci&oacute;n directa ganaron solo 42 distritos el&nbsp;Prian, s&oacute;lo 42 distritos, esta es la votaci&oacute;n directa de mayor&iacute;a, y Movimiento Ciudadano s&oacute;lo gan&oacute; un distrito.</p>
+
+<p>Adelante. Primero, si me ponen la redacci&oacute;n de la ley electoral, la redacci&oacute;n.</p>
+
+<p>Bueno, de ah&iacute; se inventaron algunos que la designaci&oacute;n de diputados plurinominales era una sobrerrepresentaci&oacute;n, &iquest;se acuerdan?</p>
+
+<p>&iquest;Qu&eacute; dice la ley?</p>
+
+<p>Entonces, la Ley General de Instituciones y Procedimientos Electorales en el art&iacute;culo 16, numeral 1, dice: &lsquo;La votaci&oacute;n nacional emitida para diputados plurinominales se divide entre el total de diputaciones plurinominales &mdash;o sea, 200&mdash; para obtener el cociente natural&rsquo;, as&iacute; lo dice tal cual, o sea, la ley dice la f&oacute;rmula para obtener el n&uacute;mero de diputados y diputadas plurinominales.</p>
+
+<p>&iquest;C&oacute;mo se hizo? &iquest;C&oacute;mo lo hizo el INE y despu&eacute;s lo ratific&oacute; el tribunal?</p>
+
+<p>Pues el cociente natural eran los votos por&nbsp;diputados y diputadasentre las 200 diputaciones, y eso es el cociente natural.</p>
+
+<p>Despu&eacute;s, el art&iacute;culo 15, numeral 2, dice: &lsquo;Para obtener la votaci&oacute;n nacional emitida, se debe restar a la votaci&oacute;n total los votos nulos de las candidaturas sin registro, las candidaturas independientes y restar lo de los partidos que no hayan obtenido su registro&rsquo;. As&iacute; lo dice la ley, tal cual. Se hace la f&oacute;rmula.</p>
+
+<p>Adelante. Art&iacute;culo 17: &lsquo;Cuando sobren diputaciones para repartir tras aplicar el cociente natural,&nbsp;&eacute;stas se reparten entre los partidos que tengan el resto mayor de sus votos&rsquo;, es decir, se hace el cociente y lo que sobra se reparte entre los partidos. Sobraban tres diputados y se repartieron entre los distintos partidos.&nbsp;</p>
+
+<p>Bueno, as&iacute; tal cual se hicieron las ecuaciones, las f&oacute;rmulas matem&aacute;ticas que dice tal cual la ley. El&nbsp;resultado final del n&uacute;mero de diputados y senadores, el total, tenemos&hellip;&nbsp;&iquest;Cu&aacute;ntos son, Mario? &iquest;Te acuerdas cu&aacute;ntos diputados en total son de la coalici&oacute;n?</p>
+
+<p><strong>MARIO DELGADO CARRILLO:&nbsp;</strong>En total, 373.&nbsp;</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO</strong>:&nbsp;Trescientos setenta y tres. &iquest;Cu&aacute;l es la mayor&iacute;a calificada?</p>
+
+<p><strong>MARIO DELGADO CARRILLO</strong>:&nbsp;Trescientos cuarenta y cuatro.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>Trescientos cuarenta y cuatro.</p>
+
+<p>Es decir, aplicando exactamente la f&oacute;rmula que dice la ley electoral para asignar diputados plurinominales y senadores se tienen 373 diputados de la coalici&oacute;n. Se ten&iacute;an 85 senadores y, despu&eacute;s, un senador del&nbsp;Prian&nbsp;decide votar con la coalici&oacute;n, 86 senadores.&nbsp;</p>
+
+<p>&iquest;Qu&eacute; dice la Constituci&oacute;n para cambiar la Constituci&oacute;n? A ver si me ponen los art&iacute;culos de la Constituci&oacute;n, el 39 constitucional, el 39, as&iacute;, tal cual lo dice.&nbsp;Ah&iacute; est&aacute;, art&iacute;culo 39 de la Constituci&oacute;n Pol&iacute;tica de los Estados Unidos Mexicanos. Hay pa&iacute;ses que,&nbsp;para cambiar la Constituci&oacute;n,&nbsp;tienen que nombrar un nuevo constituyente;&nbsp;en el caso de M&eacute;xico,&nbsp;el constituyente est&aacute; establecido por la propia Constituci&oacute;n en dos art&iacute;culos, particularmente el 39 y el 135. El 39 viene desde los&nbsp;Sentimientos de la naci&oacute;n,&nbsp;de Morelos, y dice: &lsquo;La soberan&iacute;a nacional reside esencial y originariamente en el pueblo. Todo poder p&uacute;blico dimana del pueblo y se instituye para beneficio de&nbsp;&eacute;ste. El pueblo en todo tiempo el inalienable derecho de alterar o&nbsp;modificar la forma&nbsp;de su gobierno&rsquo;.</p>
+
+<p>&iquest;Qu&eacute; dice el 135?</p>
+
+<p>&lsquo;La presente Constituci&oacute;n puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de&nbsp;la misma, se requiere que el Congreso de la Uni&oacute;n, por el voto de las dos terceras partes de los individuos presentes &mdash;este es un art&iacute;culo de la Constituci&oacute;n&mdash;, acuerden las reformas o adiciones,&nbsp;y que&nbsp;&eacute;stas sean aprobadas por la mayor&iacute;a de las legislaturas de los estados y de la Ciudad de M&eacute;xico. El Congreso de la Uni&oacute;n o la Comisi&oacute;n Permanente en su caso har&aacute;n el c&oacute;mputo de los votos de las legislaturas y la declaraci&oacute;n de haber sido aprobadas las adiciones o reformas.&rsquo;</p>
+
+<p>En ning&uacute;n lugar de la Constituci&oacute;n Pol&iacute;tica de los Estados Unidos Mexicanos dice que la corte puede cambiar la Constituci&oacute;n o puede declarar inconstitucional lo que ya fue declarado constitucional. &iquest;C&oacute;mo es declarado constitucional? As&iacute;, con la mayor&iacute;a calificada de la C&aacute;mara de Diputados, de la C&aacute;mara de Senadores y de la mayor&iacute;a de los&nbsp;Congresos de los estados. Eso ocurri&oacute; con la reforma al Poder Judicial.</p>
+
+<p><strong>INTERLOCUTOR</strong>:&nbsp;(inaudible)</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>&iquest;Qu&eacute; pienso yo que pretenden con esto?</p>
+
+<p>Primero, que nosotros digamos: &lsquo;&iexcl;Juicio pol&iacute;tico! &iexcl;Traici&oacute;n a la patria!&rsquo;. No lo vamos a hacer, es mi opini&oacute;n.</p>
+
+<p>Por qu&eacute;, &iquest;qu&eacute; quieren?&nbsp;Demostrar que somos un gobierno autoritario. No lo somos. La presidenta fue electa por el pueblo de M&eacute;xico. Los diputados, diputadas, senadores, senadoras, fueron electas por el pueblo de M&eacute;xico, somos un gobierno democr&aacute;tico y somos dem&oacute;cratas;&nbsp;tan somos dem&oacute;cratas,&nbsp;que&nbsp;hicimos una propuesta que fue avalada por el pueblo de M&eacute;xico y ya publicada en el&nbsp;Diario Oficial de la Federaci&oacute;n.&nbsp;La democracia en el Poder Judicial,&nbsp;tambi&eacute;n.</p>
+
+<p>Entonces, primero, no vamos a caer en ninguna provocaci&oacute;n.</p>
+
+<p>Segundo, va a haber elecci&oacute;n de jueces, de magistrados, magistradas, ministros y ministras de la Suprema Corte, porque eso es lo que dice el 39 constitucional, es la decisi&oacute;n del pueblo de M&eacute;xico.&nbsp;</p>
+
+<p>Entonces, no tiene sustento lo que est&aacute; haciendo la Corte, u ocho ministros de la Corte. Entonces, ellos saben, porque ellos son abogados, ellos han formalmente le&iacute;do la Constituci&oacute;n y aplicado la Constituci&oacute;n; algunas veces no, &iquest;verdad?, porque defienden privilegios, para empezar los suyos, los de los 400 mil pesos al mes que ganan; entonces, ellos saben que lo que est&aacute;n haciendo est&aacute; mal, ellos lo saben, ellas y ellos que votaron ayer saben que no tiene sustento.</p>
+
+<p>Entonces, el pueblo de M&eacute;xico es a quien nos debemos. Entonces no, no&hellip; Yo supongo que ellos est&aacute;n provocando, a ver cu&aacute;l es nuestra reacci&oacute;n. Y no s&oacute;lo son los ministros, sino un grupo que se re&uacute;ne alrededor de la ministra presidenta, que est&aacute;n ah&iacute; buscando la manera de parar la transformaci&oacute;n. A la transformaci&oacute;n, que es una decisi&oacute;n del pueblo de M&eacute;xico, no la pueden parar ocho ministros de la Suprema Corte de Justicia.</p>
+
+<p><strong>INTERLOCUTOR</strong>:&nbsp;Gracias, presidenta.&nbsp;</p>
+
+<p>Mi segunda pregunta ser&iacute;a: est&aacute; escalando el conflicto en el Medio Oriente entre L&iacute;bano e Israel. Me gustar&iacute;a saber si el gobierno mexicano tomar&aacute; algunas acciones para repatriar a los conciudadanos que se encuentran en la zona de conflicto, como ya ha ocurrido, por ejemplo, en el conflicto con Ucrania y Rusia, si se tomar&aacute;n algunas acciones para tomar estas medidas.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Est&aacute; en contacto el secretario de Relaciones Exteriores. Y como siempre, nuestra posici&oacute;n es la b&uacute;squeda de la paz y la no intervenci&oacute;n, y est&aacute; en contacto con embajadores en caso de esta necesidad.</p>
+
+<p><strong>INTERLOCUTOR:&nbsp;</strong>Y rapid&iacute;simo, me gustar&iacute;a conocer la propuesta de su gobierno respecto a los medios p&uacute;blicos, doctora, que, bueno, sabemos que tienen una funci&oacute;n. No es como se dice en muchas ocasiones, no son los medios del gobierno, sino son medios del Estado. Entonces, me gustar&iacute;a saber cu&aacute;l es su pol&iacute;tica respecto a los medios p&uacute;blicos para su gobierno.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO</strong>:&nbsp;Nombr&eacute; a Renata Turrent en&nbsp;Canal Once, a Alonso&hellip; &iquest;C&oacute;mo se apellida Alonso?</p>
+
+<p><strong>INTERVENCI&Oacute;N</strong>:&nbsp;Mill&aacute;n.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO</strong>:&nbsp;Mill&aacute;n, en&nbsp;Canal 22.&nbsp;&Eacute;l ven&iacute;a con nosotros trabajando en&nbsp;Canal 21&nbsp;en la Ciudad de M&eacute;xico. Se queda la direcci&oacute;n de&nbsp;Canal 14.</p>
+
+<p>Y ellos est&aacute;n trabajando &mdash;bueno, Renata y los compa&ntilde;eros&mdash; est&aacute;n trabajando en un &mdash;Jenaro se queda, Jenaro Villamil se queda&mdash; ellos est&aacute;n trabajando en un nuevo esquema para los medios p&uacute;blicos, que, en efecto, son p&uacute;blicos, no son medios del gobierno, no son medios de difusi&oacute;n del gobierno.</p>
+
+<p>Entonces, ellos est&aacute;n trabajando&nbsp;en&nbsp;un&nbsp;esquema para la informaci&oacute;n, para los noticieros, para las barras de opini&oacute;n. Que entiendo que se cerraron contratos, eran hasta el 30 de septiembre algunos contratos, y se est&aacute; planeando un nuevo esquema para las barras de opini&oacute;n, para los contenidos.</p>
+
+<p>Y tambi&eacute;n, nuestra idea es poder dar un poco m&aacute;s de recursos en la medida de lo posible para que pueda haber m&aacute;s producci&oacute;n en los medios p&uacute;blicos, tanto de difusi&oacute;n, de educaci&oacute;n, incluso de entretenimiento.</p>
+
+<p>A ver, ahora de este lado, ac&aacute;.</p>
+
+<p><strong>PREGUNTA</strong>:&nbsp;Gracias.&nbsp;Buenos d&iacute;as, presidenta.</p>
+
+<p>Shaila&nbsp;Rosagel, corresponsal de&nbsp;Grupo Healy: El Imparcial,&nbsp;de Sonora;&nbsp;La Cr&oacute;nica&nbsp;de Mexicali&hellip;</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;&iexcl;Uy!, ya fueron dos Sonoras&hellip;</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;&hellip;y&nbsp;Frontera,&nbsp;de Tijuana.</p>
+
+<p>Presidenta, mi&nbsp;primer pregunta&nbsp;es saber si en la reuni&oacute;n de seguridad de hoy le dieron alg&uacute;n avance de las investigaciones sobre lo sucedido con los migrantes en Chiapas, si le comentaron algo, si ya se sabe la identidad de estos migrantes. Ayer comentaban nada m&aacute;s las nacionalidades. Si ya se sabe si hay mujeres, ni&ntilde;os entre los fallecidos.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;S&iacute;, s&iacute; est&aacute;n identificados, la mayor&iacute;a. Est&aacute; en contacto el secretario de Relaciones Exteriores con las embajadas. La propia Secretar&iacute;a de la Defensa Nacional present&oacute; denuncias contra los elementos que dispararon y se est&aacute;n haciendo las investigaciones.</p>
+
+<p>Los nombres y edades, les pedimos para conocer si se pueden&hellip; No tengo la certeza si se pueden dar a conocer, pero, si no,&nbsp;la secretaria Rosa Icela nos ayude a darlos a conocer.</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;&iquest;Hay alg&uacute;n avance sobre por qu&eacute; se abri&oacute; fuego?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO</strong>:&nbsp;Se est&aacute;n haciendo las investigaciones por parte de la&nbsp;Fiscal&iacute;a General&nbsp;de la Rep&uacute;blica.</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;Muy bien, gracias.</p>
+
+<p>Presidenta, en una segunda pregunta, preguntarle sobre los proyectos que usted mencion&oacute; en, en&hellip; Hay varios proyectos que mencion&oacute; en sus compromisos. Que si tiene estimaciones de los montos para estas obras. Por ejemplo, la carretera a Guaymas-Chihuahua, que mencion&oacute;; el puerto de Guaymas.</p>
+
+<p>El tren de la ruta a Nogales, si tienen tambi&eacute;n estimado de tiempo. Yo recuerdo que ya dieron a conocer, cuando usted a&uacute;n era presidenta electa, un plan de c&oacute;mo se iban ir haciendo estas rutas de trenes de pasajeros, pero no estaba en ese momento la que va a hacia Nogales. Entonces, si ya tienen establecidos tiempos, montos.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>S&iacute;, justo ayer nos reunimos el&hellip;&nbsp;</p>
+
+<p>&iquest;Qu&eacute; se est&aacute; haciendo ahora?</p>
+
+<p>An&aacute;lisis de derecho de v&iacute;a, estudios de demanda y la definici&oacute;n del proyecto: qu&eacute; tipo de normatividad&nbsp;van a llevar las v&iacute;as, en d&oacute;nde son dos v&iacute;as, en donde es una v&iacute;a&nbsp;de acuerdo a&nbsp;la demanda, cu&aacute;ndo se realiza el estudio de impacto ambiental, qu&eacute; permisos se pueden otorgar para los estudios previo a&nbsp;la manifestaci&oacute;n de impacto ambiental. Entonces, estamos trabajando en ello y tambi&eacute;n lo que significan los costos.</p>
+
+<p>Ayer me reun&iacute; con las tres principales empresas fabricantes de trenes: la empresa Alstom, CAF y Siemens, que es una empresa estadounidense. Dos de ellas tienen plantas en M&eacute;xico, Siemens no tiene planta en M&eacute;xico. Pero me reun&iacute; para ver qu&eacute; posibilidades tienen de poder fabricar en los seis a&ntilde;os que vamos a estar en el gobierno.&nbsp;Son alrededor de 80 trenes, porque los trenes se tardan como dos a&ntilde;os en comenzar a salir; entonces, a la par de que estamos construyendo las v&iacute;as, pues tiene que hacerse la licitaci&oacute;n para los trenes.</p>
+
+<p>Entonces, estas, que son las principales fabricantes de trenes, platicamos con ellos y les planteamos que va a haber una licitaci&oacute;n y que pudi&eacute;ramos&hellip; Y nuestro inter&eacute;s, adem&aacute;s, es de que la mayor parte de los trenes se armen en M&eacute;xico para fortalecer la industria ferroviaria y al mismo tiempo los empleos, el m&aacute;ximo de empleos que se genere en nuestro pa&iacute;s. Entonces, los costos y todo esto ya se los comentamos, en cuanto tengamos el proyecto.&nbsp;</p>
+
+<p>S&iacute; alcanza. Porque ah&iacute; estuvieron diciendo que todo lo que plante&eacute; en el Z&oacute;calo no tiene sustento financiero. S&iacute; lo tiene, s&iacute; lo tiene, lo trabajamos durante pr&aacute;cticamente cuatro meses, desde que ganamos la elecci&oacute;n y previamente ya lo hab&iacute;amos empezado a trabajar, hasta la fecha hay grupos de trabajo que ahora arrancan todav&iacute;a m&aacute;s.</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;Lo mismo, &iquest;en este an&aacute;lisis se encuentra tambi&eacute;n lo de las carreteras, el puerto de Guaymas, todo lo que coment&oacute;, tambi&eacute;n se est&aacute; analizando?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;S&iacute;, tambi&eacute;n las dos carreteras:</p>
+
+<p>El de Bavispe a Nuevo Casas Grandes, que es un compromiso que hizo el presidente L&oacute;pez Obrador y que me pidi&oacute; especialmente que fuera de las primeras carreteras, porque&nbsp;&eacute;l ya no lo pudo cumplir,que hici&eacute;ramos,&nbsp;que en realidad ayuda para la conexi&oacute;n casi desde Guaymas hasta Ciudad Ju&aacute;rez.</p>
+
+<p>Y aparte, la carretera que va a Chihuahua, que inici&oacute; la Marina y que tiene que darse continuidad. Entonces, la dos tambi&eacute;n.&nbsp;</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;Entonces, &iquest;el tren de Nogales s&iacute; se va a construir en este sexenio?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;S&iacute;, ese es el objetivo.</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;Ya nada m&aacute;s, por &uacute;ltimo, usted coment&oacute; que se va a iniciar un proyecto, un programa de escrituraci&oacute;n de vivienda y que va a iniciar en Tijuana, tambi&eacute;n en el Estado de M&eacute;xico. Preguntarle cu&aacute;ndo iniciar&iacute;a este programa y qu&eacute; &aacute;reas se van a tomar en cuenta, qu&eacute; regiones de ah&iacute; de Tijuana.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO</strong>:&nbsp;Para escriturar se requiere la colaboraci&oacute;n del gobierno federal, del gobierno estatal y los gobiernos municipales. A veces se tiene que comprar la tierra en donde est&aacute;n establecidas las viviendas, si es que se establecieron en un esquema en donde no se compr&oacute; la tierra; en otros casos tiene que regularizarse,&nbsp;porque a lo mejor se vendi&oacute; tierra ejidal, o comunal incluso, sin que pasara por todo el procedimiento agrario, o en algunos otros casos es contratos privados pero que nunca pasaron por el Registro P&uacute;blico de la Propiedad. Para que se pueda tener una escritura, pues tiene que estar inscrito en el Registro P&uacute;blico de la Propiedad, que es una atribuci&oacute;n estatal.</p>
+
+<p>Entonces, este trabajo se hizo en algunos casos con el presidente L&oacute;pez Obrador y nosotros le vamos a dar m&aacute;s fuerza. Entonces se est&aacute; haciendo ya un grupo de trabajo, particularmente con estos dos estados.</p>
+
+<p>En Tijuana hay una historia muy importante de viviendas que tienen que regularizarse, Estado de M&eacute;xico en el oriente tambi&eacute;n muy importante, pero va a ser para toda la&nbsp;Rep&uacute;blica.</p>
+
+<p>&iquest;Qui&eacute;n m&aacute;s?&nbsp;Por ac&aacute;, a ver otra mujer por ac&aacute;. Adelante, primero y luego ya vamos, si nos da tiempo.</p>
+
+<p><strong>PREGUNTA</strong>:&nbsp;Mara Rivera, de&nbsp;Enfoque Noticias.</p>
+
+<p>Presidenta, yo quisiera preguntarle, insistir un poco en lo del Poder Judicial. &iquest;Estar&iacute;a usted o podr&iacute;a coincidir en la idea de que la Suprema Corte estar&iacute;a buscando crear una crisis?, porque hay que se&ntilde;alar que despu&eacute;s de esta revisi&oacute;n tambi&eacute;n a la reforma del Poder Judicial se estar&iacute;a viendo la situaci&oacute;n de la autonom&iacute;a de los &oacute;rganos aut&oacute;nomos, tambi&eacute;n se revisar&iacute;a despu&eacute;s de esto la divisi&oacute;n de poderes.</p>
+
+<p>Entonces, &iquest;ser&iacute;a una crisis lo que buscar&iacute;a la Suprema Corte crear en este momento?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>Pues habr&iacute;a que preguntarle a la Suprema Corte, &iquest;no?, por qu&eacute; est&aacute;n&hellip; O a los ministros que&hellip;&nbsp;</p>
+
+<p>Desde mi perspectiva, es la defensa de los privilegios, que no quieren dejarlos, sus privilegios y los privilegios de aquellos que ellos defienden; pero M&eacute;xico cambi&oacute; y va a seguir transform&aacute;ndose, esa es una realidad.</p>
+
+<p>Entonces, no tiene sustento lo que est&aacute; haciendo la corte y ellos lo saben, los ministros y ministras que votaron para analizar la reforma al Poder Judicial saben que est&aacute;n procediendo ilegalmente, ellos lo saben porque son constitucionalistas y ellos conocen la Constituci&oacute;n.</p>
+
+<p>Los argumentos, por ejemplo, ayer que se utilizaron por parte de uno de los ministros, hablando inclusive de personas de un partido pol&iacute;tico, bueno &iquest;qu&eacute; sustento es ese?</p>
+
+<p>Entonces, ellos y ellas tienen que aceptar que el pueblo de M&eacute;xico tom&oacute; una decisi&oacute;n, y que el art&iacute;culo 39 es muy claro y el 135 tambi&eacute;n, y que la reforma a la Constituci&oacute;n ya fue publicada en el&nbsp;Diario Oficial de la Federaci&oacute;n.</p>
+
+<p>Entonces, &iquest;qu&eacute; pretendan ellos?&nbsp;Yo pienso que, en primera, provocarnos para que les demos argumentos de decir: &lsquo;&iexcl;Ay, miren qu&eacute; autoritarios son!&rsquo;. No vamos a caer en ninguna provocaci&oacute;n, en ninguna. Y yo m&aacute;s bien digo que&nbsp;es un golpe aguado, no un golpe de Estado, porque, la verdad, pues &iquest;qu&eacute; sustento tiene?</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;Con todos estos argumentos, entonces, queda claro que no peligra la reforma que al final ya&hellip;</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;No peligra la reforma al Poder Judicial. El pueblo decidi&oacute; y nosotros tenemos la obligaci&oacute;n, y los legisladores, de servir al pueblo. Con el pueblo, todo; sin el pueblo, nada. El pueblo manda. Y eso es lo que dice el 39 constitucional, no es solamente una declaraci&oacute;n.</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;Por &uacute;ltimo, &iquest;la reuni&oacute;n que se hab&iacute;a comentado ya con el sector econ&oacute;mico, el sector empresarial, se va a realizar pronto? Tendr&iacute;a a lo mejor que&hellip;</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO</strong>:&nbsp;S&iacute;, tenemos varias. Voy a reunirme&hellip;&nbsp;Le ped&iacute; al presidente del Consejo Coordinador Empresarial a ver si nos reunimos la pr&oacute;xima semana.Y ustedes saben que tambi&eacute;n nombr&eacute;, en su momento, a Altagracia G&oacute;mez, para que me ayude a constituir este consejo.</p>
+
+<p>Entonces, tenemos&nbsp;varios temas en puerta:</p>
+
+<p>Uno, yo quiero&nbsp;ratificar el acuerdo&nbsp;que se hab&iacute;a firmado con empresarios, particularmente productores de harina de ma&iacute;z, algunos productores tambi&eacute;n, principales, de alimentaci&oacute;n, y los comercializadores de la canasta b&aacute;sica, para que podamos firmar un acuerdo para que no suba la canasta b&aacute;sica. Entonces, ese es un acuerdo que quisiera firmar y estamos ya hablando con ellos. El secretario de Hacienda, Rogelio Ram&iacute;rez de la O, ya hab&iacute;a contactado a muchos de ellos que hab&iacute;an firmado y nuestro objetivo es que&nbsp;este mes, a m&aacute;s tardar, pudi&eacute;ramos firmar&nbsp;ese acuerdo para seguir garantizando que no suba la canasta b&aacute;sica.</p>
+
+<p>Y, por otro lado, el acuerdo para fortalecer la inversi&oacute;n privada. Hab&iacute;a estado trabajando ya el secretario de Econom&iacute;a, Marcelo Ebrard, hablando ya con muchos empresarios.&nbsp;El 15, como &eacute;l lo anunci&oacute;, vamos a tener una reuni&oacute;n con empresarios de Estados Unidos, empresarios mexicanos, empresarias, para poder hablar de la relocalizaci&oacute;n, qu&eacute; esquemas para hacer realidad este programa que tenemos de fortalecimiento de la industrializaci&oacute;n de nuestro pa&iacute;s y, adem&aacute;s, el programa de relocalizaci&oacute;n o el Consejo de Relocalizaci&oacute;n y Desarrollo Regional.</p>
+
+<p>Entonces, la pr&oacute;xima semana me re&uacute;no,&nbsp;y de ah&iacute;,&nbsp;pues&hellip; Y, adem&aacute;s, Marcelo ya viene trabajando y tambi&eacute;n Altagracia.&nbsp;</p>
+
+<p>&iquest;Qui&eacute;n m&aacute;s? A ver, aqu&iacute; creo que&hellip; Adelante aqu&iacute;.&nbsp;Ya van a dar las 9:00</p>
+
+<p><strong>PREGUNTA</strong>:&nbsp;Muy buenos d&iacute;as. Mi pregunta es sobre el tema de migraci&oacute;n. Hemos visto que el n&uacute;mero de cruces ilegales por la frontera con Estados Unidos se ha reducido de manera dr&aacute;stica desde inicios de este a&ntilde;o. Muchos han atribuido esta disminuci&oacute;n no s&oacute;lo a decisiones que se han tomado en Estados Unidos, pero tambi&eacute;n a acciones que se han tomado aqu&iacute; en M&eacute;xico.</p>
+
+<p>&iquest;Hay una estrategia de parte del gobierno mexicano para frenar la llegada de migrantes y evitar que crucen?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;S&iacute;, justamente hoy en el Gabinete de Seguridad invitamos a la excanciller Alicia B&aacute;rcena, que hoy es secretaria de Medio Ambiente, para que nos&nbsp;presentara&nbsp;el programa de movilidad humanitario, de movilidad que desarroll&oacute; el presidente L&oacute;pez Obrador. Consiste en varias acciones; entre otras, la Secretar&iacute;a de Relaciones Exteriores coordinaba una comisi&oacute;n intersecretarial para distintas pol&iacute;ticas, acciones, programas, planes, que se estaban llevando a cabo.</p>
+
+<p>Le ped&iacute; al secretario de Relaciones Exteriores, Juan Ram&oacute;n de la Fuente, que retom&aacute;ramos, hay que&nbsp;firmar este acuerdo&nbsp;de que contin&uacute;e esta comisi&oacute;n intersecretarial para darle seguimiento. Consiste desde ordenamiento de la migraci&oacute;n. La migraci&oacute;n tiene dos esquemas:</p>
+
+<p>Un esquema que se llama el CBP&nbsp;One, que son permisos de trabajo a Estados Unidos. Entonces, lo que se hizo fue ordenar esos permisos y el ingreso a partir de tres fronteras.</p>
+
+<p>Y la otra es la migraci&oacute;n que no&hellip; Donde no se llevan papeles.</p>
+
+<p>Ah&iacute; se hicieron varias acciones tanto para repatriar, sea M&eacute;xico, que son menos migrantes mexicanos y m&aacute;s migrantes de otros pa&iacute;ses que pasan por la frontera M&eacute;xico-Estados Unidos para la repatriaci&oacute;n a sus pa&iacute;ses, hay vuelos internacionales que llegan al Aeropuerto Internacional &acute;Felipe &Aacute;ngeles&#39;, otros que van directamente a sus pa&iacute;ses ya de origen con un apoyo para que puedan retornar.</p>
+
+<p>Y despu&eacute;s, tambi&eacute;n&nbsp;servicios consulares&nbsp;que hab&iacute;a para estos permisos que se daban en la Ciudad de M&eacute;xico, ahora se trasladaron la mayor&iacute;a al sur de M&eacute;xico para que no tengan que ir los migrantes desde el sur;&nbsp;vienen incluso de Centroam&eacute;rica hasta la Ciudad de M&eacute;xico. Entonces, ese esquema se pas&oacute; a Tabasco, a Chiapas, y eso ha dado muchos resultados, entre otras muchas acciones que se realizan, adem&aacute;s de seguir insistiendo en que,&nbsp;para disminuir la migraci&oacute;n, pues hay que atender las causas que provocan la migraci&oacute;n, que vamos a seguir con los programas de apoyo que se daban a trav&eacute;s de&nbsp;Amexcid.&nbsp;Entonces, le vamos a dar continuidad, esto ha disminuido la migraci&oacute;n, adem&aacute;s de algunas acciones que se tomaron bilaterales, y pues vamos a fortalecer esta pol&iacute;tica.</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;&iquest;Qu&eacute; me puede contar sobre otros esquemas como el traslado de migrantes en autob&uacute;s desde la frontera del norte a ciudades al sur como Villahermosa, Tapachula? Tambi&eacute;n se sabe que hay un incremento de aprehensiones, aproximadamente m&aacute;s de 100 mil por mes, seg&uacute;n cifras oficiales. &iquest;A qu&eacute; se debe todo esto? &iquest;Es parte de una pol&iacute;tica, estrategia?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Primero,&nbsp;se respetan los derechos humanos, que es muy importante; o sea, por eso de llama pol&iacute;tica humanitaria de movilidad, porque lo que est&aacute; siempre al frente es el respeto a los derechos humanos. Hay, adem&aacute;s,&nbsp;albergues;&nbsp;se cerraron los albergues&nbsp;de hace muchos a&ntilde;os en donde hubo este lamentable accidente y otros albergues de este tipo.Entonces, cualquier, digamos, repatriaci&oacute;n, movimiento de migrantes,&nbsp;pues es con base a protocolos de respeto a los derechos humanos.</p>
+
+<p>Entonces, eso contin&uacute;a y vamos a seguir fortaleciendo esta pol&iacute;tica humanitaria. Y en su momento, cuando ya haya reuniones bilaterales, pues a seguir trabajando con Estados Unidos para poder fortalecer la atenci&oacute;n a las causas y estos esquemas que han desarrollado.</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;Por &uacute;ltimo, sabemos que el gobierno estadounidense y mexicano han discutido, como usted acaba de decir, c&oacute;mo aliviar la situaci&oacute;n en la frontera. &iquest;De qu&eacute; manera se est&aacute; beneficiando M&eacute;xico por colaborar con los americanos para controlar el n&uacute;mero de cruces?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Hay esquemas, por ejemplo, en donde empleadores mexicanos se acercan a los albergues en donde est&aacute;n migrantes a contratar, por si se quieren, si su decisi&oacute;n es quedarse en M&eacute;xico. Entonces, es beneficioso para todas y para todos que haya una pol&iacute;tica humanitaria de atenci&oacute;n a la movilidad humana.</p>
+
+<p>Entonces, nosotros&nbsp;vamos a seguir con esta pol&iacute;tica, porque adem&aacute;s ha dado resultados; no solamente es humanitaria, sino que adem&aacute;s ha dado resultados. Y el secretario de Relaciones Exteriores, Juan Ram&oacute;n de la Fuente, adem&aacute;s tiene nuevos planteamientos que van a agregarse a esta pol&iacute;tica migratoria, que es muy importante; adem&aacute;s, evidentemente, de todo el apoyo del Gobierno de M&eacute;xico a nuestros hermanos y hermanas que viven en Estados Unidos.</p>
+
+<p>A ver, la &uacute;ltima, la &uacute;ltima. H&iacute;jole, est&aacute; dif&iacute;cil. A ver, una de este lado y una de este lado ya para terminar. A ver, hasta atr&aacute;s, el compa&ntilde;ero que est&aacute; hasta atr&aacute;s. No, aqu&iacute; el compa&ntilde;ero que trae chamarra caf&eacute;. &iquest;C&oacute;mo te llamas?</p>
+
+<p><strong>PREGUNTA</strong>:&nbsp;Buenos d&iacute;as, doctora.</p>
+
+<p>Carlos Dom&iacute;nguez, de&nbsp;Naci&oacute;n 14.</p>
+
+<p>Preguntarle sobre Tamaulipas. Hay asignaturas pendientes que dej&oacute; el presidente L&oacute;pez Obrador, la que m&aacute;s nos importa a los que somos de Nuevo Laredo: por ejemplo, la Direcci&oacute;n General de Aduanas, si ya hay fecha para la conclusi&oacute;n e inauguraci&oacute;n de&nbsp;la misma. &iquest;Y qu&eacute; otros proyectos le esperan a mi gran estado?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO</strong>:&nbsp;Este mismo a&ntilde;o se termina y vamos a ir a la inauguraci&oacute;n.&nbsp;</p>
+
+<p>Hay un programa que nos ha pedido mucho desde que entr&oacute;. Lo hemos platicado&nbsp;&mdash;cuando era jefa de&nbsp;Gobierno&mdash;&nbsp;con el gobernador Am&eacute;rico Villarreal, que es el tema del agua,&nbsp;particularmente para el norte de Tamaulipas, tanto para riego como para consumo humano.</p>
+
+<p>Y estamos trabajando en diversas propuestas, adem&aacute;s de algunos otros&nbsp;proyectos de infraestructura: est&aacute;n dos puertos en&nbsp;Tamaulipas, que vamos a acompa&ntilde;ar para su desarrollo. Entonces, agua, carreteras y puertos para apoyar a Tamaulipas, m&aacute;s aparte los cruces fronterizos.&nbsp;</p>
+
+<p>Hay varios proyectos en Tamaulipas muy creativos de inversionistas privados para consolidar la integraci&oacute;n econ&oacute;mica que hay entre Estados Unidos y M&eacute;xico, y tambi&eacute;n estamos trabajando en ello.</p>
+
+<p><strong>INTERLOCUTOR</strong>:&nbsp;Sobre la Direcci&oacute;n General de Aduanas en Nuevo Laredo, &iquest;todav&iacute;a no hay fecha?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Ya est&aacute; a punto, le pregunto ahora al, al&hellip; Ayer lo vimos con la&nbsp;Sedena, pero no recuerdo en este momento la fecha, pero est&aacute; ya&nbsp;muy pronto a inaugurarse.</p>
+
+<p><strong>INTERLOCUTOR</strong>:&nbsp;Cambiando de tema, doctora, una de las asignaturas pendientes, digamos, que tiene el Estado mexicano con la libertad de expresi&oacute;n y el gremio period&iacute;stico son los asesinatos impunes de periodistas, que, me atrevo a decirlo, son m&aacute;s del 90 por ciento de estos mismos, seg&uacute;n datos de la propia&nbsp;Fiscal&iacute;a General&nbsp;de la Rep&uacute;blica y de las fiscal&iacute;as locales.</p>
+
+<p>&iquest;Ha pensado, doctora, c&oacute;mo empujar desde su postura, como jefa del Ejecutivo mexicano? Es verdad, no le corresponde como tal a usted, es al Poder Judicial y a las fiscal&iacute;as, la&nbsp;Fiscal&iacute;a General&nbsp;y la de los estados, pero, &iquest;ha pensado usted ahora como presidenta de la Rep&uacute;blica en c&oacute;mo aliviar a las familias que viven con esta impunidad pendiente, que est&aacute; pendiente de resolverse porque no caminan los casos?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Se hizo mucho trabajo en su momento con la secretaria Rosa Icela como secretaria de Seguridad y, bueno, vamos a revisar los que a&uacute;n est&aacute;n pendientes.</p>
+
+<p>Que, por cierto, &iquest;eh?, aprovechando:</p>
+
+<p>El paro del Poder Judicial de la Federaci&oacute;n afecta la seguridad. &iquest;C&oacute;mo, si est&aacute; en paro un juez, se puede pedir una orden de aprehensi&oacute;n? Porque ahora operan, digamos, de emergencia para asuntos de detenciones en flagrancia, pero&hellip; O sea, aparte de que est&aacute;n en paro, de que cobran, afectan la seguridad y la paz del pa&iacute;s. Porque para detener a un delincuente, pues evidentemente la fiscal&iacute;a tiene que hacer su trabajo.</p>
+
+<p>La seguridad, las &aacute;reas de seguridad, su trabajo, como la Guardia Nacional o las polic&iacute;as estatales, o la propia Secretar&iacute;a de Seguridad federal. La fiscal&iacute;a hace sus carpetas de investigaci&oacute;n y la presenta&nbsp;a un juez para que el juez d&eacute; una orden de aprehensi&oacute;n. Si est&aacute;n los jueces federales en paro, &iquest;qu&eacute; pasa con los delitos del fuero federal?</p>
+
+<p>Entonces, en el caso de periodistas vamos a seguir apoyando con los mecanismos que existen y vamos a revisar los casos que a&uacute;n est&aacute;n pendientes.</p>
+
+<p><strong>PREGUNTA</strong>&nbsp;&iquest;Cu&aacute;ndo informar&iacute;an?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;Pues le pedir&iacute;a a la secretaria Rosa Icela, vamos a que tome su&nbsp;momentopara que pueda&hellip;</p>
+
+<p><strong>PREGUNTA</strong>:&nbsp;(inaudible)</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>Pues s&iacute;, o al Consejo de la Judicatura. Est&aacute; bien que est&eacute;n en paro, pero &iquest;por qu&eacute; tienen que seguir cobrando?</p>
+
+<p>O sea, los jueces ganan, muchos de ellos, 130 mil pesos mensuales. Entonces, siguen cobrando sus 130 mil pesos mensuales, pero est&aacute;n en paro.&nbsp;</p>
+
+<p>Pero, adem&aacute;s, no tienen raz&oacute;n de ser. Digo, los jueces, pues ellos y ellas pues van a ser electos, pero todos los trabajadores del Poder Judicial no hay sustento para el paro, porque todos sus derechos, sus salarios, prestaciones, complementos del salario que tienen, todos se van a conservar, no se les va a quitar absolutamente nada; entonces, no hay argumento para decir que se les est&aacute; quitando alg&uacute;n derecho, alg&uacute;n salario, alguna compensaci&oacute;n, etc&eacute;tera. Si es algo que ya tienen establecido, pues se les tiene que seguir dando.</p>
+
+<p>A ver, ac&aacute;. Ya la &uacute;ltima. Ahora nos pasamos ocho minutos.</p>
+
+<p><strong>PREGUNTA</strong>:&nbsp;Buenos d&iacute;as, presidenta;&nbsp;buenas d&iacute;as&nbsp;a todas y a todos.,</p>
+
+<p>Nancy Flores, de la revista&nbsp;Contral&iacute;nea.</p>
+
+<p>Presidenta, insistir en este tema de la Suprema Corte de Justicia de la Naci&oacute;n, particularmente el caso de estos ocho ministros y ministras encabezados por Norma Pi&ntilde;a, esto porque pues no s&oacute;lo se estar&iacute;a violando el art&iacute;culo 39 constitucional, que se&ntilde;ala que: el poder dimana del pueblo, sino tambi&eacute;n estar&iacute;an ellos en un posible delito de corrupci&oacute;n, que es justamente este delito de tener conflicto de inter&eacute;s en este tema.</p>
+
+<p>Entonces, preguntarle, porque usted ha anunciado que no se les buscar&iacute;a juicio pol&iacute;tico. Esto podr&iacute;a generar un manto de impunidad y en ellos generar pues m&aacute;s, digamos, confort a la hora de tomar estas decisiones violatorias de la Constituci&oacute;n y tambi&eacute;n violatorias de otras leyes. Preguntarle sobre eso, si no es un error pol&iacute;tico no hacer uso de las leyes, porque quienes cometen delitos en M&eacute;xico son delincuentes.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO</strong>:&nbsp;Es que ellos est&aacute;n buscando que hagamos eso.&nbsp;</p>
+
+<p>O sea, &iquest;qu&eacute; argumento? Desde mi perspectiva, mi punto de vista, es que ellos lo que quieren es&hellip; Ya ven que dicen que somos autoritarios, &iquest;no?, que lleg&oacute; la presidenta autoritaria. No, lleg&oacute; una presidenta dem&oacute;crata.&nbsp;</p>
+
+<p>Entonces, lo que ellos quieren es tener argumentos para decir: &lsquo;Ya ven qu&eacute; autoritarios son, quieren meter a la c&aacute;rcel a la ministra, al ministro, al&hellip;&rsquo;.&nbsp;Ellos est&aacute;n tomando una decisi&oacute;n pol&iacute;tica, no jur&iacute;dica,&nbsp;al aceptar que la corte revise la reforma al Poder Judicial. Entonces, por eso nosotros lo que decimos es: no tiene sustento jur&iacute;dico.</p>
+
+<p>Y no vamos a caer en ninguna provocaci&oacute;n, de nuestra parte no; de nuestra parte: paz, informaci&oacute;n, debate. Pero ellos saben, ministros, ellos lo saben, ellos saben que est&aacute;n actuando inconstitucionalmente siendo Suprema Corte de Justicia, y el pueblo lo sabe tambi&eacute;n.</p>
+
+<p>Ya hay una reforma al Poder Judicial. Ya dijo Diego Valad&eacute;s, por ejemplo, con quien no coincidimos, pero &eacute;l ya dijo: &lsquo;Ya no hay nada que hacer, v&aacute;monos a lo que sigue&rsquo;, que es garantizar que haya buenos jueces, que haya buenos magistrados, magistradas, ministros, ministras.</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;Presidenta, entonces, &iquest;no se tomar&aacute;n ning&uacute;n tipo de acciones?</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:</strong>&nbsp;No.</p>
+
+<p><strong>INTERLOCUTORA</strong>:&nbsp;En otro tema, tambi&eacute;n preguntarle: hay quejas, sobre todo adultos mayores, que cobran su pensi&oacute;n del Bienestar en algunos bancos, en algunas sucursales del Banco del Bienestar. En los cajeros autom&aacute;ticos ha habido problemas para que se les entregue el importe completo de lo que le solicitan al cajero autom&aacute;tico, hay casos que llevan hasta 10, 11 meses.&nbsp;</p>
+
+<p>Un caso particular en la sucursal Coyoac&aacute;n, aqu&iacute; en la Ciudad de M&eacute;xico, y lo que nos dice la gerente de ese banco, porque ya la consultamos, es que hay varias quejas; sin embargo, que no depende propiamente del Banco del Bienestar porque es un tema que es de una empresa de valores. Entonces, los mandan a la queja infinita y nadie les resuelve. Aqu&iacute; se trata de personas claramente en situaci&oacute;n de vulnerabilidad. Si se&nbsp;podr&iacute;a&nbsp;revisar este asunto y sobre todo atender las quejas y que, quiz&aacute;, quien est&eacute; al frente del Banco del Bienestar en un futuro pueda resolver este asunto e informar cu&aacute;ntas quejas existen, doctora.</p>
+
+<p><strong>PRESIDENTA CLAUDIA SHEINBAUM PARDO:&nbsp;</strong>No debe ocurrir eso, la adulta, el adulto mayor, todos los beneficiarios tienen derecho a sacar del Banco del Bienestar lo que les corresponde. Entonces,&nbsp;si le pasas a Paulina el caso particular. Y qu&eacute; bueno que nos dices, para poderlo revisar.</p>
+
+<p>Bueno, lo dejamos aqu&iacute; hoy, ma&ntilde;ana ya&hellip;&nbsp;Ah, ma&ntilde;ana no hay, hasta el lunes. Gracias a todas y a todos, gracias.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-10-04 11:23:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 4 de octubre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-4-de-octubre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-4-de-octubre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 4 de octubre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-4-de-octubre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-4-de-octubre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 4 de octubre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-4-de-octubre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-4-de-octubre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-4-de-octubre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

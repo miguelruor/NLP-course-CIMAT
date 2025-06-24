@@ -1,0 +1,1842 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de diciembre de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de diciembre de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/151911/WhatsApp_Image_2024-12-05_at_8.01.57_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-diciembre-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/151911/WhatsApp_Image_2024-12-05_at_8.01.57_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="ROguKkTkoCJgEs7j7mKgqO4Btcce57m8H6z6mqPkqhg=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7h3gz44jypq-f-a8e4b8613-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":20,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"de363fb","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62477,"ak.gh":"23.47.207.151","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296863","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==/tuhgvfu/n2kqWnemIC8gWygrIdksItgHq8NwJQxdFEshvjkQV9wy1puOaX+xocWp0T7NbcwTHdAhkJ6c5Ph0lQH+Qq6vvhY73P4zOiFUttqi5UHd3EksfIP3QPMRSXcax35tqVj+hPaEqUt4P3oc9i5VNrcQCFyeyNYbSQfcc5Q3ZX7J77TmkWd415D+qRvKpJCtU6zQ/Z6F0yiWIpBKd2cRkV//D60EjiQu9R/6+RrZ8M6SGiD/lWZcQJqTTaRxuhA6daghX5W+k53zyGcvXPlzHsXVWKwvVhy6NV5bcDgv2R2KETFpRyX6YvH8ozwXls3VaurS3VS+kZ+8v6j89AJYs4fvqaCY7PfMSA24r48oih1j9BI/IFjt9JHHIeHLoLVtLs32bRNPD7pRqFs288V3pTSTI5Kcjl0jG4nCso=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de diciembre de 2024</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 05 de diciembre de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/151911/WhatsApp_Image_2024-12-05_at_8.01.57_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><div>
+<div>&nbsp;</div>
+
+<div>
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Buenos d&iacute;as a todos, a todas.</p>
+
+<p>Hoy est&aacute; con nosotros &mdash;si&eacute;ntense, por favor&mdash; est&aacute; el Almirante secretario Raymundo Morales, secretario de Marina; el Vicealmirante Juan Carlos Vera, director general del Corredor Interoce&aacute;nico del Istmo de Tehuantepec; y el Contralmirante Marco Antonio Mart&iacute;nez Plancarte, director general de Fomento y Administraci&oacute;n Portuaria; y tambi&eacute;n, como todos los jueves, &ldquo;Mujeres en la Historia&rdquo;, est&aacute; con nosotros Noem&iacute; Ju&aacute;rez, subsecretaria de Educaci&oacute;n B&aacute;sica.</p>
+
+<p>Hoy vamos a hablar del Corredor Interoce&aacute;nico, sus avances, lo que vamos a hacer en los pr&oacute;ximos a&ntilde;os.</p>
+
+<p>Y tambi&eacute;n de la inversi&oacute;n en los puertos, va a haber una inversi&oacute;n muy importante, no solamente en Salina Cruz y Coatzacoalcos, que ya ven&iacute;an con el Corredor Interoce&aacute;nico, sino en otros puertos del pa&iacute;s; recientemente, anunciamos la ampliaci&oacute;n del puerto de Manzanillo, pero no solamente va a ser el puerto de Manzanillo, van a ser seis puertos m&aacute;s. Y esto est&aacute; a cargo de la Secretar&iacute;a de Marina.</p>
+
+<p>Entonces, le doy la palabra al Almirante secretario; y despu&eacute;s, al Vicealmirante encargado del Corredor; y al Contralmirante encargado de los puertos; y al final, la c&aacute;psula de &ldquo;Mujeres en la Historia&rdquo;.</p>
+
+<p>&mdash;Adelante, Almirante&mdash;.</p>
+
+<p><strong>SECRETARIO DE MARINA, RAYMUNDO PEDRO MORALES &Aacute;NGELES:</strong> Buenos d&iacute;as a todas y a todos.</p>
+
+<p>El d&iacute;a de hoy, vamos a presentar los avances que tiene el Corredor Interoce&aacute;nico del Istmo de Tehuantepec en el tema de las tres l&iacute;neas:</p>
+
+<p>La L&iacute;nea Z que ya se encuentra operativa, desde diciembre de 2023, operando al 100 por ciento.</p>
+
+<p>La L&iacute;nea FA, que va de Coatzacoalcos a Palenque que tambi&eacute;n, a partir del 13 de septiembre de este a&ntilde;o, se encuentra operativa al 100 por ciento para carga y pasajeros.</p>
+
+<p>Y la L&iacute;nea K, que va de Ixtepec a Ciudad Hidalgo, y que nos va a conectar con Guatemala, que se encuentra en proceso de rehabilitaci&oacute;n y que la iremos liberando por fases, como lo va a explicar m&aacute;s tarde, m&aacute;s al ratito, el Vicealmirante Juan Carlos Vera Minjares.</p>
+
+<p>En el tema de los puertos, se van a explicar los seis puertos que tenemos en proceso de modernizaci&oacute;n y que la se&ntilde;ora Presidenta nos ha instruido que le demos prioridad:</p>
+
+<p>Es el caso de Ensenada, por sus dos recintos portuarios, el puerto de Ensenada propiamente dicho y el puerto de Sauzal. La intenci&oacute;n es incrementar sus capacidades para la recepci&oacute;n de cruceros, pero tambi&eacute;n incrementar sus capacidades para carga de contenedores.</p>
+
+<p>En el caso de Manzanillo, que ya se ha hecho p&uacute;blico bastante el tema del Nuevo Manzanillo, donde vamos a incrementar las capacidades del puerto de Manzanillo hasta 10 millones de contenedores.</p>
+
+<p>En el caso de Acapulco, Acapulco es un puerto que fue da&ntilde;ado por el hurac&aacute;n &ldquo;Otis&rdquo; y luego por el hurac&aacute;n &ldquo;John&rdquo;. Se van a rehabilitar los muelles que fueron da&ntilde;ados, pero, adem&aacute;s, se va a ampliar el muelle de cruceros, se va a reactivar la carga de veh&iacute;culos, se va a mejorar el muelle de usos m&uacute;ltiples para tambi&eacute;n, a Acapulco, darle viabilidad en temas de carga.</p>
+
+<p>Los puertos del Corredor: Salinas Cruz, Coatzacoalcos, Puerto Chiapas y Dos Bocas, tambi&eacute;n se van a seguir trabajando.</p>
+
+<p>Y en el Golfo de M&eacute;xico tenemos el puerto de Veracruz, que se va a ampliar una escollera para poderle dar viabilidad a nuevas inversiones privadas y nuevas terminales.</p>
+
+<p>En el caso de &mdash;y el &uacute;ltimo&mdash; es el de puerto Progreso, que es una inversi&oacute;n conjunta con el gobierno del estado, donde vamos a ampliar la terminal remota de Puerto Progreso para convertir a Progreso en el puerto m&aacute;s importante de la pen&iacute;nsula de Yucat&aacute;n, que permita o que garantice el movimiento de mercanc&iacute;as hacia pen&iacute;nsula y hacia otras partes del mundo.</p>
+
+<p>Dejo con ustedes al vicealmirante Vera para que inicie con el Corredor Interoce&aacute;nico.</p>
+
+<p><strong>DIRECTOR GENERAL DEL CORREDOR INTEROCE&Aacute;NICO DEL ISTMO DE TEHUANTEPEC, JUAN CARLOS VERA MINJARES:</strong> Con su permiso, mi Almirante secretario.</p>
+
+<p>Se&ntilde;ora Presidenta de la Rep&uacute;blica, Doctora Claudia Sheinbaum Pardo, con su permiso para iniciar.</p>
+
+<p>Esta ma&ntilde;ana tengo el honor de dirigirme al pueblo de M&eacute;xico para informar la situaci&oacute;n del proyecto del Corredor Interoce&aacute;nico del Istmo de Tehuantepec. Soy el Vicealmirante del Cuerpo General Diplomado de Estado Mayor, Juan Carlos Vera Minjares, director general de este proyecto.</p>
+
+<p>El Corredor Interoce&aacute;nico del Istmo de Tehuantepec es un proyecto estrat&eacute;gico mar&iacute;timo de seguridad nacional del Gobierno de M&eacute;xico, cuya importancia tiene por objeto implementar una plataforma log&iacute;stica multimodal para el desarrollo y bienestar de la regi&oacute;n del Istmo de Tehuantepec.</p>
+
+<p>Su zona de influencia territorial est&aacute; integrada por los estados de Veracruz, Oaxaca, Tabasco y Chiapas; integra 105 municipios y una poblaci&oacute;n de 4 millones 677 mil personas. Su zona de influencia mar&iacute;tima portuaria incluye los puertos de Coatzacoalcos y Salina Cruz que, por medio del Ferrocarril del Istmo de Tehuantepec, permiten la interconexi&oacute;n para el transporte de mercanc&iacute;as interoce&aacute;nico.</p>
+
+<p>Su zona de influencia de ultramar incluye todos los puertos del mundo, a trav&eacute;s de sus dos oc&eacute;anos: el Oc&eacute;ano Pac&iacute;fico y el Oc&eacute;ano Atl&aacute;ntico.</p>
+
+<p>Puerto Chiapas y Dos Bocas fortalecen las capacidades para el desarrollo agroalimentario y de hidrocarburos. Cuenta con 12 Polos de Desarrollo para el Bienestar: cuatro en el estado de Veracruz, seis en el estado de Oaxaca y dos en Chiapas, estos &uacute;ltimos recientemente aportados.</p>
+
+<p>El Ferrocarril del Istmo de Tehuantepec cuenta con tres l&iacute;neas f&eacute;rreas, que en total suman mil 200 kil&oacute;metros de v&iacute;a:</p>
+
+<p>La L&iacute;nea Z corre de Coatzacoalcos a Salina Cruz para realizar el cruce interoce&aacute;nico.</p>
+
+<p>La L&iacute;nea K conecta de Ciudad Ixtepec, Oaxaca, con Ciudad Hidalgo, Chiapas y Guatemala.</p>
+
+<p>La L&iacute;nea FA conecta Coatzacoalcos con Palenque e interconecta con el Tren Maya. Asimismo, esta L&iacute;nea incluye la construcci&oacute;n de un ramal de la estaci&oacute;n &ldquo;Roberto Ayala&rdquo;, en Huimanguillo, para conectar con la Refiner&iacute;a Olmeca.</p>
+
+<p>A continuaci&oacute;n, les informar&eacute; la situaci&oacute;n, los avances y programas de infraestructura y sus obras.</p>
+
+<p>La L&iacute;nea Z, que corre de Coatzacoalcos a Salina Cruz, con 323 kil&oacute;metros, fue rehabilitada en 227 kil&oacute;metros en el tramo de Medias Aguas a Salina Cruz, 82 puentes ferroviarios y 290 obras de drenaje transversales; tambi&eacute;n, se rehabilitaron tres patios y siete laderos. Se encuentra operativa al 100 por ciento y desde su inauguraci&oacute;n, en diciembre del a&ntilde;o pasado a la fecha, ha movilizado m&aacute;s de 231 mil toneladas de carga y m&aacute;s de 65 mil pasajeros. Actualmente, se est&aacute; rehabilitando el tramo que corre de Coatzacoalcos a Medias Aguas &mdash;que est&aacute; en color amarillo&mdash; de 93 kil&oacute;metros por haber sido recientemente integrado al corredor.</p>
+
+<p>La L&iacute;nea FA corre de Coatzacoalcos, Veracruz, a Palenque, Chiapas, donde conecta con el Tren Maya; se han rehabilitado 310 kil&oacute;metros, 91 puentes, 667 obras de drenaje y se encuentra 100 por ciento operativa. En proceso de construcci&oacute;n tenemos dos patios de trasvase, nueve laderos y pr&oacute;ximamente iniciar con la v&iacute;a de penetraci&oacute;n de la estaci&oacute;n &ldquo;Ingeniero Roberto Ayala&rdquo; a Dos Bocas.</p>
+
+<p>La v&iacute;a de penetraci&oacute;n de &ldquo;Roberto Ayala&rdquo; a Dos Bocas permite la conexi&oacute;n ferroviaria entre los puertos de Dos Bocas con Salina Cruz, Puerto Chiapas y Coatzacoalcos, as&iacute; como el transporte de combustible desde la Refiner&iacute;a Olmeca con la pen&iacute;nsula de Yucat&aacute;n mediante la interconexi&oacute;n con el Tren Maya.</p>
+
+<p>La liberaci&oacute;n del derecho de v&iacute;a se encuentra en proceso con apoyo de la Secretar&iacute;a de Desarrollo Agrario, Territorial y Urbano, as&iacute; como con el gobierno de Oaxaca; tenemos un avance de un 46 por ciento en ese proceso.</p>
+
+<p>La L&iacute;nea K corre de Ixtepec a Ciudad Hidalgo para conectar con Guatemala, a trav&eacute;s del Puente Internacional &ldquo;Dr. Rodolfo Robles&rdquo;. Es la L&iacute;nea de mayor longitud, con 459 kil&oacute;metros de v&iacute;a. Se encuentra en proceso de rehabilitaci&oacute;n con 427 puentes ferroviarios, 613 obras de drenaje y 14 estaciones; estas estaciones se van a realizar en dos fases.</p>
+
+<p>Se divide por tramos la L&iacute;nea, tanto para un mejor control en la ejecuci&oacute;n de sus obras como para la puesta en operaci&oacute;n de zonas prioritarias: El tramo 1, que va desde Ciudad Ixtepec a Tonal&aacute;, tiene un avance de 79.6 por ciento y se programa, entre en operaci&oacute;n, en el primer trimestre de este a&ntilde;o que entra, 2025 -si Dios quiere-.</p>
+
+<p>El tramo 2, que va de Tonal&aacute; a Huixtla tiene un avance del 58.9 por ciento y se programa concluirlo en el &uacute;ltimo trimestre del pr&oacute;ximo a&ntilde;o. Al igual que el tramo 3, que va de Huixtla a Ciudad Hidalgo, incluyendo el ramal KA, que es un ramal peque&ntilde;ito de 13.7 kil&oacute;metros que va desde el poblado de Los Toros a Puerto Chiapas; tiene un avance de 36.9 por ciento.</p>
+
+<p>El avance general de la L&iacute;nea es del 58.5, se&ntilde;ora Presidenta.</p>
+
+<p>La Ciudad de Huixtla. El trazo original que pasaba por la Ciudad de Huixtla ten&iacute;a 14 pasos a nivel y para evitar tanto afectaciones como por seguridad de la poblaci&oacute;n que quedaba dividida en dos partes, se construye un viaducto elevado; este viaducto tiene 3 kil&oacute;metros de longitud y tiene un avance bastante significativo, del 72.8 por ciento.</p>
+
+<p>El espacio ganado por el derecho de v&iacute;a que fue liberado corresponde a 80 mil metros cuadrados, este ser&aacute; empleado para construir un parque lineal con andadores, espacios deportivos y &aacute;reas de esparcimiento para las familias. Est&aacute; programado su t&eacute;rmino en marzo de 2025.</p>
+
+<p>Los Polos de Desarrollo para el Bienestar Coatzacoalcos I, Coatzacoalcos II y Salina Cruz, tienen vocaciones industriales y de distribuci&oacute;n de veh&iacute;culos y autopartes; estos Polos ya fueron licitados y concesionados a la empresa Desarrolladora Multimodal del Istmo. Tiene un 80 por ciento de avance en sus estudios y un avance comercial significativo con inversionistas.</p>
+
+<p>Los Polos de Desarrollo para el Bienestar de Texistepec, San Juan Evangelista, Mat&iacute;as Romero, Santa Mar&iacute;a Mixtequilla e Ixtaltepec tienen vocaciones agroindustriales, dispositivos m&eacute;dicos, farmac&eacute;utica y de producci&oacute;n de aluminio. Estos tambi&eacute;n ya fueron licitados y concesionados a las empresas ProIstmo, Profarmax y ARZYZ.</p>
+
+<p>Estos espacios son inmuebles con superficies de 82 a 500 hect&aacute;reas, suman en total m&aacute;s de 3 mil hect&aacute;reas. Los concesionarios desarrolladores de estos Polos cuentan con incentivos fiscales para impulsar la inversi&oacute;n nacional y extranjera.</p>
+
+<p>El Polo de Desarrollo para el Bienestar de Ciudad Ixtepec tiene una vocaci&oacute;n de producci&oacute;n de amoniaco verde. Se encuentra en la etapa de Asamblea P&uacute;blica y Consultas Ind&iacute;genas, estar&aacute; pr&oacute;ximo a iniciar la fase informativa y los estudios ambientales.</p>
+
+<p>La empresa Helax tiene proyectado iniciar obras en el a&ntilde;o 2026 y operaciones en el a&ntilde;o 2028, se trabaja de manera conjunta, se llevan de la mano con las autoridades de los tres &oacute;rdenes de gobierno, con la finalidad de cumplir debidamente todos los procesos y de apoyar los programas de trabajo en este importante proyecto.</p>
+
+<p>La seguridad de la red, as&iacute; como de los Polos de Desarrollo est&aacute; garantizada mediante el despliegue de una brigada de Infanter&iacute;a de Marina, que tiene 22 Unidades Destacamentadas con alrededor de 2 mil elementos.</p>
+
+<p>Respecto a la zona de influencia portuaria. El puerto de Salina Cruz se est&aacute; modernizando y para fin de a&ntilde;o se concluye la alineaci&oacute;n y reforzamiento de los muelles de su Terminal de Usos M&uacute;ltiples; entrar&aacute; en operaci&oacute;n a principios del a&ntilde;o, tambi&eacute;n.</p>
+
+<p>Se drag&oacute; y ampli&oacute; la bocana de entrada del puerto antiguo, que es la fotograf&iacute;a que est&aacute; al lado derecho superior, aparece un acr&oacute;nimo, TUM, que es Terminal de Usos M&uacute;ltiples; se est&aacute;n concluyendo. La entrada de esa&hellip; la boca de entrada de ese puerto se drag&oacute; y ampli&oacute; de 80 a 120 metros para mayor seguridad de las embarcaciones mercantes que accesan.</p>
+
+<p>Se concluy&oacute; la construcci&oacute;n de un rompeolas oeste en el nuevo puerto; este rompeolas mide mil 600 metros de longitud y tiene 25 metros de calado, y tambi&eacute;n tiene m&aacute;s de 6 millones de toneladas de piedras vertidas para su construcci&oacute;n. Esto permitir&aacute; la entrada de buques, de los buques m&aacute;s grandes de mayor calado.</p>
+
+<p>La Terminal Especializada en Contenedores &mdash;que aparece a la izquierda dice &ldquo;TEC I&rdquo;&mdash; ser&aacute; construida una vez que se alcancen los 150&hellip; que se alcancen los 150 mil TEUS, es la unidad con la que se miden los contenedores, 150 mil contenedores al a&ntilde;o; entonces, se comenzar&aacute; a construir.</p>
+
+<p>El puerto de Coatzacoalcos se est&aacute; modernizando para incrementar sus capacidades de la siguiente manera:</p>
+
+<p>En el recinto portuario de Pajaritos se construy&oacute; la ampliaci&oacute;n del muelle de 270 a 400 metros.</p>
+
+<p>Se dragaron 500 mil metros c&uacute;bicos y se construy&oacute; un acceso carretero, y entrar&aacute; en operaci&oacute;n&hellip; entr&oacute; en operaci&oacute;n en el a&ntilde;o 2021.</p>
+
+<p>Asimismo, se construye un acceso ferroviario de 4 kil&oacute;metros con un avance del 99 por ciento; &eacute;ste conectar&aacute; con los Polos de Desarrollo para el Bienestar.</p>
+
+<p>El recinto portuario de Coatzacoalcos cuenta con un muelle de 2 kil&oacute;metros &mdash;es el que trae el n&uacute;mero 3&mdash;. Se concesion&oacute; su tramo 5 a un consorcio denominado Terminales del Istmo-Salina Cruz-Coatzacoalcos para realizar la operaci&oacute;n del cruce interoce&aacute;nico de mercanc&iacute;as y entrar&aacute; en operaciones el primer trimestre del pr&oacute;ximo a&ntilde;o.</p>
+
+<p>Al igual que Salina Cruz, la Terminal Especializada en Contenedores se construir&aacute; cuando se alcance el movimiento de 150 mil contenedores.</p>
+
+<p>Dentro de la inversi&oacute;n privada se construye la terminal de etano Terminal Qu&iacute;mica Puerto M&eacute;xico, con un 85 por ciento de avance, para efectuar pruebas y entrar en operaci&oacute;n en abril del pr&oacute;ximo a&ntilde;o.</p>
+
+<p>El puerto de Dos Bocas se moderniza para fortalecer sus capacidades. Se construye un muelle para la terminal de granel mineral para la Refiner&iacute;a Olmeca; tiene un 48 por ciento de avance. Se realizan obras para la protecci&oacute;n del puerto, ampliando la escollera norte de mil 100 metros a 2 mil 600 metros; y la escollera sur de 800 a mil 500 metros, con un 54 por ciento de avance. Se estima concluir en diciembre del 2025.</p>
+
+<p>Por &uacute;ltimo, tenemos a Puerto Chiapas. En Puerto Chiapas se efect&uacute;an estudios cient&iacute;ficos, con una duraci&oacute;n de 14 meses, mismos que ya se concluir&aacute;n ahorita en enero pr&oacute;ximo. Estos servir&aacute;n para encontrar la soluci&oacute;n de infraestructura m&aacute;s adecuada para evitar el azolve del puerto y una vez concluido se fortalecer&aacute; la infraestructura portuaria necesaria; esto evitar&aacute; el azolvamiento del canal de navegaci&oacute;n y permitir&aacute; el arribo de buques de mayor calado.</p>
+
+<p>Muchas gracias por su amable atenci&oacute;n.</p>
+
+<p>Cumplida la orden, se&ntilde;ora Presidenta.</p>
+
+<p><strong>DIRECTOR GENERAL DE FOMENTO Y ADMINISTRACI&Oacute;N PORTUARIA, MARCO ANTONIO MART&Iacute;NEZ PLANCARTE:</strong> Con su permiso.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> -Adelante, por favor-.</p>
+
+<p><strong>DIRECTOR GENERAL DE FOMENTO Y ADMINISTRACI&Oacute;N PORTUARIA, MARCO ANTONIO MART&Iacute;NEZ PLANCARTE:</strong> Gracias. Muy buenos d&iacute;as.</p>
+
+<p>Soy el Contralmirante Marco Antonio Mart&iacute;nez Plancarte, director general de Fomento y Administraci&oacute;n Portuaria de la Secretar&iacute;a de Marina, y el d&iacute;a de hoy tengo el honor tambi&eacute;n de informar al pueblo de M&eacute;xico la situaci&oacute;n que guarda el Sistema.</p>
+
+<p>El Sistema Portuario Nacional de M&eacute;xico est&aacute; integrado por 103 puertos y 15 terminales habilitadas. En la presente administraci&oacute;n se ha establecido como meta el fortalecerlo con el fin de alcanzar un mayor desarrollo que redunde en una Prosperidad Compartida, en beneficio de toda la ciudadan&iacute;a.</p>
+
+<p>Para tal efecto, se iniciar&aacute; con los seis puertos que anteriormente mencion&oacute; el Almirante secretario, que son Ensenada, Manzanillo, L&aacute;zaro C&aacute;rdenas, Acapulco, Veracruz y Progreso.</p>
+
+<p>El puerto de Ensenada.</p>
+
+<p>Cuenta con dos recintos portuarios: Ensenada propiamente dicho, y El Sauzal. Actualmente, recibe buques de contenedores cruceros, pesqueros, en el mismo recinto, por lo que, con la inversi&oacute;n y las modificaciones, se buscar&aacute; separar sus vocaciones, dejando el puerto de Ensenada para cruceros y el puerto de El Sauzal para carga contenerizada e hidrocarburos y, por un costado, los pesqueros.</p>
+
+<p>&mdash;En la diapositiva tenemos al puerto de Ensenada en la imagen superior y a El Sauzal en la inferior&mdash;.</p>
+
+<p>De igual forma, se realizar&aacute; una ampliaci&oacute;n en la d&aacute;rsena de maniobra y un incremento en la profundidad con el fin de recibir buques de mayor porte y aumentando la seguridad mediante la construcci&oacute;n del Centro de Control de Tr&aacute;fico Mar&iacute;timo.</p>
+
+<p>En el caso del puerto de El Sauzal, se ampliar&aacute;n las escolleras y se reubicar&aacute;n a los pescadores para brindarles mayor seguridad en sus actividades, permitiendo al mismo tiempo que se liciten las terminales de contenedores en el puerto de El Sauzal y atraer mayor inversi&oacute;n en los ingresos del Sistema Portuario y esto, con el consecuentemente aumento de la inversi&oacute;n en la recaudaci&oacute;n de las operaciones de comercio exterior.</p>
+
+<p>Se estima que exista un incremento de 440 millones de pesos anuales en la captaci&oacute;n de los recursos del sistema en Ensenada, lo que viene a representar un 223 por ciento con referencia a las actuales; y un aumento aproximado del 85 por ciento en la recaudaci&oacute;n aduanera. Esto con una inversi&oacute;n p&uacute;blica de 5 mil 745 millones de pesos y con un periodo de ejecuci&oacute;n de 2025 para iniciar en enero y concluir en 2028.</p>
+
+<p>El puerto de Manzanillo.</p>
+
+<p>Manzanillo es el puerto con mayor movimiento de carga comercial en M&eacute;xico y es el tercero a nivel Latinoam&eacute;rica, cuenta con una capacidad para recibir buques Panamax de hasta 395 metros de eslora, que transportan alrededor de mil 800 contenedores. Con la inversi&oacute;n de Nuevo Manzanillo se proyecta recibir buques de mayor porte, que es la tendencia en la construcci&oacute;n naval actual.</p>
+
+<p>En San Pedrito se cuenta con infraestructura y equipamiento &mdash;San Pedrito es el actual puerto de Manzanillo&mdash; que se contienen en 450 hect&aacute;reas. Y recibe: carga contenerizada, graneles, minerales agr&iacute;colas, petrol&iacute;feros, carga general, autom&oacute;viles, cruceros, pesca comercial.</p>
+
+<p>Nuevo Manzanillo, que se compone de mil 880 hect&aacute;reas, casi cuatro veces m&aacute;s grande que Manzanillo, se ubica en Cuyutl&aacute;n y alberga una terminal para recibir gas natural. Y se prev&eacute; que con la inversi&oacute;n se construyan dos terminales de hidrocarburos, as&iacute; como la construcci&oacute;n de un patio, para incrementar la capacidad de almacenaje de contenedores; la construcci&oacute;n de un muelle especializado para apoyar a la industria de pesca de altura; cuatro terminales de contenedores tambi&eacute;n y dragados de construcci&oacute;n; as&iacute; como la construcci&oacute;n de un recinto aduanero con capacidad para atender una demanda anual de hasta 10 millones de TEUS, es decir, de contenedores.</p>
+
+<p>Se estima un incremento de 7 mil 500 millones de pesos anuales que aumente la captaci&oacute;n de los recursos del sistema en Manzanillo, de la ASIPONA, lo que viene a representar un 148 por ciento de aumento de los actuales y al mismo tiempo, se prev&eacute; un incremento de 120 por ciento en la recaudaci&oacute;n aduanera.</p>
+
+<p>Todo esto con una inversi&oacute;n p&uacute;blica de 13 mil 598 millones de pesos y en un periodo de ejecuci&oacute;n de 2025 a 2029.</p>
+
+<p>El puerto de L&aacute;zaro C&aacute;rdenas.</p>
+
+<p>El puerto de L&aacute;zaro C&aacute;rdenas tiene la capacidad de recibir buques de mayor porte, de hasta 165 mil toneladas de desplazamiento. Y presenta una vocaci&oacute;n automotriz, agroindustrial, de construcci&oacute;n, miner&iacute;a, qu&iacute;micos, sider&uacute;rgica y de contenedores.</p>
+
+<p>Moviliza actualmente 4 millones de TEUS anuales; previ&eacute;ndose que con los proyectos de infraestructura duplique, un poco m&aacute;s, a 8 mil 200 millones de TEUS, aumentando su capacidad en los proyectos que consisten en: el desarrollo de la Isla de la Palma, las instalaciones aduaneras y salida del puerto sur, un reordenamiento en la vialidad, una construcci&oacute;n de una vialidad alterna, la ampliaci&oacute;n de patios del recinto fiscalizado y un reordenamiento urbano en los poblados de El Naranjito, Zacatula, que es municipio de la Uni&oacute;n Guerrero; a fin de establecer &aacute;reas de desarrollo industrial relacionadas con la operaci&oacute;n del puerto para que se pueda generar un Polo de Desarrollo.</p>
+
+<p>Se elevar&aacute; en un 25 por ciento el manejo de carga, pasando de 32 millones de toneladas en 2024 a 40 millones para 2029. Se estima un incremento en la captaci&oacute;n de los recursos para la ASIPONA a 2 mil 65 millones de pesos, lo que representa 290 por ciento de la captaci&oacute;n actual, y con el consecuente aumento aproximado del 85 por ciento en la recaudaci&oacute;n aduanera.</p>
+
+<p>El puerto de Acapulco.</p>
+
+<p>El puerto de Acapulco, habiendo sido un atractivo tur&iacute;stico y despu&eacute;s de haber sido afectado por el impacto del hurac&aacute;n &ldquo;Otis&rdquo;, se tiene proyectado realizar mejoras que le permitan volver a ser el mismo referente, por lo que se tiene considerado dar un mantenimiento mayor al muelle de usos m&uacute;ltiples, y a las dos reservas portuarias que son el Jard&iacute;n del Puerto y el Centro de Consumo.</p>
+
+<p>A la primera de estas, al Jard&iacute;n del Puerto, se le realizar&aacute; un mantenimiento para recuperar el espacio social; y a la segunda, se va a remozar para poder licitar las &aacute;reas de centros gastron&oacute;micos y de entretenimiento, con el fin de atraer una derrama econ&oacute;mica tur&iacute;stica.</p>
+
+<p>Tambi&eacute;n se realizar&aacute; una extensi&oacute;n en el muelle, que le va a permitir el atraque de cruceros tur&iacute;sticos; y a la terminal de veh&iacute;culos, que tiene una capacidad alrededor de mil 600 veh&iacute;culos, dependiendo del tipo de veh&iacute;culos que se trate.</p>
+
+<p>La reactivaci&oacute;n comercial del puerto de Acapulco con el movimiento de veh&iacute;culos estima alcanzar una recaudaci&oacute;n del 5 por ciento anual. Y en el rubro de la terminal de cruceros, se prev&eacute; que pase de dos cruceros que se registraron en 2024 a 17 para 2025.</p>
+
+<p>En el puerto de Veracruz.</p>
+
+<p>El puerto de Veracruz tiene una vocaci&oacute;n automotriz de contenedores y granel agr&iacute;cola. Con una inversi&oacute;n de mil 800 millones de pesos se podr&aacute; potencializar sus capacidades mediante la construcci&oacute;n del Rompeolas Oriente, que permitir&aacute; el establecimiento de terminales interiores en el puerto de la Bah&iacute;a Norte, trayendo consigo atracci&oacute;n de inversi&oacute;n.</p>
+
+<p>Se estima un incremento de mil 415 millones de pesos anuales en la captaci&oacute;n de recursos para la ASIPONA, parte del Sistema de Puertos, lo que viene a representar un 133 por ciento de las actuales, y un aumento aproximado en la recaudaci&oacute;n aduanera de 161 por ciento.</p>
+
+<p>Puerto Progreso.</p>
+
+<p>El Puerto Progreso, ubicado en la pen&iacute;nsula de Yucat&aacute;n, cuenta con un proyecto que consiste en desarrollar una plataforma de 80 hect&aacute;reas que puede, bien, ser utilizada para el establecimiento de un astillero y terminadas destinadas a granel mineral, gas licuado, petr&oacute;leo, contenedores. Para ello, se requiere realizar un dragado de construcci&oacute;n &mdash;como se indica en la diapositiva&mdash; en los canales de acceso y en las d&aacute;rsenas.</p>
+
+<p>Este proyecto tiene una inversi&oacute;n mixta de 7 mil 225 millones de pesos, integrado por 5 mil 200 del gobierno federal y mil 500 del gobierno del estado de Yucat&aacute;n, y una inversi&oacute;n privada de 525 millones de pesos.</p>
+
+<p>Se estima un incremento de 800 millones de pesos anuales en la captaci&oacute;n de recursos para la ASIPONA, lo que representa el 60 por ciento de incremento en las ganancias actuales y un aumento aproximado del 57 por ciento en la recaudaci&oacute;n aduanera.</p>
+
+<p>&mdash;Vamos a pasar al video, por favor&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE EL CORREDOR INTEROCE&Aacute;NICO DEL ISTMO DE TEHUANTEPEC Y EL SISTEMA PORTUARIO NACIONAL)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Sobre el tema.</p>
+
+<p>&mdash;A ver, sobre el tema, ac&aacute;&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Muy buenos d&iacute;as, Doctora; buenos d&iacute;as, secretarios, subsecretaria. Amir Ibrahim, de <em>Quintana Roo Mx.</em></strong></p>
+
+<p><strong>Viendo el proyecto como m&aacute;s integral, ya m&aacute;s claro de lo que se hab&iacute;a planteado antes, me quedan algunas dudas sobre la conexi&oacute;n que va a hacer con el Tren Maya. En este momento, el Tren Maya tiene estaciones de pasajeros y este proyecto est&aacute; destinado, como a la carga de productos. Saber si, &iquest;en la parte de Quintana Roo se van a desarrollar estaciones de carga, exactamente?, porque ahorita creo que hay estaciones de pasajeros. &iquest;O c&oacute;mo se piensa operar esta parte de la carga, si se van a desarrollar nuevos lugares para descargar y cargar los productos que puedan llegar de esta zona?, porque creo que es muy importante el tema este de&hellip; todav&iacute;a llega v&iacute;a carretera, a Quintana Roo, a Yucat&aacute;n y creo que esta conexi&oacute;n va a ser un muy buen tema de los precios.</strong></p>
+
+<p><strong>Ser&iacute;a mi primera pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El Tren Maya, adem&aacute;s de pasajeros, va a ser un tren de carga. En los pr&oacute;ximos dos a&ntilde;os, &acute;25 y &acute;26, se van a hacer todas obras necesarias de espacios intermodales, todo lo que se requiere para que sea un tren de carga.</p>
+
+<p>Y en Palenque, ahora le doy la palabra al Almirante secretario para que les explique la conexi&oacute;n del Interoce&aacute;nico con el Tren Maya.</p>
+
+<p>Ahora, el Interoce&aacute;nico tambi&eacute;n es un tren de pasajeros; ambos son de pasajeros y de carga. El Tren Maya ahora funciona como pasajeros; va a tener la L&iacute;nea de Palenque a Chetumal, que la vamos a ir a inaugurar ya. El Presidente lo dej&oacute; que pod&iacute;an pasar los trenes y ahora, ya est&aacute; funcional, ya se van a empezar a vender boletos para que pueda dar toda la vuelta a la pen&iacute;nsula, como fue planeado. Y el pr&oacute;ximo a&ntilde;o, inician las obras de carga.</p>
+
+<p>&mdash;Y si el Almirante nos explica, &iquest;c&oacute;mo va a ser la interconexi&oacute;n?&mdash;</p>
+
+<p><strong>SECRETARIO DE MARINA, RAYMUNDO PEDRO MORALES &Aacute;NGELES:</strong> S&iacute;. La interconexi&oacute;n con el Tren Maya es de fundamental importancia para unir toda la red. Por el momento, nosotros estamos&hellip; vamos a tener un patio de trasvase en Pakal N&aacute;, en espera de que el Tren Maya termine su desarrollo de tren de carga.</p>
+
+<p>En Palenque, Tren Maya va a ser una terminal de carga, una terminal de carga intermodal, y el Trans&iacute;stmico se va a conectar a esa terminal para no tener doble infraestructura; vamos a trabajar en conjunto con Tren Maya para utilizar esa terminal, y a partir de ah&iacute;, nosotros entregamos la carga a Tren Maya y ellos se la llevan.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PREGUNTA: Solo una pregunta: &iquest;cu&aacute;l es la velocidad que va a llevar el tren de carga o el trayecto completo?, &iquest;tienen alguna cifra de eso?</strong></p>
+
+<p><strong>SECRETARIO DE MARINA, RAYMUNDO PEDRO MORALES &Aacute;NGELES:</strong> El tren del Istmo es un tren que mueve una velocidad m&aacute;xima de 80 kil&oacute;metros por hora; y el Tren Maya tiene dos velocidades: una velocidad para temas de pasajeros que llega hasta 160 kil&oacute;metros por hora, y de carga va a ser igual que el Trans&iacute;stmico.</p>
+
+<p><strong>PREGUNTA: Muchas gracias. Presidenta, &iquest;cu&aacute;ndo ir&iacute;a a inaugurar lo de Chetumal? Es que ahorita lo mencion&oacute;.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El 15, el 15 de diciembre.</p>
+
+<p>&mdash;Ah&iacute; los invitamos para que nos acompa&ntilde;en&mdash;.</p>
+
+<p><strong>PREGUNTA: Muchas gracias.</strong></p>
+
+<p><strong>Como mi segunda pregunta, se habl&oacute; de un amparo que hab&iacute;a generado el Poder Judicial para el tema de Calica &mdash;su casa est&aacute; en Playa de Carmen&mdash;. Yo conozco muy bien el tema de Calica, es una devastaci&oacute;n que hemos sufrido durante muchos a&ntilde;os y casi imposible hacer algo antes de que se empezara a tomar acciones; y sali&oacute; la noticia de un supuesto amparo contra la determinaci&oacute;n de que esa &Aacute;rea Natural Protegida. Calica, aparte tiene un puerto de alto calado, tambi&eacute;n, que es lo que tiene.</strong></p>
+
+<p><strong>Y saber &iquest;qu&eacute; est&aacute; pasando con el tema de Calica, si el amparo ya no es un &aacute;rea natural protegida, o cu&aacute;l es el estatus que guarda toda esta situaci&oacute;n?, porque para los playenses s&iacute; es muy importante el tema que est&aacute; sucediendo con Calica.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Le pedimos a la secretaria que, a ver si viene ma&ntilde;ana o nos env&iacute;a una nota sobre el amparo, para ver si otorgaron la suspensi&oacute;n o no.</p>
+
+<p>Calica, como ustedes saben, ampli&oacute; su trabajo a mucha m&aacute;s &aacute;rea de la que ten&iacute;a el permiso original y ha causado un da&ntilde;o ambiental enorme en la zona. La decisi&oacute;n que tom&oacute; entonces el Presidente fue declararlo &Aacute;rea Natural Protegida y con ello, se clausuraron los trabajos de la miner&iacute;a en esa zona; hasta el momento permanecen as&iacute;.</p>
+
+<p>Vamos a ver el tema del amparo. Ellos en alg&uacute;n momento dijeron que &ldquo;hab&iacute;a una expropiaci&oacute;n&rdquo;; no hay expropiaci&oacute;n, es Decreto de &Aacute;rea Natural Protegida; nosotros estamos convencidos de que es lo mejor que se puede hacer y vamos a seguir defendiendo este decreto.</p>
+
+<p>Y vamos a pedirle a Alicia que nos informe de hasta d&oacute;nde va el amparo.</p>
+
+<p>Y ellos est&aacute;n poniendo tambi&eacute;n una&hellip; a nivel del Tratado de Libre Comercio, los esquemas, los instrumentos que existen cuando hay controversias, pero de todas maneras nosotros lo vamos a defender, porque es un tema ambiental por encima de todo.</p>
+
+<p>Y, adem&aacute;s, ninguna empresa, sea estadounidense, sea canadiense, refiri&eacute;ndonos tambi&eacute;n a las mineras canadienses, las mismas normas ambientales que tienen en sus pa&iacute;ses tienen que ser las normas ambientales que cumplan en nuestro pa&iacute;s, no pueden quebrantar un impacto ambiental o una norma ambiental. Eso es parte tambi&eacute;n del T-MEC.</p>
+
+<p>Entonces, nosotros lo vamos a defender y te informamos c&oacute;mo va lo del amparo, o les informamos.</p>
+
+<p><strong>PREGUNTA: Sobre la controversia que hay con Calica, nada m&aacute;s para ampliar un poquito la informaci&oacute;n, saber &iquest;si los&hellip;? Hay un juzgado, digo, de estos internacionales que est&aacute; llevando una controversia, creo que de mil 500 millones de d&oacute;lares contra el Estado mexicano. Saber, si &iquest;tiene informaci&oacute;n, si hay algunas personas que hayan visitado la zona?, porque si van a juzgar desde un papel o desde quejas&hellip; Saber si, &iquest;el tribunal internacional que estar&iacute;a juzgando esto, comercial, pues ya mand&oacute; visores a revisar o bi&oacute;logos, o alg&uacute;n tipo de especialistas para que revisen de verdad el da&ntilde;o que causaron en la zona?</strong></p>
+
+<p><strong>No s&eacute; si est&eacute; enterada de eso o si hay alguna parte de ese proceso.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Es muy buena idea, lo vamos a plantear a Alicia y a Marcelo Ebrard, que llevan estas controversias; porque no es un tema comercial, es un tema ambiental.</p>
+
+<p>Adem&aacute;s, tanto que se plante&oacute; del supuesto da&ntilde;o ambiental del Tren Maya y, en cambio, se tienen estas y otras concesiones que se dieron en su momento, que tienen mucho m&aacute;s impactos ambientales y que no hay ninguna manifestaci&oacute;n en torno a esto.</p>
+
+<p>Entonces, es muy buena idea que aquellos que est&aacute;n viendo este tema, visiten el &aacute;rea y vean los impactos ambientales que gener&oacute; Calica.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:&nbsp; &mdash;</strong>Sobre el tema, a ver&mdash;</p>
+
+<p><strong>PREGUNTA: Presidenta, buenos d&iacute;as.&nbsp; Luis &Aacute;ngel Mar&iacute;n, de <em>Radio Resultados</em>. Buenos d&iacute;as a todos.</strong></p>
+
+<p><strong>Preguntarle en el tema, hablaban de los Polos de Desarrollo del Bienestar. &iquest;C&oacute;mo se distribuir&aacute; el tipo de empresas que van a participar o a poder participar? &iquest;Se va a homogeneizar por giros o c&oacute;mo se van a asignar los lugares dependiendo cada Polo?</strong></p>
+
+<p><strong>Y, tambi&eacute;n, &iquest;c&oacute;mo se va a blindar a las comunidades locales?, porque con la llegada de este tipo de desarrollos precisamente aumentan los precios de renta, aumentan los precios de algunos servicios.</strong></p>
+
+<p><strong>&iquest;C&oacute;mo se ayudar&iacute;a en este caso a las comunidades? Ser&iacute;a mi primera pregunta.</strong></p>
+
+<p><strong>SECRETARIO DE MARINA, RAYMUNDO PEDRO MORALES &Aacute;NGELES:</strong> S&iacute;. Los Polos de Desarrollo tienen vocaciones establecidas de acuerdo a los estudios que se hicieron de preinversi&oacute;n. Por ejemplo, los Polos de Coatzacoalcos son b&aacute;sicamente de industria petroqu&iacute;mica. Las empresas ya fueron adjudicadas en los Polos de Coatzacoalcos y el de Salina Cruz; en ese caso, ellos van a invitar a inversionistas para que se establezcan como parques industriales.</p>
+
+<p>&iquest;C&oacute;mo vamos a proteger a la poblaci&oacute;n?</p>
+
+<p>Bueno, la Secretar&iacute;a de Desarrollo&hellip; de Sedatu, ya est&aacute; elaborando los Planes de Desarrollo Urbano y Ordenamiento Territorial, los est&aacute; haciendo con los municipios. Llevamos, de los 79 municipios, llevamos 16 planes ya aprobados por los municipios; de tal manera que el crecimiento de la mancha urbana y todos los servicios sean ordenados, y no tengamos una afectaci&oacute;n a la poblaci&oacute;n.</p>
+
+<p>Adem&aacute;s, estamos en coordinaci&oacute;n con Infonavit y con todas las instancias del Gobierno de la Rep&uacute;blica, para evitar que haya una anarqu&iacute;a en el desarrollo inmobiliario.</p>
+
+<p><strong>PREGUNTA: Muchas gracias. Mi siguiente pregunta&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah&iacute;, en los Polos de Bienestar, adem&aacute;s de las consultas que tienen que hacerse, no solo la consulta ind&iacute;gena &mdash;en la que estamos de acuerdo, pero adem&aacute;s ahora es constitucional&mdash; sino que el objetivo no es que sean Polos desligados de las comunidades, sino que traigan beneficios a las comunidades; no es como el desarrollo de las e&oacute;licas en el Istmo que se dio desordenado y a costa de las comunidades, sino, por el contrario, que tengan beneficios.</p>
+
+<p>Y, adem&aacute;s, que haya un desarrollo integral en la zona, como bien dice el Almirante secretario. Incluso est&aacute; planteado el desarrollo de viviendas y otros beneficios sociales para quienes van a trabajar en los Polos de Bienestar.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. </strong></p>
+
+<p><strong>Mi segunda pregunta: en los proyectos de puertos no veo al puerto de Tuxpan a un futuro. No s&eacute; si, &iquest;tiene planes para en alg&uacute;n futuro cercano desarrollar el puerto de Tuxpan, ampliarlo? Tiene 30 a&ntilde;os pr&aacute;cticamente esperando el puerto de Tuxpan, desde los &acute;90, que se empez&oacute; la autopista; en el &lsquo;94 la empez&oacute; Salinas, la inaugur&oacute; Pe&ntilde;a Nieto, imag&iacute;nese cu&aacute;ntos a&ntilde;os tard&oacute; la autopista. </strong></p>
+
+<p><strong>Y el puerto de Tuxpan, la idea de esa autopista era ampliar las funciones del puerto, por la cercan&iacute;a con el centro del pa&iacute;s y todos los estados de esta zona. No s&eacute;, si &iquest;tiene pensado alg&uacute;n plan para el Puerto de Tuxpan a futuro cercano?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Se est&aacute; evaluando. Tuxpan, de acuerdo con Marina &mdash;lo puede explicar mejor el Almirante&mdash;, est&aacute; pensado m&aacute;s como cabotaje, pero, de todas maneras, la actual gobernadora de Veracruz, Roc&iacute;o Nahle, tiene planteado un Polo de Bienestar en Tuxpan.</p>
+
+<p>Tuxpan es de las ciudades que tuvieron un auge muy importante con la industria petrolera y que, al privatizarse, abandonarse, perdi&oacute; much&iacute;simos empleos; entonces, el objetivo es tambi&eacute;n impulsar Tuxpan y otras ciudades de Veracruz. Entonces, se va a evaluar en este marco.</p>
+
+<p>&mdash;No s&eacute; si quiera agregar algo. &iquest;No? Con eso&mdash;.</p>
+
+<p>Tambi&eacute;n hay otros puertos, que es importante que se sepa, que hay empresas privadas que han solicitado el desarrollo.</p>
+
+<p>Por ejemplo, Punta Colonet, hay una empresa privada que est&aacute; planteando su desarrollo; recientemente se inform&oacute; en el sur de Quintana Roo para cruceros, el desarrollo a partir de inversi&oacute;n privada. Y hay otros puertos que&hellip; tambi&eacute;n en Tamaulipas, que los est&aacute; evaluando la Secretar&iacute;a de Marina para ver su viabilidad.</p>
+
+<p><strong>PREGUNTA: Ya que nombraba a la gobernadora de Veracruz, reci&eacute;n que tom&oacute; posesi&oacute;n, Roc&iacute;o Nahle, su primera acci&oacute;n fue cancelar la caseta del Puente Coatzacoalcos I, que eso, recibi&oacute; muchos aplausos del comercio de toda la zona.</strong></p>
+
+<p><strong>&iquest;Tiene planeado?, porque hay muchos puertos o, m&aacute;s bien, muchas casetas que son de puentes, que tienen desde los a&ntilde;os &lsquo;60 y &lsquo;70 que se construyeron, pr&aacute;cticamente ya se pag&oacute; y siguen existiendo esas casetas de peaje. &iquest;Tiene pensado que se cancele por parte de su gobierno en Capufe algunas otras casetas, Presidenta?</strong></p>
+
+<p><strong>Gracias. </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Se est&aacute; evaluando. Es importante que sepa la ciudadan&iacute;a que el pago de las casetas, en el caso de Capufe, no solamente sirve para pagar, digamos, la inversi&oacute;n que se hizo, sino para el mantenimiento de una parte importante de las carreteras.</p>
+
+<p>Se est&aacute; valorando en algunos casos, por ejemplo, que paguen el transporte de carga y no as&iacute;, los veh&iacute;culos que son particularmente del estado, que tiene placas del estado; en todo caso, se est&aacute; evaluando en algunos casos.</p>
+
+<p><strong>PREGUNTA: &iquest;El tr&aacute;nsito local ser&iacute;a?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. En algunos casos se est&aacute; valorando, pero todav&iacute;a no tenemos una soluci&oacute;n.</p>
+
+<p>Lo que s&iacute; es que estamos trabajando en que muchas casetas representan largas filas en much&iacute;simos estados de la Rep&uacute;blica; entonces, el secretario de Infraestructura Comunicaciones y Transportes est&aacute; evaluando con Capufe mecanismos que permitan agilizar las casetas.</p>
+
+<p>&mdash;Vamos de este lado y luego vamos de este lado&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias. Buenos d&iacute;as, Presidenta. Shaila Rosagel, corresponsal de Grupo Healy: <em>El imparcial</em>, de Sonora; <em>La Cr&oacute;nica</em>, de Mexicali, y <em>Frontera</em>, de Tijuana.</strong></p>
+
+<p><strong>Presidenta, ayer habl&oacute; sobre esta reuni&oacute;n de trabajo que se va a realizar en Acapulco. Bueno, usted hablaba que va a ser el Consejo de Seguridad, de Acapulco, donde van a asistir gobernadores. Y al concluir este Consejo, est&aacute;n convocados los gobernadores para hablar sobre el plan que se va a implementar para en caso de una deportaci&oacute;n de migrantes.</strong></p>
+
+<p><strong>Preguntarle: &iquest;qu&eacute; gobernadores de la frontera norte est&aacute;n convocados, si est&aacute; convocado el gobernador de Sonora, la gobernadora de Baja California?</strong></p>
+
+<p><strong>Y, tambi&eacute;n, preguntarles &iquest;si ese martes &mdash;coment&oacute; que iba a ser el martes&mdash; ser&aacute; la conferencia matutina en Acapulco o va a hacer aqu&iacute;?</strong></p>
+
+<p><strong>Tambi&eacute;n si &iquest;hay alguna informaci&oacute;n sobre esa reuni&oacute;n que nos pueda adelantar en los temas de la agenda?</strong></p>
+
+<p><strong>&iquest;Y si tienen estimado los recursos que invertir&aacute;n en la frontera para atender a los migrantes?</strong></p>
+
+<p><strong>Tambi&eacute;n, sobre los migrantes de otras nacionalidades, &iquest;si tienen previsto que las deportaciones sean a trav&eacute;s de M&eacute;xico?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a tener el Consejo Nacional de Seguridad, ese Consejo se tiene que hacer por ley. Entonces, ah&iacute; hay una reuni&oacute;n previa con la coordinadora del Consejo, el secretario de Seguridad y la secretaria de Gobernaci&oacute;n, por el tema de los recursos del pr&oacute;ximo a&ntilde;o que se van a distribuir de los distintos fondos que se distribuyen para seguridad tanto a los estados como a los municipios.</p>
+
+<p>Y, posteriormente, vamos a tener la reuni&oacute;n que tiene su parte, digamos, protocolaria.</p>
+
+<p>Y tambi&eacute;n, al mismo tiempo, pues vamos a explicar nuevamente el fortalecimiento de la Estrategia de Seguridad que estamos haciendo y c&oacute;mo es necesaria la coordinaci&oacute;n integral con todos los gobernadores y gobernadoras.</p>
+
+<p>Apenas ayer acordamos, tuvimos Gabinete nosotros y ah&iacute;, la Secretar&iacute;a de Gobernaci&oacute;n va a convocar, obviamente, a la gobernadora de Baja California, de Sonora, de Chihuahua, de Coahuila, Nuevo Le&oacute;n y Tamaulipas para poder tener esta reuni&oacute;n en donde nos pongamos de acuerdo en c&oacute;mo recibir a nuestros paisanos y paisanas en caso de que haya una deportaci&oacute;n masiva.</p>
+
+<p><strong>PREGUNTA: &iquest;Se tiene estimado alg&uacute;n recurso?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya lo informaremos, estamos trabajando en ello, ya lo informaremos.</p>
+
+<p>Repito, hay una parte que tiene que ver con los Consulados, otra parte que tiene que ver con el trabajo que tendr&iacute;amos que hacer en M&eacute;xico. Esperamos que no ocurra, pero si llega a ocurrir pues estar preparados para recibirles.</p>
+
+<p>Hay un acuerdo actual con la administraci&oacute;n del presidente Biden en donde, para muchas de las nacionalidades, ellos directamente los env&iacute;an v&iacute;a a&eacute;rea a sus pa&iacute;ses de origen. Ah&iacute;, en donde no tienen una relaci&oacute;n directa, hay un acuerdo tambi&eacute;n para que contribuyan, desde M&eacute;xico, a enviar a las personas a sus pa&iacute;ses de origen.</p>
+
+<p>Evidentemente, nosotros somos solidarios con todos y con todas, pero nuestra principal funci&oacute;n es recibir a las y los mexicanos. Y esperamos tener un acuerdo con la administraci&oacute;n Trump, en caso de que haya estas deportaciones, para que ellos tambi&eacute;n env&iacute;en a sus pa&iacute;ses de origen a las personas que vienen de otros pa&iacute;ses.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta.</strong></p>
+
+<p><strong>En un segundo tema preguntarle sobre Tijuana, sobre los cruces fronterizos, si &iquest;tienen contemplado alg&uacute;n proyecto para agilizarlos, tanto de M&eacute;xico a Estados Unidos, como viceversa?</strong></p>
+
+<p><strong>Y tambi&eacute;n preguntarle sobre el telef&eacute;rico, si &iquest;sigue en pie esta propuesta que usted hizo durante su campa&ntilde;a y cu&aacute;l ser&iacute;a la posible soluci&oacute;n para este problema de los cruces?</strong></p>
+
+<p><strong>Y ya nada m&aacute;s, sobre los Polos de Bienestar para Sonora, preguntarle: &iquest;qu&eacute; han incluido para Sonora en cuanto infraestructura para corredores industriales y los Polos del Bienestar?</strong></p>
+
+<p><strong>Ser&iacute;a todo, Presidenta. </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, M&eacute;xico termin&oacute; Otay II. Estuve hace poco en la frontera, cuando visitamos Baja California, y es incre&iacute;ble porque est&aacute; totalmente terminada. Era un acuerdo binacional, y del lado de California, del estado de California, pues tendr&iacute;a que venir la continuaci&oacute;n.</p>
+
+<p>Entonces, est&aacute; un &aacute;rea muy moderna para el paso fronterizo, la Aduana, principalmente, para veh&iacute;culos de carga, y llega uno al muro y no hay nada del otro lado, o sea, del otro lado han incumplido con la parte que le corresponde; porque est&aacute; el permiso, pero no hay avanzado con ninguna infraestructura. Entonces, esperamos que se avance con este proyecto.</p>
+
+<p>Ahora, cuando estuve ah&iacute;, hablamos &mdash;porque la Secretar&iacute;a de la Defensa Nacional ayud&oacute;, los ingenieros militares a hacer esta obra&mdash;, hablamos con la gobernadora y con Migraci&oacute;n, Aduanas, etc&eacute;tera, para que pueda utilizarse esta infraestructura, porque ni modo que se quede abandonada, es una infraestructura muy moderna.</p>
+
+<p>Entonces, la idea es que esta obra por lo menos ayude a Otay, a la de actual de Otay, que permita hacer una movilidad para el transporte de carga en lo que se construye del otro lado.</p>
+
+<p>Y hay otros proyectos, algunos p&uacute;blicos, hay incluso empresas privadas que han planteado la posibilidad de tener puentes fronterizos que permitan el desarrollo de Polos de Bienestar de un lado y del otro de la frontera, como parte del desarrollo de Am&eacute;rica del Norte, que son buenos planteamientos y que ya revisaremos con el presidente Trump en su momento, con la administraci&oacute;n Trump.</p>
+
+<p><strong>PREGUNTA: &iquest;Lo del telef&eacute;rico, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si. El pr&oacute;ximo a&ntilde;o se van a terminar las obras que est&aacute;n actualmente en Tijuana:</p>
+
+<p>El viaducto.</p>
+
+<p>La planta de tratamiento, que todav&iacute;a requieren una parte del trabajo; se inicia todo el estudio, aunque ya hay estudios preliminares, pero hay que revisarlos de la Planta Desaladora para la dotaci&oacute;n de agua para Tijuana.</p>
+
+<p>Se va a trabajar con el Distrito de Riego de Mexicali, que es muy importante para poder hacer eficiente el uso del agua.</p>
+
+<p>Y ya ser&iacute;a hasta el 2026, en todo caso, en donde se revisar&iacute;a lo del Cableb&uacute;s.</p>
+
+<p><strong>PREGUNTA: &iquest;Y para Sonora, lo que preguntaba lo de los Polos del Bienestar, si incluye estos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Tambi&eacute;n se trabaja con el&hellip; se est&aacute; trabajando.</p>
+
+<p>Ah&iacute;, obviamente, es muy importante el puerto de Guaymas que tambi&eacute;n es parte de lo que est&aacute; desarrollando Secretar&iacute;a de Marina, ah&iacute; hay una parte p&uacute;blica y, como en estos proyectos que se han planteado, hay una parte p&uacute;blica, la administraci&oacute;n del puerto es por parte de la Marina, y hay una inversi&oacute;n privada para el desarrollo ya del propio puerto con contenedores. Y esas obras se licitan para que sean muy transparentes.</p>
+
+<p>En el caso de Guaymas est&aacute; este planteamiento, y alrededor del puerto de Guaymas hay un desarrollo muy importante.</p>
+
+<p>Y tambi&eacute;n la comunicaci&oacute;n del puerto de Guaymas, tanto hacia afuera del puerto, que ya est&aacute; transportando una parte de los veh&iacute;culos de la Ford, que se fabrican en Sonora, como la comunicaci&oacute;n del puerto de Guaymas hacia la frontera, en particular a Sonoyta, que es muy importante.</p>
+
+<p>Entonces, se est&aacute; trabajando conjuntamente en ese y otros proyectos de lo que se llama el &ldquo;Plan Sonora&rdquo;.</p>
+
+<p><strong>PREGUNTA: (Inaudible) </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Estamos trabajando.</p>
+
+<p>Si se fijan, estamos yendo con todos los gobernadores. Adem&aacute;s de ir a hacer un evento p&uacute;blico para informar a la ciudadan&iacute;a de los Programas de Bienestar y otros temas, nos estamos reuniendo con los Gabinetes. Se hizo una primera reuni&oacute;n cuando ganamos la Presidencia, como presidenta electa, y ahora ya las reuniones formales que nos permiten definir los proyectos estrat&eacute;gicos en cada entidad de la Rep&uacute;blica.</p>
+
+<p>Entonces, en todas las entidades vamos a invertir y ah&iacute; estamos definiendo con los gobernadores cu&aacute;les son. Una vez que ya viajemos por las 32 entidades, ya vamos a hacer p&uacute;blicos los proyectos estrat&eacute;gicos como parte del Plan Nacional de Desarrollo, que tiene que presentarse a finales de febrero.</p>
+
+<p>&mdash;Ac&aacute;, de este lado&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta, Gabinete. Stephanie Palacios, del peri&oacute;dico <em>Quequi</em>, de Quintana Roo y de Ciudad de M&eacute;xico.</strong></p>
+
+<p><strong>Pues, ya comentaban ayer un poquito con el tema de este impuesto. Presidenta, &iquest;c&oacute;mo va esta transici&oacute;n, negociaci&oacute;n, de este cobro de impuestos a cruceristas de 42 d&oacute;lares? Queda un poquito como ambiguo, me gustar&iacute;a saber, si pod&iacute;a ampliar un poquito este tema. Y confirmar si, &iquest;s&iacute; entra en vigor el 1o. de enero de 2025? Eso me gustar&iacute;a como confirmar. Mi primera pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Primero, no es un derecho nuevo, es una actualizaci&oacute;n; no es un impuesto, se llaman &ldquo;derechos&rdquo; en estos casos. Es una actualizaci&oacute;n de ese derecho.</p>
+
+<p>Y el Almirante secretario y la Secretar&iacute;a de Turismo est&aacute;n en comunicaci&oacute;n con las empresas de cruceros para ver qu&eacute; impacto pudiera llegar a tener esta actualizaci&oacute;n, porque es importante que se conozca; porque hemos dicho que no hay realmente un aumento de impuestos, sino son actualizaciones que se est&aacute;n haciendo a distintos derechos en particular, y los impuestos aumentan lo que aumenta la inflaci&oacute;n.</p>
+
+<p>Entonces, hay una reuni&oacute;n y ya van a estar evaluando ellos con las empresas de cruceros.</p>
+
+<p><strong>PREGUNTA: Y ellos&hellip; Ayer lo comentaba, porque dijo que se iba a reunir con la Secretar&iacute;a de Hacienda y justo, el Almirante para ver esto, simplemente porque quedan &mdash;&iquest;que ser&aacute;n?&mdash; 26 d&iacute;as escasos. Y para saber, porque ellos hace unos d&iacute;as se reunieron algunos l&iacute;deres empresariales en Coparmex, Concanaco-Servytur, para revisar este asunto para el tema de estos ajustes de los 42 d&oacute;lares. O sea, si &iquest;s&iacute; entra o no? Esa es la pregunta, la confirmaci&oacute;n si s&iacute;, porque al final es su inquietud.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo vamos a definir a partir de este di&aacute;logo que se establezca entre la Secretar&iacute;a de Marina principalmente, que es quien tiene la responsabilidad de los puertos en el pa&iacute;s, la Secretar&iacute;a de Turismo y, obviamente, la Secretar&iacute;a de Hacienda.</p>
+
+<p><strong>PREGUNTA: S&iacute;, con la Secretar&iacute;a de Turismo que, algunos casos, s&iacute; se hab&iacute;a hecho como algunas reuniones extraordinarias, en el tema de que posiblemente pudiera ser para el pr&oacute;ximo a&ntilde;o, o sea, 2026, por la premura del tiempo.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo importante es decir que es una actualizaci&oacute;n, no es impuesto ni un derecho nuevo.</p>
+
+<p>Y segundo, van a reunirse. Ya se aprob&oacute; la Ley de Ingresos en C&aacute;mara de Diputados y en C&aacute;mara de Senadores, en ese caso se tiene que aprobar en las dos C&aacute;maras. En la Ley de Presupuesto &mdash;que, por cierto, ahora voy a mencionar un tema&mdash;, esa solo se aprueba por la C&aacute;mara de Diputados.</p>
+
+<p>Entonces, dado que nos han pedido, enviaron una comunicaci&oacute;n, le ped&iacute; a los secretarios que se re&uacute;nan con ellos, y ya en estas reuniones, pues me van a informar.</p>
+
+<p><strong>PREGUNTA: &iquest;Tienen alg&uacute;n d&iacute;a o que ellos se est&eacute;n reuniendo ah&iacute;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Se est&aacute;n reuniendo, s&iacute;, hay di&aacute;logo con ellos.</p>
+
+<p><strong>PREGUNTA: <em>Okey</em>, perfecto. S&iacute;, porque, al final de cuentas es como tambi&eacute;n ver como si habr&iacute;a algunas afectaciones, que es lo que comentaba con el secretario de&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, no creemos que haya afectaciones, pero, de todas maneras, es importante dialogar con ellos.</p>
+
+<p><strong>PREGUNTA: <em>Ok</em>. Y en mi segunda pregunta, ayer se&hellip; bueno, hubo una ejecuci&oacute;n en la Ciudad de M&eacute;xico en esta Plaza Miyana. Si &iquest;hay alguna informaci&oacute;n?</strong></p>
+
+<p><strong>Esta persona que fue ejecutada en este restaurante, en esta plaza, pues parece que tiene presuntos v&iacute;nculos con un c&aacute;rtel, que tambi&eacute;n est&aacute; vinculado justo con el atentado que sufri&oacute; el secretario actual, Omar Garc&iacute;a Harfuch, en 2020. Si &iquest;tienen alguna informaci&oacute;n al respecto?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Va a comunicar el&hellip; creo que ya comunic&oacute; la Ciudad de M&eacute;xico &mdash;no s&eacute; si ya comunicaron, la Ciudad de M&eacute;xico sobre este tema&mdash;. Ayer, anoche hubo un comunicado, &iquest;no?, y el Gabinete de Seguridad informar&aacute; tambi&eacute;n.</p>
+
+<p><strong>PREGUNTA: Y sobre esta alerta epidemiol&oacute;gica de esta bacteria que anunciaron, &iquest;hay alguna informaci&oacute;n?, si &iquest;hay algunos estados que est&aacute;n alerta?, si &iquest;hay alguna informaci&oacute;n sobre esto?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Tambi&eacute;n va a informar la Secretar&iacute;a de Salud. Ayer me informaron de un caso, pero, digamos, que est&aacute; controlado y va a informar la Secretar&iacute;a de Salud.</p>
+
+<p><strong>PREGUNTA: Justo, entonces, como est&aacute; en lo de las Comisiones este tipo de&hellip; bueno, este incremento&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, no est&aacute; en Comisiones, ya se aprob&oacute;. O sea, ya se aprob&oacute; la Ley de Ingresos en las dos C&aacute;maras, pero nosotros siempre dialogamos y escuchamos los planteamientos de distintos sectores.</p>
+
+<p>Entonces, particularmente en este caso, que sepan las empresas de cruceros que van a estar dialogando con el Almirante secretario y los secretarios incorporados con esto, y ya vamos a evaluar.</p>
+
+<p><strong>PREGUNTA: Ah, entonces ahorita est&aacute;n como en la transici&oacute;n, en la negociaci&oacute;n, ya posteriormente&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Est&aacute;n dialogando.</p>
+
+<p><strong>PREGUNTA: &iquest;Est&aacute;n dialogando?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Por cierto, aprovecho para decir, porque&hellip; A todos los presidentes y presidentas municipales, a los y las gobernadoras: no van a regresar los &ldquo;moches&rdquo; en la aprobaci&oacute;n del presupuesto, ni va a haber &ldquo;etiquetados&rdquo;.</p>
+
+<p><strong>PREGUNTA: &iquest;C&oacute;mo se va a controlar eso?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues confiamos en el Congreso, en que no van a regresar los vicios del pasado.</p>
+
+<p>Porque me comentaron que hay algunos presidentes o presidentas municipales que est&aacute;n yendo a hacer gestiones para que se incorpore en el presupuesto algo.</p>
+
+<p>Entonces, vamos a invertir en todos lados. Es m&aacute;s, yo pienso reunirme con todos los presidentes municipales, sea por regiones, y presidentas, o todos en una reuni&oacute;n porque queremos sumar recursos de los municipios, de los estados y del Gobierno Federal, particularmente, en el tema del agua, pero no solo.</p>
+
+<p>Entonces, eso va a permitir que, aunque sea poquito el recurso que tiene una Presidencia Municipal, si sumamos esfuerzos de proyectos, programas, que de por s&iacute; existen, pues entonces vamos a dar muchos mejores resultados en los pr&oacute;ximos tres a&ntilde;os, que es el mandato de las y los presidentes municipales.</p>
+
+<p>Entonces, vamos a apoyar a todos y a todas desde el Gobierno Federal. Pero de una vez, es importante: que no van a regresar los &ldquo;moches&rdquo;, no va a regresar este esquema de &ldquo;etiquetados&rdquo; en los presupuestos que tanto da&ntilde;o le hizo al pa&iacute;s.</p>
+
+<p>Eso lo saben los diputados de todos los partidos pol&iacute;ticos, no solamente de los partidos aliados, de Morena, del Partido Verde y del Partido del Trabajo, sino tambi&eacute;n lo saben los otros partidos pol&iacute;ticos de oposici&oacute;n: que no deben regresar bajo ninguna circunstancia los vicios del pasado.</p>
+
+<p>Entonces, es importante mencionarlo; porque vamos a apoyar a todos y a todas, en la medida de lo posible, pero es importante que se guarde una unidad en el Presupuesto de Egresos de la Federaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Nada m&aacute;s es el llamado de decirles que no puede haber &ldquo;etiquetados&rdquo; que en el pasado llevaron a &ldquo;moches&rdquo; que hab&iacute;a; que lo he platicado aqu&iacute; muchas veces, c&oacute;mo se daban, c&oacute;mo ofrec&iacute;an desde las diputaciones ofrecimientos hasta de empresas que iban a desarrollar las obras.</p>
+
+<p>Afortunadamente, eso ya se termin&oacute; y lo tienen claro todos los partidos pol&iacute;ticos.</p>
+
+<p><strong>PREGUNTA: &iquest;Se van a acabar entonces con los cabilderos, entonces?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Perd&oacute;n?</p>
+
+<p><strong>PREGUNTA: &iquest;Se van a acabar entonces con los cabilderos de la C&aacute;mara de Diputados?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Eso ya no exist&iacute;a, no existe.</p>
+
+<p>Entonces, nada m&aacute;s es una informaci&oacute;n importante a todas y a todos los presidentes municipales.</p>
+
+<p><strong>PREGUNTA: Del tema.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Del tema, a ver&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias. Muy buenos d&iacute;as, Presidenta. Janet Galindo, de <em>Grupo Transmedia, La Chispa</em>.</strong></p>
+
+<p><strong>Preguntarle, &iquest;de qu&eacute; forma se va a apoyar, sobre todo, a las mujeres en estos Polos de Bienestar en el Corredor, en el Corredor y en todos los puertos donde se est&aacute;n ahorita llevando a cabo?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya no se llaman &ldquo;parques industriales&rdquo;, sino Polos de Bienestar.</p>
+
+<p>&iquest;Cu&aacute;l es el objetivo de los Polos de Bienestar, hoy del Interoce&aacute;nico y despu&eacute;s, en otros lugares de la Rep&uacute;blica que vamos a desarrollar? Es que sean para beneficio de las y los mexicanos.</p>
+
+<p>Entonces, no solo se trata del desarrollo industrial con cierta planeaci&oacute;n, porque la vocaci&oacute;n de los Polos de Bienestar tiene que estar definida a partir de los recursos naturales que hay en determinada entidad de la Rep&uacute;blica o en una regi&oacute;n, o de desarrollos industriales que se han dado en ciertas zonas que tienen una vocaci&oacute;n. Por ejemplo, Veracruz, pues tiene una vocaci&oacute;n hist&oacute;rica de la petroqu&iacute;mica, entonces hay infraestructura que se ha desarrollado ah&iacute;, por decir un ejemplo.</p>
+
+<p>Pero la idea de los Polos de Bienestar es, s&iacute;, la inversi&oacute;n privada, pero, adem&aacute;s, que traiga bienestar a la poblaci&oacute;n.</p>
+
+<p>Y el bienestar tiene que ver con buenos salarios &mdash;por eso, el aumento salarial que anunciamos ayer, que va a seguir aumentando el salario m&iacute;nimo&mdash;; tiene que ver con que haya vivienda; que si va a trabajar ah&iacute;, quienes van a trabajar ah&iacute;: que tengan acceso a educaci&oacute;n, que tengan acceso a una vivienda digna, que tengan acceso a la salud, que tengan acceso a movilidad y que haya acceso a la justicia para las mujeres.</p>
+
+<p>Entonces, todo est&aacute; planteado, en todo el pa&iacute;s, pero particularmente para estos Polos de Bienestar; trabaja, en este caso, la Secretar&iacute;a de Marina, pero trabajan otras Secretar&iacute;as brindando los grandes derechos de los que hemos hablado varias veces.</p>
+
+<p><strong>PREGUNTA: Tambi&eacute;n preguntar si&hellip;&nbsp; Trascendi&oacute; que va a haber un descuento en cuanto al boletaje del Tren Interoce&aacute;nico. Saber, si &iquest;esto es real o no? Supuestamente esto es del 28 de noviembre al 1o. de enero. &iquest;Y si lo mismo pasar&iacute;a tambi&eacute;n en el Tren Maya?, si &iquest;por periodo vacacional va a haber alg&uacute;n descuento? Aprovechando, para ir.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;&iquest;Va a haber alg&uacute;n descuento? Adelante&mdash;.</p>
+
+<p><strong>SECRETARIO DE MARINA, RAYMUNDO PEDRO MORALES &Aacute;NGELES:</strong> Bueno, los descuentos ya est&aacute;n anunciados en las p&aacute;ginas.</p>
+
+<p>Y son descuentos para los adultos mayores, que tienen 50 por ciento; a las personas con capacidades diferentes tambi&eacute;n; a los estudiantes tambi&eacute;n, tienen el descuento del 50 por ciento; y cuando alguna persona demuestra que tiene&hellip; que no trae dinero para comprar su boleto, lo dejamos pasar gratis.</p>
+
+<p><strong>PREGUNTA: Much&iacute;simas gracias. Esto es por periodo vacacional, &iquest;verdad?, Almirante.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya les informamos del Tren Maya, porque no tengo la informaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: <em>Ok</em>, bueno.</strong></p>
+
+<p><strong>Y, Presidenta, tambi&eacute;n, &iquest;qu&eacute; mensaje le dar&iacute;a hacia la oposici&oacute;n ante tantas cr&iacute;ticas en torno a la seguridad, a la seguridad nacional? Tanto critican a su gobierno y tambi&eacute;n hay cr&iacute;ticas diciendo que &ldquo;por ser mujer, que usted no va a poder con la seguridad&rdquo;.</strong></p>
+
+<p><strong>Saber si tambi&eacute;n, &iquest;ya hay alg&uacute;n avance, alg&uacute;n informe de parte del secretario de Seguridad?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>&iquest;Informe del secretario de Seguridad?</p>
+
+<p><strong>PREGUNTA: Aj&aacute;, de ahorita que est&aacute; &eacute;l en Sinaloa.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si. &Eacute;l va a estar informando, a trav&eacute;s de comunicados.</p>
+
+<p>Ha habido varias detenciones y se est&aacute; haciendo una revisi&oacute;n integral del trabajo coordinado de todas las &aacute;reas del Gobierno Federal y del gobierno estatal. Entonces, esa es la tarea que tiene el secretario de Seguridad y Protecci&oacute;n Ciudadana en este momento en Sinaloa, y va a ayudar mucho.</p>
+
+<p>Que, por cierto, ayer el <em>Reforma</em> sac&oacute; de que &ldquo;cambio en la Estrategia de Seguridad&rdquo;.</p>
+
+<p>Siempre hablamos de la Coordinaci&oacute;n como parte de la Estrategia de Seguridad; entonces, para ayudar a la coordinaci&oacute;n; que existe la coordinaci&oacute;n, pero a veces se requiere una coordinaci&oacute;n operativa mayor. Entonces, estamos nombrando responsables en distintas zonas que nos ayuden a fortalecer esa coordinaci&oacute;n; en algunos casos es un responsable de Marina, en otros casos de la Guardia Nacional, en otros casos del Ej&eacute;rcito, en otros de la propia Secretar&iacute;a de Seguridad Ciudadana.</p>
+
+<p>Y, como he dicho, la Estrategia de Seguridad va a dar resultados; no es&hellip; Ya est&aacute; dando, porque las detenciones que se han hecho, la incautaci&oacute;n que se ha hecho, que es hist&oacute;rica, &mdash;&iquest;cu&aacute;ntas toneladas fueron de coca&iacute;na? &iquest;Por qu&eacute; no lo comenta?&mdash;</p>
+
+<p><strong>SECRETARIO DE MARINA, RAYMUNDO PEDRO MORALES &Aacute;NGELES:</strong> S&iacute; se han hecho importantes aseguramientos, tanto de coca&iacute;na en la mar, tenemos un aseguramiento de m&aacute;s de ocho toneladas en un solo evento.</p>
+
+<p>Y constantemente estamos asegurando embarcaciones que traen entre 1.5 hasta 3 toneladas de coca&iacute;na; adem&aacute;s de otros aseguramientos que se han hecho importantes en tierra y que permiten debilitar el tr&aacute;fico de drogas, tanto al interior de M&eacute;xico como hacia los Estados Unidos.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Entonces, se han hecho aseguramientos, como bien dice el Almirante, y hay detenciones; aparte de todo el trabajo de atenci&oacute;n a las causas que se est&aacute; haciendo.</p>
+
+<p>Y los cuatro ejes, est&aacute;n dando y van a dar m&aacute;s resultados para bajar todav&iacute;a m&aacute;s los &iacute;ndices, que es Atenci&oacute;n a las Causas, Fortalecimiento de la Guardia Nacional, Inteligencia e investigaci&oacute;n &mdash;que ya va a salir el decreto, por cierto, de la reforma al 21 constitucional y vamos a enviar la Ley del Sistema Nacional de Inteligencia e Investigaci&oacute;n para la Seguridad P&uacute;blica&mdash; y la Coordinaci&oacute;n, que es muy importante.</p>
+
+<p>Y ahora, tenemos la coordinaci&oacute;n que, repito, agradecemos mucho al fiscal, el doctor Gertz Manero, porque hay una presencia permanente de la FGR en la reuni&oacute;n del Gabinete de Seguridad, y eso nos est&aacute; ayudando mucho en la coordinaci&oacute;n que se debe tener.</p>
+
+<p>Y tambi&eacute;n, los jueces tienen que hacer su parte. Digo, ya se va a hacer la elecci&oacute;n el pr&oacute;ximo a&ntilde;o; que, por cierto, creo que ya aprobaron en la Corte que ya van enviar los fideicomisos a la Tesorer&iacute;a, qu&eacute; bueno, pues es parte de la reforma constitucional.</p>
+
+<p>Y la coordinaci&oacute;n tambi&eacute;n tiene que ver con que los jueces hagan su parte, porque &iquest;c&oacute;mo es posible las liberaciones que est&aacute;n haciendo? Es, de verdad, de no creerse la actitud de ciertos jueces; ya no solo en temas que tienen que ver con el pago de impuestos &mdash;que hacen largas y largas y largas y largas para que no se paguen impuestos&mdash;, sino para el tema de delincuencia en donde liberan delincuentes.</p>
+
+<p>Entonces, tambi&eacute;n el Poder Judicial en este periodo tiene que hacer su parte, si no&hellip; &iquest;Qui&eacute;nes son los que emiten una orden de aprehensi&oacute;n? Los jueces, los estatales, el de la Ciudad de M&eacute;xico y los federales. Y estos amparos que se dan, de muchas maneras, incluso contra extradiciones.</p>
+
+<p>Entonces, la coordinaci&oacute;n es fundamental.</p>
+
+<p>Ahora, la oposici&oacute;n pues va a seguir. Ayer, por cierto, que preguntaron de la persona que&hellip;</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No. Que dijo que estaba desempleado. F&iacute;jense qu&eacute; interesante: &iquest;D&oacute;nde sale el <em>Podcast</em> este?</p>
+
+<p><strong>PREGUNTA: En <em>Nexos</em>.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Qui&eacute;n dirige <em>Nexos</em>?</p>
+
+<p><strong>PREGUNTA: Aguilar Cam&iacute;n.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Se acuerdan de la relaci&oacute;n que puso aqu&iacute; el entonces Presidente Andr&eacute;s Manuel L&oacute;pez Obrador entre&hellip;? No, no, no, la relaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Los apapachos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Los apapachos.</p>
+
+<p><strong>PREGUNTA: El adelanto de pago.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El adelanto de pago, las cartas de Aguilar Cam&iacute;n a Salinas de Gortari y viceversa, que no le alcanzaba, que no hab&iacute;a terminado de hacer su&hellip; Y ahora, aparece en un <em>podcast</em>, seg&uacute;n esto, &ldquo;el an&aacute;lisis de 20 a&ntilde;os del primer Tratado&rdquo;, en la revista <em>Nexos</em>.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, bueno, a ver, hagan su an&aacute;lisis.</p>
+
+<p>Ahora, muy desempleado, muy desempleado, pero &iquest;a poco lo han visto viajar en un avi&oacute;n comercial?</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, bueno, pregunto, &iquest;no? Digo, nada m&aacute;s para documentar lo que est&aacute; ocurriendo, que es importante.</p>
+
+<p>La aparici&oacute;n, &iquest;d&oacute;nde aparece?; y luego, que, seg&uacute;n esto, est&aacute; desempleado, &iquest;no?</p>
+
+<p><strong>PREGUNTA: &iquest;Usted lo considera desempleado?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, bueno, &iquest;en qu&eacute; viaja, por ejemplo? Digo, ustedes son reporteros, investigadores. Vale la pena preguntarse, &iquest;no?</p>
+
+<p>Pero, bueno, la oposici&oacute;n&hellip; Y, bueno, es, de verdad, de verdad, incre&iacute;ble &mdash;ayer lo dec&iacute;amos&mdash; los inventos de los columnistas, y tambi&eacute;n de las notas: &ldquo;Cambio en la Estrategia de Seguridad&rdquo;, &ldquo;La Presidenta no tiene mano dura&rdquo;. No, no, no.</p>
+
+<p>Que, por cierto, el autoritarismo nunca va a ser la caracter&iacute;stica de los gobiernos de la Cuarta Transformaci&oacute;n.</p>
+
+<p>Nosotros somos dem&oacute;cratas, siempre hemos luchado por la democracia, desde&hellip; Cuando yo tuve el privilegio &mdash;porque, la verdad, fue un privilegio&mdash; de estudiar fuera de M&eacute;xico mi investigaci&oacute;n doctoral, del &acute;90 al &acute;94 viv&iacute; en el norte de California.</p>
+
+<p>Por eso, digo que &ldquo;a m&iacute; el pueblo de M&eacute;xico me pag&oacute; mi educaci&oacute;n&rdquo; y que lo que estoy obligada a hacer es regresarle al pueblo de M&eacute;xico lo que me dio. Por eso, vamos a aumentar las universidades p&uacute;blicas porque queremos que el joven que quiera estudiar la universidad tenga el derecho de estudiar la universidad gratuita, de calidad, humanista, cient&iacute;fica.</p>
+
+<p>Pero, bueno, tuve esa oportunidad de vivir cuatro a&ntilde;os fuera de M&eacute;xico. Por cierto, en aquella &eacute;poca hicimos algunas&hellip; Siempre me dediqu&eacute; a la academia, pero nunca dej&eacute; de participar para la transformaci&oacute;n de mi pa&iacute;s.</p>
+
+<p>Estando all&aacute;, recuerdo dos &aacute;reas donde participamos en movilizaciones.</p>
+
+<p>Una, por el derecho de los mexicanos en el extranjero a votar. Llegamos a hacer con mexicanos y mexicanas all&aacute;, del otro lado &mdash;que aprovecho para mandarles saludos a todas y a todos nuestros paisanos y paisanas&mdash;; hac&iacute;amos movilizaciones frente a los Consulados, le llam&aacute;bamos &ldquo;piquetes&rdquo; &mdash;as&iacute; le llaman all&aacute;, porque hay que moverse para que la polic&iacute;a no&hellip; o sea, no puedes estar parado, tienes que estarte moviendo&mdash; para demandar a los Consulados que se permitiera el voto de los mexicanos que viven fuera de M&eacute;xico.</p>
+
+<p>Y despu&eacute;s, cuando fue Salinas a Stanford, eran los 100 a&ntilde;os de esa universidad, y justo se estaba discutiendo el TLC. Y entonces nosotros &mdash;digo &ldquo;nosotros&rdquo;, los que est&aacute;bamos organiz&aacute;ndonos all&aacute;, y ac&aacute; tambi&eacute;n en M&eacute;xico&mdash;, pens&aacute;bamos que ese Tratado ten&iacute;a que ser justo y que incluyera buenos salarios para las y los mexicanos, y otros temas.</p>
+
+<p>Entonces, cuando se presenta... No le digo &ldquo;presidente&rdquo;, porque lleg&oacute; con un fraude electoral, Salinas de Gortari. O sea, con las diferencias que tengo con Fox, Fox gan&oacute; la Presidencia; pero Salinas de Gortari lleg&oacute; con un fraude electoral en contra del ingeniero Cuauht&eacute;moc C&aacute;rdenas.</p>
+
+<p>Entonces, cuando va all&aacute;, pues &eacute;ramos un grupo de mexicanos y mexicanas, algunos estudiantes, otros trabajadores del campo, otros trabajadores de f&aacute;bricas, que hicimos nuestra manifestaci&oacute;n en el estadio donde se hizo el evento.</p>
+
+<p>Y no hicimos esc&aacute;ndalo, sino que sencillamente levantamos carteles; yo levant&eacute; un cartel durante todo el evento que dec&iacute;a: &rdquo;Democracia ya, tratado justo&rdquo; &mdash;a ver si la encuentran por ah&iacute;&mdash;. Al otro d&iacute;a, en el peri&oacute;dico de esta universidad sali&oacute; esa fotograf&iacute;a.</p>
+
+<p>Porque en aquella &eacute;poca &mdash;y es importante que las y los j&oacute;venes lo recuerden&mdash; pues vino la privatizaci&oacute;n de cientos de empresas p&uacute;blicas que se vendieron &mdash;ahora que hablan tanto del INAI, &iquest;no? Digo, entonces no hab&iacute;a&mdash;, pero de manera muy oscura.</p>
+
+<p>Supuestamente eso iba a sacar a M&eacute;xico delante de las crisis que hubo previas, lo cierto es que termina ese periodo; al mismo tiempo que termina el periodo, viene el asesinato de Colosio, en ese periodo de Salinas de Gortari, el levantamiento en Chiapas. Y cuando entra el nuevo gobierno de Zedillo, una crisis econ&oacute;mica tremenda; que ah&iacute;, entre ellos, dicen que fue un error de uno y error del otro.</p>
+
+<p>Pero lo cierto, es que&hellip; El periodo neoliberal empieza con Miguel de la Madrid; pero en el periodo de Salinas es donde se venden las empresas y se aplica todo lo que dictaban los organismos internacionales.</p>
+
+<p>Y, supuestamente, M&eacute;xico iba a partir de ah&iacute; a fortalecer su econom&iacute;a. Pues &iquest;cu&aacute;l es el resultado?, diciembre del &rsquo;94: una devaluaci&oacute;n tremenda del peso y una crisis tremenda.</p>
+
+<p>Y despu&eacute;s de eso, se decide rescatar a los bancos por parte de Zedillo de una manera totalmente oscura, con el llamado&hellip; con el Fobaproa, ahora el IPAB, y nunca se rescata a los deudores, a los verdaderos deudores, que hubo much&iacute;simas movilizaciones entonces. Se rescata a los de arriba y nunca a los de abajo porque, como dec&iacute;a el Presidente L&oacute;pez Obrador, &ldquo;a eso no le llaman rescate, le llaman populismo&rdquo;.</p>
+
+<p>&mdash;Pero ah&iacute; est&aacute; la foto de&hellip;&mdash;</p>
+
+<p>Ah, bueno. Y los 500 muertos de la oposici&oacute;n en aquella &eacute;poca asesinados.</p>
+
+<p>Entonces, es importante para las y los j&oacute;venes que nacieron despu&eacute;s del periodo de Salinas, que se recuerde qu&eacute; se hizo en aquel sexenio, qu&eacute; ocurri&oacute;.</p>
+
+<p>Y ahora ustedes, que hagan su an&aacute;lisis de c&oacute;mo es que ahora aparece de nuevo en <em>Nexos</em>, en la reivindicaci&oacute;n de aquello, m&aacute;s all&aacute; del desarrollo despu&eacute;s del TLC y el T-MEC, que el T-MEC se negoci&oacute; de una manera muy distinta.</p>
+
+<p><strong>PREGUNTA: Presidenta, &iquest;cu&aacute;ntos a&ntilde;os ten&iacute;a?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah&iacute; son&hellip; Yo nac&iacute; en el &acute;62; &acute;91.</p>
+
+<p>39, s&iacute;, 39, &iquest;verdad?; 29, perd&oacute;n, 29, 29.</p>
+
+<p><strong>PREGUNTA: (inaudible) en el gobierno, &iquest;no?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Si&hellip; pues no s&eacute; si te alcance para viajar de ida y vuelta en&hellip;&mdash;</p>
+
+<p>Bueno, ya.</p>
+
+<p><strong>PREGUNTA: (inaudible) para pagar los sueldos de este mes?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Perd&oacute;n?</p>
+
+<p><strong>PREGUNTA: &iquest;El IMSS-Bienestar (inaudible) presupuesto para pagar los sueldos de este mes de diciembre?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;De qui&eacute;n?</p>
+
+<p><strong>PREGUNTA: IMSS-Bienestar. Lo que pasa es que en el Hospital de Alta Especialidad Regional de Ixtapaluca hay un problema de falta de pago y de presupuesto, tanto a insumos, pero, sobre todo, de los enfermeros y de&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute; hay presupuesto. Le voy a pedir al secretario de Salud que lo revise, y a Alejandro Svarch, porque s&iacute; hay presupuesto.</p>
+
+<p>Por ejemplo, me dec&iacute;an que uno de los temas que se plante&oacute; en Cardiolog&iacute;a, se hab&iacute;a depositado el presupuesto ya varios d&iacute;as antes.</p>
+
+<p>Entonces, s&iacute; hay presupuesto, y que los atienda Alejandro y David Kershenobich.</p>
+
+<p><strong>PREGUNTA: Presidenta, &iquest;a cu&aacute;nto aumentar&aacute; la pensi&oacute;n para el pr&oacute;ximo a&ntilde;o, la pensi&oacute;n universal?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a aumentarla un poquito m&aacute;s de la inflaci&oacute;n, entre otras cosas, porque vamos a hacer el programa de atenci&oacute;n domiciliaria de la salud.</p>
+
+<p>Se hizo una encuesta por parte de los servidores de la naci&oacute;n, de &iquest;qu&eacute; eran lo que m&aacute;s requer&iacute;an de atenci&oacute;n las y los adultos mayores? Y entonces, la gran mayor&iacute;a plantearon que atenci&oacute;n a la salud de diverso tipo; entonces, por eso dise&ntilde;amos el programa de Salud Casa por Casa. Entonces, ahora van a tener ese beneficio.</p>
+
+<p>Y a mediados del pr&oacute;ximo a&ntilde;o, m&aacute;s o menos, vamos a iniciar con la construcci&oacute;n de las Farmacias del Bienestar a un lado de los Bancos del Bienestar, donde van a poder ir a recoger los medicamentos b&aacute;sicos que requieran; y si no, de parte del personal de salud que los va a estar atendiendo poderlos llevar directamente a un centro de salud.</p>
+
+<p>&mdash;Bueno, &iquest;qui&eacute;n m&aacute;s? Carlos&mdash;.</p>
+
+<p><strong>PREGUNTA: Yo pens&eacute; que ya no, porque ya es tarde, pero, bueno.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, adelante.&nbsp; La &uacute;ltima.</p>
+
+<p><strong>PREGUNTA: Buen d&iacute;a, Presidenta; buen d&iacute;a para todos. Carlos Guzm&aacute;n, de <em>Cuatro Media Telecomunicaciones, AvaNoticias</em>, Veracruz. </strong></p>
+
+<p><strong>Retomar el tema del Trans&iacute;stmico, bueno, el Interoce&aacute;nico, pero tambi&eacute;n se denomina &ldquo;Trans&iacute;stmico&rdquo;. Hay un tema que no se ha abordado, pero, aprovechando que est&aacute; aqu&iacute; el responsable del tema, s&iacute; ser&iacute;a bueno que lo abordaran, el tema del alertamiento s&iacute;smico; por eso se llama &ldquo;Trans&iacute;stmico&rdquo;, porque recorre la parte donde hay m&aacute;s sismos en el pa&iacute;s. Es consultarle, si &iquest;se est&aacute; considerando justamente este tema?, derivado por dos cosas:</strong></p>
+
+<p><strong>Uno, es de pasajeros; dos, es de carga. En el caso de la carga, usted ya lo acaba de mencionar, pues se llevan cuestiones peligrosas; en ese caso, aparte de los pasajeros se lleva hidr&oacute;geno, se van a llevar much&iacute;simas cosas peligrosas. Y en el caso de un sismo, yo recuerdo, por im&aacute;genes, que en el 2 mil&hellip;, si mal no recuerdo, 2012, hubo un sismo importante en la Ciudad de M&eacute;xico y la L&iacute;nea A, que es la que corre en la zona oriente, pues las v&iacute;as quedaron pr&aacute;cticamente como unas &ldquo;S&rdquo;.</strong></p>
+
+<p><strong>No s&eacute;, &iquest;si habr&iacute;a alguna consideraci&oacute;n para incluir la alerta s&iacute;smica dentro de lo que es este transporte, porque, finalmente, es algo importante?, o no s&eacute; c&oacute;mo usted lo considere.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ahora le doy la palabra al Almirante.</p>
+
+<p>&mdash;Si quiere, comente y ahorita, comento otro tema. Adelante&mdash;.</p>
+
+<p><strong>DIRECTOR GENERAL DEL CORREDOR INTEROCE&Aacute;NICO DEL ISTMO DE TEHUANTEPEC, JUAN CARLOS VERA MINJARES:</strong> Toda la rehabilitaci&oacute;n y construcci&oacute;n de la infraestructura se realiza con los estudios de ingenier&iacute;a correspondientes, desde luego, toda la ciencia de los sismos y conforme a las normas vigentes.</p>
+
+<p>Tambi&eacute;n todos los puentes ferroviarios tienen topes s&iacute;smicos. Y las especificaciones que se exigen en la construcci&oacute;n del terrapl&eacute;n, del subalastro para que las v&iacute;as&hellip; antes de que se instalen las v&iacute;as, es muy puntual y precisa.</p>
+
+<p>Pero el Trans&iacute;stmico se llama porque &ldquo;trans&rdquo;, porque cruza el &ldquo;Istmo&rdquo; de Tehuantepec. Es el nombre de &ldquo;Trans&iacute;stmico&rdquo;.</p>
+
+<p><strong>PREGUNTA: S&iacute;, pero tambi&eacute;n justamente por ese tema, obviamente, no est&aacute; ajeno. Incluso, no por nada, el Sistema de Alertamiento de S&iacute;smico Mexicano tiene la mayor&iacute;a de estaciones justamente en esta franja, eh, no es cualquier cosa.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Es decir, la rehabilitaci&oacute;n que se hizo tiene todos los estudios estructurales, porque es importante, no es nada m&aacute;s una rehabilitaci&oacute;n de las v&iacute;as, son ingenieros&hellip; As&iacute; como los ingenieros militares son buen&iacute;simos, los ingenieros de la Marina tambi&eacute;n son de primera.</p>
+
+<p>Entonces, la rehabilitaci&oacute;n no solamente fue rehacer las v&iacute;as, sino una rehabilitaci&oacute;n estructural. Por ejemplo, este puente que se est&aacute; planteando de la L&iacute;nea K&hellip; &mdash;Es la L&iacute;nea K, &iquest;verdad?, la que va&hellip;&mdash;, el viaducto este de 3 kil&oacute;metros, pues tiene todos los estudios estructurales para poder sostener los sismos que se pueden presentar en esta zona.</p>
+
+<p>Y se puede llegar a evaluar, todav&iacute;a estamos &mdash;si te acuerdas&mdash; desde la Ciudad con el tema de los tel&eacute;fonos, &iquest;verdad?, que funcione adecuadamente la alarma s&iacute;smica en los tel&eacute;fonos.</p>
+
+<p>Ahora, la L&iacute;nea A del Metro pasa por avenida Zaragoza, Calzada Zaragoza.</p>
+
+<p>Calzada Zaragoza en el oriente de la Ciudad, &eacute;sta, digamos, problem&aacute;tica que tienen las v&iacute;as &mdash;que m&aacute;s que ser sinuoso, es m&aacute;s bien de hundimientos&mdash; tiene que ver, no por los sismos, se manifiesta en los sismos, pero tiene que ver con la sobreexplotaci&oacute;n del acu&iacute;fero que hay en la Zona Metropolitana del Valle de M&eacute;xico, particularmente, en el oriente.</p>
+
+<p>En Iztapalapa, porque cruza principalmente por la alcald&iacute;a Iztapalapa, si recuerdan, en el sismo del &lsquo;17 se abrieron muchas grietas que fueron muy notorias.</p>
+
+<p>Ah&iacute;, Clara Brugada, hoy jefa de gobierno era alcaldesa de Iztapalapa &mdash;su servidora all&aacute; en el 2018 era jefa de gobierno&mdash;, y trabajamos conjuntamente con el Instituto de Ingenier&iacute;a de la UNAM, con el &aacute;rea de Geotecnia y Mec&aacute;nica de Suelos, y se vio que no eran grietas relacionadas con grietas de sismos, digamos, con fallas geol&oacute;gicas, sino m&aacute;s bien con tipos de suelo distintos que, al secarse al acu&iacute;fero, por ejemplo, en alg&uacute;n suelo arcilloso se seca la arcilla.</p>
+
+<p>La arcilla es barro, entonces, cuando tiene agua se infla como el barro y cuando se seca es como arena. Entonces, la arcilla se comporta de cierta manera; pero si en alg&uacute;n lugar hay un suelo duro y en otro un suelo arcilloso, ah&iacute; se manifiesta una diferencia que, con la disminuci&oacute;n de agua en el acu&iacute;fero y los sismos, se vienen estos hundimientos, pero no es por una falla geol&oacute;gica en el oriente.</p>
+
+<p>Los microsismos, por ejemplo, s&iacute; tienen que ver con estudios que se est&aacute;n haciendo de alg&uacute;n tipo de fallas, que se tienen medidos y revisados.</p>
+
+<p>Entonces, en Zaragoza estos hundimientos se dan. Si se fijan, cuando se circula de Puebla hacia la Ciudad de M&eacute;xico, luego avenida Zaragoza o Calzada Zaragoza es as&iacute;, e igual que el Metro que va por la L&iacute;nea A; pero se debe, m&aacute;s bien, a estos hundimientos por la sobreexplotaci&oacute;n del acu&iacute;fero.</p>
+
+<p>Y se desarroll&oacute; una t&eacute;cnica y se hizo una norma de c&oacute;mo cerrar esas fallas para que tengan menos problemas.</p>
+
+<p>Clara hizo un trabajo extraordinario, porque junto con la gente mapearon cada falla geol&oacute;gica, y la tienen mapeada y tienen un centro de atenci&oacute;n en Iztapalapa para eso.</p>
+
+<p>Pero, bueno, ya el istmo o el sismo, vamos, tiene su estructuraci&oacute;n. Y aparte, vamos a revisar lo de la alarma s&iacute;smica.</p>
+
+<p>&mdash;Vamos a cerrar porque ya son 9:15&mdash;.</p>
+
+<p><strong>PREGUNTA: Lo de Ayotzinapa.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bien, vamos a seguir hablando con ellas y con ellos. Se est&aacute;n siguiendo nuevos, digamos, instrumentos de investigaci&oacute;n que est&aacute; revisando un nuevo equipo de trabajo para poder llegar a m&aacute;s detenciones, y a la verdad y a la justicia.</p>
+
+<p>Entonces, fue una buena reuni&oacute;n. La idea es no confrontarnos, sino buscar las salidas.</p>
+
+<p>Les plante&eacute; que yo estoy de acuerdo con las cartas que en su momento envi&oacute; el Presidente, pero que no se trata de entrar de nuevo a un esquema de decir una cosa o la otra, sino que encontremos nuevos lugares de b&uacute;squeda, que se est&aacute;n visualizando, a partir de esta, digamos, nueva visi&oacute;n de la investigaci&oacute;n y nueva revisi&oacute;n de todas las carpetas de investigaci&oacute;n.</p>
+
+<p>Ayer hubo otra detenci&oacute;n muy importante del caso Ayotzinapa. Entonces, vamos a estar trabajando de esta manera.</p>
+
+<p><strong>PREGUNTA: (Inaudible) </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Lo sigue encabezando el subsecretario de Derechos Humanos, Arturo Medina; la secretaria de Gobernaci&oacute;n; pero se est&aacute; apoyando tambi&eacute;n a la Fiscal&iacute;a con las investigaciones que hace el fiscal especial para este caso.</p>
+
+<p><strong>PREGUNTA: &iquest;Habr&aacute; cambios en la Fiscal&iacute;a Especializada?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Por lo pronto no, m&aacute;s bien es este fortalecimiento en acuerdo, obviamente, con el fiscal general de la Rep&uacute;blica para poder llegar a la verdad y a la justicia, que es lo que todos queremos, y encontrar a los j&oacute;venes de Ayotzinapa.</p>
+
+<p><strong>PREGUNTA: (inaudible) que piden ellos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Llegamos a distintos acuerdos. Nosotros siempre vamos a abrir todo lo que se requiera, es decir, nadie va a proteger a nadie; como lo hizo en su momento el Presidente L&oacute;pez Obrador.</p>
+
+<p>Y no quisiera yo mencionar algunos temas en particular que tienen que ver con la investigaci&oacute;n, pero creo que fue una buena reuni&oacute;n, y vamos a seguir con reuniones con ellos. Y nuestro objetivo es que nunca, hasta que no se encuentre a todos los j&oacute;venes no debe cerrarse esa carpeta, nunca.</p>
+
+<p>&mdash;Ahora, s&iacute;, Noem&iacute;&mdash;.</p>
+
+<p><strong>SUBSECRETARIA DE EDUCACI&Oacute;N B&Aacute;SICA DE LA SECRETAR&Iacute;A DE EDUDACI&Oacute;N P&Uacute;BLICA, NOEM&Iacute; JU&Aacute;REZ P&Eacute;REZ:</strong> Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Como ustedes saben, el pasado 25 de noviembre se conmemor&oacute; el D&iacute;a Internacional para la Eliminaci&oacute;n de la Violencia Contra las Mujeres en este espacio, en este espacio se dio a conocer la campa&ntilde;a permanente es &ldquo;&iexcl;Tiempo de mujeres sin violencia! &iexcl;S&uacute;mate y transforma!&rdquo;.</p>
+
+<p>La c&aacute;psula del d&iacute;a de hoy est&aacute; dedicada a preguntarnos sobre: &iquest;por qu&eacute; el 25 de noviembre se conmemora este d&iacute;a?, &iquest;en honor a qui&eacute;nes o por qu&eacute;?, y para ello les invito a ver la siguiente c&aacute;psula.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE LA SECCI&Oacute;N &ldquo;MUJERES EN LA HISTORIA&rdquo; SOBRE LA HERMANAS MIRABAL)</strong></p>
+
+<p><strong>SUBSECRETARIA DE EDUCACI&Oacute;N B&Aacute;SICA DE LA SECRETAR&Iacute;A DE EDUCACI&Oacute;N P&Uacute;BLICA, NOEM&Iacute; JU&Aacute;REZ P&Eacute;REZ:</strong> Ese 25 de noviembre es en honor a las hermanas Mirabal, conocidas como &ldquo;Las Mariposas&rdquo;.</p>
+
+<p>Es importante para nosotras destacar la participaci&oacute;n y la trascendencia de este d&iacute;a, porque tambi&eacute;n con el 25 de noviembre, inicia hasta el 10 de diciembre estos 16 d&iacute;as de activismo, concluyen el 10 de diciembre, justamente en el D&iacute;a Internacional de los Derechos Humanos.</p>
+
+<p>Para finalizar, recientemente, tuve una reuni&oacute;n con Gabriela Rodr&iacute;guez Ram&iacute;rez, secretaria general del Consejo Nacional de Poblaci&oacute;n, precisamente, en una de estas actividades conmemorativas a los 16 d&iacute;as de activismo. Y ella recuperaba una frase de Minerva Mirabal que me gustar&iacute;a retomar, pero inici&oacute; con ella porque hizo una importante referencia. La frase de Minerva Mirabal ante las constantes amenazas que recib&iacute;a por parte de Trujillo, ella contest&oacute;: &ldquo;Si me matan, sacar&eacute; los brazos de la tumba y ser&eacute; m&aacute;s fuerte&rdquo;.</p>
+
+<p>Gabriela hac&iacute;a una referencia de que esos &ldquo;brazos&rdquo; somos nosotras las mujeres que tambi&eacute;n el d&iacute;a de hoy trascendemos y ayudamos a la lucha que tambi&eacute;n en alg&uacute;n momento iniciaron las hermanas Mirabal, y que, bueno, hoy d&iacute;a son un s&iacute;mbolo de la resistencia y, adem&aacute;s, de la lucha contra la violencia hacia las mujeres.</p>
+
+<p>Y para finalizar, otra vez hacer &eacute;nfasis en esta campa&ntilde;a permanente, adem&aacute;s del 25 de noviembre de los 16 d&iacute;as de activismo, debemos, de manera constante, movilizar instituciones y sociedad general para prevenir y eliminar la violencia contra las mujeres y contra nuestras ni&ntilde;as.</p>
+
+<p>&ldquo;&iexcl;Es tiempo de mujeres sin violencia! &iexcl;S&uacute;mate y transforma!&rdquo;</p>
+
+<p>Es cuanto, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias a todos y a todas.</p>
+
+<p><strong>PREGUNTA: Su agenda, Presidenta, para hoy.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Hoy es la comida, &iquest;verdad?&mdash;.</p>
+
+<p><strong>PREGUNTA: &iquest;De qu&eacute; es la comida?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pescado&hellip; Vamos a ir con el &mdash;&iquest;c&oacute;mo se llama?&mdash; Consejo&hellip;</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No. De Negocios, s&iacute;, vamos a ver a los empresarios.</p>
+
+<p><strong>PREGUNTA: &iquest;Aqu&iacute; en Palacio?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, vamos a salir.</p>
+
+<p>Gracias.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+</div>
+</div>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-12-05 08:30:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de diciembre de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-diciembre-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-diciembre-de-2024" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de diciembre de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-diciembre-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-diciembre-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de diciembre de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-diciembre-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-diciembre-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-diciembre-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

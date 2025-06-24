@@ -1,0 +1,1968 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 6 de enero de 2025 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 6 de enero de 2025" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152607/2025-01-06_Conferencia_de_prensa_matutina_-_Palacio_Nacional_29.jpg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-6-de-enero-de-2025?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152607/2025-01-06_Conferencia_de_prensa_matutina_-_Palacio_Nacional_29.jpg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="tv2T6wKc4191rG9RCw/jC/dzsjnqJk4s+FKd5TGXco0=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7hzwz44jyfq-f-c8790e18f-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":19,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"de2fc4b","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62431,"ak.gh":"23.47.207.151","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296843","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==IwVTX+BI4EOTHzUjI58c9D9gB5jQwMoLVVdaWL8BCEYRIzA9w9R2QEzFSNHpVsscEnP8/2ZRlIMFD5V7cSQS1IeZK/4A70kgq/vZ5bNgVpgCqMkKNnfW8jVsqfiZZxswMJRTNJrBr6gfwlU2BgJevMvFazCi3ZZczkaah/qt88PsxLUWUmCv0StjeffMxcS1Mg0x0yp9jKmgTBZa2OQ9Dxl0zerl//ULNCoZg/smon7yhT3Sa69ivN/ml6YNCRB6v2I2K0mWnx/gOs00ZmdjM3kKMXdgF7HTqdxYj4gpZ4WdqJTzWHNHRipSTVIg60Td8Cx+YAeGpEqn49EGfy4LWB80pr7m0d7aXk+9SmLRmwDT53bxZgrRfp6AZwX7JW1uXMjwDZRl5eT9s3doQYzxhn1Mi9RNd/GQtdBAIZ5xUls=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 6 de enero de 2025</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 06 de enero de 2025</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Presidenta Claudia Sheibaum" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/152607/2025-01-06_Conferencia_de_prensa_matutina_-_Palacio_Nacional_29.jpg" />
+  	      <span class="small">Presidenta Claudia Sheibaum</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:&nbsp; </strong>Buenos d&iacute;as. Ya regresaron todos de vacaciones, casa llena.</p>
+
+<p>Feliz D&iacute;a de Reyes. &mdash;&mdash;Paulina, &iquest;hoy va a haber rosca? A ver qui&eacute;n va a traer los tamales&mdash;.</p>
+
+<p>Bueno, buenos d&iacute;as a todos y a todas.</p>
+
+<p>El d&iacute;a de hoy vamos a tener varios temas:</p>
+
+<p>El primero es &ldquo;Qui&eacute;n es qui&eacute;n en los precios&rdquo;, con Profeco e Iv&aacute;n Escalante.</p>
+
+<p>Despu&eacute;s, vamos a presentar becas y La Escuela es Nuestra para este a&ntilde;o, con Mario Delgado, secretario de Educaci&oacute;n, y Pamela, directora general del programa La Escuela es Nuestra.</p>
+
+<p>Y est&aacute;n aqu&iacute; con nosotros la doctora Rosaura Ruiz, secretaria de Ciencia, Humanidades, Tecnolog&iacute;a e Innovaci&oacute;n; Rafael Garayoa, coordinador t&eacute;cnico del proyecto Olinia; Arturo Reyes, director del Instituto Polit&eacute;cnico Nacional, el doctor; y Roberto Capuano, quien es el coordinador del proyecto Olinia, que es esta red de autos el&eacute;ctricos que queremos construir, 100 por ciento mexicanos. Ya est&aacute; el proyecto, la estrategia, y se las vamos a presentar el d&iacute;a de hoy.</p>
+
+<p>Entonces, es un d&iacute;a con mucha informaci&oacute;n. Vamos, iniciamos con Profeco.</p>
+
+<p>&mdash;Iv&aacute;n, adelante&mdash;.</p>
+
+<p><strong>PROCURADOR FEDERAL DEL CONSUMIDOR, IV&Aacute;N ESCALANTE RUIZ: </strong>Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Con su permiso, Presidenta.</p>
+
+<p>Comenzamos con la secci&oacute;n &ldquo;Qui&eacute;n es qui&eacute;n en los precios&rdquo;. Vamos a volver a presentarles la gr&aacute;fica que presentamos el viernes, con algunos comentarios.</p>
+
+<p>Aqu&iacute; mostramos de nuevo c&oacute;mo durante el sexenio de Felipe Calder&oacute;n la gasolina en t&eacute;rminos reales, en precio real, increment&oacute; 22.9 por ciento.</p>
+
+<p>Durante el sexenio de Enrique Pe&ntilde;a Nieto se increment&oacute; 42.8 por ciento, con todo y la promesa que &ldquo;despu&eacute;s de que se publicara la Reforma Energ&eacute;tica, iba a disminuir&rdquo;.</p>
+
+<p>&mdash;Aqu&iacute; est&aacute;n estas l&iacute;neas&mdash;.</p>
+
+<p>Cuando se presenta la Reforma Energ&eacute;tica, en agosto del 2013, la gasolina en t&eacute;rminos reales costaba 19 pesos con 54 centavos. Y durante este tiempo, agosto, octubre, hasta diciembre, que se publica, comenz&oacute; la escalada hacia arriba de la gasolina hasta llegar a 26 pesos con 1 centavo, repito, en t&eacute;rminos reales.</p>
+
+<p>En el sexenio del Presidente Andr&eacute;s Manuel L&oacute;pez Obrador disminuy&oacute; en 5.2 por ciento.</p>
+
+<p>Y lo que llevamos de la Presidencia de la Doctora Sheinbaum, disminuy&oacute; en 0.4 por ciento.</p>
+
+<p>Entonces, la volvemos a presentar para que todas y todos los mexicanos conozcan los precios en t&eacute;rminos reales de la gasolina.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Que en el 2018 la gasolina estaba a 26 pesos.</p>
+
+<p>Lo que se hace es suponer que o hacer una gr&aacute;fica en t&eacute;rminos reales como si fueran los pesos del 2025, o sea, el poder de compra, se descuenta la inflaci&oacute;n.</p>
+
+<p>Entonces, lo que equivaldr&iacute;a &mdash;si midi&eacute;ramos a pesos del 2025&mdash; a c&oacute;mo hubiera estado la gasolina en el 2018, son 26 pesos, relacionado con el poder de compra, con la inflaci&oacute;n. Son m&eacute;todos que se utilizan en econom&iacute;a, que se utilizan, son precios constantes o precios variables que toman en cuenta la inflaci&oacute;n o no toman en cuenta la inflaci&oacute;n.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p><strong>PROCURADOR FEDERAL DEL CONSUMIDOR, IV&Aacute;N ESCALANTE RUIZ:</strong> Gracias, Presidenta.</p>
+
+<p>S&iacute;, y se analiza si en realidad el impacto es por el precio real o por la inflaci&oacute;n, y aqu&iacute; lo estamos demostrando.</p>
+
+<p>Bien, mencionamos que ahora, vamos a estar destacando los indicadores de ganancia de las gasolineras que venden m&aacute;s barato y m&aacute;s caro.</p>
+
+<p>Estas son las gasolineras por cada una de las regiones que venden m&aacute;s barata la gasolina regular:</p>
+
+<p>Tenemos, bueno destacamos, la estaci&oacute;n Bristoil en Guadalajara, Jalisco, que vende la gasolina en 22 pesos con 19 centavos, y tiene un indicador de ganancia de 59 centavos por cada litro que vende. Igual, aqu&iacute;, por ejemplo, tenemos esta estaci&oacute;n de Pemex en avenida Astros en Monterrey, Nuevo Le&oacute;n, que su indicador de ganancia est&aacute; en 68 centavos. Y aqu&iacute; en el sur est&aacute; FullGas en Tuxtla Guti&eacute;rrez, 60 centavos.</p>
+
+<p>Estas gasolinas est&aacute;n entre 22 pesos con 19 centavos y 23 con 99. A todas ellas les vamos a dar una palomita.</p>
+
+<p>Y aqu&iacute;, la que sigue son las gasolinas m&aacute;s caras, son algunas gasolineras, no quiere decir que esto sea el precio en todo el pa&iacute;s, estas son las m&aacute;s altas y las que presentan el indicador de ganancia m&aacute;s alto:</p>
+
+<p>Destaca, est&aacute; Chevron de Culiac&aacute;n, Sinaloa, con 26 pesos con 80 centavos. Pero, por ejemplo, esta Mobil y esta Mi Gasolina, una en Monterrey, Nuevo Le&oacute;n, y otra en Durango, ganan 4 pesos con 12 centavos por cada litro, y en el segundo caso 2 pesos con 73 centavos.</p>
+
+<p>Y aqu&iacute; est&aacute; la informaci&oacute;n de cada una de las regiones cu&aacute;nto cuesta las gasolinas m&aacute;s caras. Les vamos a dar un tache.</p>
+
+<p>En el caso de la gasolina premium, la m&aacute;s barata:</p>
+
+<p>Hidrosina en Coatzacoalcos, Veracruz, 23 pesos con 9 centavos. Y aqu&iacute; est&aacute; tambi&eacute;n el indicador de ganancia de cada una; destacamos, ganan entre 58 centavos, 1.32, 1.17, 90 centavos por cada litro de la gasolina premium. Ah, perd&oacute;n, palomita.</p>
+
+<p>Y estas son las m&aacute;s caras, que ah&iacute; volvemos a poner los indicadores de ganancia: 3 pesos con 85 centavos, 5.32, 3.39 por cada litro; la m&aacute;s cara, 27.99, Chevron, en Le&oacute;n, Guanajuato, le vamos a dar un tache a esta y a todas las dem&aacute;s, por cada una de las regiones.</p>
+
+<p>Seguimos con el di&eacute;sel, el di&eacute;sel m&aacute;s barato: Petro Seven en Santa Catarina, Nuevo Le&oacute;n, 24 pesos con 49 centavos.</p>
+
+<p>Ah&iacute; est&aacute;n los indicadores de ganancia que son de centavos por litro de di&eacute;sel. Perd&oacute;n, palomita.</p>
+
+<p>Y seguimos con el di&eacute;sel m&aacute;s caro: que es en Chevron, Culiac&aacute;n, Sinaloa, 27 pesos con 40 centavos. Y aqu&iacute; est&aacute;n los indicadores que est&aacute;n arriba de los 3 pesos de ganancia por litro. Tache.</p>
+
+<p>Vamos a presentarles, aqu&iacute; est&aacute;, en seguimiento al PACIC, al Paquete Contra la Inflaci&oacute;n y la Carest&iacute;a, el precio m&aacute;s bajo de la canasta de 24 productos lo encontramos en Bodega Aurrera 3869, en Cuernavaca, Morelos, destacando que lo vende en 694 pesos con 70 centavos, muy por debajo de la meta. Y le vamos a dar una palomita.</p>
+
+<p>Y el m&aacute;s caro, mil 18 pesos con 40 centavos, Ley Otay, en Tijuana, Baja California. Le vamos a dar un tache.</p>
+
+<p>Y en la que sigue hacemos un ejercicio, como lo hemos estado haciendo, tres ciudades, las m&aacute;s caras y las m&aacute;s baratas. Y aqu&iacute; vamos a destacar que casi todas, aunque sean las m&aacute;s caras, cumplen con el objetivo de los 910 pesos.</p>
+
+<p>Entonces, en Iztapalapa, Mega Soriana La Viga, 826 pesos. Palomita.</p>
+
+<p>Walmart Plaza Oriente, 950 pesos. Tache.</p>
+
+<p>En Cuernavaca, Bodega Aurrera 3869, como ya hab&iacute;amos dicho. Palomita.</p>
+
+<p>Y la m&aacute;s cara, Chedraui, Cuernavaca, Flores Mag&oacute;n, 734 pesos. Palomita.</p>
+
+<p>Zacatecas, Bodega Aurrera, 2027, 820 pesos con 80 centavos. Palomita.</p>
+
+<p>Y Soriana H&iacute;per 044, la m&aacute;s cara, y est&aacute; por debajo de la meta. Tambi&eacute;n, palomita.</p>
+
+<p>Hoy es 6 de enero.</p>
+
+<p>Seguramente muchas familias ya comieron la rosca, ya partieron la rosca ayer, pero hoy tambi&eacute;n. Y aqu&iacute; ponemos una serie de precios de las roscas de reyes de un kilogramo. El precio promedio est&aacute; en 294 pesos con 89 centavos; esto es para orientar a las familias que puedan hoy comprar la rosca de reyes, est&aacute; entre 250 pesos y 309 pesos con 53 centavos la de un kilo.</p>
+
+<p>Y aqu&iacute; ponemos algunas de los establecimientos en donde la pueden adquirir y cu&aacute;nto cuesta.</p>
+
+<p>Y ya sali&oacute; la <em>Revista del Consumidor</em> de enero, pueden consultarla, ya la pueden descargar. Tenemos dos estudios de calidad muy importantes:</p>
+
+<p>Queso americano imitaciones, papel higi&eacute;nico.</p>
+
+<p>La tecnolog&iacute;a dom&eacute;stica, c&oacute;mo elaborar una Rosca de Reyes.</p>
+
+<p>El platillo sabio, mole de olla verde.</p>
+
+<p>Y el entorno digital, un art&iacute;culo muy interesante sobre el mercado gris de tel&eacute;fonos celulares.</p>
+
+<p>&mdash;Ah&iacute; est&aacute; el <em>link&mdash;</em>.</p>
+
+<p>Seguimos. Finalizamos con los consejos Profeco de la semana:</p>
+
+<p>Uno, no cargues en las gasoliner&iacute;as donde &ldquo;se vuelan la barda&rdquo; con los precios.</p>
+
+<p>Dos, conoce en d&oacute;nde encuentras el mejor precio de la canasta b&aacute;sica.</p>
+
+<p>Tres, paga tu Rosca de Reyes a un precio accesible.</p>
+
+<p>Cuatro, consulta y descarga la <em>Revista del Consumidor</em> de enero.</p>
+
+<p>Aqu&iacute; est&aacute;n nuestras redes sociales y la p&aacute;gina de internet.</p>
+
+<p>Muchas gracias. Muy buenos d&iacute;as.</p>
+
+<p>Gracias, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias. Vamos con becas.</p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> Muy buenos d&iacute;as.</p>
+
+<p>Con su permiso, Presidenta. Felicidades para todas y todos.</p>
+
+<p>Bueno, pues muy buenas noticias en este a&ntilde;o en materia educativa. Vamos a presentar r&aacute;pidamente los objetivos de &ldquo;La Escuela es Nuestra&rdquo;, como&hellip; S&iacute;, entonces le voy a pedir a Pamela L&oacute;pez, que lo hizo de manera extraordinaria en la administraci&oacute;n pasada; por eso, nos va a ayudar tambi&eacute;n en esta administraci&oacute;n y prefiero que ella lo presente.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Presenta La Escuela es Nuestra, Pamela, y luego Mario&mdash;.</p>
+
+<p><strong>DIRECTORA GENERAL DE LA ESCUELA ES NUESTRA, PAMELA L&Oacute;PEZ RUIZ:</strong> Muy buenos d&iacute;as a todas y todos.</p>
+
+<p>Feliz inicio de a&ntilde;o y feliz D&iacute;a de Reyes, tambi&eacute;n.</p>
+
+<p>Con su permiso, Presidenta.</p>
+
+<p>En lo que se refiere al programa La Escuela es Nuestra, es importante retomar brevemente que, al cierre del sexenio anterior, se logr&oacute; una cobertura de 99 por ciento de las escuelas p&uacute;blicas de educaci&oacute;n b&aacute;sica a nivel nacional, con una inversi&oacute;n acumulada de 85 mil millones de pesos.</p>
+
+<p>Y como fue compromiso de la Presidenta dar continuidad a los Programas de Bienestar impulsados por el Presidente Andr&eacute;s Manuel L&oacute;pez Obrador, atendiendo a los 100 compromisos del Segundo Piso de la Cuarta Transformaci&oacute;n, me es grato informar que en este a&ntilde;o arrancaremos con la cobertura para la atenci&oacute;n de escuelas p&uacute;blicas de modalidad escolarizada de media superior a nivel nacional, en el mismo esquema de operaci&oacute;n que el programa en educaci&oacute;n b&aacute;sica.</p>
+
+<p>Recordemos que el programa consiste en entregar un subsidio de manera directa a los comit&eacute;s de madres y padres de familia, quienes, en conjunto con maestras, maestros, y estudiantes, en el caso de nivel medio superior, van a evaluar las necesidades de sus espacios educativos y van a tomar las decisiones sobre el uso de los recursos, seleccionar prestadores de servicios para la construcci&oacute;n, para el equipamiento, para llevar a cabo sus acciones de mejora. Y, finalmente, informar&aacute;n y rendir&aacute;n cuentas a sus comunidades escolares sobre la ejecuci&oacute;n de sus obras.</p>
+
+<p>En la siguiente l&aacute;mina podemos observar que refrendaremos los cargos, tanto para los integrantes de los comit&eacute;s escolares de educaci&oacute;n b&aacute;sica, como de los comit&eacute;s escolares de educaci&oacute;n media superior.</p>
+
+<p>Los aspectos m&aacute;s significativos siguen siendo que los cargos de presidenta y tesorera sean preferentemente ocupados por mujeres, madres de familia o tutoras, as&iacute; como incentivar la participaci&oacute;n de las autoridades educativas y docentes.</p>
+
+<p>Y en el caso de los comit&eacute;s de media superior tambi&eacute;n el alumnado tendr&aacute; voz y voto en las decisiones de las asambleas.</p>
+
+<p>En este sentido, informarles que las asambleas, est&eacute;n muy pendientes porque arrancaremos en el mes de febrero y continuaremos en el mes de marzo la realizaci&oacute;n de estas convocatorias, de estas conformaciones de comit&eacute;s, as&iacute; que los compa&ntilde;eros servidoras y servidores de la naci&oacute;n estar&aacute;n visitando sus escuelas pr&oacute;ximamente.</p>
+
+<p>En la siguiente l&aacute;mina, en cuanto a la numeralia que tenemos para este ejercicio fiscal de 2025, el presupuesto asignado al programa es de 25 mil millones de pesos, los cuales se destinar&aacute;n: 19 mil 900 millones de pesos para 67 mil 900 planteles de educaci&oacute;n b&aacute;sica, que representan una cobertura del 38 por ciento de este nivel, incluyendo el 50 por ciento de la cobertura de las secundarias del pa&iacute;s; y 4 mil 600 millones de pesos para 6 mil 200 planteles de educaci&oacute;n media superior, con los cuales lleg&aacute;remos a una cobertura nacional, en 2025, del 50 por ciento de los planteles totales a nivel nacional.</p>
+
+<p>Proyectamos una atenci&oacute;n total de 74 mil 100 escuelas para el presente a&ntilde;o.</p>
+
+<p>El recurso del programa, como sabemos, se otorga con base en la matr&iacute;cula escolar, la matr&iacute;cula registrada, y la sumatoria de matr&iacute;culas en el caso de existir dos o m&aacute;s centros de trabajo en un mismo edificio.</p>
+
+<p>En educaci&oacute;n b&aacute;sica los rangos ir&aacute;n desde los 200 mil, 250 mil y hasta 600 mil pesos, de acuerdo con la tabla que se presenta.</p>
+
+<p>Y en escuelas de educaci&oacute;n media superior los montos que se entregar&aacute;n ir&aacute;n desde los 600 mil, un mill&oacute;n y hasta un mill&oacute;n 500 mil pesos, tomando en cuenta que las matr&iacute;culas de este nivel educativo son m&aacute;s elevadas y sus necesidades son distintas.</p>
+
+<p>Los tipos de apoyo en los que los comit&eacute;s pueden ejercer este recurso son el equipamiento y la ampliaci&oacute;n, as&iacute; como la rehabilitaci&oacute;n de sus instalaciones, tanto para escuelas de educaci&oacute;n b&aacute;sica como escuelas de media superior.</p>
+
+<p>Y en el caso de educaci&oacute;n b&aacute;sica, tambi&eacute;n podr&aacute;n ejercerlo en el servicio de alimentaci&oacute;n o en el horario extendido.</p>
+
+<p>En la siguiente l&aacute;mina, cabe mencionar solamente que bajo este esquema, y de contar con suficiencia presupuestaria en el resto del sexenio, se proyecta una atenci&oacute;n continua en seis a&ntilde;os de los Centros de Atenci&oacute;n M&uacute;ltiple de Educaci&oacute;n Especial, as&iacute; como de las escuelas ubicadas en localidades de Planes de Justicia. Y en el caso de educaci&oacute;n inicial, preescolar y primaria, se proyecta que puedan recibir el recurso hasta en dos ocasiones en el sexenio; en el caso de educaci&oacute;n media superior y secundarias, hasta en tres ocasiones en el sexenio.</p>
+
+<p>Por &uacute;ltimo, retomar que, como parte de los valores de este programa, se impulsa la toma de decisiones colectiva, la confianza en el pueblo y la detonaci&oacute;n de la econom&iacute;a local, sin intermediarios y sin imposici&oacute;n de proveedores, personal t&eacute;cnico o constructoras; la decisi&oacute;n de la realizaci&oacute;n de las obras es exclusiva de la comunidad escolar.</p>
+
+<p>Asimismo, se promueve la participaci&oacute;n de las mujeres en sus comunidades mediante la administraci&oacute;n de los recursos otorgados.</p>
+
+<p>Es cuanto, Presidenta.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> Muy bien. Adem&aacute;s, hay que decir que este programa ha convocado nuevamente la presencia de los padres de familia en las escuelas. Entonces, as&iacute; seguir&aacute;.</p>
+
+<p>Y en lo que toca a becas, ya tenemos el presupuesto autorizado. En grandes n&uacute;meros, la beca universal en b&aacute;sica que, ustedes saben, ser&aacute; para secundaria, universal &mdash;y ya hay un buen n&uacute;mero tambi&eacute;n en primaria&mdash; va a ser un total de 9 millones 436 mil 907 becarios, con una inversi&oacute;n de 70 mil millones de pesos.</p>
+
+<p>En media superior las Becas &ldquo;Benito Ju&aacute;rez&rdquo;, 4 millones 224 mil 381 becarios; 40 mil millones de pesos la inversi&oacute;n.</p>
+
+<p>Y en educaci&oacute;n superior, 409 mil becarios, con una inversi&oacute;n de 11 mil 873 millones.</p>
+
+<p>En total, 122 mil millones de pesos se van a invertir en becas.</p>
+
+<p>La Beca &quot;Rita Cetina&quot;:</p>
+
+<p>Se van a empezar a entregar a partir del 5 de febrero al 28 de marzo.</p>
+
+<p>Nuevamente vamos a convocar a las asambleas que se hicieron para informar sobre esta beca, van a regresar los servidores de la educaci&oacute;n, coordinados por Julio Le&oacute;n, el coordinador nacional de Becas. Y se van a entregar los 5.7 millones de tarjetas a los beneficiarios de secundaria, ah&iacute; tendremos la cobertura total de estudiantes de secundaria.</p>
+
+<p>Y en lo que toca a la Beca &ldquo;Benito Ju&aacute;rez&rdquo;, los que ya tienen la beca, se les va a depositar de manera regular. Y a los nuevos, los que ingresaron a este ciclo escolar vigente, se van a registrar del 5 al 28 de febrero; esperamos un registro aproximado de 1.8 millones de estudiantes.</p>
+
+<p>&mdash;Ah&iacute; est&aacute;n los requisitos que se necesitan para inscribirse, ir al sitio de la Secretar&iacute;a de Educaci&oacute;n P&uacute;blica y registrar esos documentos&mdash;.</p>
+
+<p>Y para los de nuevo ingreso de educaci&oacute;n superior el registro ser&aacute; del 10 al 28 de febrero, y esperamos, m&aacute;s o menos, un registro de 147 mil estudiantes tambi&eacute;n en la plataforma de internet de la Secretar&iacute;a de Educaci&oacute;n P&uacute;blica.</p>
+
+<p>Entonces, en resumen, son los dos grandes programas que tendremos en la Secretar&iacute;a de Educaci&oacute;n P&uacute;blica:</p>
+
+<p>La Escuela es Nuestra con una inversi&oacute;n de 25 mil millones de pesos, llegando, por primera vez, a las preparatorias, a educaci&oacute;n media superior y los j&oacute;venes van a formar parte de los comit&eacute;s que van a decidir en qu&eacute; y c&oacute;mo se gastan esos recursos, en qu&eacute; se invierten.</p>
+
+<p>Y estos recursos de 122 mil millones de pesos para las becas.</p>
+
+<p>Muchas gracias, Presidenta.</p>
+
+<p><strong>SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOG&Iacute;A E INNOVACI&Oacute;N, ROSAURA RUIZ GUTI&Eacute;RREZ:</strong> Con su permiso, Presidenta. Buenos d&iacute;as a todos y todas.</p>
+
+<p>Hoy vamos a presentar &mdash;ya lo hab&iacute;a indicado nuestra Presidenta&mdash; uno de los proyectos que la Doctora Sheinbaum ha encargado coordinar a la Secretar&iacute;a de Ciencia, Humanidades, Tecnolog&iacute;a e Innovaci&oacute;n: se trata de la armadora Olinia.</p>
+
+<p>Por cierto, la palabra &ldquo;Olinia&rdquo; significa en n&aacute;huatl &ldquo;moverse&rdquo;, &ldquo;movimiento&rdquo;.</p>
+
+<p>Este paso constituye un hecho hist&oacute;rico porque va m&aacute;s all&aacute; de manufacturar mini veh&iacute;culos el&eacute;ctricos mexicanos. Olinia, en conjunto con otros proyectos de desarrollo tecnol&oacute;gico-cient&iacute;fico, tienen el potencial de ser un parteaguas en la industria mexicana.</p>
+
+<p>A trav&eacute;s de Olinia se busca lograr una transferencia tecnol&oacute;gica exitosa del sector acad&eacute;mico y de investigaci&oacute;n para la creaci&oacute;n de empresas, en este caso una asociaci&oacute;n p&uacute;blico-privada. Esta es una de las formas en que el modelo de Prosperidad Compartida se ver&aacute; reflejado, al destinarse un porcentaje de los ingresos obtenidos a la ciencia y a la educaci&oacute;n.</p>
+
+<p>Con este proyecto se pone de manifiesto que la vinculaci&oacute;n entre academia, gobierno y sector productivo favorece al camino para la soberan&iacute;a tecnol&oacute;gica y el bienestar de nuestro pa&iacute;s.</p>
+
+<p>Es importante destacar que Olinia atiende un tema de gran inter&eacute;s para la Presidenta, ya que contribuye a la transici&oacute;n energ&eacute;tica y el cuidado del medio ambiente al reducir las emisiones de combustibles f&oacute;siles. Y gracias a su tama&ntilde;o compacto, optimizar&aacute; la ocupaci&oacute;n del espacio urbano y la circulaci&oacute;n en la movilidad vehicular de las ciudades de M&eacute;xico.</p>
+
+<p>Adem&aacute;s, por su precio, es competitivo. Con el precio que se est&aacute; proyectando ser&aacute; una opci&oacute;n accesible.</p>
+
+<p>Por &uacute;ltimo, quiero reconocer a las instituciones educativas y centros de investigaci&oacute;n. Aqu&iacute; nos acompa&ntilde;a el director del Instituto Polit&eacute;cnico Nacional, tambi&eacute;n del Tecnol&oacute;gico Nacional, &mdash;no est&aacute; aqu&iacute;, pero nos est&aacute; apoyando de gran manera, importante&mdash; y pr&aacute;cticamente muchas universidades y tambi&eacute;n centros de la actual Secretar&iacute;a, que se llamaban de Conahcyt.</p>
+
+<p>Dec&iacute;a que estos centros se han sumado a este compromiso de nuestro gobierno, ya que, adem&aacute;s de participar en el dise&ntilde;o y manufactura de Olinia, continuar&aacute;n realizando la investigaci&oacute;n y formaci&oacute;n de especialistas en temas complejos como son las matem&aacute;ticas de alto nivel, la f&iacute;sica cu&aacute;ntica, que hoy son indispensables para las tecnolog&iacute;as actuales. No solo el tel&eacute;fono, no solo la computadora, los autos; muchas tecnolog&iacute;as requieren este tipo de avances.</p>
+
+<p>Por cierto, quiero mencionar que este a&ntilde;o la Unesco ha dedicado a la f&iacute;sica cu&aacute;ntica el a&ntilde;o 2025.</p>
+
+<p>Entonces, por eso reconozco mucho el trabajo de las universidades, centros de investigaci&oacute;n, que est&aacute;n apoyando este y otros proyectos de nuestra Presidenta.</p>
+
+<p>Ahora, si me lo permite, Doctora Sheinbaum, me gustar&iacute;a cederle la palabra a Roberto Capuano, que va a ser el coordinador de este proyecto.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP:</strong> Gracias.</p>
+
+<p>Buenos d&iacute;as.</p>
+
+<p>&mdash;Exactamente, si pueden regresar a la primera diapositiva&mdash;.</p>
+
+<p>Muchas gracias y buenos d&iacute;as, Presidenta. Con su permiso.</p>
+
+<p>El d&iacute;a de hoy les venimos a presentar el plan de desarrollo para la armadora Olinia.</p>
+
+<p>Olinia ser&aacute; la primera armadora mexicana de mini veh&iacute;culos desarrollados por ingenier&iacute;a mexicana.</p>
+
+<p>Olinia ofrecer&aacute; una opci&oacute;n de movilidad urbana segura, eficiente, sustentable y al alcance de millones de mexicanos y mexicanas.</p>
+
+<p>&iquest;Qu&eacute; es un mini veh&iacute;culo?</p>
+
+<p>Un mini veh&iacute;culo es un veh&iacute;culo el&eacute;ctrico que se puede cargar en cualquier enchufe convencional, es un veh&iacute;culo de bajo costo y que es particularmente &uacute;til para la movilidad urbana.</p>
+
+<p>Los veh&iacute;culos el&eacute;ctricos, en general, no solamente los mini veh&iacute;culos, tienen ventajas importantes sobre los veh&iacute;culos de combusti&oacute;n interna, que son los que convencionalmente circulan por las ciudades:</p>
+
+<p>Primero, son cero emisiones, no tienen humo, pero tampoco emiten emisiones de gas de efecto invernadero.</p>
+
+<p>No hacen ruido.</p>
+
+<p>Y, muy importante, tienen un costo de operaci&oacute;n mucho, mucho menor al de un veh&iacute;culo de gasolina.</p>
+
+<p>Sin embargo, los veh&iacute;culos el&eacute;ctricos que actualmente se venden en el pa&iacute;s son caros y no est&aacute;n al alcance de la mayor&iacute;a de las familias mexicanas; eso es lo que vamos a cambiar con Olinia.</p>
+
+<p>Les doy un poco de contexto de la oportunidad de movilidad urbana en M&eacute;xico. Lo primero, es destacar que el 70 por ciento de la poblaci&oacute;n de este pa&iacute;s vive en zonas urbanas; y de esa poblaci&oacute;n, el 80 por ciento de las necesidades de movilidad diaria son de menos de 30 kil&oacute;metros.</p>
+
+<p>Al mismo tiempo, observamos c&oacute;mo en pa&iacute;ses similares a M&eacute;xico estos veh&iacute;culos est&aacute;n teniendo un auge; tan solo en China y en India la venta de mini veh&iacute;culos en el 2023 fue de m&aacute;s de 1.3 millones de unidades.</p>
+
+<p>Para nosotros en M&eacute;xico, los mini veh&iacute;culos son la categor&iacute;a de mayor potencial en la movilidad el&eacute;ctrica. Y decimos esto porque ya los estamos viendo en las calles de M&eacute;xico y de otros pa&iacute;ses de Latinoam&eacute;rica; los estamos viendo como patrullas de polic&iacute;as en algunas ciudades &mdash;este que aparece en la foto en la parte de arriba es en Guadalajara&mdash;; como soluciones de movilidad personal &mdash;como las fotos que est&aacute;n en la parte de en medio&mdash;; y como alternativas al mototaxi, que conocemos muy bien en este pa&iacute;s, as&iacute; como veh&iacute;culos repartidores.</p>
+
+<p>As&iacute; que en este contexto estamos proponiendo la creaci&oacute;n de la armadora Olinia.</p>
+
+<p>Como ya mencion&eacute;, ser&aacute; la primera armadora mexicana de mini veh&iacute;culos el&eacute;ctricos desarrollados por ingenier&iacute;a mexicana que solucionen problemas de movilidad urbana en nuestro pa&iacute;s.</p>
+
+<p>El portafolio que estamos considerando consiste en tres soluciones:</p>
+
+<p>La primera, una soluci&oacute;n de movilidad personal. Un producto para los j&oacute;venes que requieren un veh&iacute;culo, las madres que llevan a sus hijos a la escuela, para las muchas personas que actualmente recurren a la compra de una motocicleta como veh&iacute;culo de transporte personal. Les brindaremos una alternativa m&aacute;s segura y asequible.</p>
+
+<p>Segundo, una soluci&oacute;n para movilidad de barrio, aquella que hoy en d&iacute;a es atendida por los cientos de miles de mototaxis que operan en las distintas ciudades del pa&iacute;s. Esta alternativa ser&aacute; m&aacute;s segura, silenciosa y confortable para los usuarios, y para los conductores significar&aacute; un costo de operaci&oacute;n mucho menor.</p>
+
+<p>Y la tercera, una soluci&oacute;n para entregas de mercanc&iacute;a en lo que es conocido como &ldquo;entregas de &uacute;ltima milla&rdquo;. Esta soluci&oacute;n que ya ve&iacute;amos en algunas ciudades del pa&iacute;s ser&aacute; una alternativa de bajo costo y eficiente para la creciente demanda de env&iacute;os del comercio en l&iacute;nea, as&iacute; como de las aplicaciones de conveniencia, como las que mandan el mandado a casa.</p>
+
+<p>Entonces, tendremos tres soluciones: una de movilidad personal, una de movilidad de barrio y una para entregas de &uacute;ltima milla.</p>
+
+<p>Estas im&aacute;genes no son el dise&ntilde;o final de los veh&iacute;culos, sino que las construimos para ilustrar el d&iacute;a de hoy los segmentos a los cuales nos estaremos enfocando. El dise&ntilde;o ser&aacute; de las primeras tareas que tenemos en este proyecto.</p>
+
+<p>Y cuando ve&iacute;amos esta dispositiva, inevitablemente nos vino a la mente el &ldquo;vocho&rdquo;, el &ldquo;vochito&rdquo;, aquel veh&iacute;culo cuya versatilidad lo hizo un elemento muy importante de la vida cotidiana de muchos mexicanos como veh&iacute;culo de transporte personal, como taxi, como camioncito de entrega.</p>
+
+<p>Y si bien, el Olinia no busca ser un &ldquo;vocho&rdquo;, porque no estamos viendo hacia atr&aacute;s, sino hacia adelante, s&iacute; ofrecer&aacute; una l&iacute;nea de productos cuya versatilidad y precio se volver&aacute;n relevantes y parte de nuestra cultura cotidiana en M&eacute;xico.</p>
+
+<p>Seguramente se preguntar&aacute;n: &iquest;c&oacute;mo haremos para dise&ntilde;ar tres veh&iacute;culos?</p>
+
+<p>Esto lo lograremos dise&ntilde;ando una plataforma modular multiprop&oacute;sitos para los tres. Esto quiere decir que el chasis, el motor, el tren motriz y la bater&iacute;a se desarrollar&aacute;n una sola vez, y sobre esa plataforma utilizaremos diferentes carrocer&iacute;as para darles los diferentes usos que acabo de mencionar.</p>
+
+<p>El desarrollo de la plataforma &ldquo;una sola vez&rdquo; tiene muchos beneficios, que hoy no explicar&eacute; a detalle, pero me limito a decir que podemos lograr un dise&ntilde;o m&aacute;s eficiente en tecnolog&iacute;a y para su fabricaci&oacute;n.</p>
+
+<p>De manera paulatina, lograremos una integraci&oacute;n que en su mayor&iacute;a incluye a componentes de origen nacional.</p>
+
+<p>Tambi&eacute;n, as&iacute; ser&aacute; como la cartera de mini veh&iacute;culos de Olinia, tendr&aacute; un precio estimado entre los 90 y los 150 mil pesos, dependiendo del modelo. Este precio, acoplado a modelos de financiamiento justos, nos permitir&aacute;n lograr que la movilidad el&eacute;ctrica est&eacute; al alcance de millones de mexicanos y mexicanas.</p>
+
+<p>Este plan es tan ambicioso como es audaz. Y por lo mismo, estamos integrando un equipo de trabajo bajo el paraguas de la recientemente creada Secretar&iacute;a de Ciencia, Humanidades, Tecnolog&iacute;a e Innovaci&oacute;n con las dos mejores instituciones tecnol&oacute;gicas de M&eacute;xico: el Instituto Polit&eacute;cnico Nacional y el Tecnol&oacute;gico Nacional de M&eacute;xico; ambas instituciones est&aacute;n designando a sus mejores elementos en el &aacute;rea automotriz y de movilidad el&eacute;ctrica para dedicarse de tiempo completo al proyecto de Olinia.</p>
+
+<p>Con la confianza de la Presidenta y el apoyo de la secretaria Rosaura Ruiz, yo tendr&eacute; el honor de ser encargado de este proyecto.</p>
+
+<p>Y para el final del sexenio nuestra meta es lanzar los tres modelos bajo una empresa con inversi&oacute;n p&uacute;blica y con inversi&oacute;n privada, que sea viable econ&oacute;micamente y que tenga perspectivas de largo plazo.</p>
+
+<p>Y ahora bien, para nuestro primer modelo, Presidenta, es que lleguemos al partido de inauguraci&oacute;n del Mundial de 2026, en el estadio Azteca, en un Olinia.</p>
+
+<p>Muchas gracias.</p>
+
+<p>Atento a las preguntas.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Por qu&eacute; no pl&aacute;ticas c&oacute;mo est&aacute;n juntando a los equipos del Poli y&hellip;?</p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP:</strong> Lo que hemos estado haciendo en los &uacute;ltimos tres meses ha sido trabajar con el Polit&eacute;cnico y con el Tecnol&oacute;gico Nacional de M&eacute;xico para que ellos puedan empezar a reclutar a &mdash;lo que mencion&eacute;&mdash; sus mejores elementos en movilidad el&eacute;ctrica y en ingenier&iacute;a automotriz, para que participen en lo que estamos creando, seis diferentes vertientes de trabajo: algunos se encargar&aacute;n del chasis, otros de la bater&iacute;a, otros del tren motriz, otros de la fabricaci&oacute;n, otros del dise&ntilde;o industrial.</p>
+
+<p>Y estar&aacute;n trabajando de manera conjunta y paralela ambas instituciones para ir desarrollando esta primera versi&oacute;n del veh&iacute;culo.</p>
+
+<p>Vamos a lanzar los modelos de manera paulatina, es decir, no van a salir los tres juntos, va a salir primero uno, luego otro y luego otro, y as&iacute; es como empezaremos a trabajar.</p>
+
+<p>El presupuesto estar&aacute; fondeado por la Secretar&iacute;a de Ciencia y Tecnolog&iacute;a, y as&iacute; es como estamos empezando. De hecho, ya empezamos, el a&ntilde;o pasado ya estuvimos en algunos eventos, convocamos a los investigadores de ambos institutos y hemos estado ya comenzando la din&aacute;mica de trabajo con ellos.</p>
+
+<p><strong>PREGUNTA: &iquest;En qu&eacute; estado se ubicar&aacute; la&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Perd&oacute;n?</p>
+
+<p><strong>PREGUNTA: &iquest;En qu&eacute; estado se ubicar&aacute; la planta?</strong></p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: </strong>Parte de lo que nos toca hacer en esta primera parte del an&aacute;lisis &mdash;porque recuerden que les estamos anunciando el inicio de este plan&mdash; es evaluar cu&aacute;l ser&aacute; el mejor sitio para la fabricaci&oacute;n.</p>
+
+<p>Dos cosas que tenemos que pensar:</p>
+
+<p>La primera es que M&eacute;xico tiene una larga tradici&oacute;n de fabricaci&oacute;n de autos, esto hace que el proyecto Olinia haga mucho sentido, porque tenemos ya muchos proveedores de autopartes en el pa&iacute;s.</p>
+
+<p>Estamos activamente en conversaciones con los diferentes estados que tienen ya fabricaci&oacute;n en el estado; este mes vamos a estar en Puebla, vamos a estar en Hermosillo&hellip; en Sonora, perd&oacute;n, en la ciudad de Hermosillo, evaluando y conociendo las diferentes capacidades que existen.</p>
+
+<p>La otra parte es que pensemos que el Olinia es un veh&iacute;culo que no tiene un armado como el que conocemos, no se va a parecer a una planta como la de Nissan en Aguascalientes, porque la fabricaci&oacute;n es m&aacute;s peque&ntilde;a y se considera que la armadora tendr&aacute; una forma diferente.</p>
+
+<p>Es algo simplemente a tomar en cuenta.</p>
+
+<p><strong>PREGUNTA: &iquest;En qu&eacute; lugar se va a ubicar la armadora? Es decir, &iquest;estar&iacute;a entre Hermosillo y Puebla?</strong></p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP:</strong> No. Repito: lo que queremos ahorita es evaluar d&oacute;nde es el mejor lugar para establecernos.</p>
+
+<p>Una de las cosas que este tipo de veh&iacute;culos requiere, por el costo tan bajo que tiene, es que la fabricaci&oacute;n de los componentes principales, el motor, la bater&iacute;a, se pueden hacer de manera centralizada, pero el ensamble del veh&iacute;culo se puede hacer de manera local; es decir, que podemos pensar que haya diferentes f&aacute;bricas o ensambladoras del veh&iacute;culo en diferentes regiones del pa&iacute;s, esto es porque as&iacute; reducimos costos.</p>
+
+<p>Un contendedor, por m&aacute;s bien que lo ordenemos, pues le van a caber 15, 16 veh&iacute;culos ya armados; pero si nosotros podemos mandar los veh&iacute;culos desarmados en un contenedor, podemos meter m&aacute;s del doble, y eso reduce costos.</p>
+
+<p>El principal reto que tenemos en este proyecto no es la tecnolog&iacute;a, sino la tecnolog&iacute;a a ese costo. Y eso quiere decir que estamos haciendo una evaluaci&oacute;n de abajo hacia arriba, estamos pensando c&oacute;mo desde primeros principios, c&oacute;mo podemos construir este veh&iacute;culo de la manera m&aacute;s barata posible, en la mejor calidad posible.</p>
+
+<p>Entonces, no estoy diciendo que vamos a tener esas situaciones, sino que estamos evaluando, y que activamente estamos en comunicaci&oacute;n con estos estados para asegurarnos que estamos revisando todo lo que tenemos que revisar antes de que se tome esa decisi&oacute;n.</p>
+
+<p><strong>PREGUNTA: &iquest;La inversi&oacute;n inicial cu&aacute;l ser&aacute; para la armadora?</strong></p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP:</strong> Se asign&oacute; un presupuesto de 25 millones de pesos que se dividir&aacute; entre las dos instituciones, esto es aparte de lo que cuesta el salario de los investigadores. Pero es importante mencionar que estamos haciendo los cambios necesarios para que los investigadores puedan dedicarse de tiempo completo y no haya problemas con el sistema de investigadores que hay en el pa&iacute;s.</p>
+
+<p>Ese es el presupuesto que tenemos para este a&ntilde;o.</p>
+
+<p><strong>PREGUNTA: &iquest;Se apoyar&aacute;n en el cl&uacute;ster mexicanos que ya est&aacute;n trabajando con la armadora?</strong></p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP:</strong> S&iacute;, estaremos&hellip; O sea, lo que estamos haciendo es, identificando los jugadores que existen en el pa&iacute;s y buscando la manera m&aacute;s efectiva de trabajar con ellos.</p>
+
+<p>Algo que ha sido muy emocionante para los que estamos involucrados en el proyecto ha sido el gran inter&eacute;s que nos hemos encontrado de la industria, de los jugadores, de la academia, de participar y volverse parte de esta iniciativa.</p>
+
+<p>Entonces, la respuesta es: s&iacute;, estamos buscando activamente trabajar con lo que ya existe de industria en el pa&iacute;s.</p>
+
+<p><strong>PREGUNTA: &iquest;Se tiene un costo aproximado de este tipo de veh&iacute;culos?</strong></p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: </strong>Como mencion&eacute;, mencionamos, anunci&eacute; tres diferentes modelos o tres diferentes usos.</p>
+
+<p>El costo, estimamos que tendr&aacute; un rango entre los 90 y los 150 mil pesos, dependiendo del modelo. Entonces podemos pensar que el m&aacute;s barato ser&aacute; el de movilidad personal, y probablemente el que tenga un mayor costo ser&aacute; el de env&iacute;os de &uacute;ltima milla, en ese rango estamos buscando caer.</p>
+
+<p><strong>PREGUNTA: &iquest;Comercialmente cu&aacute;ndo sale al p&uacute;blico?</strong></p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP:</strong> Nosotros buscaremos que pronto, lo m&aacute;s pronto posible podamos estar ofreciendo este veh&iacute;culo al p&uacute;blico.</p>
+
+<p>&mdash;Aqu&iacute; adelante, por favor&mdash;.</p>
+
+<p><strong>PREGUNTA: &iquest;(inaudible) financiando, que est&eacute; interesada en financiar este modelo?</strong></p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP:</strong> A&uacute;n no para el financiamiento, pero el proyecto, mencion&eacute; que tenemos diferentes ejes de trabajo. Cada eje de trabajo tiene participantes de la iniciativa privada, ya sea a t&iacute;tulo personal o como empresa que ser&aacute;n las entidades con las que estaremos colaborando para asegurarnos que haya una conexi&oacute;n entre el mundo de la investigaci&oacute;n y la iniciativa privada y el mercado.</p>
+
+<p>Esperamos que m&aacute;s adelante, cuando el proyecto tenga ya los n&uacute;meros m&aacute;s asentados, podamos entonces empezar a buscar socios, inversionistas, para esta iniciativa; a&uacute;n no.</p>
+
+<p>&mdash;Aqu&iacute; adelante hab&iacute;a otra pregunta&mdash;.</p>
+
+<p><strong>PREGUNTA: Yo s&iacute; quiero preguntar: &iquest;este proyecto c&oacute;mo va a contribuir a la reducci&oacute;n de la huella de carbono?</strong></p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP: </strong>Es una muy buena pregunta.</p>
+
+<p>La movilidad el&eacute;ctrica es una manera muy elocuente, muy clara, de reducir las emisiones de gas de efecto invernadero que tiene nuestro pa&iacute;s.</p>
+
+<p>Una parte importante de nuestras emisiones vienen de la quema de gasolina que se utiliza en los veh&iacute;culos, en los coches de las calles del pa&iacute;s. La movilidad el&eacute;ctrica permite que la electricidad venga de fuentes limpias y de esa manera se pueda reducir la huella de carbono de la flota vehicular que tengamos operando en el pa&iacute;s.</p>
+
+<p>Tambi&eacute;n es muy importante pensar que el humo de manera local, el escape, eso no existe en la movilidad el&eacute;ctrica, no suelta humo. Entonces, tambi&eacute;n de manera local el beneficio es muy evidente.</p>
+
+<p>Muy bien.</p>
+
+<p><strong>PREGUNTA:</strong> <strong>(inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En este momento lo que se decidi&oacute; primero es, Roberto es el coordinador; &eacute;l nos est&aacute; ayudando a coordinar diversos proyectos.</p>
+
+<p>Roberto fue director de Metrob&uacute;s cuando fui Jefa de Gobierno. Y despu&eacute;s, &eacute;l se encarg&oacute; de resolver much&iacute;simos problemas dentro del Sistema de Aguas de la Ciudad de M&eacute;xico; gener&oacute; un sistema que permiti&oacute; que, aun cuando se redujo el agua del Sistema Cutzamala, no se sintiera tanto en la Ciudad, porque permiti&oacute; distribuir el agua y disminuir fugas de manera muy importante.</p>
+
+<p>Entonces, ahora, Roberto le di el encargo de varios proyectos, que coordinara varios proyectos.</p>
+
+<p>Uno de ellos, es, ya le llamamos armadora Olinia, porque el objetivo no solo es un veh&iacute;culo, sino diversos veh&iacute;culos que puedan usar las plataformas tecnol&oacute;gicas que se van a desarrollar.</p>
+
+<p>El otro proyecto que nos est&aacute; ayudando a coordinar es &mdash;justamente porque conoce el tema&mdash; el del abastecimiento de agua de la Zona Metropolitana del Valle de M&eacute;xico.</p>
+
+<p>Entonces, &iquest;hasta d&oacute;nde vamos? &iquest;y qu&eacute; hicimos en el 2024?</p>
+
+<p>Se seleccion&oacute; al Polit&eacute;cnico y al Tecnol&oacute;gico Nacional de M&eacute;xico &mdash;no s&eacute; si ahora quiera el director del Poli comentarnos algo&mdash; porque hay muchos investigadores que actualmente est&aacute;n trabajando sobre veh&iacute;culos el&eacute;ctricos, incluso, estudiantes que est&aacute;n trabajando sobre veh&iacute;culos el&eacute;ctricos. Entonces, seleccion&oacute; un equipo de trabajo que 100 por ciento de su tiempo lo dedique al dise&ntilde;o de estos autos.</p>
+
+<p>Ya hay autos mexicanos el&eacute;ctricos, el tema que tienen es que la mayor parte de las piezas las importan y, adem&aacute;s, son costos muy altos de estos veh&iacute;culos.</p>
+
+<p>El objetivo que tiene este es, digamos, entre el auto compacto y la motocicleta. La motocicleta hoy es una alternativa de movilidad en distintas ciudades del pa&iacute;s que es muy riesgosa, han aumentado los accidentes de tr&aacute;nsito asociados a la motocicleta.</p>
+
+<p>Entonces, este auto peque&ntilde;o debe tener la caracter&iacute;stica de ser seguro, ser el&eacute;ctrico, que se pueda conectar en cualquier enchufe y que la mayor&iacute;a de sus componentes sean mexicanos. Entonces, poco a poco ir construyendo esta cadena de producci&oacute;n.</p>
+
+<p>Entonces, hasta el momento tenemos ya el equipo de trabajo; ya han avanzado.</p>
+
+<p>Incluso, en su momento, en su momento, ya se invitar&aacute; a empresas privadas que tambi&eacute;n se han dedicado desde hace tiempo en M&eacute;xico a producir particularmente motores el&eacute;ctricos.</p>
+
+<p>Y la idea es que el gobierno apoye a la Secretar&iacute;a para generar este dise&ntilde;o y ya, a la hora de la construcci&oacute;n de los veh&iacute;culos, las piezas se puedan construir en distintos lugares y se puedan armar en distintos lugares, ese es uno de los objetivos.</p>
+
+<p>Porque llevar un auto de Sonora a Yucat&aacute;n tiene un costo, eso incrementa el costo del veh&iacute;culo. Si podemos tener una armadora en Yucat&aacute;n y una en Sonora, ser&iacute;a muy bueno tener armadoras regionales que nos permitan poder proveer a m&aacute;s bajo costo el veh&iacute;culo.</p>
+
+<p>Entonces, ese es el avance hasta ahora de Olinia.</p>
+
+<p><strong>PREGUNTA: &iquest;(inaudible) de las entidades en donde habr&aacute; estas armadoras?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El objetivo es que, si les parece, cada dos o tres meses sigamos inform&aacute;ndolo aqu&iacute; en &ldquo;La Ma&ntilde;anera&rdquo;, c&oacute;mo es el avance.</p>
+
+<p>Vayamos inclusive a los laboratorios en donde est&aacute;n dise&ntilde;ando los autos el&eacute;ctricos. Y la idea es que est&eacute; lo m&aacute;s pronto posible el dise&ntilde;o. Y ya la armadora va a tener que abrirse, un concurso, probablemente, para ver qu&eacute; empresa privada ofrece las mejores condiciones para poder construirlo.</p>
+
+<p>&mdash;Bueno, el director del Poli&mdash;.</p>
+
+<p><strong>DIRECTOR DEL INSTITUTO POLIT&Eacute;CNICO NACIONAL, ARTURO REYES SANDOVAL:</strong> Buenos d&iacute;as, Presidenta, Doctora Claudia Sheinbaum.</p>
+
+<p>Saludo a los medios de comunicaci&oacute;n, amigas y amigos que nos siguen en esta conferencia de prensa matutina del pueblo.</p>
+
+<p>En nombre del Instituto Polit&eacute;cnico Nacional, les saludo con gusto.</p>
+
+<p>Quiero decirles que, desde que nuestra Presidenta anunci&oacute; el desarrollo del auto el&eacute;ctrico Olinia, proyecto que puso en manos del Instituto Polit&eacute;cnico Nacional y del Tecnol&oacute;gico Nacional de M&eacute;xico, el Polit&eacute;cnico convoc&oacute; de manera inmediata a sus profesores e investigadores expertos en electromovilidad y distintos campos asociados, ya que tenemos varias escuelas superiores que se dedican a esto, que tienen carreras espec&iacute;ficas, posgrados tambi&eacute;n, y centros de investigaci&oacute;n que est&aacute;n dedicados a cuestiones de movilidad, cuestiones de electromovilidad tambi&eacute;n.</p>
+
+<p>Como resultado de las reuniones de trabajo que tuvimos, se definieron 10 &aacute;reas estrat&eacute;gicas correspondientes a los sistemas y actividades por realizar, y se integraron grupos de expertos y coordinadores t&eacute;cnicos para articular el trabajo entre las &aacute;reas.</p>
+
+<p>Quiero resaltar y reconocer, Presidenta, que, adem&aacute;s de estar trabajando en la propuesta de dise&ntilde;o y desarrollo del veh&iacute;culo, el Instituto contribuir&aacute; a sentar las bases de un ecosistema favorable al desarrollo de veh&iacute;culos el&eacute;ctricos en nuestro pa&iacute;s. Para ello, va a elaborar dos proyectos paralelos: un an&aacute;lisis de mercado y un plan de negocios, as&iacute; como el anteproyecto de plantas o una planta de veh&iacute;culos ligeros el&eacute;ctricos en M&eacute;xico.</p>
+
+<p>Esto lo hacemos a trav&eacute;s de una se nuestras Secretar&iacute;as m&aacute;s grandes que tenemos en el Instituto Polit&eacute;cnico Nacional: la Secretar&iacute;a de Innovaci&oacute;n, que tiene un &aacute;rea de estrategia que se llama Tecnopoli, Inteligencia y Prospectiva, que nos permite hacer todo un an&aacute;lisis del ecosistema que existe en diferentes ciudades, en diferentes estados de la Rep&uacute;blica Mexicana, para definir d&oacute;nde se puede localizar de mejor manera alguna planta en espec&iacute;fico.</p>
+
+<p>Esto lo hacemos con diferentes empresas e, inclusive, con el mismo Polit&eacute;cnico para saber d&oacute;nde debemos de situar nuevas unidades, tambi&eacute;n, para ense&ntilde;anza que podamos abrir.</p>
+
+<p>As&iacute; que a trav&eacute;s de estas &aacute;reas vamos a identificar y evaluar el tama&ntilde;o y el impacto de la econom&iacute;a de la poblaci&oacute;n, definir la cadena de valor, identificar &aacute;reas de oportunidad con base en las fortalezas, entre otros aspectos que se vayan requiriendo poco a poco.</p>
+
+<p>Quiero tambi&eacute;n decirles que, adem&aacute;s de los investigadores que est&aacute;n en gran cantidad y desarrolladores e innovadores en el Polit&eacute;cnico, contamos tambi&eacute;n con &aacute;reas espec&iacute;ficas, como uno de los laboratorios m&aacute;s importantes en el instituto y en M&eacute;xico, como el Laboratorio de Movilidad Inteligente, el LANCEI, que integra cinco dependencias polit&eacute;cnicas y el Instituto Mexicano de Transporte.</p>
+
+<p>LANCEI es pionero en el pa&iacute;s en tecnolog&iacute;a de frontera para descarbonizaci&oacute;n del transporte y cuenta con dos &aacute;reas de equipamiento &uacute;nicas en M&eacute;xico, como la electr&oacute;nica de alta densidad de potencia, especial para aplicaciones vehiculares y sistemas de seguridad pasiva con &eacute;nfasis en electromovilidad; as&iacute; como una pista de pruebas de estabilidad y automatizaci&oacute;n de transporte.</p>
+
+<p>Hace algunas semanas, el a&ntilde;o pasado, inauguramos un nuevo centro de innovaci&oacute;n que se llama CIITA, Centro de Innovaci&oacute;n e Integraci&oacute;n de Tecnolog&iacute;as Avanzadas en Puebla, que tiene entre sus objetivos, dar atenci&oacute;n al sector automotriz, a trav&eacute;s de cinco laboratorios especializados y equipados con tecnolog&iacute;a de vanguardia que se especializa tambi&eacute;n en electromovilidad.</p>
+
+<p>Sin duda, estas capacidades y fortalezas est&aacute;n siendo orientadas hacia una movilidad limpia, eficiente y accesible para todos y todas a trav&eacute;s de Olinia, con lo cual el Polit&eacute;cnico seguir&aacute; con el legado de poner la t&eacute;cnica al servicio de la patria.</p>
+
+<p>Muchas gracias, Presidenta, por considerar al Polit&eacute;cnico para este gran desarrollo nacional.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ahora s&iacute;, vamos a este y otros temas.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Tres temas, me gustar&iacute;a tocar.</strong></p>
+
+<p><strong>El primero, publicamos hoy en <em>Imagen</em>, en <em>Exc&eacute;lsior</em>, un estudio realizado por la consultor&iacute;a <em>Strategia Electoral</em>, hace prospectiva pol&iacute;tica para este a&ntilde;o y se&ntilde;ala dos temas que son dignos de ser observados con atenci&oacute;n, es la elecci&oacute;n en el Poder Judicial.</strong></p>
+
+<p><strong>Y ah&iacute; se&ntilde;ala que hay dos preocupaciones: una por la reducci&oacute;n del presupuesto destinado para esa elecci&oacute;n; y la premura, el poco tiempo que se tiene para preparar la elecci&oacute;n, algo que ya se ha platicado en esta conferencia.</strong></p>
+
+<p><strong>Me gustar&iacute;a saber, &iquest;si usted tiene alg&uacute;n comentario acerca de este estudio, si de verdad hay un riesgo de la elecci&oacute;n judicial por la reducci&oacute;n del presupuesto y por el poco tiempo que hay para preparar esa elecci&oacute;n?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, no hay riesgo.</p>
+
+<p>Va a participar el pueblo de M&eacute;xico, el 1o. de junio vamos a elegir jueces, juezas, magistrados, magistradas, ministros, ministras, magistrados del Tribunal Electoral, a los responsables del Tribunal, o del &aacute;rea de justicia del Poder Judicial. Es decir, vamos a elegir entre todos y entre todas al Poder Judicial.</p>
+
+<p>Y no, no veo riesgo.</p>
+
+<p>Esta semana me re&uacute;no con el Instituto Nacional Electoral. Ellos ya aprobaron el presupuesto, ya tienen incluso propuestas de c&oacute;mo van a ser las boletas y c&oacute;mo van a organizar la elecci&oacute;n. Y de todas maneras, esta semana me re&uacute;no para ver cu&aacute;les son sus consideraciones.</p>
+
+<p>Pero, no; al rev&eacute;s, va a ser una buena elecci&oacute;n.</p>
+
+<p><strong>PREGUNTA: &iquest;Los integrantes del Consejo vendr&aacute;n aqu&iacute; a Palacio a platicar con usted?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Estamos por definirlo, a ver c&oacute;mo nos vamos a reunir.</p>
+
+<p><strong>PREGUNTA: &iquest;Qu&eacute; d&iacute;a?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El 9.</p>
+
+<p><strong>PREGUNTA: El d&iacute;a 9. Gracias.</strong></p>
+
+<p><strong>La segunda, la empresa Mexicana de Aviaci&oacute;n, la empresa estatal Mexicana de Aviaci&oacute;n, aqu&iacute; a finales del a&ntilde;o hab&iacute;an dado un recuento acerca de los logros que hab&iacute;a tenido en el primer a&ntilde;o de operaci&oacute;n y, sin embargo, ayer se anunci&oacute; la reducci&oacute;n de las rutas que va a cubrir esta compa&ntilde;&iacute;a.</strong></p>
+
+<p><strong>&iquest;Cu&aacute;l ser&iacute;a el motivo, Presidenta? &iquest;Se le hab&iacute;a informado a usted? &iquest;Y cu&aacute;les son las razones para&hellip;? &iquest;Es un redise&ntilde;o?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, est&aacute;n haciendo una revisi&oacute;n.</p>
+
+<p>Algunos de los aviones, adem&aacute;s, son rentados; entonces, tienen que renovar esta renta. Van a llegar los nuevos aviones.</p>
+
+<p>Y se est&aacute; haciendo una revisi&oacute;n como en cualquier empresa: &iquest;cu&aacute;les son las rutas que tuvieron m&aacute;s pasajeros?, &iquest;cu&aacute;les son las rutas que tuvieron menos?</p>
+
+<p>Esta misma semana me van a presentar el Plan Maestro de la empresa. Y Mexicana va a seguir siendo la empresa del pueblo de M&eacute;xico, seguir volando, y no hay nada, m&aacute;s que sencillamente una revisi&oacute;n de su plan estrat&eacute;gico para el 2025.</p>
+
+<p><strong>PREGUNTA: Hay algunos destinos que estaban cubiertos por ellos y ahora, quedar&aacute;n una vez m&aacute;s descubiertos. Pienso en Uruapan, por ejemplo.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No necesariamente, est&aacute;n revisando cu&aacute;ntos pasajeros tuvieron en el a&ntilde;o, como en cualquier empresa, se hace una revisi&oacute;n.</p>
+
+<p>Esta es una empresa p&uacute;blica y, por tanto, no solamente&hellip; Es decir, no tiene la ganancia como el elemento que define la operaci&oacute;n de la empresa, pero, de todas maneras, se tiene que hacer una revisi&oacute;n de cu&aacute;ntos pasajeros volaron, si es necesaria esa ruta, si es mejor cambiarla, si hay que hacer alguna parada en alg&uacute;n lugar y despu&eacute;s llegar a otro sitio. Es, digamos, la revisi&oacute;n general que hace cualquier empresa para su Plan Maestro.</p>
+
+<p><strong>PREGUNTA: Gracias.</strong></p>
+
+<p><strong>Y la tercera, la &uacute;ltima: est&aacute;n los embajadores y los c&oacute;nsules en M&eacute;xico actualmente, seguramente se va a reunir con ellos.</strong></p>
+
+<p><strong>En esta me gustar&iacute;a saber &iquest;cu&aacute;les son las directrices que se le van a dictar a c&oacute;nsules y embajadores sobre el tema de los Estados Unidos, en primera instancia?, &iquest;cu&aacute;l va a ser la pol&iacute;tica que va a tener el gobierno mexicano ante el pr&oacute;ximo gobierno de los Estados Unidos?</strong></p>
+
+<p><strong>Y tambi&eacute;n tiene que ver con el tema de relaciones exteriores. En Venezuela est&aacute; por tomar posesi&oacute;n el presidente en turno. Usted hab&iacute;a dicho durante la &eacute;poca de la transici&oacute;n que, para hablar acerca del proceso electoral en Venezuela, iba a esperar usted que se dieran a conocer las actas de la elecci&oacute;n en Venezuela.</strong></p>
+
+<p><strong>Estas no se dieron a conocer y ya estamos a puerta de la toma de posesi&oacute;n del pr&oacute;ximo presidente. &iquest;Cu&aacute;l ser&aacute; la postura del Gobierno de M&eacute;xico ante este&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> La postura que est&aacute; en la Constituci&oacute;n con todos los gobiernos del mundo: la autodeterminaci&oacute;n de los pueblos.</p>
+
+<p>Entonces, en el caso de Venezuela ir&aacute; un representante a la toma de protesta, pero no vemos por qu&eacute; no deba ser as&iacute;. Y le corresponde a las y los venezolanos, no a M&eacute;xico, definir.</p>
+
+<p><strong>PREGUNTA: Y sobre esta reuni&oacute;n con los cancilleres, con los embajadores, c&oacute;nsules.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, hay una revisi&oacute;n general, como siempre se hace todos los meses de enero.</p>
+
+<p>Obviamente, lo que buscamos a trav&eacute;s de las Embajadas es apoyar a los mexicanos que se encuentran en el exterior, y mexicanas, y tambi&eacute;n que se difunda y se promueva lo que est&aacute; ocurriendo en M&eacute;xico y la defensa del proyecto de naci&oacute;n que tenemos.</p>
+
+<p>Y particularmente, para los Consulados lo que estamos planteando es una estrategia de mayor apoyo a los mexicanos y mexicanas que viven en Estados Unidos, en general, para disminuci&oacute;n de tr&aacute;mites, que no haya las filas que normalmente hay, que haya m&aacute;s informaci&oacute;n.</p>
+
+<p>Por cierto, aprovecho para decir que les voy a plantear tambi&eacute;n al Instituto Nacional Electoral la agilizaci&oacute;n de las credenciales para los mexicanos que viven en el exterior. El d&iacute;a que estuvimos en Puebla me plantearon, entregamos tarjetas a mexicanos que acaban de regresar, que viv&iacute;an en Estados Unidos y me plantearon la dificultad de ellos para votar en las elecciones.</p>
+
+<p>Entonces que es muy importante que se agilice la entrega de credenciales de elector cuando se soliciten, que est&eacute; abierto permanentemente esto y que sea mucho m&aacute;s &aacute;gil.</p>
+
+<p>Y depende del INE, no depende de los Consulados; los Consulados ponen sus espacios, pero es el INE quien desarrolla estos tr&aacute;mites, digamos.</p>
+
+<p>Entonces, disminuci&oacute;n de tr&aacute;mites, mejora de la atenci&oacute;n y, adem&aacute;s, todo lo que tiene que ver con la protecci&oacute;n de nuestros paisanos y paisanas en Estados Unidos, la protecci&oacute;n legal; que ya Juan Ram&oacute;n de la Fuente estuvo aqu&iacute; informando c&oacute;mo se est&aacute; accediendo a m&aacute;s abogados y abogadas, y todo lo que tienen que saber nuestros hermanos all&aacute; por cualquier cosa que llegue a ocurrir con la llegada del presidente Trump.</p>
+
+<p><strong>PREGUNTA: &iquest;La reuni&oacute;n es ma&ntilde;ana o el mi&eacute;rcoles? </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>No, dura varios d&iacute;as.</p>
+
+<p><strong>PREGUNTA: No, con usted. </strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El 8.</p>
+
+<p><strong>PREGUNTA: Gracias.</strong></p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Vicente Serrano, conductor de <em>Sin Censura Tv</em>, en YouTube, en Facebook y en Twitter, bueno, en X, antes Twitter.</strong></p>
+
+<p><strong>Presidenta, veo a muchos enojados en redes sociales porque, de acuerdo a las encuestas, tiene el 80, bueno, el 78 por ciento de aprobaci&oacute;n; 8 de cada 10 mexicanos aprueban lo que est&aacute; haciendo en estos primeros 100 d&iacute;as de gobierno.</strong></p>
+
+<p><strong>No sorprende que venga tambi&eacute;n acompa&ntilde;ado de un reconocimiento como una de las <em>streamers</em> m&aacute;s vistas en las redes, junto a&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya le estoy haciendo la competencia, a ustedes.</p>
+
+<p><strong>PREGUNTA: &hellip;junto a otros compa&ntilde;eros precisamente, que se dedican al desarrollo de contenidos pol&iacute;ticos, como Julio &ldquo;Astillero&rdquo;, Manuel Pedrero, el propio Presidente Andr&eacute;s Manuel L&oacute;pez Obrador.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ese es n&uacute;mero 1.</p>
+
+<p><strong>PREGUNTA: Contin&uacute;a como n&uacute;mero 1.</strong></p>
+
+<p><strong>Pero tampoco sorprende que haya personajes periodistas, que recurren a lo que cuentan las leyendas, como Ciro G&oacute;mez Leyva, que dice que &ldquo;el Presidente Andr&eacute;s Manuel L&oacute;pez Obrador sigue moviendo los hilos del poder desde Palenque&rdquo;.</strong></p>
+
+<p><strong>Su reflexi&oacute;n sobre esto que le planteo y sus reflexiones a 100 d&iacute;as de gobierno, Presidenta, por favor.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si. &mdash;A ver p&oacute;ngale las dos encuestas; la otra&mdash;.</p>
+
+<p>Esta dice: &ldquo;Aceptaci&oacute;n de la ciudadan&iacute;a de m&aacute;s del 90 por ciento&rdquo;.</p>
+
+<p>Lo que llama la atenci&oacute;n es el enojo. No s&eacute; si se han dado cuenta que en las redes hay como, de nuevo, una campa&ntilde;a, pero de un odio, un enojo tremendo.</p>
+
+<p>Y lo que es incre&iacute;ble es que no pueden entender por qu&eacute; est&aacute; ocurriendo esto. Bueno, es explicable, porque, la verdad, es que llevan un buen rato sin entender lo que pas&oacute; en nuestro pa&iacute;s en los &uacute;ltimos seis a&ntilde;os.</p>
+
+<p>Entonces, cuando fui candidata esencialmente plante&eacute; dos cosas: Una, que contin&uacute;e la Transformaci&oacute;n de la Vida P&uacute;blica, que avance la Transformaci&oacute;n todav&iacute;a m&aacute;s. Y, segundo, que es Tiempo de Mujeres.</p>
+
+<p>Y esos dos temas son muy poderosos en nuestro pa&iacute;s. Y mientras uno no traicione, eso que propusimos con 100 puntos que planteamos el 1o. de octubre, va a haber apoyo del pueblo de M&eacute;xico; lo que uno no puede hacer es traicionar al pueblo y eso no lo vamos a hacer nunca.</p>
+
+<p>Y eso es lo que hay de reconocimiento, que lo que propusimos lo estamos cumpliendo y que estamos cerca de la gente, que no nos hemos alejado y que no nos vamos a alejar.</p>
+
+<p>La Transformaci&oacute;n que est&aacute; ocurriendo en M&eacute;xico es profunda, muy profunda; y ni la oposici&oacute;n, ni sus intelectuales, ni los coment&oacute;cratas la han acabado de entender.</p>
+
+<p>Est&aacute;n enojad&iacute;simos ahora, porque dijimos que era muy poco cre&iacute;ble el reportaje del <em>New York Times</em>; entonces, hagan de cuenta que no s&eacute; qu&eacute; les dijimos. &ldquo;&iexcl;No, que c&oacute;mo, la Presidenta dice que&hellip;!&rdquo;</p>
+
+<p>&iquest;C&oacute;mo en un peri&oacute;dico como el <em>New York Times</em> que saca un reportaje que es poco cre&iacute;ble no vamos a tener derecho de r&eacute;plica? Nada m&aacute;s que el derecho de r&eacute;plica lo hacemos aqu&iacute; en &ldquo;La Ma&ntilde;anera del pueblo&rdquo;, y as&iacute; vamos a seguir con el derecho de r&eacute;plica.</p>
+
+<p>Hoy sale en tres peri&oacute;dicos de circulaci&oacute;n nacional que &ldquo;ya ahora, el mayor problema o a lo que se dedica la delincuencia organizada ahora, es al tr&aacute;fico de personas&rdquo;. Ahora, ya pasaron de la droga a&hellip;</p>
+
+<p>Por supuesto que se combaten los delitos, y estamos buscando la cero impunidad y la atenci&oacute;n a las causas.</p>
+
+<p>Y luego uno lo lee y dice: &iquest;Qu&eacute; fuente dice eso? &iquest;D&oacute;nde est&aacute;n los datos? &iquest;Por qu&eacute; sale en tres lugares al mismo tiempo en tres peri&oacute;dicos?</p>
+
+<p>&ldquo;Fuentes de inteligencia dicen ahora&rdquo;. Bueno &iquest;cu&aacute;les son esas &ldquo;fuentes de inteligencia&rdquo;? Pero resulta que est&aacute; vinculado con el tema de migraci&oacute;n, que es uno de los temas centrales que el presidente Trump ha planteado como uno de los temas de trabajo entre M&eacute;xico y Estados Unidos.</p>
+
+<p>Entonces, &iquest;por qu&eacute; sacan el <em>New York Times</em> ese reportaje, que no es cre&iacute;ble?, &iquest;por qu&eacute; ahora resulta que, ahora, el gran tema es&hellip; Cuando la disminuci&oacute;n de personas que llegan a la frontera norte, hoy fueron menos que lo que fueron la semana pasada por diversas razones, y entre otras, el trabajo humanitario que estamos haciendo.</p>
+
+<p>Y la comentocracia es una cosa impresionante:</p>
+
+<p>Que &ldquo;no hay democracia en M&eacute;xico&rdquo;.</p>
+
+<p>Que&hellip; &mdash;&iquest;C&oacute;mo fue que dijo Aguilar Cam&iacute;n?&mdash; &ldquo;que la democracia&hellip;&rdquo; &ldquo;que a trav&eacute;s de la democracia se lleg&oacute; al autoritarismo&rdquo;, pero &eacute;l tiene derecho a escribir lo que quiera. Hay derecho de reuni&oacute;n, derecho de manifestaci&oacute;n, derecho de escribir lo que se quiera, derecho a criticar a la Presidenta, burlarse de ella, porque as&iacute; hay muchos cartones.</p>
+
+<p>Que &ldquo;me dictan desde Palenque&rdquo;. Ya dejen descansar al Presidente L&oacute;pez Obrador, por favor, est&aacute; escribiendo, creo, su libro.</p>
+
+<p>Entonces, no entienden qu&eacute; pas&oacute;.</p>
+
+<p>Y la verdad es que hay una unidad muy grande entre el gobierno y el pueblo y va a seguir habiendo, esa no la vamos a traicionar. Y eso es lo que se refleja en estas encuestas.</p>
+
+<p><strong>PREGUNTA: &iquest;O sea, que podr&iacute;amos definir sus primeros 100 d&iacute;as con: se est&aacute; cumpliendo lo que se prometi&oacute;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. En la Cuarta Transformaci&oacute;n los compromisos se cumplen.</p>
+
+<p>El domingo vamos a estar en el Z&oacute;calo, ah&iacute; vamos a &mdash;de manera breve, no va a ser un informe largo&mdash; a informar lo que hemos hecho en estos tres meses, qu&eacute; hicimos de octubre a principios de enero en todos los temas, y tambi&eacute;n a reivindicar las reformas constitucionales que fueron aprobadas por el Congreso, desde la reforma al Poder Judicial hasta que las mujeres hoy estamos en la Constituci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Presidenta, con la conexi&oacute;n que tenemos en <em>Sin Censura</em> con la comunidad en Estados Unidos, con la comunidad migrante &mdash;de hecho, dicen que nunca se deja de ser migrante, y su servidor ha sido migrante desde los 18 a&ntilde;os&mdash; se ve con buenos ojos, al menos as&iacute; lo percibo, que usted constantemente est&eacute; haciendo referencia a los paisanos en Estados Unidos.</strong></p>
+
+<p><strong>Debo de decirle respetuosamente que a m&iacute; me brinc&oacute; hace unos d&iacute;as en una de estas &ldquo;Ma&ntilde;aneras del pueblo&rdquo; que usted dec&iacute;a que se estaba analizando lo de las pensiones para los paisanos y paisanas en Estados Unidos por cuestiones de presupuesto, por eso mi pregunta que le voy a plantear:</strong></p>
+
+<p><strong>&iquest;Qu&eacute; presupuesto se ha pensado o hasta d&oacute;nde se tiene visualizado esta defensa legal, ahora que Donald Trump vuelva a asumir la presidencia en Estados Unidos, de nuestros h&eacute;roes y hero&iacute;nas, entendiendo que esa representaci&oacute;n legal es car&iacute;sima?</strong></p>
+
+<p><strong>En alg&uacute;n momento tuve una diferencia respetuosa con el Presidente Andr&eacute;s Manuel L&oacute;pez Obrador all&aacute; en Chicago.</strong></p>
+
+<p><strong>&iquest;Con qu&eacute; se va a trabajar?, porque no es f&aacute;cil decir &ldquo;los vamos a defender legalmente ante estas situaciones en Estados Unidos&rdquo;. &iquest;Qu&eacute; le han planteado? &iquest;Qu&eacute; es lo que se ha visualizado, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Se aument&oacute; el n&uacute;mero de&hellip; Pues, en realidad, no se contrata abogado por abogado, sino bufetes de abogados que ayudan a la defensa de los mexicanos y mexicanas que est&aacute;n all&aacute;, y adem&aacute;s, dan informaci&oacute;n permanentemente.</p>
+
+<p>Entonces, vamos a destinar lo que sea necesario para apoyar a nuestros hermanos y hermanas que est&aacute;n en Estados Unidos. Y despu&eacute;s, hay muchas redes de voluntarios tambi&eacute;n, de muchos migrantes que hoy son abogados, que est&aacute;n all&aacute; en bufetes y que dan tambi&eacute;n su trabajo voluntario.</p>
+
+<p>Entonces son las dos cosas: ampliar el n&uacute;mero de abogados que se estaban contratando a trav&eacute;s de este esquema y, por otro lado, seguir ampliando las redes de voluntarios que apoyan a mexicanos y mexicanas que est&aacute;n all&aacute;.</p>
+
+<p>Y tambi&eacute;n dar informaci&oacute;n para que, en caso de que llegaran a tocar a su casa, que no creemos que llegue a tanto, pero, bueno, que se tenga toda la informaci&oacute;n, que llegar&aacute;n a su lugar de trabajo, qu&eacute; deben de hacer, c&oacute;mo deben de afrontar una situaci&oacute;n as&iacute; y a d&oacute;nde deben de llamar.</p>
+
+<p>El <em>call center</em> que planteamos, que existe, una parte est&aacute; en Tucson, lo estamos ampliando aqu&iacute; en M&eacute;xico que est&eacute; vinculado con el que est&aacute; all&aacute;, para que la cantidad de llamadas que vayan a ser, de todas maneras, se est&eacute;n contestando. Y ya muy pronto va a estar tambi&eacute;n la aplicaci&oacute;n para que nuestros paisanos tengan toda la informaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Nosotros estamos a unos d&iacute;as de iniciar una gira por los 50 estados de Estados Unidos buscando la voz del migrante. &iquest;Se le puede decir, entonces, al migrante que hay que volver a tener confianza en su Consulado?</strong></p>
+
+<p><strong>Por mucho tiempo, de hecho, se le criticaba que hab&iacute;a un trato que no llegaba a ser al nivel de la 4T, del Humanismo Mexicano. &iquest;Ya puede usted como Presidenta decirles: regresen a su casa, a estos espacios?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. Y lo vamos a corregir y que nos avisen, que nos platiquen, que nos digan a trav&eacute;s de las redes o de estos mismos n&uacute;meros en caso de que no sean bien atendidos.</p>
+
+<p>Yo, uno de los planteamientos que le voy a hacer a los c&oacute;nsules, que ya se los hizo el canciller, es que tengan un d&iacute;a de audiencia p&uacute;blica, ellos y ellas, porque es la manera en que ellos van a saber: &iquest;est&aacute; funcionando o no est&aacute; funcionando el Consulado?, &iquest;qu&eacute; problemas tienen?, &iquest;qu&eacute; otros servicios se tienen que abrir?</p>
+
+<p>Solamente escuchando a quien se acerca al Consulado, pueden tener una mayor percepci&oacute;n de c&oacute;mo se est&aacute; llevando a cabo su trabajo. Entonces, es una de las tareas que vamos a desarrollar, entre otras.</p>
+
+<p><strong>PREGUNTA: Presidenta, para cerrar, si me permite, algo que qued&oacute; pendiente de algunos planteamientos que le hac&iacute;a al Presidente Andr&eacute;s Manuel L&oacute;pez Obrador era en relaci&oacute;n a los hospitales privados, al acceso a la salud, pero en los privados, de los mexicanos.</strong></p>
+
+<p><strong>Ven&iacute;a de un planteamiento muy personal &mdash;disc&uacute;lpeme si lo traigo nuevamente a colaci&oacute;n&mdash;, la muerte de mi padre con lo que considero fue una negligencia m&eacute;dica en el Hospital San Jos&eacute;, en Navojoa, Sonora; y, bueno, la familia due&ntilde;a de este hospital ni una disculpa con la familia de su servidor. Se van a cumplir dos a&ntilde;os de la muerte de mi padre.</strong></p>
+
+<p><strong>Y recuerdo que le hab&iacute;a planteado al Presidente: &iquest;c&oacute;mo el mexicano puede defenderse de estos cobros excesivos, de este actuar negligente y abusivo, pues, de estas instituciones de salud privada? </strong></p>
+
+<p><strong>Entendiendo que despu&eacute;s de que hice la denuncia de la muerte de mi padre se me vino una avalancha de denuncias, precisamente, sobre ese Hospital San Jos&eacute; Navojoa, Sonora, en donde, por cierto, est&aacute; a punto tambi&eacute;n de inaugurarse una gran cl&iacute;nica del IMSS-Bienestar all&aacute; y creo que va a ayudar en mucho.</strong></p>
+
+<p><strong>&iquest;Por qu&eacute; pareciera que es tan complicado hablar de esto, que a todas luces es un abuso contra el mexicano de a pie?, que muchas veces tiene que hasta empe&ntilde;ar su casa o deshacerse de lo poco que tiene para salvar la vida de un ser querido.</strong></p>
+
+<p><strong>&iquest;Ser&iacute;a muy dif&iacute;cil pensar en un &ldquo;qui&eacute;n es qui&eacute;n en la salud&rdquo;, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, primero, obviamente, seguimos fortaleciendo las instituciones p&uacute;blicas, porque el objetivo es que quien tenga recursos pueda ir a una entidad privada, pero que tenga la mejor atenci&oacute;n en cualquier unidad de medicina p&uacute;blica. Entonces, seguimos trabajando en ello y lo vamos a consolidar en 2025.</p>
+
+<p>Ahora &mdash;no s&eacute;, Iv&aacute;n, si en el caso de hospitales privados vinculado con Secretar&iacute;a de Salud pudiera haber un esquema tambi&eacute;n de presentaci&oacute;n de quejas de cu&aacute;ntos hospitales, de cu&aacute;ntas quejas hay&mdash;.</p>
+
+<p><strong>PROCURADOR FEDERAL DEL CONSUMIDOR, IV&Aacute;N ESCALANTE RUIZ:</strong> Lo podemos revisar, pero en realidad las quejas se radican en Conamed, pero lo podemos&hellip;</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;A ver, expl&iacute;calo&mdash;.</p>
+
+<p><strong>PROCURADOR FEDERAL DEL CONSUMIDOR, IV&Aacute;N ESCALANTE RUIZ:</strong> Nosotros atendemos de primera instancia todas y a todos los consumidores cualquier queja que tengan, pero, por ejemplo, en particular, en t&eacute;rminos, en temas m&eacute;dicos, si nos llega a nosotros, lo traslados a Conamed; como, por ejemplo, si llegara alguna queja de alg&uacute;n servicio bancario, lo canalizamos a Condusef.</p>
+
+<p>S&iacute; podemos darle seguimiento y lo que podemos hacer es como revisar en cuanto a precios, por ejemplo, Presidenta, el tipo de servicios que da cada uno de los privados.</p>
+
+<p><strong>PREGUNTA: Es que hasta el momento solamente a trav&eacute;s del arbitraje es la respuesta que podr&iacute;a tener un mexicano de a pie, pero en realidad no hay una defensa a cu&aacute;nto te cobra el hospital por una gasa o por una jeringa, Presidenta; b&aacute;sicamente es a contentillo y a lo que quieren, &iquest;no?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo revisamos con gusto, vemos si hasta d&oacute;nde llegan las atribuciones de Profeco, y por lo menos que se presente para que se haga visible cu&aacute;nto cuesta en uno y en otro lugar.</p>
+
+<p><strong>PREGUNTA: Le agradezco mucho.</strong></p>
+
+<p><strong>Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Por ac&aacute;&mdash;</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Aurora Castillejos, <em>Canal 14, SPR, Altavoz Radio</em>.</strong></p>
+
+<p><strong>Preguntarle: el fin de semana visit&oacute; Hidalgo y ah&iacute; anunci&oacute; que la termoel&eacute;ctrica del municipio de Tula ser&aacute; reconvertida para usar gas natural en lugar de combust&oacute;leo. &iquest;C&oacute;mo es que se va a llevar a cabo? &iquest;Y qu&eacute; es lo que est&aacute;n esperando de beneficios en torno a este tema?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> En Tula vamos a hacer varios proyectos, por un lado.</p>
+
+<p>Y, por otro lado, hay varias plantas ya muy antiguas de Comisi&oacute;n Federal de Electricidad que usan combust&oacute;leo, que en la medida que est&aacute;n trabajando &mdash;todav&iacute;a falta cerrar algunas&mdash; las coquizadoras de las refiner&iacute;as, ya no se va a producir tanto combust&oacute;leo.</p>
+
+<p>Entonces, el gas natural tiene menos emisiones que el combust&oacute;leo, de distinto tipo, emisiones contaminantes y tambi&eacute;n las que provocan el cambio clim&aacute;tico.</p>
+
+<p>Entonces, en el plan de CFE para los pr&oacute;ximos a&ntilde;os est&aacute; la reconversi&oacute;n de varias plantas de combust&oacute;leo a plantas de ciclo combinado de gas natural.</p>
+
+<p>Adem&aacute;s, el ciclo combinado aumenta su eficiencia porque son dos formas de generaci&oacute;n. En una termoel&eacute;ctrica convencional es solamente una planta de generaci&oacute;n el&eacute;ctrica; y en un ciclo combinado hay una turbina y luego hay una planta termoel&eacute;ctrica que usa los gases de la turbina de gas, entonces aumenta la eficiencia.</p>
+
+<p>Entonces, en Tula va a haber una planta de ciclo combinado, va a haber la sustituci&oacute;n. Y ya le voy a pedir a Emilia y a Luz Elena que vengan para poder explicar este plan.</p>
+
+<p>Entonces, en Tula es esta sustituci&oacute;n.</p>
+
+<p>Tambi&eacute;n, Roberto, con el Plan de Acceso al Agua de la Zona Metropolitana del Valle de M&eacute;xico, junto con Efra&iacute;n Morales, nos est&aacute;n ayudando al Plan de Saneamiento del r&iacute;o Tula.</p>
+
+<p>Tula es uno de los r&iacute;os m&aacute;s contaminados, por los distintos afluentes, porque todav&iacute;a hay una parte de las aguas de desecho de la Zona Metropolitana del Valle de M&eacute;xico que llegan all&aacute; sin ser tratadas, y por distintos afluentes; y tambi&eacute;n porque los municipios tiran el drenaje en el r&iacute;o Tula. Entonces, se est&aacute; haciendo un plan de saneamiento del r&iacute;o para limpiarlo y que est&eacute; en otras condiciones.</p>
+
+<p>Tambi&eacute;n se est&aacute; haciendo un plan para que mejore la planta de tratamiento de agua de la refiner&iacute;a de Tula, adem&aacute;s de la coquizadora.</p>
+
+<p>Es decir, son varios planes.</p>
+
+<p>Y, por otro lado, ah&iacute; en Tula hay el terreno aquel, que compr&oacute; Calder&oacute;n para la refiner&iacute;a. Y en una parte, no exactamente en Tula, es un municipio que est&aacute; pegado a Tula, ah&iacute; se est&aacute; terminando de construir el hospital del IMSS; y ah&iacute; se va a hacer un Centro de Econom&iacute;a Circular, se llama, que son distintas plantas de reciclamiento de basura, de residuos de la construcci&oacute;n, que permita mejorar toda la condici&oacute;n ambiental de la zona.</p>
+
+<p><strong>PREGUNTA: Bien. Y en otro tema, en temas de seguridad, preguntarle: este fin de semana tambi&eacute;n visit&oacute; Morelos. Saber &iquest;cu&aacute;l es el plan para construir paz en esta entidad?</strong></p>
+
+<p><strong>Dec&iacute;a que &ldquo;no se iba a utilizar mano dura&rdquo;, pero saber &iquest;cu&aacute;l es la estrategia espec&iacute;ficamente en esta entidad? Y que supongo se replicar&aacute; a nivel nacional.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;Para qu&eacute;, perd&oacute;n?</p>
+
+<p><strong>PREGUNTA: En temas de seguridad, en Morelos.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, Morelos es muy especial porque todav&iacute;a tiene el fiscal que no&hellip; que sigue ah&iacute;, que, como ustedes saben, es un fiscal que tiene &oacute;rdenes de aprehensi&oacute;n, nada m&aacute;s que en su momento lo defendi&oacute; el propio Congreso del estado de Morelos. Su proceso tendr&aacute; que resolverse en alg&uacute;n momento.</p>
+
+<p>En general, en todas las entidades lo que estamos haciendo es mucha mayor coordinaci&oacute;n, que se va dando poco a poco, no es de la noche a la ma&ntilde;ana. Coordinaci&oacute;n no quiere decir nada m&aacute;s hablarse por tel&eacute;fono, sino construir estrategias de atenci&oacute;n a la seguridad, en la procuraci&oacute;n de justicia en las distintas entidades de la rep&uacute;blica.</p>
+
+<p>Entonces, hemos trabajado mucho con Sinaloa, hemos trabajado mucho con Guerrero, hemos trabajado con el Estado de M&eacute;xico, con Baja California, aunque se est&aacute; fortaleciendo m&aacute;s el trabajo, con Sonora. Hay entidades en donde hemos avanzado un poco m&aacute;s y otras entidades donde todav&iacute;a tenemos que avanzar m&aacute;s, una de ellas es Morelos por esta condici&oacute;n particular, adem&aacute;s de la Fiscal&iacute;a.</p>
+
+<p>Pero hay mucha coordinaci&oacute;n. Tienen nuevo secretario de Seguridad. El secretario de Marina va estos d&iacute;as para all&aacute; para poder apoyar en algunos temas. Y, por supuesto, el secretario de Seguridad, que est&aacute; en coordinaci&oacute;n con todos.</p>
+
+<p>Entonces, el jueves es el Informe de Seguridad. Lo vamos a mover de martes a jueves para poder tener&hellip; Queremos tener el cierre de diciembre, de los datos de diciembre, porque tardan un poco las Fiscal&iacute;as en enviar la informaci&oacute;n; tenemos una informaci&oacute;n que llega diario, pero despu&eacute;s de va a ajustando porque hay retrasos en el env&iacute;o de las Fiscal&iacute;as estatales. Entonces, el jueves hay informe de seguridad y ah&iacute; se puede ampliar mucho m&aacute;s la informaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Jos&eacute; Manuel Fuentes, de <em>Capital 21</em>, <em>el Coraz&oacute;n de la Capital.</em></strong></p>
+
+<p><strong>Preguntarle sobre el tema del carro el&eacute;ctrico, sobre todo, &iquest;de qu&eacute; va a ser la bater&iacute;a, si va a ser de litio o de qu&eacute; otro tipo se va a utilizar?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Roberto, &iquest;quieres contestar las bater&iacute;as del auto? Adelante&mdash;.</p>
+
+<p><strong>COORDINADOR DEL PROYECTO OLINIA, ROBERTO CAPUANO TRIPP:</strong> Nuestra intenci&oacute;n es que las bater&iacute;as sean de litio. El litio que es el mismo material que tenemos todos en nuestros celulares, el mismo tipo de bater&iacute;a, tiene una, lo que se llama una densidad energ&eacute;tica mucho mayor.</p>
+
+<p>Uno de los elementos m&aacute;s importantes que debemos de cuidar en un veh&iacute;culo el&eacute;ctrico es que tenga suficiente rango, rango que, con una carga cu&aacute;nto puede recorrer. Entonces, para darle mayor rango al veh&iacute;culo, la mejor alternativa es el litio.</p>
+
+<p><strong>PREGUNTA: Muchas gracias. En otro tema, Presidenta, que tambi&eacute;n tiene que ver con lo de Profeco, el presidente de la Organizaci&oacute;n Nacional de Expendedores de Petr&oacute;leo en Hermosillo record&oacute; que el precio de las gasolinas es libre, por lo que se va a checar jur&iacute;dicamente si la Profeco puede poner este tipo de lonas.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; opini&oacute;n le merece, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues que den la gasolina al precio que debe ser. O sea, &iquest;a poco es libre que cobren 27 pesos el litro? Pues no.</p>
+
+<p>Digo, lo pueden hacer, pero para eso est&aacute; el &ldquo;Qui&eacute;n es qui&eacute;n en los precios&rdquo;. Entonces, Es importante que no haya abusos, que no haya abusos.</p>
+
+<p>Por eso, aqu&iacute; se plantea de manera&hellip; Otro que est&aacute;n enojad&iacute;simos, enojad&iacute;simos:</p>
+
+<p>O sea, si uno toma en cuenta la inflaci&oacute;n de cada a&ntilde;o del 2019, &acute;20, &acute;21, y se la pone, digamos, al precio de la gasolina del 2018 y va poni&eacute;ndole el aumento de la inflaci&oacute;n, que fue a lo que nos comprometimos, en su momento el Presidente L&oacute;pez Obrador y su servidora, de que en t&eacute;rminos reales no aumentar&iacute;a, es decir, que solo aumenta o lo m&aacute;ximo que puede aumentar es la inflaci&oacute;n, respecto al valor que ten&iacute;a en el 2018.</p>
+
+<p>Entonces, si uno va contando la inflaci&oacute;n de cada a&ntilde;o, el precio que tiene la gasolina en enero de 2025, es menor que, incluso, si se considera el aumento de la inflaci&oacute;n de cada a&ntilde;o.</p>
+
+<p>Pero est&aacute;n enojados, no s&eacute; por qu&eacute;. Yo creo que porque los exhibimos, de que con Pe&ntilde;a aument&oacute; m&aacute;s de 40 por ciento la gasolina y que cada semana hab&iacute;a un &ldquo;gasolinazo&rdquo;; o que con Calder&oacute;n aument&oacute; 22 por ciento, y que con Calder&oacute;n hubo los mayores excedentes petroleros, el aumento a los precios de la gasolina y, de todas maneras, no termin&oacute; su refiner&iacute;a.</p>
+
+<p>Entonces, les molesta que digamos, pero &iquest;c&oacute;mo no lo vamos a decir?, hay que recordar lo que fueron los gobiernos del pasado.</p>
+
+<p><strong>PREGUNTA: Y como dice, bueno, ahorita, que hay que recordar lo de los gobiernos del pasado, tambi&eacute;n quiero preguntarle su opini&oacute;n, porque el gobierno de Enrique Pe&ntilde;a Nieto ocult&oacute; en 2014 los registros de las liquidaciones que recibieron Carlos Salinas de Gortari y Ernesto Zedillo como titulares de la Secretar&iacute;a &mdash;bueno, que fue desaparecida&mdash; de Programaci&oacute;n y Presupuesto.</strong></p>
+
+<p><strong>En una nota de <em>Milenio</em> mencionan que, incluso, llegaron a cobrar m&aacute;s de 3 millones al mes, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Bueno, as&iacute; eran las pensiones de los expresidentes. No s&eacute; en particular esta liquidaci&oacute;n que mencionas, que si hay la informaci&oacute;n, hay que darla. Pero el tema son las pensiones a los expresidentes, y esas ya no hay; es la del Issste y la de Bienestar.</p>
+
+<p><strong>PREGUNTA: Ya si ellos quieren, se pueden registrar.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah, s&iacute;, como Quadri, a lo mejor pueden ir ah&iacute; un centro de registro, se registran. Cada bimestre se abren de nuevo los registros.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: &mdash;</strong>Bueno, ac&aacute;&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Dalila Escobar, de <em>Proceso</em>. </strong></p>
+
+<p><strong>Primero, preguntarle sobre lo que sucedi&oacute; tambi&eacute;n con la detenci&oacute;n del alcalde de Frontera Comalapa, Jos&eacute; Antonio Villatoro, esto por delitos de homicidio, desaparici&oacute;n forzada, en fin, algunos otros que est&aacute;n relacionados tambi&eacute;n con las cuestiones de corrupci&oacute;n y, sabemos, en un estado donde se ha situado una cuesti&oacute;n de crimen durante los a&ntilde;os anteriores.</strong></p>
+
+<p><strong>Primero, preguntarle: &iquest;qu&eacute; informaci&oacute;n tiene sobre este hecho?, &iquest;est&aacute; realizando precisamente con el tema de las acciones que est&aacute;n teniendo para contener, por ejemplo, a los grupos criminales?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Es una acci&oacute;n que tom&oacute; la Fiscal&iacute;a de Justicia del estado de Chiapas. El jueves, quiz&aacute;, puedan dar m&aacute;s informaci&oacute;n de sobre qu&eacute; bases est&aacute; esta orden de aprehensi&oacute;n que se gir&oacute;, pero tiene que ver con una estrategia de cero impunidad, no importa de qui&eacute;n se trate.</p>
+
+<p><strong>PREGUNTA: Es como lo relacionado con el Estado de M&eacute;xico. Bueno, preguntar primero eso.</strong></p>
+
+<p><strong>Y saber si &iquest;tambi&eacute;n con la informaci&oacute;n que recibe de los estados pudiera haber otro tipo de operaciones as&iacute; en alguna otra entidad?, &iquest;qu&eacute; reportes tiene o de que estados pudiera haber?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Esto proviene de las investigaciones. No es que haya &ldquo;presuntamente un presidente municipal est&aacute;&hellip;&rdquo;, no, esto viene de investigaciones que se hicieron sea por extorsi&oacute;n, sea por alg&uacute;n homicidio, por alguna desaparici&oacute;n.</p>
+
+<p>Entonces, al hacer las investigaciones, ah&iacute; sale la posible colusi&oacute;n de alg&uacute;n servidor o alg&uacute;n funcionario p&uacute;blico &mdash;porque no se les puede &ldquo;servidor p&uacute;blico&rdquo;&mdash; de un funcionario; o qui&eacute;n sabe, porque tampoco funcionan, &iquest;verdad?, no s&eacute; c&oacute;mo les podemos llamar cuando hay colusi&oacute;n con el crimen, delincuentes, presuntos, porque se tiene que demostrar su inocencia.</p>
+
+<p>Que, por cierto, bueno&hellip; Entonces, viene de las investigaciones si hay colusi&oacute;n de alguna autoridad pues, entonces, se sigue la investigaci&oacute;n y tiene que haber suficientes pruebas para que un juez otorgue una orden de aprehensi&oacute;n.</p>
+
+<p>Esto es importante porque tambi&eacute;n se ha dicho mucho de la prisi&oacute;n preventiva oficiosa. La prisi&oacute;n preventiva oficiosa no quiere decir un r&eacute;gimen de excepci&oacute;n, no quiere decir que no se investiga, y se detiene a alguien y se lleva detenido, no; quiere decir que hay ciertos delitos que est&aacute;n establecidos en el 19 constitucional en donde, si se llevan suficientes pruebas del Ministerio P&uacute;blico a un juez y un juez otorga una orden de aprehensi&oacute;n, el presunto delincuente tiene que librar su condena dentro de prisi&oacute;n dentro de un centro de detenci&oacute;n; pero eso no quiere decir que no se tenga que presentar las suficientes pruebas por parte del Ministerio P&uacute;blico a un juez, para que el juez determine si se hace una orden de aprehensi&oacute;n o no, eso depende del juez.</p>
+
+<p>Lo que el juez ya no puede determinar en esa particularidad de los delitos es si lleva su juicio en libertad o en prisi&oacute;n, pero eso no quiere decir que se detiene a alguien por el solo hecho de suponer que es un delincuente, no; tienen que presentarse las pruebas ante un juez por parte del Ministerio P&uacute;blico.</p>
+
+<p><strong>PREGUNTA: La queja que se menciona es que, antes de demostrar si se cometi&oacute; o no el delito, estar&iacute;a bajo orden de...</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Llevar&iacute;a su proceso&hellip;</p>
+
+<p>En la prisi&oacute;n preventiva justificada depende del juez si lo lleva en prisi&oacute;n o no, es a criterio del juez, pero hay ciertos delitos que consideramos que, frente a la situaci&oacute;n que vive el pa&iacute;s, no deber&iacute;an estar a criterio del juez si lo lleva en prisi&oacute;n o no. Pero eso no quiere decir que no se tengan que llevar las suficientes pruebas para poder determinar si merece una orden o no de aprehensi&oacute;n.</p>
+
+<p>Entonces, muchas veces al juez &mdash;y ahora s&iacute;, hablando a favor de los jueces&mdash; se le pone en riesgo frente a una persona de la delincuencia organizada, si el juez tiene que determinar bajo su criterio, si lo lleva en prisi&oacute;n o no.</p>
+
+<p>Entonces, se dice en estos casos, la extorsi&oacute;n ahora, por ejemplo, de demostrarse que la persona est&aacute; extorsionando no puede llevar su proceso en libertad, la tiene que llevar detenido.</p>
+
+<p>Ese es el tema de la prisi&oacute;n preventiva oficiosa, pero no quiere decir ning&uacute;n r&eacute;gimen de excepci&oacute;n, ni mucho menos.</p>
+
+<p><strong>PREGUNTA: Precisamente, sobre esta situaci&oacute;n de colusi&oacute;n entre autoridades y entre algunas autoridades y grupos criminales; hay un informe sobre la democracia en este caso que analiza datos de muchos, de decenas de pa&iacute;ses, entre ellos, por supuesto, M&eacute;xico. Es del Instituto de Variedades de la Democracia, es de una universidad de Suecia, en donde participan tambi&eacute;n expertos de todo el mundo para ver los niveles justo de democracia.</strong></p>
+
+<p><strong>En alg&uacute;n punto lo que ellos mencionan es que, bueno, primero ubican a M&eacute;xico como en un episodio de autocratizaci&oacute;n a partir de 2023; es decir, que s&iacute; tuvo un periodo de democracia, pero que va, est&aacute; hacia una zona gris.</strong></p>
+
+<p><strong>En algunos de los puntos que menciona es que esto se debi&oacute; principalmente a la situaci&oacute;n de inseguridad que viene de sexenios anteriores, pero con las decisiones que se tomaron, por ejemplo, desde el sexenio de Calder&oacute;n hasta el anterior.</strong></p>
+
+<p><strong>Lo que concluye un poco es que se tiene como la misma estrategia en torno al tema de delegar las cuestiones de seguridad p&uacute;blica a las Fuerzas Armadas, eso mencionan, desde Calder&oacute;n con el tema de la declaraci&oacute;n de la guerra contra el narcotr&aacute;fico, incluso hasta el sexenio pasado con el uso, por el uso de las Fuerzas Armadas.</strong></p>
+
+<p><strong>Lo que mencionan ellos en este sentido es que, por ejemplo, el tema de la inseguridad o de la violencia se debe mucho o no se entiende, si no hay una colusi&oacute;n entre las autoridades de algunos o de ciertos niveles con la delincuencia.</strong></p>
+
+<p><strong>Sin embargo, tambi&eacute;n lo que mencionan es que lo que influye en el tema de la democracia son las decisiones que toman los gobiernos. En este caso lo que menciona es que es el c&oacute;mo se hizo, &iquest;no? Por ejemplo, lo dice la autocracia por este tema de querer acaparar las decisiones incluso del propio Legislativo o del Judicial, a partir de decisiones que tomaron, por ejemplo, de la adscripci&oacute;n de la Guardia Nacional a las Fuerzas Armadas, etc&eacute;tera.</strong></p>
+
+<p><strong>Primero preguntarle si &iquest;usted observa estos claroscuros que mencionan no solamente en la regi&oacute;n de Am&eacute;rica Latina, sino en M&eacute;xico con este tipo de decisiones de c&oacute;mo se hicieron?, es decir, para poder tomar algunas de las determinaciones desde el sexenio anterior qu&eacute; se necesit&oacute;, por ejemplo, la reforma judicial, qu&eacute; se necesit&oacute;, por ejemplo, tener dos terceras partes del Legislativo y que eso al mismo tiempo, implica, seg&uacute;n mencionan estos an&aacute;lisis, que se puede socavar la democracia.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Que me digan qu&eacute; pa&iacute;s en Europa no busca &mdash;ellos tienen r&eacute;gimen parlamentario, muchos de ellos, no todos, pero&hellip;&mdash; tener la mayor&iacute;a, o sea, un proyecto pol&iacute;tico busca tener la mayor&iacute;a en los Congresos.</p>
+
+<p>Acaba de ser la elecci&oacute;n en Estados Unidos.&nbsp; &iquest;Qu&eacute; buscaba el Partido Republicano? Pues tener mayor&iacute;a en la C&aacute;mara Baja y en la C&aacute;mara Alta. &iquest;Qu&eacute; buscaba el Partido Dem&oacute;crata? Pues tener mayor&iacute;a en la C&aacute;mara Baja y en la C&aacute;mara Alta.</p>
+
+<p>&iquest;Qu&eacute; busca cualquier proyecto pol&iacute;tico en cualquier pa&iacute;s? &iquest;O a poco un proyecto pol&iacute;tico en un pa&iacute;s dice &ldquo;bueno, yo propongo que yo gane la Presidencia, pero que la C&aacute;mara de Diputados y Senadores la gane otro partido para poder&hellip; que una entidad que hace un &iacute;ndice nos diga que somos democr&aacute;ticos?&rdquo;</p>
+
+<p>Pues no.</p>
+
+<p>Es evidente que, cuando hay un proyecto de naci&oacute;n que se le presenta al pueblo para su decisi&oacute;n, uno busca tener la mayor&iacute;a en la C&aacute;mara de Diputados y en la C&aacute;mara de Senadores.</p>
+
+<p>Lo que pas&oacute; ahora, es que con las leyes electorales actuales, ganamos la mayor&iacute;a calificada; que se sorprendieron muchos, pero as&iacute; fue. Entonces, &iquest;por qu&eacute; eso quiere decir &ldquo;autoritarismo&rdquo;?, &iquest;en d&oacute;nde, en qu&eacute; pa&iacute;s?</p>
+
+<p>Autoritarismo es que hubiera represi&oacute;n, autoritarismo es que no hubiera libertad de prensa.</p>
+
+<p>Que, por cierto, fue el D&iacute;a Nacional del Periodista &mdash;muchas felicidades&mdash; ayer o antier, &iquest;verdad? Ayer.</p>
+
+<p>Autoritarismo ser&iacute;a que reprimi&eacute;ramos una manifestaci&oacute;n cuando se hace.</p>
+
+<p>Pero sencillamente la C&aacute;mara de Diputados, un proyecto de naci&oacute;n est&aacute; votando por aquello en lo que cree.</p>
+
+<p>Entonces, &iquest;de cu&aacute;ndo ac&aacute; eso es&hellip;? Eso es, por un lado.</p>
+
+<p>Por otro lado, dicen, por un lado, que&hellip; critican que hay inseguridad en M&eacute;xico, violencia. &iquest;Y por qu&eacute; critican que se decidi&oacute; hacer una fuerza nacional para atender la inseguridad y la violencia?</p>
+
+<p>&iquest;Que est&aacute; dentro de la Secretar&iacute;a de la Defensa Nacional? S&iacute;, pero no es el Ej&eacute;rcito, es otra fuerza distinta, con otro Comandante, que tiene sus propias caracter&iacute;sticas; eso s&iacute;, tiene la disciplina, la lealtad con la que se forman los soldados, las soldadas.</p>
+
+<p>Entonces, &iquest;cu&aacute;les son los criterios para decir que en M&eacute;xico no hay democracia? Que desapareci&oacute; el INAI. Bueno, no desapareci&oacute; la transparencia, desapareci&oacute; un organismo que se hab&iacute;a dedicado a la corrupci&oacute;n, entre otras cosas.</p>
+
+<p>Entonces, habr&iacute;a que ver, pues. No pretendo desacreditar, pero &iquest;qu&eacute; es lo que toman en cuenta?, &iquest;y qui&eacute;nes hacen estas evaluaciones y baj&oacute; qu&eacute; criterios?</p>
+
+<p>Porque es lo mismo. Cuando un primer ministro en Europa tiene 16 a&ntilde;os en el poder, como lo fue Angela Merkel &mdash;que, por cierto, estoy leyendo sus memorias, muy interesantes&mdash;, nadie dec&iacute;a que hab&iacute;a problema, pero hab&iacute;a una reelecci&oacute;n de un presidente en Am&eacute;rica Latina y &ldquo;&iexcl;Woaaa!&rdquo;, ah&iacute; donde se permite la reelecci&oacute;n, &iquest;no? Entonces, por eso digo que: con qu&eacute; criterio se mide.</p>
+
+<p><strong>PREGUNTA: S&iacute;, un poco tambi&eacute;n el informe tambi&eacute;n concluye que si, en efecto, que si en Europa&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Y no quiero&hellip; no hablo mal de Angela Merkel, ni nada, sino digo que se mida con el mismo criterio, &iquest;no?, con el mismo indicador.</p>
+
+<p><strong>PREGUNTA: Aj&aacute;, tambi&eacute;n el tema, bueno, lo que mencionan es que s&iacute;, en efecto, en Europa s&iacute; ha tenido m&aacute;s retrocesos que los avances que se han podido tener incluso en la regi&oacute;n de Am&eacute;rica Latina.</strong></p>
+
+<p><strong>Y, tambi&eacute;n, incluso ha mencionado que mientras no se tuvo &mdash;por mencionarlo de alguna manera&mdash; la mayor&iacute;a en las C&aacute;maras, lo que se hizo, por ejemplo, en el caso de M&eacute;xico, es un abuso de los decretos presidenciales que si, en efecto, son una facultad, pero que se tuvo un abuso de esos decretos para poder llevar a cabo algunas de las iniciativas o algunas de las estrategias que ten&iacute;a el&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues s&iacute;, pero no dicen que hab&iacute;a una Suprema Corte de Justicia que quer&iacute;a legislar &mdash;pues hay que poner todo en contexto, &iquest;no?&mdash; porque se aprob&oacute; una Ley El&eacute;ctrica en el Congreso y la Suprema Corte de Justicia de la Naci&oacute;n la ech&oacute; para atr&aacute;s sin argumentos.</p>
+
+<p>Entonces, &iquest;por qu&eacute; no dicen c&oacute;mo act&uacute;a la Corte, por ejemplo?</p>
+
+<p>Y qu&eacute; bueno que ahora se va a elegir por voto popular. &iquest;O eso no es democracia?</p>
+
+<p>Por eso yo digo, y lo sostengo: que somos el pa&iacute;s m&aacute;s democr&aacute;tico.</p>
+
+<p>F&iacute;jense, dec&iacute;an de los vapeadores, &iquest;no?, que: &ldquo;&iexcl;&iquest;c&oacute;mo, que se iban a prohibir?!&rdquo; Le&iacute; que creo que en B&eacute;lgica, &iquest;no?, ya se prohibieron los vapeadores. As&iacute;, al ratito van a ver que va a haber otros pa&iacute;ses que van a elegir la Corte.</p>
+
+<p>&mdash;Bueno, ya son&hellip;&mdash;</p>
+
+<p><strong>PREGUNTA: Precisamente, Presidenta, nada m&aacute;s hablando del Poder Judicial, finalmente: todav&iacute;a en agosto del a&ntilde;o pasado el expresidente Andr&eacute;s Manuel L&oacute;pez Obrador hab&iacute;a enviado a la ministra presidenta, Norma Pi&ntilde;a un oficio para resolver ya el caso de Ricardo Salinas Pliego.</strong></p>
+
+<p><strong>Lo que ahora se sabe tambi&eacute;n en estos d&iacute;as es que el equipo legal de Grupo Elektra pues logr&oacute; mantener en el limbo esta resoluci&oacute;n para pagar m&aacute;s o casi 35 mil millones de pesos.</strong></p>
+
+<p><strong>Ahora, con la tramitaci&oacute;n de recursos de reclamaci&oacute;n e impedimentos contra cuatro ministros que ubican en favor del gobierno, del partido Morena, est&aacute;n buscando que no intervengan o no lleven a ponencia estos casos, precisamente, para hacer o dilatar m&aacute;s el tema, y que sea tal vez resuelto con los ministros, la nueva elecci&oacute;n que pueda haber, pero que no necesariamente sean con los que actualmente est&aacute;n que se han manifestado en favor de este proyecto.</strong></p>
+
+<p><strong>&iquest;Considera usted que pudiera darse todav&iacute;a un avance en esto? Todav&iacute;a, de hecho, en estos d&iacute;as se iba a tener la ponencia de uno de los casos para resolver, porque est&aacute;n divididos, son diversos, suman 35 mil millones de pesos. Sin embargo, todav&iacute;a con recursos legales se est&aacute; pidiendo que se dilate este procedimiento.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues ser&iacute;a muy bueno una buena acci&oacute;n de la Corte, vamos a esperar, pero ser&iacute;a muy bueno.</p>
+
+<p>Ellos y ellas se van en&hellip; bueno, el ministro Aguilera ya&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Aguilar.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Aguilar, perd&oacute;n, ya dej&oacute; la&hellip; cumpli&oacute; pues con su periodo. Y los otros ministros y ministras, si no participan en la elecci&oacute;n, se van &mdash;&iquest;en qu&eacute;?&mdash; en agosto, porque el 1o. de septiembre entrar&iacute;an los nuevos miembros del Poder Judicial.</p>
+
+<p>Entonces, tienen todav&iacute;a algunos meses para resolver a favor del pueblo y de la naci&oacute;n.</p>
+
+<p>&mdash;Bueno, vamos a cerrar con Diego. &iquest;Por qu&eacute; no les platicas, adem&aacute;s, que hoy a d&oacute;nde vamos en la noche?&mdash;</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA, DIEGO PRIETO HERN&Aacute;NDEZ:</strong> S&iacute;, c&oacute;mo no.</p>
+
+<p>Bueno, en principio, Presidenta, compa&ntilde;eras y compa&ntilde;eros del equipo de gobierno; amigas y amigos de los medios, con una felicitaci&oacute;n tambi&eacute;n por el D&iacute;a de la Libertad de Expresi&oacute;n.</p>
+
+<p>Quisiera, antes de pasar a una c&aacute;psula que refiere los terribles acontecimientos que ocurrieron el 7 de enero de 1907 en R&iacute;o Blanco, Veracruz, en la cercan&iacute;a de Orizaba, cuando, ah&iacute; s&iacute;, un gobierno autoritario reprimi&oacute; brutalmente la huelga de las y los trabajadores de la f&aacute;brica textil de R&iacute;o Blanco, asesin&oacute; a un importante n&uacute;mero de trabajadores y llev&oacute; a la c&aacute;rcel, a los campos de reclusi&oacute;n que hab&iacute;a en Quintana Roo, a decenas y decenas de obreras y obreros de esta f&aacute;brica.</p>
+
+<p>Antes de ello, invitarles &mdash;lo ha planteado la Presidenta&mdash; a que, a partir de ma&ntilde;ana, todas y todos los mexicanos puedan acercarse al segundo piso del Museo Nacional de Antropolog&iacute;a.</p>
+
+<p>El Museo Nacional de Antropolog&iacute;a tambi&eacute;n tiene su segundo piso, en el que vamos a presentar de una manera mucho m&aacute;s cercana, mucho m&aacute;s vital de lo que ten&iacute;amos anteriormente: la grandeza y diversidad cultural de M&eacute;xico, sobre todo, la fuerza y la diversidad de las culturas originarias de este pa&iacute;s, de las culturas vivas de nuestros pueblos ind&iacute;genas, de nuestras comunidades afromexicanas y, en general, lo que representa la enorme fuerza cultural de los pueblos originarios, comunidades afromexicanas y, en general, las culturas que hacen a esta naci&oacute;n una naci&oacute;n pluricultural.</p>
+
+<p>Una naci&oacute;n que, adem&aacute;s recientemente, a finales de septiembre, introdujo en la Constituci&oacute;n Pol&iacute;tica de los Estados Unidos Mexicanos el reconocimiento de los pueblos y comunidades ind&iacute;genas y afromexicanas como sujetos de derecho p&uacute;blico.</p>
+
+<p>Hoy en la noche vamos a estar con la Presidenta, con la jefa de gobierno, con miembros del gabinete, con los medios de comunicaci&oacute;n, con la comunidad del Instituto Nacional de Antropolog&iacute;a e Historia, y con muchos pueblos de diversas entidades federativas, tambi&eacute;n vendr&aacute;n varias y varios gobernadores de estas entidades, en esta fiesta de los pueblos de M&eacute;xico.</p>
+
+<p>Vamos entonces, ahora, a pasar la c&aacute;psula sobre este acontecimiento.</p>
+
+<p>Que es muy importante que recuperemos la idea de que el pensamiento y la &eacute;tica que impulsa la Transformaci&oacute;n en nuestro pa&iacute;s, que hemos denominado Humanismo Mexicano, se nutre &mdash;por un lado, se ha dicho&mdash; de los valores, los saberes, los referentes simb&oacute;licos de nuestras culturas originarias, pero tambi&eacute;n de las gestas que ha desarrollado el pueblo de M&eacute;xico a trav&eacute;s de estas ya cuatro transformaciones de su vida p&uacute;blica, y que han costado, muchas veces, la vida de muchas hermanas y hermanos que luchan por una mejor sociedad.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE LA SECCI&Oacute;N &ldquo;HUMANISMO MEXICANO&rdquo; SOBRE LA REPRESI&Oacute;N DE TRABAJADORES DE R&Iacute;O BLANCO, VERACRUZ, EL 7 DE ENERO DE 1907)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA, DIEGO PRIETO HERN&Aacute;NDEZ:</strong> Gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias a todos y a todas.</p>
+
+<p>Nos vemos ma&ntilde;ana o en la noche, si quieren ir all&aacute; a Antropolog&iacute;a.</p>
+
+<p>Adi&oacute;s.</p>
+
+<p>&mdash;Ah, la rosca. Ya se hizo tarde&mdash;.</p>
+
+<p>&iquest;Qui&eacute;n la corta? A ver.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2025-01-06 09:38:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 6 de enero de 2025";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-6-de-enero-de-2025";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-6-de-enero-de-2025" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 6 de enero de 2025"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-6-de-enero-de-2025" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-6-de-enero-de-2025&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 6 de enero de 2025";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-6-de-enero-de-2025" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-6-de-enero-de-2025";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-6-de-enero-de-2025" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

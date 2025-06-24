@@ -1,0 +1,1900 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de enero de 2025 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de enero de 2025" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/153059/2025-01-23_Conferencia_de_prensa_matutina_-_Palacio_Nacional_24.jpg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-enero-de-2025?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/153059/2025-01-23_Conferencia_de_prensa_matutina_-_Palacio_Nacional_24.jpg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="4Dn+W9wBZSsiHDBrSmby3H3Yz13dx/nLZYZ651tv/pI=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nixf7hzwz44jyja-f-a599737e0-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":32,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"3f7f6185","ak.r":47377,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62444,"ak.gh":"23.47.207.175","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296850","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Zvx1ZuS8TzftBE1zjLgRcmTx7HWOrxpTJw6gf/wrTUl3TfG/exW27tm6RtCKrWHL+x7rcDF6k7uX80sNikCoKDxMk3Joa4Orw/yIcBevbqRyZSJHlM/KVPuqkIUTupo+Seb5pRHa6ctSxhPBLdIJtPhVlIa6bNNJ2oWYml/R2HlTn8RCrGzi2+NsjyWOax5iUfKYVIEQU8WOnf6Md3MeboUKUwxYNAr2+GXH9ElSLTKGdnsfpDUwlFjKqn0Jd8di3S0bBK6go6mvX1zN+KArTnLq5bBi2Piis0BJ5T2eWdi6Y0fd0ARL37V3eFK+aL/9q4mLrdJDb9ZLzBCS0xJBwYEwdUmfwIdjvmEJUAUQ3Yu97BvfC8c5fHolWkb5qe1NJ+APeoZB3bMsIqPYheuD6uMwLXQnUEF1aFbzSJYElz8=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de enero de 2025</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 23 de enero de 2025</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/153059/2025-01-23_Conferencia_de_prensa_matutina_-_Palacio_Nacional_24.jpg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum</span>
+      </div>
+      <div class="article-body"><div>
+<div>&nbsp;</div>
+
+<div>
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Buenos d&iacute;as. Disculpen, se nos hizo tarde con la reuni&oacute;n de seguridad.</p>
+
+<p>Bueno, el d&iacute;a de hoy tenemos a distancia a la secretaria de Turismo, que nos va a platicar. Ella est&aacute;&hellip; &mdash;&iquest;C&oacute;mo se llama el evento en donde est&aacute;?&mdash;.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> FITUR</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;FITUR? La FITUR, que nos est&aacute; yendo muy bien all&aacute;, todo mundo quiere venir a conocer M&eacute;xico.</p>
+
+<p>Y relacionado con ello, est&aacute; con nosotros el General &Oacute;scar David Lozano &Aacute;guila, le decimos nosotros el &ldquo;General &Aacute;guila&rdquo;, es el director general del Tren Maya; est&aacute; con nosotros el General Adolfo H&eacute;ctor Tonatiuh Velasco Bernal, director del Grupo Aeroportuario de Servicios Auxiliares y Conexos Olmeca-Maya-Mexica, que es GAFSACOMM; y el General Leobardo &Aacute;vila Boj&oacute;rquez, director de Mexicana de Aviaci&oacute;n, que ya hab&iacute;a estado con nosotros.</p>
+
+<p>Aprovechando el tema de turismo, tambi&eacute;n nos van a platicar c&oacute;mo les fue a las distintas empresas en este fin de a&ntilde;o y algunos paquetes nuevos para Semana Santa.</p>
+
+<p>Y despu&eacute;s, vamos a tener a Ana Teresa Ram&iacute;rez-Valdez, ella es directora general de una organizaci&oacute;n que se llama Latino Donor Collaborative, que acaban de hacer un estudio, que lo conoc&iacute; el d&iacute;a de ayer, muy interesante de todos lo que contribuyen los latinos y particularmente los mexicanos a la econom&iacute;a de los Estados Unidos, son estudios muy relevadores.</p>
+
+<p>Y al final de la conferencia, a Josefina con &ldquo;Mujeres en la Historia&rdquo;.</p>
+
+<p>Bueno, contestamos sus preguntas despu&eacute;s.</p>
+
+<p>Nada m&aacute;s decirles sobre los Centros de Atenci&oacute;n, van bien. Me reportaron ahora, me reportaron en la reuni&oacute;n de Seguridad, hay dos que terminan hoy en la noche ya de instalarse, y los otros estar&aacute;n m&aacute;s o menos entre el s&aacute;bado probablemente, el fin de semana ya est&eacute;n completamente listos, para que todos tengan esta informaci&oacute;n.</p>
+
+<p>Empezamos con Josefina &mdash;&iquest;quieren?&mdash; empezamos con Josefina para que&hellip;.</p>
+
+<p>&mdash;Adelante, Jose&mdash;.</p>
+
+<p><strong>(VIDEOLLAMADA) SECRETARIA DE TURISMO, JOSEFINA RODR&Iacute;GUEZ ZAMORA: </strong>Con su permiso, Presidenta.</p>
+
+<p>Muy buenos d&iacute;as. Buenos d&iacute;as a todas y a todos. Los saludo desde Madrid, estamos aqu&iacute; en la Embajada de M&eacute;xico en Espa&ntilde;a, en FITUR, la feria m&aacute;s importante a nivel mundial.</p>
+
+<p>Y antes de darles ciertos datos, quisiera presentarle este video, por favor.</p>
+
+<p><strong>[PROYECCI&Oacute;N DE VIDEO SOBRE EL PABELL&Oacute;N DE M&Eacute;XICO EN LA FERIA INTERNACIONAL DE TURISMO (FITUR) 2025 EN MADRID]</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>&mdash;Adelante, Jose&mdash;.</p>
+
+<p><strong>(VIDEOLLAMADA) SECRETARIA DE TURISMO, JOSEFINA RODR&Iacute;GUEZ ZAMORA:</strong> Bueno, pues como ustedes lo acaban de ver, M&eacute;xico ha rebasado todas las expectativas, Presidenta.</p>
+
+<p>Hoy tenemos en el <em>stand</em> m&aacute;s grande de las Am&eacute;ricas, pero, sobre todo, por primera vez, est&aacute; lleno de color, lleno de gastronom&iacute;a, de artesan&iacute;a, de nuestros danzantes.</p>
+
+<p>Tenemos 21 estados presentes con sus pueblos originarios, sus Pueblos M&aacute;gicos y, sobre todo, nuestro Tren Maya. Hoy el Tren Maya viene con nosotros, con desayunos, con touroperadores que hemos tenido en estos dos d&iacute;as, pero viene acompa&ntilde;ado de los hoteles GAFSACOMM, de Mexicana de Aviaci&oacute;n.</p>
+
+<p>Y decirle que, dentro de las cosas que hemos logrado en estos dos d&iacute;as primeros de la Feria, ya fue incluirlos en las plataformas de venta mundial m&aacute;s importantes como es Despegar, TUI<strong>, </strong>Civitatis<strong>, </strong>El Corte Ingl&eacute;s, lo que nos va a permitir que no solo se incluya el Tren Maya, sino todas las experiencias alrededor de nuestros cinco estados.</p>
+
+<p>Tambi&eacute;n decirle que tenemos buenas noticias con nuevos vuelos internacionales.</p>
+
+<p>Tambi&eacute;n comentarle que, sobre todo, hoy, tenemos foros muy importantes &mdash;que nos acompa&ntilde;&oacute; tambi&eacute;n Altagracia&mdash; empresariales, donde pudimos darle visi&oacute;n de un turismo social, comunitario, competitivo, innovador que la oferta hotelera se va a emplear.</p>
+
+<p>Y con la gran expectativa de llegar, desde marzo del 2025 a enero del 2026, donde llenaremos todas las calles, no solo de Espa&ntilde;a, sino de otros lados de Europa con nuestra gastronom&iacute;a, nuestras danzas, nuestra cultura.</p>
+
+<p>Y muy enriquecedor, poniendo en alto a M&eacute;xico como potencia tur&iacute;stica que es, los datos lo hacen; cada vez va en incremento nuestro sector y estamos promocion&aacute;ndolo con la grandeza que tiene nuestro pa&iacute;s.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Muchas gracias, Jose. Felicidades.</p>
+
+<p><strong>(VIDEOLLAMADA) SECRETARIA DE TURISMO, JOSEFINA RODR&Iacute;GUEZ ZAMORA:</strong> Gracias, Presidenta. Muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Adelante&mdash;.</p>
+
+<p><strong>DIRECTOR GENERAL DEL TREN MAYA S.A. DE C.V., &Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> Gracias, se&ntilde;ora Presidenta.</p>
+
+<p>Hola, muy buenos d&iacute;as. Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Es un, de verdad, un gran privilegio estar escuchando las buenas noticias que tiene la secretaria Josefina. En particular, el Tren Maya ha participado entusiastamente en la FITUR y creo que los resultados van a ser evidentes.</p>
+
+<p>El d&iacute;a de hoy les voy a hablar un poquito de los resultados que hemos tenido en la operaci&oacute;n del Tren Maya a 398 d&iacute;as de operaci&oacute;n.</p>
+
+<p>Quiero empezar agradeciendo much&iacute;simo la confianza de las y los mexicanos en el proyecto. El Tren Maya se est&aacute; convirtiendo, precisamente, en un modelo de movilidad, de turismo y de conexi&oacute;n cultural en el sur sureste de nuestro pa&iacute;s.</p>
+
+<p>En la siguiente l&aacute;mina &mdash;por favor&mdash; hablarles de los 398 d&iacute;as de operaci&oacute;n:</p>
+
+<p>Al 20 de enero, hemos logrado movilizar a cerca de 790 mil personas; el objetivo en el 2024 era llegar a 700 mil, lo superamos.</p>
+
+<p>De acuerdo a nuestro plan de negocios, en este a&ntilde;o pretendemos alcanzar un mill&oacute;n 200 mil personas movilizadas y vamos muy bien, hemos vendido, hasta el 20 de enero, 791 mil 730 boletos. Y aqu&iacute; una parte importante, 500 mil han sido en nuestras taquillas, en las estaciones y en diferentes posiciones que tenemos en plazas importantes del sureste del pa&iacute;s, y 291 mil en l&iacute;nea.</p>
+
+<p>&iquest;Qu&eacute; quiere decir?</p>
+
+<p>Que 4 de cada 10 boletos ya los estamos vendiendo a trav&eacute;s de nuestra plataforma, en la p&aacute;gina web, y a trav&eacute;s tambi&eacute;n de la aplicaci&oacute;n <em>Tren Maya</em>. Esto es muy importante porque est&aacute; cambiando ya el modelo de venta y vamos a lograr que todas nuestras ventas se realicen mayormente a trav&eacute;s de los servicios en l&iacute;nea.</p>
+
+<p>&iquest;Cu&aacute;les son nuestras estaciones de mayor demanda, las estaciones de origen que nos est&aacute;n dando mayor n&uacute;mero de pasajeros?</p>
+
+<p>Est&aacute; M&eacute;rida Teya, en primer&iacute;simo lugar, con 189 mil pasajeros, despu&eacute;s Canc&uacute;n Aeropuerto y Playa del Carmen.</p>
+
+<p>Y como estaci&oacute;n de destino tenemos en primer lugar Canc&uacute;n; es decir, las personas que se mueven a lo largo del circuito ferroviario, el destino normalmente que se escoge es hacia Canc&uacute;n, o M&eacute;rida, o bien Palaya de Carmen. Esto convierte, por supuesto, las tres rutas m&aacute;s importantes son M&eacute;rida Teya-Canc&uacute;n, Canc&uacute;n-M&eacute;rida y Canc&uacute;n-Playa del Carmen que se comportan de esa manera.</p>
+
+<p>Ustedes recordar&aacute;n que, como parte de la campa&ntilde;a del primer aniversario que desarrollamos, del 9 al 21 de diciembre, nosotros desarrollamos una serie de actividades en diferentes lugares.</p>
+
+<p>Tuvimos m&aacute;s de un mill&oacute;n, un mill&oacute;n de visualizaciones en Tren Maya.</p>
+
+<p>Tuvimos m&aacute;s de 600 mil conexiones que se hicieron a trav&eacute;s de nuestras plataformas y 250 mil actividades.</p>
+
+<p>Ya tenemos, inclusive, los ganadores de los sorteos que estuvimos realizando, el <em>giveaway</em> nacional, que fueron tres mujeres afortunadamente, que ya ellos est&aacute;n escogiendo las fechas para tener su viaje en avi&oacute;n, en el tren y hospedaje en el hotel para, en esta temporada, poder hacer v&aacute;lido su premio.</p>
+
+<p>Y tambi&eacute;n el <em>giveaway</em> local que hicimos, ya tenemos tambi&eacute;n los tres ganadores y estamos ya otorgando esos beneficios.</p>
+
+<p>En el periodo vacacional de invierno, es muy importante resaltar que diciembre se convirti&oacute; en nuestro mejor mes, logramos vender m&aacute;s de 111 mil boletos en ese mes, nuestro promedio de movilidad fue de 3 mil 608 pasajeros en esta temporada de invierno. En agosto hab&iacute;amos tenido 2 mil 609 pasajeros, en el verano pasado esa fue nuestra movilidad diaria, 2 mil 609; mil pasajeros m&aacute;s movilizamos diariamente en el mes de diciembre, es un incremento de 38.27 por ciento con relaci&oacute;n a la temporada de verano.</p>
+
+<p>E inauguramos tres rutas. Recordar&aacute;n cuando completamos&hellip; la se&ntilde;ora Presidenta inaugur&oacute; ya el circuito completo en el tramo 7, el tramo 6, de tal suerte que abrimos Chetumal-Canc&uacute;n y Canc&uacute;n-Chetumal, y logramos alcanzar inmediatamente un 70 por ciento de ocupaci&oacute;n.</p>
+
+<p>Se&ntilde;alarles que en diciembre logramos hasta un 98 por ciento, y en muchas ocasiones salimos con el tren completamente lleno.</p>
+
+<p>En el caso de la ruta del tramo 7, Chetumal-Esc&aacute;rcega-Palenque, iniciamos con un 26 por ciento, porque es natural, es una ruta nueva, y alcanzamos un 42 por ciento a finales de diciembre.</p>
+
+<p>Igual nos sucedi&oacute;: Chetumal-Esc&aacute;rcega-San Francisco de Campeche, logramos alcanzar hasta un 45 por ciento.</p>
+
+<p>&iquest;Qu&eacute; hicimos ante la gran demanda que est&aacute;bamos teniendo?</p>
+
+<p>Implementamos dos servicios con trenes de siete coches, con capacidad de 426 pasajeros e hicimos la ruta m&aacute;s larga: Canc&uacute;n-Palenque, Palenque-Canc&uacute;n, de tal suerte que logramos tener una ocupaci&oacute;n el 29 de diciembre de 6 mil 422 personas en un solo d&iacute;a; ese es el r&eacute;cord que hemos tenido de ocupaci&oacute;n en un solo d&iacute;a, comparado con el de 3 mil 611 que hab&iacute;amos tenido el 11 de agosto del 2024.</p>
+
+<p>Es decir, duplicamos el n&uacute;mero de pasajeros que hemos transportado con la incorporaci&oacute;n de estos trenes de siete coches, que son muy importantes para las rutas.</p>
+
+<p>Informarles que, debido al &eacute;xito que tuvimos con los paquetes que promocionamos en el mes de diciembre, muchas familias mexicanas decidieron optar por esta alternativa de paseo tur&iacute;stico, de tal suerte que decidimos tambi&eacute;n, ahora, en Semana Santa ofrecer 10 paquetes adaptados tambi&eacute;n a las necesidades de los clientes, que nos estuvieron pidiendo que se hicieran hacia ciertos lugares:</p>
+
+<p>&ldquo;La ruta de las maravillas&rdquo;, que tiene que ver en M&eacute;rida; &ldquo;Mares y lagunas&rdquo;, que van a Tulum, Bacalar y Chetumal; &ldquo;La tierra del jaguar&rdquo;, &ldquo;El alma en el Caribe&rdquo;. Cada uno de los paquetes tiene un nombre especial.</p>
+
+<p>Y tienen que ver con promociones de 4 d&iacute;as y 3 noches, todos saliendo del Aeropuerto Internacional &ldquo;Felipe &Aacute;ngeles&rdquo;, volando por Mexicana de Aviaci&oacute;n; aterrizando en los seis aeropuertos que est&aacute;n en la pen&iacute;nsula de Yucat&aacute;n, que son Palenque, Campeche, M&eacute;rida, Canc&uacute;n, Tulum y Chetumal, estos seis aeropuertos.</p>
+
+<p>Y, adem&aacute;s, viajando a trav&eacute;s de todas las 34 estaciones del Tren Maya, visitando las 29 zonas arqueol&oacute;gicas que tiene la regi&oacute;n y, adem&aacute;s, los 10 Catvis y los parques tem&aacute;ticos, que tenemos: el de El Jaguar, el de La Plancha y de Nuevo Uxmal.</p>
+
+<p>Tambi&eacute;n tenemos paquetes de 5 d&iacute;as y 4 noches &mdash;que son estos tres que observan ustedes aqu&iacute;&mdash;.</p>
+
+<p>Y los m&aacute;s largos de 6 d&iacute;as con 5 noches, que es uno que va a Calakmul y otro que va desde M&eacute;rida hasta Tulum.</p>
+
+<p>Esas son las rutas y esas son las ofertas que estamos sacando para la Semana Santa en un comparativo en&hellip; Ah, esto lo podemos encontrar, ahorita, en la p&aacute;gina web del Tren Maya, ventas.trenmaya, el <em>call center </em>que tenemos, inclusive, por WhatsApp podemos acceder a esta oferta tur&iacute;stica que se est&aacute; desarrollando.</p>
+
+<p>La verdad es que el trabajo que estamos desarrollando tambi&eacute;n con la secretaria Josefina, a trav&eacute;s de la promoci&oacute;n que se est&aacute; haciendo en la FITUR, ya podemos promocionar tambi&eacute;n al Tren Maya a trav&eacute;s de Expedia y a trav&eacute;s de la plataforma de El Corte Ingl&eacute;s, que es muy importante en Europa, que es un mercado que queremos cubrir, esa es una parte importante dentro de los objetivos del plan de negocios del Tren Maya.</p>
+
+<p>En la siguiente p&aacute;gina hacemos un comparativo tomando en cuenta dos de los paquetes tur&iacute;sticos que estamos ofertando: lo que oferta Tren Maya y un producto similar en el mercado, encontramos diferencias en costo. Eso es importante porque le estamos dando la garant&iacute;a de que les vamos a ofrecer el mejor precio.</p>
+
+<p>Adem&aacute;s, servicios de interconexi&oacute;n, es decir, que si yo llego al aeropuerto me van a transportar hacia el hotel, del hotel a la zona arqueol&oacute;gica, a la estaci&oacute;n, me muevo en el tren, llego a otra estaci&oacute;n, me mueven hacia el hotel.</p>
+
+<p>Es decir, tenemos un servicio que garantiza que van a recibir una atenci&oacute;n de calidad y, adem&aacute;s, un mejor precio.</p>
+
+<p>Decirles en forma general:</p>
+
+<p>Agradecerles a todos ustedes, a la poblaci&oacute;n en general, que Tren Maya ha ido cumpliendo sus metas, incrementando la ocupaci&oacute;n de pasajeros.</p>
+
+<p>Empezamos en diciembre, recordar&aacute;n, con 10 mil 850 pasajeros en los primeros 15 d&iacute;as, con pocos trenes, y hemos ido incrementando de manera consistente, increment&aacute;ndose en un 16 por ciento mensualmente, hasta alcanzar nuestro pico de 111 mil 851 pasajeros, lo cual nos puede demostrar que esos 288 por ciento de incremento, comparado con 28 mil 785 pasajeros que movilizamos en enero, contra nuestro &uacute;ltimo registro que es de 111 mil pasajeros en diciembre. Nos sentimos muy contentos de estos resultados.</p>
+
+<p>Y evidentemente esto refleja el creciente inter&eacute;s del turismo nacional e internacional en vivir la experiencia del Tren Maya; no solamente vivirla y convertirlo tambi&eacute;n en un medio de transporte que no solamente sea atractivo, sino tambi&eacute;n eficiente y seguro, y que adem&aacute;s, promueve el Patrimonio Cultural en el sureste de nuestro pa&iacute;s.</p>
+
+<p>&iquest;A qu&eacute; nos obliga toda esta confianza que ha sido depositada por la poblaci&oacute;n mexicana en este proyecto?</p>
+
+<p>Nos obliga a ofrecer mayor n&uacute;mero de trenes, a incrementar las frecuencias, a trabajar m&aacute;s duro para dar posibilidad a que cada vez m&aacute;s mexicanas y mexicanos se suban al tren.</p>
+
+<p>&mdash;A continuaci&oacute;n, si me permite, pasar&iacute;amos el video, para agradecer la confianza de los mexicanos&mdash;.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE AGRADECIMIENTO A LOS USUARIOS DEL TREN MAYA)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias, General.</p>
+
+<p>&mdash;Vamos con GAFSACOMM&mdash;.</p>
+
+<p><strong>DIRECTOR DEL GRUPO AEROPORTUARIO, FERROVIARIO, DE SERVICIOS AUXILIARES Y CONEXOS OLMECA-MAYA-MEXICA (GAFSACOMM), ADOLFO H&Eacute;CTOR TONATIUH VELASCO BERNAL:</strong> Muy buenos d&iacute;as.</p>
+
+<p>Agradezco la oportunidad que me da la se&ntilde;ora Presidenta para presentar Grupo GAFSACOMM. Es poco conocido porque, entre otros aspectos, administramos los hoteles, precisamente, hoteles Tren Maya de Grupo GAFSACOMM.</p>
+
+<p>Y aqu&iacute; vamos a presentar r&aacute;pidamente lo que hemos estado operando, llevamos un mes pr&aacute;cticamente.</p>
+
+<p>Durante la temporada vacacional de invierno, que fue la temporada alta, logramos consolidar mil 229 hu&eacute;spedes en cinco de los siete hoteles que tenemos. Los hoteles est&aacute;n en Edzn&aacute; en Chich&eacute;n Itz&aacute;, Tulum, en Calakmul y uno que est&aacute; a un lado del aeropuerto de Tulum.</p>
+
+<p>Precisamente, para que nuestra poblaci&oacute;n tanto nacional e internacional conozcan nuestros hoteles y logremos incrementar la ocupaci&oacute;n que existe, previo a la temporada invernal se dise&ntilde;aron y difundieron programas de paquetes tur&iacute;sticos, los cuales contaron con precios promocionales accesibles, precisamente, para poder iniciar nuestras operaciones.</p>
+
+<p>Se iniciaron con paquetes de 3 d&iacute;as-2 noches, desde 12 mil 98 pesos, y de 4 d&iacute;as y 3 noches hasta 20 mil 587 pesos. Esos paquetes incluyeron, precisamente, el transporte a&eacute;reo en la aerol&iacute;nea Mexicana, saliendo del Aeropuerto Internacional &quot;Felipe &Aacute;ngeles&quot;. Incluy&oacute;:</p>
+
+<p>El hospedaje.</p>
+
+<p>La alimentaci&oacute;n.</p>
+
+<p>El acceso a parques &mdash;como ya se mencion&oacute;&mdash;, el Parque del Jaguar, que es el m&aacute;s cercano para esta parte.</p>
+
+<p>Los museos que tenemos, que es el Museo del Ferrocarril, que tambi&eacute;n se encuentra en M&eacute;rida; el Museo de Quinam&eacute;tzin que se encuentra ah&iacute; en Santa Luc&iacute;a.</p>
+
+<p>El acceso y la entrada a las zonas arqueol&oacute;gicas que est&aacute;n ah&iacute;.</p>
+
+<p>Y en particular en Tulum, que est&aacute; el acceso a las playas que tiene Tulum.</p>
+
+<p>En la l&aacute;mina pueden ustedes ver, del lado izquierdo, los precios que se pusieron en las habitaciones de los hoteles Tulum.</p>
+
+<p>Y tambi&eacute;n pueden ustedes&hellip; Ah&iacute; hicimos el ejercicio de tomar en cuenta c&oacute;mo es el mercado hotelero en la pen&iacute;nsula, tanto en temporada alta como en temporada baja. Estos precios que obtuvimos, son los que est&aacute;n publicados; normalmente las p&aacute;ginas que cualquier persona accede y pueden ustedes ah&iacute; tomar las referencias de la diferencia de precios entre nuestros hoteles y los hoteles que hay en el mercado hotelero.</p>
+
+<p>Con base en esto, nos sirvi&oacute; precisamente para seguir tomando experiencia y tomar algunas diferencias, entre que una persona hubiera decidido hospedarse en alguno de los hoteles conocidos en la regi&oacute;n y en algunos de nosotros.</p>
+
+<p>Hay diferencias en porcentajes muy altas en cuanto a un tipo de habitaci&oacute;n est&aacute;ndar. Por ah&iacute; hay un hotel y una habitaci&oacute;n que, si se hubiera hospedado en uno de los hoteles o hubiera decidido por otro hotel, hay diferencias en porcentajes hasta del 189 por ciento de diferencia en precio, y esto nos permite a nosotros darnos cuenta que podemos seguir avanzando si mantenemos estos precios.</p>
+
+<p>Lo que vamos a hacer ahora, para la siguiente temporada alta que es la de Semana Santa, vamos a establecer, precisamente:</p>
+
+<p>Ya nuestra ruta cr&iacute;tica para poder dise&ntilde;ar la campa&ntilde;a para este tema.</p>
+
+<p>La difusi&oacute;n.</p>
+
+<p>La venta de paquetes que, en cuanto a precios, vamos a conservarlos de aqu&iacute; hasta que se presente la Semana Santa. A diferencia de otros hoteles, que marcan sus precios precisamente con la temporalidad, los suben o los bajan, y adem&aacute;s, ellos precisamente para obtener clientela en la temporada baja es cuando ofrecen paquetes, nosotros los ofrecemos de manera permanente, conservando sus precios.</p>
+
+<p>En ese sentido, la experiencia que obtuvimos de este periodo, que fue el de temporada alta de nosotros, nuestros hoteles aperturaron pr&aacute;cticamente a principios del mes de diciembre, con una quincena antes de que iniciara la temporada.</p>
+
+<p>Entonces ah&iacute; los hoteles que pudimos ya, que aperturaron y que se pusieron a funcionar que, como ya lo mencion&eacute;, fueron cinco, que est&aacute;n en Edzn&aacute;, Chich&eacute;n Itz&aacute;, en Tulum, en el Calakmul y el que est&aacute; a un costado del aeropuerto de Tulum. La ocupaci&oacute;n, en general, fue moderada por el corto tiempo que tuvimos para hacer la promoci&oacute;n de nuestros hoteles y ponerlos al conocimiento de todas las personas, tanto de M&eacute;xico como del extranjero, para poder tener m&aacute;s opciones de hospedaje; aun as&iacute;, las campa&ntilde;as promocionales nos permitieron impulsar bastante nuestra ocupaci&oacute;n.</p>
+
+<p>Consideramos que los hoteles que tuvieron mayor auge son los que est&aacute;n ubicados en las partes que normalmente los turistas visitan, que precisamente son el de Tulum, el de Chich&eacute;n Itz&aacute; y el del hotel aeropuerto.</p>
+
+<p>Los que tienen una diferencia por su ubicaci&oacute;n que tienen y la manera de caminos accesibles para llegar a los hoteles, que es Calakmul y Edzn&aacute;, tuvieron una diferencia m&aacute;s peque&ntilde;a; a&uacute;n as&iacute;, consideramos que fue bastante oportuna y eficiente la accesibilidad.</p>
+
+<p>&iquest;Qu&eacute; nos llevamos de experiencia?</p>
+
+<p>Para seguir promocionando nuestros hoteles, hay que explorar en todas las &aacute;reas que existen ya formalmente en el mercado hotelero para que, con nuestros precios que consideramos son atractivos y competitivos, logremos obtener mayor captaci&oacute;n de hu&eacute;spedes.</p>
+
+<p>En este sentido, ya se dise&ntilde;&oacute; la campa&ntilde;a y la vamos a promocionar con mucho impulso para lograr posicionar a la marca GAFSACOMM Hoteles Tren Maya en la Semana Santa y aprovechar todo este periodo vacacional.</p>
+
+<p>Vamos a buscar conservar los precios que ya tuvimos de apertura, de inicio, para que logremos la captaci&oacute;n. Vamos a aprovechar no mover los precios a pesar de que el mercado tenga su fluctuaci&oacute;n.</p>
+
+<p>Vamos a diversificar los canales para captar hu&eacute;spedes utilizando las plataformas digitales para las reservas, que son las que m&aacute;s se utilizan tanto a nivel nacional e internacional, algunas ya las mencion&oacute; aqu&iacute; el General &Aacute;guila anteriormente, y porque la mayor&iacute;a de las personas buscan con anticipaci&oacute;n hacer sus reservaciones.</p>
+
+<p>Buscaremos celebrar convenios con agencias de viajes para que hagan sus reservaciones en l&iacute;nea, que es lo tradicional; el 56 por ciento de las personas que se mueven tur&iacute;sticamente y se hospedan, lo hacen en l&iacute;nea, ya no lo hacen de manera f&iacute;sica.</p>
+
+<p>Y vamos a incluir para en Semana Santa esperamos ya poder incluir a los siete hoteles, es decir, al Hotel Nuevo Uxmal y Palenque, que est&aacute;n por aperturar.</p>
+
+<p>Esto ser&iacute;a todo.</p>
+
+<p>Los invito a ver un video que organizamos para esta explicaci&oacute;n.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE PAQUETES DE LOS HOTELES TREN MAYA PARA TEMPORADA VACACIONAL DE SEMANA SANTA)</strong></p>
+
+<p><strong>DIRECTOR DEL GRUPO AEROPORTUARIO, FERROVIARIO, DE SERVICIOS AUXILIARES Y CONEXOS OLMECA-MAYA-MEXICA (GAFSACOMM), ADOLFO H&Eacute;CTOR TONATIUH VELASCO BERNAL:</strong> Muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Mexicana&mdash;.</p>
+
+<p><strong>DIRECTOR GENERAL DE MEXICANA DE AVIACI&Oacute;N, LEOBARDO &Aacute;VILA BOJ&Oacute;RQUEZ:</strong> Con su permiso, se&ntilde;ora Presidenta.</p>
+
+<p>Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Y con el gusto de saludarles e informarles que Mexicana actualmente es una organizaci&oacute;n s&oacute;lida. A un a&ntilde;o de haber iniciado operaciones, Mexicana se mantiene fuerte y en un entorno altamente competitivo, sumamente regulado, que corresponde a la propia industria del transporte a&eacute;reo.</p>
+
+<p>Somos conscientes que enfrentamos desaf&iacute;os y tambi&eacute;n que estamos llevando a cabo retos que los convertimos en oportunidades para renovarnos y crecer, bajo un enfoque que nosotros llamamos &ldquo;de calidad en el servicio&rdquo;, pero tambi&eacute;n con una visi&oacute;n clara en el propio futuro.</p>
+
+<p>Mexicana, en el 2024. Estuvimos atendiendo 18 destinos, transportamos en estos 18 destinos m&aacute;s de 384 mil pasajeros, pero tambi&eacute;n ese a&ntilde;o, 2024, nos dio la oportunidad para poder medir, evaluar, los propios resultados que tuvimos durante ese a&ntilde;o de inicio de operaciones.</p>
+
+<p>Esta parte que realiz&oacute; Mexicana, obviamente, aqu&iacute; nos permiti&oacute; la revisi&oacute;n y actualizaci&oacute;n del plan maestro de negocios, teniendo como premisa la incorporaci&oacute;n la nueva flota de Mexicana, los aviones Embraer, que pr&oacute;ximamente estar&aacute;n ya integr&aacute;ndose para comercializar el transporte a&eacute;reo.</p>
+
+<p>Esta parte fue fundamental porque tomamos decisiones estrat&eacute;gicas, a partir del 6 de enero de este a&ntilde;o, que precisamente tomamos como base la propia din&aacute;mica, el comportamiento del mercado y la temporalidad con que se mueve la industria del transporte a&eacute;reo.</p>
+
+<p>Esta es una pr&aacute;ctica com&uacute;n que se genera en todo este contexto de este mercado altamente competitivo, y aqu&iacute; precisamente la mayor&iacute;a de las aerol&iacute;neas a nivel global toman esas decisiones considerando esta temporalidad.</p>
+
+<p>Como, por ejemplo, la temporada baja precisamente lo que hace es reducir o disminuir su oferta de vuelos comerciales, sus frecuencias, sus itinerarios, como parte de sus estrategias para eficientar sus operaciones y su rentabilidad; esto es com&uacute;n en la propia industria. Aqu&iacute; es importante mencionar que precisamente con esto se preparan para la siguiente temporada alta. Esto es lo que verdaderamente Mexicana tambi&eacute;n se ha sumado a esta propia din&aacute;mica.</p>
+
+<p>Adem&aacute;s de estas decisiones, a partir del 6 de enero, se derivaron de la terminaci&oacute;n del Contrato de Prestaci&oacute;n Integral de Servicios de Transporte A&eacute;reo con la empresa con la cual Mexicana ten&iacute;a una relaci&oacute;n comercial. Y a fin de lograr un eficiente empleo de los recursos disponibles, se determin&oacute; concentrar el esfuerzo en los destinos con mayor demanda, as&iacute; como en aquellos destinos que no son atendidos por otras aerol&iacute;neas, como son Ixtepec, lo que es Ciudad Victoria, lo que es Palenque, a trav&eacute;s de una alianza estrat&eacute;gica con nuestro prestador de servicios a&eacute;reos.</p>
+
+<p>Con estas acciones, Mexicana refrenda el compromiso con la conectividad a&eacute;rea.</p>
+
+<p>Y para este 2025, con esta renovaci&oacute;n que tenemos, en el primer trimestre, o sea, a partir de enero, febrero, estamos nosotros considerando ampliar dos destinos m&aacute;s, para sumar 12 destinos.</p>
+
+<p>Igualmente, a partir del segundo trimestre ampliaremos dos destinos, que se estar&iacute;an sumando Monterrey y Puerto Vallarta, para sumar 14 destinos a los cuales Mexicana estar&aacute; volando durante este 2025; y con una proyecci&oacute;n de m&aacute;s de 500 mil pasajeros, pero tambi&eacute;n ofreciendo unos productos de conectividad de m&aacute;s de 83 conexiones a trav&eacute;s del Aeropuerto Internacional &quot;Felipe &Aacute;ngeles&quot;, donde es nuestra base principal de operaciones.</p>
+
+<p>Aqu&iacute; &mdash;lo manifestaba anteriormente&mdash; se refleja en esta gr&aacute;fica de c&oacute;mo se maneja la din&aacute;mica o la temporalidad de la industria del transporte a&eacute;reo.</p>
+
+<p>Aqu&iacute; es muy importante resaltar en las dos primeras l&iacute;neas lo que es la l&iacute;nea azul, que es el comportamiento que tuvo esta industria del transporte a&eacute;reo en el 2024; l&iacute;nea naranja, que es del 2023; y la l&iacute;nea verde que es el comportamiento de Mexicana.</p>
+
+<p>Mexicana se ha sumado a esta din&aacute;mica, Mexicana se ha adaptado a esta propia din&aacute;mica. Mexicana adopta las estrategias que implica la propia industria del transporte a&eacute;reo, precisamente, para hacer m&aacute;s eficiente operativamente, comercialmente y poder lograr la rentabilidad.</p>
+
+<p>Aqu&iacute; es importante mencionar que Mexicana, con sus actuales capacidades operativas, al d&iacute;a de ayer, ha logrado transportar m&aacute;s de 418 mil pasajeros; hemos tenido una aceptaci&oacute;n de satisfacci&oacute;n del cliente de 91 por ciento. Y eso habla: la calidad de nuestros servicios tanto en tierra como a bordo en nuestras aeronaves, servicios de calidad, servicios de calidez y tambi&eacute;n un factor importante que es la puntualidad de Mexicana.</p>
+
+<p>Y otro factor que es muy importante para satisfacci&oacute;n del cliente es la limpieza de nuestros equipos.</p>
+
+<p>Hemos tenido un 99 por ciento en el cumplimiento de nuestros itinerarios, pero tambi&eacute;n aqu&iacute; importante mencionar, un 98.8 por ciento de puntualidad, y manifestar que Mexicana es la l&iacute;nea m&aacute;s puntual saliendo desde el AIFA.</p>
+
+<p>Con esto, aparte de las estrategias que ha implementado Mexicana, como es la optimizaci&oacute;n de las rutas, tener una flexibilidad operativa, adaptarse al propio mercado, pero tambi&eacute;n realizar acciones para posicionar la marca, nos ha llevado que, en el a&ntilde;o 2024, tuvimos un crecimiento sostenido trimestre tras trimestre para lograr un 43 por ciento acumulado al cierre del a&ntilde;o pasado, es decir, en el cierre del 2024.</p>
+
+<p>Aqu&iacute; es importante tambi&eacute;n compartirles que Mexicana, dentro de su plan estrat&eacute;gico, de su plan de negocios, tiene contemplado en el primer semestre de este 2025 continuar operando las rutas con los aviones Boeing.</p>
+
+<p>En el primer trimestre estaremos con ocho rutas, posteriormente las estaremos incrementando a 10 rutas con los Boeing, y con nuestra alianza estrat&eacute;gica con el prestador de servicio las cuatro rutas que ya les mencionamos en mantener esa conectividad; para que, a partir del segundo semestre, a partir de julio, empecemos esa transici&oacute;n suave con la nueva flota de aviones Embraer 195 de &uacute;ltima generaci&oacute;n; para, acorde a nuestro plan estrat&eacute;gico, acorde a nuestro plan de negocios, unificar la ruta para hacerlos m&aacute;s eficientes, reducir costos operacionales, ofrecer un mejor servicio de calidad para todas y todos los mexicanos; para, al final del 2025, estar cerrando con estas 14 rutas ya con una nueva flota totalmente renovada.</p>
+
+<p>Aqu&iacute;, atendiendo a una instrucci&oacute;n de nuestra se&ntilde;ora Presidenta, Mexicana realiz&oacute; alianzas estrat&eacute;gicas con diferentes actores para comercializar el transporte a&eacute;reo a nivel global, como ya lo mencion&oacute; tambi&eacute;n la maestra Josefina, que se encuentra en la FITUR.</p>
+
+<p>Esta alianza estrat&eacute;gica nos ha permitido a nosotros integrarnos de una manera progresiva a m&aacute;s de 100 agencias de viaje digitales, con lo cual al d&iacute;a de ayer hemos comercializado o hemos llevado a cabo una reservaci&oacute;n de m&aacute;s de 500 boletos vendidos a nivel global, y con esto posicionar la marca de Mexicana a nivel internacional.</p>
+
+<p>Aqu&iacute; es importante destacar que precisamente, de estas 500: el 30 por ciento corresponde al mercado europeo, un 2 por ciento mercado asi&aacute;tico, un 1 por ciento en Ocean&iacute;a y el 67 por ciento en el mercado mexicano o en el mercado de Am&eacute;rica, que tambi&eacute;n corresponde tambi&eacute;n en parte de lo que es Canad&aacute;, Estados Unidos y M&eacute;xico.</p>
+
+<p>Y con esto damos una presencia a Mexicana, pero tambi&eacute;n a M&eacute;xico a nivel internacional para promocionar nuestros destinos, promocionar las maravillas que tiene M&eacute;xico para que se pueda volar, a trav&eacute;s de Mexicana a todos los destinos con los cuales nosotros tenemos una conectividad.</p>
+
+<p>Si me permite, se&ntilde;ora Presidenta, estar&iacute;amos presentando el video.</p>
+
+<p>&mdash;Adelante, por favor&mdash;.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO SOBRE LOS RESULTADOS DE MEXICANA DE AVIACI&Oacute;N EN EL 2024)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DE MEXICANA DE AVIACI&Oacute;N, LEOBARDO &Aacute;VILA BOJ&Oacute;RQUEZ:</strong> Es cuanto, se&ntilde;ora Presidenta.</p>
+
+<p><strong>DIRECTORA GENERAL LATINO DONOR COLLABORATIVE THINK TANK (LDC), ANA TERESA RAM&Iacute;REZ RODR&Iacute;GUEZ:</strong> Muchas gracias. Otra vez, se&ntilde;ora Presidenta, much&iacute;simas gracias por tenerme aqu&iacute;, es realmente un placer y un honor.</p>
+
+<p>Adem&aacute;s, tambi&eacute;n es un placer compartir con ustedes lo que hago, es lo que m&aacute;s me gusta hacer.</p>
+
+<p>Y dar tambi&eacute;n otro punto de vista de todos los maravillosos datos que nos han dado hoy por parte de Turismo y por parte de todo lo que hacen fabulosamente en M&eacute;xico. Yo les voy a presentar ahora, unos datos de lo que hacen nuestros mexicanos afuera del pa&iacute;s.</p>
+
+<p>Yo soy una de ellas, orgullosamente. Yo nac&iacute; y crec&iacute; en M&eacute;xico, me eduqu&eacute; en M&eacute;xico y sal&iacute; de M&eacute;xico hace 28 a&ntilde;os, y soy ahora, una nacional mexicana orgullos&iacute;sima, y tambi&eacute;n soy una americana, soy de esa parte de los inmigrantes que son 37 millones de mexicoamericanos en Estados Unidos que estamos orgullosos de nuestras dos nacionalidades y que, desde luego, recordamos como siempre, como nuestra patria a M&eacute;xico.</p>
+
+<p>Entonces, otra vez &mdash;como dec&iacute;a la se&ntilde;ora Presidenta&mdash;, soy la directora general de una organizaci&oacute;n llamada <em>Latino Donor Collaborative</em>. Es una organizaci&oacute;n nacional en Estados Unidos; estamos basados en Los &Aacute;ngeles, pero tenemos impacto a nivel nacional.</p>
+
+<p>Y somos investigaci&oacute;n, hacemos toda clase de investigaci&oacute;n acerca de las contribuciones y el impacto econ&oacute;mico que tienen los latinos en Estados Unidos.</p>
+
+<p>Y la raz&oacute;n por la que hicimos, empezamos esta organizaci&oacute;n&hellip; Yo, de hecho, empec&eacute; a trabajar con ellos hace 10 a&ntilde;os, pero los fundadores que fueron unos hombres y mujeres muy visionarios de lo que hab&iacute;a que hacer, que era, cerrar esa distancia tan grande entre la percepci&oacute;n de lo que son latinos en Estados Unidos y la realidad.</p>
+
+<p>La percepci&oacute;n y la realidad son completamente diferentes. Y les voy a ense&ntilde;ar algunos n&uacute;meros que los van a dejar impactados.</p>
+
+<p>Muchas veces vamos con estos n&uacute;meros a hablar con los directores de grandes compa&ntilde;&iacute;as, con los candidatos presidenciales de Estados Unidos, con el Congreso, me invitan a hablar a la Reserva Federal de Estados Unidos. Y tengo que ir con alguien que ellos conozcan, porque cuando les ense&ntilde;amos los n&uacute;meros del impacto econ&oacute;mico tan tremendo que tienen los latinos, positivo, desde luego, a veces no nos creen.</p>
+
+<p>Entonces, cuando vean estos n&uacute;meros, espero que est&eacute;n igual de sorprendidos. Y que sepan que vienen de origen completamente oficial, vienen de n&uacute;meros americanos, pero que nadie antes de nosotros hab&iacute;a sacado esos n&uacute;meros para ense&ntilde;arlos c&oacute;mo son, el gran impacto que tienen los latinos.</p>
+
+<p>Y una cosa muy importante: el casi el 60 por ciento de todos los latinos en Estados Unidos son mexicanos. As&iacute; es que, unos de estos n&uacute;meros, ustedes van a ver son latinos, pero imag&iacute;nense que la mayor&iacute;a la creamos nosotros, los mexicanos.</p>
+
+<p>Entonces, para empezar, les voy a decir que los latinos en Estados Unidos son casi 20 por ciento. La gente piensa a veces que es menos y alguna gente tambi&eacute;n piensa que es m&aacute;s, pero 1 de cada 5 personas en Estados Unidos son latinos. Eso ya nos da un poder impresionante, somos el segundo grupo m&aacute;s grande, despu&eacute;s de los anglosajones.</p>
+
+<p>Cuando a veces vemos los medios o vemos programas de pel&iacute;culas, etc&eacute;tera, y vemos una gran representaci&oacute;n de otras razas y de otros grupos, no nos damos cuenta que nosotros, los latinos, somos el segundo grupo m&aacute;s grande de Estados Unidos.</p>
+
+<p>Otra cosa que tambi&eacute;n es una&hellip; Recuerden, les voy a recordar que en alg&uacute;n momento, en 2008, por la crisis econ&oacute;mica en Estados Unidos, la inmigraci&oacute;n de M&eacute;xico empez&oacute; a bajar y hoy mucha inmigraci&oacute;n es, de hecho, reversa.</p>
+
+<p>Entonces 8 de cada 10 de los latinos en Estados Unidos habla ingl&eacute;s porque, en general, llevan muchos a&ntilde;os.</p>
+
+<p>Y adem&aacute;s tambi&eacute;n, no nada m&aacute;s ya se integraron los emigrantes, sino ya los hijos, el 93 por ciento de todos los j&oacute;venes latinos en Estados Unidos son nacidos en Estados Unidos, precisamente, por la disminuci&oacute;n de esa inmigraci&oacute;n en 2008.</p>
+
+<p>Entonces, &iquest;por qu&eacute; les digo esto?, porque esto va a explicar un poco los n&uacute;meros tan incre&iacute;bles que les voy a decir en un momento.</p>
+
+<p>Tambi&eacute;n, volvemos a lo mismo, el tiempo que han estado ah&iacute;, y adem&aacute;s que hablan ingl&eacute;s, etc&eacute;tera, etc&eacute;tera, 4 de cada 5 latinos son ciudadanos. Y esto tambi&eacute;n sorprende a la gente, porque todo mundo habla de la inmigraci&oacute;n y las deportaciones, el nuevo presidente de Estados Unidos est&aacute; enfoc&aacute;ndose completamente en eso. Es el&hellip; 5 de cada latinos son ciudadanos.</p>
+
+<p>Y el otro ciudadano, o sea, de ese 20 por ciento que no es ciudadano la mayor&iacute;a tienen permisos. Como ustedes saben, los venezolanos, los cubanos, los salvadore&ntilde;os, ellos llegan a Estados Unidos con permiso.</p>
+
+<p>Entonces la verdad es que el nivel y el n&uacute;mero de inmigrantes indocumentados en Estados Unidos es mucho menor que toda la ret&oacute;rica de la que hablan los peri&oacute;dicos y los medios en Estados Unidos.</p>
+
+<p>Otra de las razones por las que van a ver los n&uacute;meros que les voy a ense&ntilde;ar en un segundo es la juventud de nuestra comunidad en Estados Unidos.</p>
+
+<p>Aqu&iacute; hay varios datos, pero a m&iacute; el que m&aacute;s me impacta es que: la edad m&aacute;s populada de los latinos en Estados Unidos es 12 a&ntilde;os, la edad m&aacute;s populada de los no latinos en Estados Unidos es 58 a&ntilde;os.</p>
+
+<p>Imag&iacute;nense el nivel de juventud que tenemos, eso nos da un poder&iacute;o espectacular y adem&aacute;s, nos habla del futuro &iquest;no?, nos habla de que c&oacute;mo vamos a estar impactando todav&iacute;a m&aacute;s en cuanto estos muchachos se vuelvan, cumplan 18 a&ntilde;os y empiecen a entrar a la fuerza de trabajo.</p>
+
+<p>Adem&aacute;s, ya muchachos que vienen de familias de inmigrantes, pero que ya hicieron un futuro y una prosperidad en Estados Unidos, que los mandan a la universidad y que tienen un nivel de graduaci&oacute;n de universidad avasallador; somos los que m&aacute;s nos graduamos.</p>
+
+<p>Ahora, va el n&uacute;mero que creo que les voy a decir que les va a impactar: los latinos en Estados Unidos producen 3.6 billones de d&oacute;lares en el Producto Interno Bruto de Estados Unidos; acu&eacute;rdense que billones de d&oacute;lares son 12 ceros.</p>
+
+<p>Entonces, y les voy a decir qu&eacute; es lo m&aacute;s impactante porque, claro, hablamos de n&uacute;meros y no sabemos muy bien, bueno, &ldquo;trillones, billones, &iquest;cu&aacute;nto es eso?, no entiendo&rdquo;.</p>
+
+<p>En ingl&eacute;s, de hecho, 3.6 billones de d&oacute;lares es 3.6 <em>trillions</em>, para que no se confundan. Pero si fueran los latinos nada m&aacute;s en Estados Unidos, no estamos hablando de Latinoam&eacute;rica, si los latinos en Estados Unidos fueran una econom&iacute;a sola, ser&iacute;an la quinta econom&iacute;a m&aacute;s grande del mundo.</p>
+
+<p>Esto quiere decir que, si los latinos fueran la quinta econom&iacute;a m&aacute;s grande del mundo, ser&iacute;an nada m&aacute;s, m&aacute;s peque&ntilde;os que Estados Unidos total, China, Jap&oacute;n y Alemania, los latinos en Estados Unidos seguir&iacute;an despu&eacute;s de esos cinco pa&iacute;ses.</p>
+
+<p>Quiere decir que estamos que estamos los latinos en Estados Unidos produciendo m&aacute;s que pa&iacute;ses como Rusia&hellip; Perd&oacute;n: Rusia, Francia, Inglaterra, desde luego, Brasil, todos estos pa&iacute;ses que son tan impresionantes, bueno, nosotros producimos m&aacute;s en Estados Unidos que todos esos pa&iacute;ses juntos.</p>
+
+<p>Adem&aacute;s, una cosa que no est&aacute; aqu&iacute; es que, de las 10 econom&iacute;as m&aacute;s grandes, si Estados Unidos&hellip; si los latinos en Estados Unidos fueran una econom&iacute;a, ser&iacute;an la tercera m&aacute;s r&aacute;pida en crecimiento de todas las econom&iacute;as m&aacute;s importantes.</p>
+
+<p>Entiendan que nada m&aacute;s China e India estar&iacute;an creciendo m&aacute;s r&aacute;pido.</p>
+
+<p>Y otra cosa que les quiero decir, tambi&eacute;n es que de las 10&hellip; Siendo la quinta econom&iacute;a m&aacute;s grande del mundo, estamos produciendo m&aacute;s que India.</p>
+
+<p>India son 1.4 o mil 400 millones de personas, los latinos en Estados Unidos somos 63 millones, o sea, con un 5 por ciento de poblaci&oacute;n en Estados Unidos producimos m&aacute;s que India.</p>
+
+<p>Bueno, desde luego, esto tiene una implicaci&oacute;n en consumo tremenda porque, obviamente, esta econom&iacute;a quinta que es la m&aacute;s grande del mundo, no es producida nada m&aacute;s por los inmigrantes que apenas llegaron y que trabajan en el campo; esta econom&iacute;a est&aacute; producida por &mdash;como les digo&mdash; hijos de inmigrantes que ya est&aacute;n a un nivel mucho m&aacute;s pr&oacute;spero, que tienen una educaci&oacute;n que, la verdad, es que cuando llegaron sus pap&aacute;s no hubieran podido tener jam&aacute;s. Son biling&uuml;es.</p>
+
+<p>Y tienen esta biculturalidad &mdash;que yo puedo hablar por experiencia, tambi&eacute;n puedo hablar por mis hijos&mdash; en la que somos m&aacute;s poderosos, porque nosotros podemos ver una econom&iacute;a global, podemos ver un comercio internacional, podemos ver&hellip; tambi&eacute;n pronosticar en muchas formas c&oacute;mo va a ir la econom&iacute;a, porque tenemos experiencia de nuestros pa&iacute;ses y sabemos c&oacute;mo las comunidades econom&iacute;as pueden ser vol&aacute;tiles. Los americanos est&aacute;n muy acostumbrados a saber de estabilidad, no est&aacute;n muy acostumbrados a no saber de estabilidad.</p>
+
+<p>Entonces todas estas cualidades nos hacen adem&aacute;s una econom&iacute;a &mdash;como dice aqu&iacute;&mdash; de maravilloso consumo. Y adem&aacute;s, como les repito, la mayor&iacute;a de nuestra comunidad ni siquiera ha entrado a la fuerza de trabajo y ya tenemos un poder de consumo tremendo.</p>
+
+<p>Me voy a tener que adelantar porque creo que tengo un l&iacute;mite de tiempo.</p>
+
+<p>&mdash;La siguiente tambi&eacute;n. Bueno, esta es muy interesante; mejor no&mdash;.</p>
+
+<p>Uno de los estudios que hacemos, bueno, hacemos estudios del impacto de los latinos econ&oacute;mico en much&iacute;simas industrias: en la industria de tecnolog&iacute;a, en la industria de inteligencia artificial, en las escuelas desde luego, en los medios, en la ingenier&iacute;a, en much&iacute;simas partes. Los reportes que hacemos es en cuanto a peque&ntilde;as empresas.</p>
+
+<p>De acuerdo al Departamento de Estado y del Departamento de Trabajo de Estados Unidos, los latinos fundan m&aacute;s del 50 por ciento de todos los nuevos negocios en Estados Unidos, esto viene tambi&eacute;n de este esp&iacute;ritu de inmigrante, de aventura, de tomar riesgos, de agradecimiento, etc&eacute;tera.</p>
+
+<p>Entonces, volvemos a lo mismo, m&aacute;s aspectos de por qu&eacute; somos la econom&iacute;a m&aacute;s grande del mundo.</p>
+
+<p>&mdash;Ya dije esto. Adelante. Gracias&mdash;.</p>
+
+<p>Crecemos m&aacute;s r&aacute;pido, no nada m&aacute;s, como dec&iacute;a nuestro fundador Sol Trujillo, que es un gran l&iacute;der latino en Estados Unidos, dec&iacute;a: &ldquo;No somos nada m&aacute;s enormes, sino adem&aacute;s, cada vez vamos a ser m&aacute;s enormes&rdquo;.</p>
+
+<p>Por aqu&iacute; tengo una gr&aacute;fica en la que nos est&aacute; diciendo el Departamento de Trabajo de Estados Unidos que el 78 por ciento de la nueva fuerza de trabajo en los siguientes 10 a&ntilde;os va a venir de nosotros.</p>
+
+<p>Cuando hablamos de deportaciones en Estados Unidos, simplemente no hace sentido. El 78 por ciento de toda la nueva fuerza de trabajo en los siguientes 10 a&ntilde;os viene de la comunidad latina</p>
+
+<p>Ustedes imag&iacute;nense. Para empezar, la comunidad no latina americana tiene una tasa de nacimiento baj&iacute;sima; nosotros tenemos una tasa de nacimiento mucho m&aacute;s grande, de natalidad m&aacute;s grande, pero adem&aacute;s de todo, somos muy j&oacute;venes. Entonces, todo lo que vamos a contribuir en los siguientes 10 a&ntilde;os viene de estas caracter&iacute;sticas.</p>
+
+<p>&mdash;Me voy a tener que adelantar, porque ya s&eacute; que mi tiempo se est&aacute; acabando. Pero la siguiente, por favor&mdash;.</p>
+
+<p>Una cosa que quiero hacer &eacute;nfasis, porque es parte de esta idea preconcebida de lo que son los inmigrantes en Estados Unidos y la realidad: el impacto original de nosotros, claro que viene de los campos, y claro que viene de la construcci&oacute;n y claro que viene de las industrias de servicios.</p>
+
+<p>Quiero que sepan que el crecimiento, ahorita, ya no viene nada m&aacute;s de esas industrias, viene de la tecnolog&iacute;a; tenemos un estudio de tecnolog&iacute;a que dice que el crecimiento m&aacute;s grande en cuanto a comunidades dentro de la industria de la tecnolog&iacute;a ha venido de nosotros. Todav&iacute;a estamos en el 8 por ciento, pero vamos creciendo rapid&iacute;simo.</p>
+
+<p>Hicimos otro estudio con la Organizaci&oacute;n de Ingenieros Latinos en Estados Unidos: en 2010, 4 por ciento de los estudiantes de ingenier&iacute;a eran latinos; para 2021, el 16 por ciento de los estudiantes latinos eran&hellip; perd&oacute;n, de los estudiantes de ingenier&iacute;a eran latinos.</p>
+
+<p>&iquest;Se pueden dar cuenta a d&oacute;nde vamos y se pueden dar cuenta por qu&eacute; esta concepci&oacute;n de deportaci&oacute;n es realmente err&oacute;nea, no para M&eacute;xico, en realidad para Estados Unidos?, porque estas deportaciones en gran medida vendr&aacute;n de gente que ya es biling&uuml;e, que tienen ya un capital, que tienen cr&eacute;dito en Estados Unidos y que ser&aacute; una bendici&oacute;n a donde terminen. Si terminan aqu&iacute;, fabuloso, pero adonde terminen, y ser&aacute; una gran p&eacute;rdida para la econom&iacute;a americana.</p>
+
+<p>Otro dato que es impresionante: de acuerdo al Departamento de Comercio, los latinos, precisamente por este crecimiento tan fuerte que tenemos generacional, el 49.5 de todas las casas nuevas en Estados Unidos las compran los latinos.</p>
+
+<p>Acu&eacute;rdense de lo que les dije al principio: 20 por ciento, somos del pa&iacute;s. Estamos comprando casi 50 por ciento de las nuevas casas, o sea, eso nos habla del tremendo impacto econ&oacute;mico que estamos teniendo.</p>
+
+<p>Porque adem&aacute;s es que todo este crecimiento viene en una tendencia positiva, &iquest;no?</p>
+
+<p>Mi hermano siempre me dice: &ldquo;A ver, no importa lo que est&aacute; pasando ahora, &iquest;cu&aacute;l es la tendencia?, pues la tendencia de los latinos, que cada vez vamos a hacer m&aacute;s poderosos.</p>
+
+<p>Ya les hab&iacute;a dicho yo, creamos much&iacute;simos negocios.</p>
+
+<p>Y, bueno, estas elecciones, como ustedes pudieron ver, tuvimos un impacto fuert&iacute;simo. En cierta manera los dos partidos nos culpaban, &ldquo;los latinos votaron por este y los latinos votaron por el otro&rdquo;, y dem&aacute;s. Es que ya el impacto de los latinos es muy importante.</p>
+
+<p>Volvemos a lo mismo, somos 20 por ciento de la poblaci&oacute;n y tuvimos 14; 15 por ciento de impacto. Acu&eacute;rdense que la mayor&iacute;a de nuestras gentes no ha llegado a los 18 a&ntilde;os, no pueden votar. Pero nada m&aacute;s piensen en este n&uacute;mero del censo: el 30 por ciento de los beb&eacute;s nacidos en Estados Unidos son latinos; piensen en las votaciones en 18 a&ntilde;os, 30 por ciento.</p>
+
+<p>Pero aun con este 14 por ciento&hellip; Como ustedes saben, el margen en las elecciones fue muy peque&ntilde;o, en realidad es que la elecci&oacute;n se gan&oacute; por tres o cuatro estados con un rango muy peque&ntilde;o de diferencia entre los dos candidatos. Entonces, este 14 por ciento hace una tremenda diferencia.</p>
+
+<p>No nada m&aacute;s eso.</p>
+
+<p>Yo habl&eacute; mucho de econom&iacute;a. Somos un, como decimos en Estados Unidos, <em>think tank</em>, un centro de investigaci&oacute;n que est&aacute; completamente basado en el impacto econ&oacute;mico para que tengamos, entonces, estas armas para tener conversaciones fuertes como la Presidenta va a tener y como el equipo de la Presidenta van a tener en este a&ntilde;o, pero adem&aacute;s de todo, es esta parte de los latinos que nos hace realmente indispensables socialmente.</p>
+
+<p>Somos una cultura sumamente agradecida, una cultura que se mezcla perfectamente en cuanto a amigos, en cuanto a matrimonios, se integra inmediatamente; somos una cultura que tiene much&iacute;simo impacto en la, como dicen los americanos, en la <em>pop culture</em>, en la cultura popular, o sea, no tengo que decirles de Bad Bunny, de Peso Pluma y todos estos fen&oacute;menos que son impresionantemente poderosos sin mercadotecnia, por cierto, porque no les dan un centavo de mercadotecnia, simplemente son populares a nivel global.</p>
+
+<p>Entonces, esta parte civil de la que nosotros no tenemos realmente informaci&oacute;n tambi&eacute;n es una parte important&iacute;sima.</p>
+
+<p>Y quiero terminar con decirles esto que para m&iacute; es un mensaje tan importante de lo que est&aacute; haciendo la Presidenta Sheinbaum, pero tambi&eacute;n lo que estamos haciendo en Estados Unidos:</p>
+
+<p>El Producto Interno Bruto de los latinos, de los mexicanos, ahora voy a hablar nada m&aacute;s de los mexicanos, de los mexicanos en Estados Unidos, es 2.06; como quien dice, 2.1, redondeando, de billones de d&oacute;lares del Producto Interno Bruto.</p>
+
+<p>Somos el 60 por ciento de los latinos, somos 37 millones en Estados Unidos. Imag&iacute;nense este 37 por ciento que tiene un crecimiento econ&oacute;mico fabuloso, interconectado con los 130 y tantos millones mexicanos, con esta uni&oacute;n que tenemos apasionante, con este nuevo orgullo que hemos vivido en los &uacute;ltimos a&ntilde;os en Estados Unidos y tambi&eacute;n aqu&iacute;, la conexi&oacute;n es sumamente importante.</p>
+
+<p>Y yo por eso estoy sumamente honrada de estar aqu&iacute;, porque quiero contribuir en lo que m&aacute;s que pueda, lo queremos los mexicanoamericanos contribuir en lo que m&aacute;s podamos, y hacer de esta comunicaci&oacute;n una oportunidad inmensa de crecimiento, no nada m&aacute;s para M&eacute;xico, sino tambi&eacute;n para Estados Unidos.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Buen&iacute;simo.</p>
+
+<p>&mdash;Bueno, ahora s&iacute; vamos a las preguntas, lo que nos d&eacute; el tiempo. A ver, vamos a ver, por ac&aacute;, por ac&aacute;, a ver ac&aacute;&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Buenos d&iacute;as. Julio Omar G&oacute;mez, de <em>Medios Digitales del Pac&iacute;fico </em>y <em>Sin puntos, ni comas</em>, y <em>julioomargs.com</em></strong></p>
+
+<p><strong>Referente a los temas hemos escuchado a nuestra audiencia, y me preguntan sobre el tema de Mexicana de Aviaci&oacute;n, del Tren Maya y tambi&eacute;n sobre los hoteles. Si bien, es cierto, siempre cuando inicia una empresa, esta empresa del Estado, siempre es inversi&oacute;n, &iquest;cu&aacute;nto es el impacto econ&oacute;mico que ha generado para las empresas en beneficio, es decir, si se encuentra en n&uacute;meros, si no bien como ganancias, por lo menos que sean autosustentables?</strong></p>
+
+<p><strong>Y, por otro lado, &iquest;cu&aacute;l es el impacto econ&oacute;mico regional y, sobre todo, nacional?</strong></p>
+
+<p><strong>Ser&iacute;a mi pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Las empresas inician y estuvo calculado su plan de negocios. Cualquier empresa que inicia siempre tiene al principio, un equilibrio, busca su equilibrio entre sus ingresos y sus gastos; y despu&eacute;s, ya las ganancias que pueda generar. Entonces, las empresas tienen un&hellip; la mayor&iacute;a tiene equilibrio dentro del plan de negocios que se plante&oacute;.</p>
+
+<p>Mexicana hizo una revisi&oacute;n &mdash;como lo mencionamos&mdash; a principios de este a&ntilde;o, porque adem&aacute;s ten&iacute;a algunos aviones rentados, se acaba la renta de esos aviones y, como cualquier empresa, hizo su revisi&oacute;n; pero tienen un plan de negocios que le da a M&eacute;xico y le da particularmente al sureste de M&eacute;xico.</p>
+
+<p>Entonces, est&aacute;n funcionando bien.</p>
+
+<p><strong>PREGUNTA: &iquest;Tiene una fecha establecida, proyectada &mdash;mejor dicho&mdash; para tener una ganancia?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Algunas tienen el &acute;27, otras el &acute;28, otras el &acute;30.</p>
+
+<p>El Tren Maya, por ejemplo, va a tener su complemento con el tren de carga, que es muy importante, pero todo es parte del plan de negocios como originalmente se plante&oacute;.</p>
+
+<p><strong>PREGUNTA: Bueno, si bien, es cierto, Donald Trump desde que tom&oacute; posesi&oacute;n ha estado firmando algunos decretos, haciendo&hellip; vaya, de cierta manera alertando a ciertos pa&iacute;ses, M&eacute;xico es uno de ellos en cuanto al tema migratorio.</strong></p>
+
+<p><strong>Pero tambi&eacute;n otros pa&iacute;ses se han visto afectados por el tema de que dice, se adjudica nuevamente a Panam&aacute; y hay tambi&eacute;n r&eacute;plicas sobre lo que ha dicho sobre Panam&aacute;, incluso, hasta comprar Groenlandia y todo, bueno, muchas situaciones.</strong></p>
+
+<p><strong>El d&iacute;a de ayer, el presidente del Consejo Empresarial hab&iacute;a hecho un comunicado, una afirmaci&oacute;n sobre que se tiene que renegociar este 25 por ciento del impuesto a los aranceles.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; opini&oacute;n tiene de esta situaci&oacute;n, que el Consejo Coordinador Empresarial ya sali&oacute; tambi&eacute;n a hablar sobre este tema?</strong></p>
+
+<p><strong>&iquest;Qu&eacute; hay sobre este tema en espec&iacute;fico sobre los aranceles que estar&iacute;a el Estado mexicano pues junto con las C&aacute;maras empresariales estando en negociaciones?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Como lo mencion&eacute; el otro d&iacute;a, nosotros nos basamos en los decretos que firm&oacute; el presidente Trump. Entonces, el decreto que firm&oacute; respecto a este tema, establece que inicia un proceso de revisi&oacute;n, como debe ser &mdash;o de consulta m&aacute;s bien&mdash;, dentro de Estados Unidos para la revisi&oacute;n del Tratado del 2026. Eso es lo que dice el decreto.</p>
+
+<p>Y despu&eacute;s, tiene un p&aacute;rrafo peque&ntilde;o, que tiene que ver con la posibilidad de que el Departamento de Comercio revise, a partir de temas como el tr&aacute;fico de fentanilo o algunos otros temas. Pero no hay nada, lo que hay exclusivamente es lo que tenemos hoy, y el di&aacute;logo que ya se estableci&oacute; con el gobierno de Estados Unidos.</p>
+
+<p>Y tenemos muy buena relaci&oacute;n con el Consejo Coordinador Empresarial, estamos en plena comunicaci&oacute;n tanto con el Consejo que formamos para el Plan M&eacute;xico como, en general, con el Consejo Coordinador Empresarial en donde estamos colaborando.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta. Ya por &uacute;ltimo&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Incluso, recuerdo que les agradecemos porque est&aacute;n ofreciendo cerca de 35 mil plazas de empleo, en este momento, para las y los mexicanos que pudieran ser deportados de Estados Unidos y que van a ser recibidos en los Centros de Atenci&oacute;n.</p>
+
+<p><strong>PREGUNTA: &iquest;Y sabe en qu&eacute; sectores ser&iacute;an estos empleos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Distintos: de servicios, hay de manufactura, de varios temas.</p>
+
+<p><strong>PREGUNTA: Muy bien. Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>Ya por &uacute;ltimo tema, sencillo: ya ve que al Comit&eacute; de Evaluaci&oacute;n del Poder Judicial se le orden&oacute; por parte del Tribunal Electoral del Poder Judicial le orden&oacute; que siguiera con este&hellip; Ante las denuncias del juez de Distrito, del amparo.</strong></p>
+
+<p><strong>&iquest;Por qu&eacute; se tomaron esas decisiones de detener este Comit&eacute;?</strong></p>
+
+<p><strong>&iquest;Y por qu&eacute; tambi&eacute;n Gerardo Fern&aacute;ndez Noro&ntilde;a hizo una invitaci&oacute;n a que continuaran estas evaluaciones? &iquest;A qu&eacute; se debe?</strong></p>
+
+<p><strong>Y precisamente, &iquest;cu&aacute;l es su opini&oacute;n o el mensaje que pudiera dar para que haya continuidad?</strong></p>
+
+<p><strong>&iquest;Y si habr&iacute;a alg&uacute;n retraso en cuanto a las elecciones del &acute;25 debido a esta situaci&oacute;n? &iquest;Cu&aacute;l es la opini&oacute;n que tiene referente?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> La reforma constitucional establece que para realizar la elecci&oacute;n de jueces, magistrados y ministros, y tambi&eacute;n de magistrados del Tribunal Electoral y del Tribunal Judicial, establece un mecanismo para poder definir qui&eacute;nes van a participar en la elecci&oacute;n el 1o. de junio.</p>
+
+<p>&iquest;Cu&aacute;l es este mecanismo?</p>
+
+<p>Se forma un Comit&eacute; en el Poder Judicial que coordina la Suprema Corte de Justicia de la Naci&oacute;n, cinco personas que son seleccionadas por el Poder Judicial; un Comit&eacute; del Poder Ejecutivo, es decir, nosotros definimos cinco personas que trabajan para poder definir qui&eacute;nes van a participar en las elecciones; y en el caso del Poder Legislativo, tambi&eacute;n tienen cinco personas. Esos son los Comit&eacute;s de Selecci&oacute;n.</p>
+
+<p>&iquest;A qui&eacute;n seleccionan? Pues, se abri&oacute; un proceso para inscripciones. Se inscribieron miles de personas, miles de abogados y abogadas.</p>
+
+<p>&iquest;C&oacute;mo son seleccionados? Primero, si cumplen con lo que dice la Constituci&oacute;n que deben de cumplir: deben de tener al menos 8 de promedio en la carretera, deben de presentar cartas de recomendaci&oacute;n, deben escribir un ensayo y algunos otros temas.</p>
+
+<p>Entonces, la primera selecci&oacute;n es: &ldquo;Te inscribiste, ten&iacute;as 7 de promedio, pues no pasas al siguiente proceso&rdquo;; &ldquo;te inscribiste, pero no presentaste tus cartas de recomendaci&oacute;n, pues no pasas a la siguiente fase&rdquo;. Eso fue lo primero que hicieron y publicaron.</p>
+
+<p>Ah&iacute; hubo un periodo de reconsideraci&oacute;n, porque hubo personas que dijeron: &ldquo;No, yo s&iacute; lo entregu&eacute;, aqu&iacute; est&aacute;&rdquo;. Y entonces, como en cualquier persona, hay que darle su espacio para su reclamo, digamos. Y entonces ah&iacute;, se define una lista final.</p>
+
+<p>Despu&eacute;s de ah&iacute;, &iquest;qu&eacute; ocurre?, hay entrevistas. Que, si ustedes se fijan, han estado entrevistas en todos los lugares.</p>
+
+<p>Bueno, &iquest;qu&eacute; pas&oacute; con el Comit&eacute; del Poder Judicial?, dej&oacute; de funcionar. Recibieron, hicieron una selecci&oacute;n, y mientras estaban en ese proceso de pronto dijeron: &ldquo;ya no funcionamos, ya cerramos el proceso&rdquo;. &iquest;Por qu&eacute;? Porque dicen que hubo amparos.</p>
+
+<p>Ahora, &iquest;qu&eacute; es lo que pasa con los amparos en un proceso electoral? No proceden.</p>
+
+<p>Porque &iquest;qui&eacute;n es &mdash;de acuerdo con la Constituci&oacute;n&mdash; quien regula los procesos electorales? El Tribunal Superior del Poder Judicial de la Federaci&oacute;n.</p>
+
+<p>El &uacute;nico tema en donde la Corte no es el m&aacute;ximo Poder en t&eacute;rminos de una controversia, de un amparo, de un juicio, es el electoral.</p>
+
+<p>Entonces, llevaban ya alg&uacute;n tiempo sin funcionar. Hace poco yo dije: Bueno, &iquest;por qu&eacute; este tema, si los amparos no proceden?</p>
+
+<p>Pero, adem&aacute;s, si ustedes recuerdan hubo una siguiente reforma constitucional que estableci&oacute; que: en el caso de reformas constitucionales, los amparos no proceden, que era algo que ya estaba en la Ley de Amparo, pero despu&eacute;s, pas&oacute; a la Constituci&oacute;n.</p>
+
+<p>Entonces, &iquest;qu&eacute; hace ayer el Tribunal, la Sala Superior del Tribunal Electoral del Poder Judicial de la Federaci&oacute;n?</p>
+
+<p>Le dice: &ldquo;Corte, no tienes raz&oacute;n en parar su proceso, tienes que continuarlo urgentemente. Tienes hasta el 31 de enero para terminarlo, para que pueda proceder la elecci&oacute;n&rdquo;.</p>
+
+<p>Eso es lo que pas&oacute; el d&iacute;a de ayer, y a m&iacute; me parece bien, porque es lo que corresponde respecto a la Constituci&oacute;n. No tiene raz&oacute;n la Corte en haber parado el proceso. Entonces, eso es lo que ocurri&oacute; ayer y qu&eacute; bueno que el Tribunal Electoral lo hizo, porque lo que refleja es que, en efecto, es un proceso electoral.</p>
+
+<p><strong>PREGUNTA: &iquest;Qu&eacute; ocurrir&iacute;a si no lo hicieran?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, hay sanciones de parte del Tribunal Electoral.</p>
+
+<p><strong>PREGUNTA: &iquest;Y atrasar&iacute;a, en caso de que no lo hicieran&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, no, no.</p>
+
+<p><strong>PREGUNTA: &iquest;Se seguir&iacute;a haciendo la&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, porque el INE, que es quien organiza las elecciones&hellip; &iquest;Qui&eacute;n es, digamos, el Tribunal que le dice &ldquo;sigue o no sigue&rdquo;?</p>
+
+<p>El Tribunal Electoral.</p>
+
+<p>Entonces, por eso contin&uacute;a la elecci&oacute;n y ser&aacute; el 1o. de junio.</p>
+
+<p>Y el &uacute;nico que podr&iacute;a decir que hay un tiempo distinto ser&iacute;a una nueva reforma a la Constituci&oacute;n, porque la Constituci&oacute;n tiene establecidos los tiempos. Claro, el Senado frente a temas que no hubieran sido considerados tiene la atribuci&oacute;n para dar lineamientos.</p>
+
+<p>Entonces, por eso es la raz&oacute;n por la cual el Tribunal establece: &ldquo;Corte, tienes que continuar&rdquo;.</p>
+
+<p><strong>PREGUNTA: Muchas gracias por su explicaci&oacute;n, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias.</p>
+
+<p><strong>PREGUNTA: De <em>Sin Puntos ni Comas</em>, por si no me present&eacute; tambi&eacute;n. Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias.</p>
+
+<p>&mdash;A ver aqu&iacute;&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracia, Presidenta. Muy buenos d&iacute;as a todas y a todos.</strong></p>
+
+<p><strong>Liliana Noble, de <em>Pulso Saludable</em>.</strong></p>
+
+<p><strong>Presidenta, si me permite preguntarle a Ana Teresa Ram&iacute;rez: &iquest;c&oacute;mo ser&iacute;a en t&eacute;rminos econ&oacute;micos la vida que ya han descrito en alguna pel&iacute;cula, pero me gustar&iacute;a saber qu&eacute; pasar&iacute;a justamente un d&iacute;a sin la productividad&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> <em>Un d&iacute;a sin mexicanos.</em></p>
+
+<p><strong>PREGUNTA: De los mexicanos. &iquest;En t&eacute;rminos econ&oacute;micos han cuestionado? &iquest;tienen alg&uacute;n dato que nos pudieran compartir?</strong></p>
+
+<p><strong>Esa ser&iacute;a mi primer pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Adelante. Por ac&aacute;. O un micr&oacute;fono, aqu&iacute; vente&mdash;</p>
+
+<p><strong>DIRECTORA GENERAL DE <em>LATINO DONOR COLLABORATIVE THINK TANK</em>, ANA TERESA RAM&Iacute;REZ RODR&Iacute;GUEZ:</strong> Gracias, Presidenta.</p>
+
+<p>Estamos exactamente en eso, estamos produciendo &mdash;esto es una primicia, nadie lo sabe&mdash;, pero estamos produciendo un reporte exactamente de eso. Como bien dijiste, hay una pel&iacute;cula que se llama <em>Un d&iacute;a sin mexicanos</em> en Estados Unidos que fue muy, muy famosa; s&eacute; que los productores tambi&eacute;n est&aacute;n trabajando en la segunda versi&oacute;n, lo cual va a ser magn&iacute;fico.</p>
+
+<p>Pero estate pendiente, porque vamos a sacar un reporte de eso.</p>
+
+<p>Creo que lo que podr&iacute;amos decir inmediatamente, obviamente, de los n&uacute;meros que les compart&iacute;, es que 3.6 billones no podr&iacute;an funcionar. Y con eso, si t&uacute; le restas el 3.6 billones al PIB de Estados Unidos, obviamente, lo pone en una situaci&oacute;n muy desventajosa.</p>
+
+<p>Est&aacute; el PIB de China creciendo a niveles acelerad&iacute;simos &mdash;como les dije tambi&eacute;n&mdash;, entonces estar&iacute;an en riesgo de estar sobrepasados por China</p>
+
+<p>Hay una estad&iacute;stica muy buena de Price Waterhouse, que hace una estimaci&oacute;n de d&oacute;nde van a acabar los PIB en 2050. Por cierto, M&eacute;xico termina en un lugar muy favorable, 7o., de acuerdo a Price Waterhouse, pero Estados Unidos ya termina en lugar 3.</p>
+
+<p>Entonces, vamos a ver si esta nueva administraci&oacute;n entiende estos n&uacute;meros &mdash;que si los entiendo yo, los debe de entender el presidente&mdash; y cambia un poco esta forma de ver a la comunidad inmigrante, ahorita.</p>
+
+<p><strong>PREGUNTA: Muchas gracias.</strong></p>
+
+<p><strong>Y como segunda pregunta, Presidenta, escrib&iacute; un art&iacute;culo acerca de los CECI, estos Centros de Educaci&oacute;n y Cuidado Infantil, y entonces LinkedIn me envi&oacute; una notificaci&oacute;n felicit&aacute;ndome por el art&iacute;culo y el contenido, y pidi&eacute;ndome autorizaci&oacute;n de promoverlo. Entonces, obviamente, t&uacute; dices que s&iacute;, &iquest;no?</strong></p>
+
+<p><strong>Eso no es lo importante, considerar&iacute;a yo, lo importante es lo que est&aacute; haciendo usted por estas comunidades; el contenido no lo genero yo, solamente le doy una forma period&iacute;stica.</strong></p>
+
+<p><strong>Pero tambi&eacute;n &ldquo;Alito&rdquo; Moreno, el presidente del PRI, le dio un <em>like</em> a esta informaci&oacute;n diciendo que le parec&iacute;a que era algo que ve&iacute;a muy buen futuro. Y empec&eacute; a investigar y algunas organizaciones est&aacute;n aplaudiendo esta iniciativa.</strong></p>
+
+<p><strong>Y la pregunta ser&iacute;a si &iquest;tienen prospectada alguna temporalidad en la que van a generar centros iguales en el resto del pa&iacute;s?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Este a&ntilde;o es Ciudad Ju&aacute;rez, como me compromet&iacute;. Son 12, y ya se est&aacute;n viendo otros que pudieran estar en Ciudad Ju&aacute;rez.</p>
+
+<p>Mi compromiso fue atender primero a las mujeres de la maquila y a las jornaleras agr&iacute;colas. Entonces, Zo&eacute; cuando present&oacute; aqu&iacute; &mdash;el director del IMSS&mdash;, expuso cu&aacute;les son las ciudades de M&eacute;xico que tienen m&aacute;s presencia de maquila. Despu&eacute;s de Ciudad Ju&aacute;rez, est&aacute; Tijuana, y as&iacute;, incluso, la Ciudad de M&eacute;xico tiene tambi&eacute;n maquila.</p>
+
+<p>Entonces, la idea es primero cumplir el compromiso de atender a las mujeres de la maquila, pero nos va a ayudar este a&ntilde;o a visualizar c&oacute;mo operan, porque tiene una virtud el que sea el IMSS quien promueve los CECIs.</p>
+
+<p>Y en el caso del IMSS con el DIF, por ejemplo, si hay una alianza IMSS-DIF, que es una parte tambi&eacute;n de los centros que se van a construir en Ciudad Ju&aacute;rez, el DIF le pagar&iacute;a al IMSS, p&uacute;blico-p&uacute;blico, lo que le corresponder&iacute;a de recibir personas no afiliadas.</p>
+
+<p>Entonces es un modelo de alianza p&uacute;blica-p&uacute;blica que es muy buena porque el IMSS tiene recursos para poder construir estos CECIs, dado que los empleadores &mdash;iba a decir &ldquo;la patronal&rdquo;, pero ya no se dice as&iacute;&mdash; los empleadores y los trabajadores aportan al IMSS.</p>
+
+<p>Y ah&iacute; hay una parte que est&aacute; etiquetada para Guarder&iacute;as. Entonces, esa parte que est&aacute; etiquetada para Guarder&iacute;as se va a usar para los CECIs, ya fue aprobado en el Consejo de Administraci&oacute;n.</p>
+
+<p>Y para aquellos que no son afiliados o aquellas que no son afiliadas, habr&iacute;a un esquema en donde el gobierno, sean estatales o federal, aporte la parte que le corresponder&iacute;a de los ni&ntilde;os o ni&ntilde;as que no son parte de los trabajadores afiliados al IMSS.</p>
+
+<p>Entonces, es un modelo muy bueno que nos permite crecer sin necesidad de estar utilizando el Presupuesto de Egresos de la Federaci&oacute;n para su primera aportaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Y, finalmente, hace una semana o semana y media&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Y luego &mdash;perd&oacute;n&mdash;, el modelo tambi&eacute;n es importante, porque no es la guarder&iacute;a donde solo se dejaba a los ni&ntilde;os.</p>
+
+<p>Que, por cierto, las guarder&iacute;as del IMSS son muy buenas, lo que pasa es que se pervirtieron por la subrogaci&oacute;n; las mejores guarder&iacute;as del IMSS son las que operan las y los trabajadores del IMSS, y a eso es a lo que estamos regresando. Pero ya no solo es el modelo de que est&eacute;n los ni&ntilde;os mientras la madre trabaja, sino que haya educaci&oacute;n desde la primera infancia y cuidados, que es parte del sistema de cuidados.</p>
+
+<p><strong>PREGUNTA: Y, finalmente, Presidenta, le dec&iacute;a que hace semana y media o tal vez dos, se hizo la firma de este convenio para proteger el Bosque de Agua, entre la jefa de gobierno, Clara Brugada; la gobernadora del Estado de M&eacute;xico, Delfina; y tambi&eacute;n la gobernadora de Morelos. Ah&iacute; destacaba la gobernadora del Estado de M&eacute;xico, Delfina, ella considera que este Bosque de Agua deber&iacute;a ser considerado un &Aacute;rea Natural Protegida por parte del Gobierno Federal.</strong></p>
+
+<p><strong>&iquest;Esto tendr&iacute;a alguna expectativa pr&oacute;xima? &iquest;Qu&eacute; se tendr&iacute;a que hacer? &iquest;Se puede conseguir esto?</strong></p>
+
+<p><strong>Dec&iacute;a la jefa de gobierno que&hellip; bueno, las tres coincid&iacute;an &mdash;y tambi&eacute;n estuvo la secretaria de Semarnat&mdash;, coincid&iacute;an todas en las virtudes que no solamente es el tema del agua, sino la parte cultural.</strong></p>
+
+<p><strong>Y, tambi&eacute;n, algo que tambi&eacute;n mencion&oacute; mucho la secretaria Josefina y Alejandra Frausto, es el tema del suelo de conservaci&oacute;n, tan importante y tan olvidado, en otros gobiernos.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; podr&iacute;a surgir al respecto, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Casi todo este Bosque de Agua, que este l&iacute;mite, tiene decreto de distintos tipos; a lo mejor valdr&iacute;a la pena estudiar que todo fuera parte de un mismo decreto, pero no quiere decir que no est&eacute;n protegidos.</p>
+
+<p>Est&aacute; la Sierra del Chichinautzin, que es el l&iacute;mite entre Morelos y la Ciudad de M&eacute;xico, que es un &Aacute;rea Natural Protegida.</p>
+
+<p>Despu&eacute;s est&aacute; lo que se llama el &ldquo;suelo de conservaci&oacute;n de la Ciudad de M&eacute;xico&rdquo;, que formalmente es el 58 por ciento de su territorio, aunque han crecido los asentamientos.</p>
+
+<p>Adem&aacute;s, hay &Aacute;reas Naturales Protegidas decretadas por el Gobierno de la Ciudad de M&eacute;xico, el entonces Gobierno del Distrito Federal. Y, adem&aacute;s, hay un esquema que trabaj&eacute; cuando yo fui secretaria de Medio Ambiente de la Ciudad que se llaman &ldquo;Reservas Comunitarias&rdquo;, es un decreto en donde, en acuerdo con las comunidades y con los ejidos, porque pr&aacute;cticamente el 90 por ciento de la propiedad de ese suelo es ejidal y comunal.</p>
+
+<p>Entonces, se hicieron reservas comunitarias en donde la propia comunidad las cuida, a partir de un recurso que les da el Gobierno de la Ciudad de M&eacute;xico, a trav&eacute;s de la Comisi&oacute;n Nacional de Recursos Naturales.</p>
+
+<p>Entonces, quiz&aacute; lo que valdr&iacute;a la pena &mdash;que ah&iacute; estuvo la secretaria Alicia B&aacute;rcena&mdash; es que todos estos decretos que est&aacute;n divididos se pudiera hacer un solo decreto a partir de las categor&iacute;as.</p>
+
+<p>&iquest;Qu&eacute; categor&iacute;as tienen las &Aacute;reas Naturales Protegidas?</p>
+
+<p>Dependiendo de su biodiversidad, dependiendo de su riqueza biol&oacute;gica.</p>
+
+<p>El suelo de conservaci&oacute;n de la Ciudad se estima que lleg&oacute; a tener alrededor del 12 por ciento de la presencia de la biodiversidad de todo el pa&iacute;s y el 1 por ciento de la biodiversidad del planeta.</p>
+
+<p>Entonces, es un &aacute;rea muy rica en biodiversidad. En cultura tambi&eacute;n, porque ah&iacute; viven los pueblos originarios, particularmente de la Ciudad de M&eacute;xico. Y s&iacute; es una zona muy importante para que se proteja.</p>
+
+<p><strong>PREGUNTA: Y un solo dato: &iquest;va a asistir al informe de los primeros 100 d&iacute;as de la jefa de gobierno el domingo en el Auditorio?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Va a ir un compa&ntilde;ero, compa&ntilde;era, un secretario, secretaria.</p>
+
+<p>Tenemos planeado en principio ir a Oaxaca, estamos revisando algunos temas, pero en principio tenemos planeado ir a Oaxaca, a la Mixteca.</p>
+
+<p>&mdash; A ver, vamos por ac&aacute;, porque&hellip;&mdash;</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta, buenos d&iacute;as. Yareth Arciniega, de Revista <em>Fortuna</em>.</strong></p>
+
+<p><strong>Sobre Mexicana de Aviaci&oacute;n, Presidenta, &iquest;qu&eacute; tan importante es la operaci&oacute;n de Mexicana de Aviaci&oacute;n para seguir impulsando la reducci&oacute;n de las tarifas a&eacute;reas?</strong></p>
+
+<p><strong>Lo comento, porque en algunas rutas como la zona petrolera de Veracruz, en Coatzacoalcos, en Nanchital, solo vuelan dos aerol&iacute;neas y los precios de los boletos son muy altos.</strong></p>
+
+<p><strong>&iquest;C&oacute;mo ha disminuido el precio de los boletos de avi&oacute;n en las 16 rutas en las que participa Mexicana de Aviaci&oacute;n? &iquest;Sigue el mercado de la aviaci&oacute;n viviendo un problema de oligopolios, Presidenta?</strong></p>
+
+<p><strong>Esto es importante, porque el 70 por ciento de los mexicanos nunca han viajado en avi&oacute;n y debido s&iacute;, debido a estos costos altos &iquest;esto ha cambiado?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Habr&iacute;a que hacer el estudio.</p>
+
+<p>&mdash;No s&eacute; si tengan el estudio, por ejemplo, si Aerom&eacute;xico, Viva Aerob&uacute;s, han bajado sus precios a partir de la presencia de Mexicana&mdash;.</p>
+
+<p>Habr&iacute;a que revisar ese estudio, no lo hemos realizado.</p>
+
+<p>Pero tienes raz&oacute;n en el sentido de que Mexicana, al ser una empresa p&uacute;blica&hellip; Que hay muchos que todav&iacute;a se quedaron so&ntilde;ando en el ayer, muy poquitos ya nada m&aacute;s, que dicen que &ldquo;el gobierno o el Estado mexicano, m&aacute;s que el gobierno no deber&iacute;a tener empresas p&uacute;blicas&rdquo;. son de los que creen que Pemex deber&iacute;a privatizarse, que CFE deber&iacute;a privatizarse, que no tiene sentido que haya una empresa p&uacute;blica que se llame &ldquo;Tren Maya&rdquo; y que promueva el turismo en el sur sureste, y nosotros pensamos distinto.</p>
+
+<p>Y particularmente, Mexicana tiene ese objetivo, mantener los bajos costos, sin comprometer su plan de negocios, pero que permita que muchos m&aacute;s mexicanos puedan viajar por avi&oacute;n. Por eso, mantiene el bajo costo, al mismo tiempo que revisa su plan, y por eso la adquisici&oacute;n de los nuevos aviones para que puedan llegar a mucho m&aacute;s rutas.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>En otro tema, despu&eacute;s de los primeros d&iacute;as de mucha incertidumbre, los mercados de valores y financieros comienzan a realizar nuevas interpretaciones sobre el gobierno de Donald Trump y su enfoque sobre las inversiones.</strong></p>
+
+<p><strong>Hoy el tipo de cambio se est&aacute; recuperando y la inflaci&oacute;n est&aacute; en niveles de 3.6 por ciento durante la primera quincena de enero.</strong></p>
+
+<p><strong>Se asegura que viene un nuevo <em>rally</em> de innovaci&oacute;n y nuevas inversiones que retomar&aacute;n proyectos como el de la planta de chips en Arizona, que est&aacute; esperando ingenieros que no est&aacute;n en Estados Unidos; y est&aacute; esperando agua que, supuestamente, M&eacute;xico en Arizona le adeuda; adem&aacute;s, en los parques industriales no hay ni un solo metro cuadrado disponible, Presidenta.</strong></p>
+
+<p><strong>Con el Plan M&eacute;xico y los incentivos fiscales para la inversi&oacute;n y capacitaci&oacute;n, &iquest;c&oacute;mo se seguir&aacute; marcando la ruta para la relocalizaci&oacute;n de cadenas de suministro y la sustituci&oacute;n de importaciones?, &iquest;y en qu&eacute; medida llevar&aacute; M&eacute;xico la manufactura a la mentefactura?, &iquest;podemos hacerlo, Presidenta, sin colocar en riesgo nuestros recursos naturales?</strong></p>
+
+<p><strong>Y tambi&eacute;n preguntarle: &iquest;c&oacute;mo se garantizar&aacute; que el Plan M&eacute;xico sea fiscalmente sostenible a largo plazo, considerando los incentivos fiscales y las inversiones necesarias, sin comprometer la estabilidad de las finanzas p&uacute;blicas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;&iquest;Tienes ah&iacute; la gr&aacute;fica de la inflaci&oacute;n?&mdash;</p>
+
+<p>Para que vean la inflaci&oacute;n de los primeros 10 d&iacute;as de enero &mdash;para quien dice que &ldquo;la econom&iacute;a mexicana no es fuerte&rdquo;; somos fuertes all&aacute; y somos fuertes ac&aacute;&mdash; el 3.69.</p>
+
+<p>Y el peso, con lo que podr&iacute;a haber variado frente a la llegada del presidente Trump, se ha mantenido.</p>
+
+<p>Entonces, eso quiere decir que hay confianza y que la econom&iacute;a de M&eacute;xico est&aacute; bien, est&aacute; fuerte. Hay reservas en el Banco de M&eacute;xico, hay recursos en el pueblo de M&eacute;xico, hay una&hellip; F&iacute;jense, esto es con todo y el aumento salarial del 12 por ciento del salario m&iacute;nimo; y, adem&aacute;s, tenemos un Plan, que se llama el Plan M&eacute;xico.</p>
+
+<p>Recientemente sali&oacute; publicado el decreto, que nos comprometimos. Nos retrasamos dos d&iacute;as en el decreto o tres, era para el viernes y sali&oacute; el lunes, o el martes, de los incentivos, algunos incentivos adicionales para la inversi&oacute;n, que es una renovaci&oacute;n del decreto que hab&iacute;a expedido el Presidente L&oacute;pez Obrador, con nuevos temas.</p>
+
+<p>Ah&iacute;, se establece que los incentivos son hasta, si mal no recuerdo, 30 mil millones de pesos para los pr&oacute;ximos seis a&ntilde;os, hasta ah&iacute; es el tope de los incentivos. Entonces, est&aacute; calculado frente al crecimiento de la econom&iacute;a mexicana, frente al incremento de los ingresos.</p>
+
+<p>Que, por cierto, hay incremento frente al a&ntilde;o pasado en los ingresos en Tesorer&iacute;a, en el SAT. Ya cuando termine el mes lo vamos a presentar, es decir, la gente &mdash;y lo agradecemos much&iacute;simo&mdash; est&aacute; contribuyendo, est&aacute; pagando sus impuestos. Estamos arriba de enero, en t&eacute;rminos reales, de enero del 2024.</p>
+
+<p>Entonces, la econom&iacute;a est&aacute; bien, est&aacute; fuerte. Y este Plan est&aacute; calculado frente al propio Plan M&eacute;xico, de su crecimiento econ&oacute;mico, y los recursos financieros y fiscales.</p>
+
+<p><strong>PREGUNTA: Y, en otro tema, Presidenta, por &uacute;ltimo, en revista <em>Fortuna</em> publicamos informaci&oacute;n que revela que durante la gesti&oacute;n de Emilio Lozoya, en Pemex, la empresa estatal firm&oacute; contratos con tres compa&ntilde;&iacute;as extranjeras: Finley Resources, MWS Management<em> y Prize Permanent Holdings</em> para llevar a cabo trabajos de exploraci&oacute;n y producci&oacute;n petrolera, principalmente en la regi&oacute;n de Chicontepec, Veracruz.</strong></p>
+
+<p><strong>A pesar de los problemas financieros de Pemex, la falta de presupuesto y un marco legal poco claro, funcionarios de la empresa como Froyl&aacute;n Gracia, alentaron a las empresas a defender sus contratos en Pemex prometi&eacute;ndoles pagos y nuevas oportunidades que no se materializaron; les prometi&oacute; que podr&iacute;an tener contratos de <em>fracking</em> que no estaba ni estar&aacute;n contemplados en la regulaci&oacute;n.</strong></p>
+
+<p><strong>En 2021, las empresas decidieron recurrir a un arbitraje internacional a trav&eacute;s del Centro Internacional de Conciliaci&oacute;n de Diferencias, el CIADI, debido al incumplimiento de Pemex y la falta de resoluci&oacute;n en los Tribunales mexicanos.</strong></p>
+
+<p><strong>Tras un proceso de cinco a&ntilde;os, en 2023 el Tribunal fall&oacute; a favor de las empresas, de estas empresas extranjeras, concluyendo que el gobierno mexicano, a trav&eacute;s de Pemex, viol&oacute; las protecciones a los inversionistas, previstas en el T-MEC, y ha ordenado una indemnizaci&oacute;n de 200 millones de d&oacute;lares por la cancelaci&oacute;n de contratos.</strong></p>
+
+<p><strong>Presidenta, dado el fallo del CIADI, en 2023, y el impacto que tendr&iacute;a sobre las finanzas de Pemex, &iquest;no ser&iacute;a momento de auditar c&oacute;mo se generaron muchas deudas de Pemex? Porque casi todos los contratos ten&iacute;an una cl&aacute;usula de cesi&oacute;n de derechos, lo que propici&oacute; pr&aacute;cticas de corrupci&oacute;n.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, se revisa. No tengo ahora el dato, pero con gusto le pedimos a la secretaria de Energ&iacute;a y al director de Pemex que puedan informar.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;A ver ac&aacute;. Ahorita haces tu pregunta, Carlos para antes de que nos vayamos&mdash;.</p>
+
+<p><strong>PREGUNTA: Presidenta con &ldquo;A&rdquo;, su servidor Carlos Pozos, de <em>LM Noticias</em>.</strong></p>
+
+<p><strong>Feliz A&ntilde;o.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias.</p>
+
+<p><strong>PREGUNTA: Ten&iacute;a 30 d&iacute;as, hoy, sin la fortuna de poder platicar.</strong></p>
+
+<p><strong>Mi primera pregunta&hellip; Bueno, quisiera al final de mis tres preguntas, como le solicite en diciembre &acute;23, de un derecho de r&eacute;plica, si es posible.</strong></p>
+
+<p><strong>Inicio con la primera pregunta. Donald Trump <em>junior</em> anunci&oacute; que su padre el presidente de los Estados Unidos, Donald Trump contempla reducir el peso de los medios tradicionales que tiene la sala de prensa de la Casa Blanca para dar acceso a reporteros independientes o blogueros.</strong></p>
+
+<p><strong>En su propio <em>podcast </em>apunt&oacute; que mantener la presencia de los medios tradicionales solo por el hecho de que han estado ah&iacute; por mucho tiempo no parece ser una buena manera de proceder.</strong></p>
+
+<p><strong>Le pregunto Presidenta: luego de analizar las acciones y mensajes de Donald Trump, con la cabeza fr&iacute;a, sobre el adelantar el Tratado, la renegociaci&oacute;n del Tratado Comercial y la inmigraci&oacute;n, &iquest;est&aacute; en sus &aacute;nimos en estos momentos de extenderle una invitaci&oacute;n a Palacio Nacional a Donald Trump, as&iacute; como sucedi&oacute; en la administraci&oacute;n de Enrique Pe&ntilde;a Nieto cuando visit&oacute; la Residencia Oficial de Los Pinos en agosto del 2016?</strong></p>
+
+<p><strong>&iquest;O si enviar&aacute; usted al canciller Juan Ram&oacute;n de la Fuente o al secretario de Econom&iacute;a, Marcelo Ebrard, para buscar un di&aacute;logo directo? Eso, por una parte.</strong></p>
+
+<p><strong>Y, por otra parte, &iquest;qu&eacute; le parece la importancia que se le est&aacute; dando en Estados Unidos a los medios independientes?</strong></p>
+
+<p><strong>&iquest;Y si usted aconsejar&iacute;a a Donald Trump que hubiera una &ldquo;Ma&ntilde;anera&rdquo; en la Casa Blanca?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Repito, hay que remitirse a los decretos que se firmaron. Entonces, en el decreto que se firm&oacute; establece la revisi&oacute;n, porque ni siquiera es renegociaci&oacute;n, la revisi&oacute;n del Tratado para 2026.</p>
+
+<p>Entonces, &iquest;qu&eacute; significa eso? Que se empieza a trabajar para su firma, su revisi&oacute;n, si es necesaria, para el 2026. Entonces no habr&iacute;a por qu&eacute; adelantar.</p>
+
+<p>Lo que s&iacute; inician es normalmente un proceso de consultas a empresarios, trabajadores, a los distintos sectores de la sociedad para ver c&oacute;mo ha operado el Tratado Comercial.</p>
+
+<p>Pero no&hellip; Nosotros, repito, lo mejor es fijarse en lo que est&aacute; escrito en los decretos.</p>
+
+<p><strong>PREGUNTA: Entonces, &iquest;descarta una invitaci&oacute;n y el env&iacute;o de&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pero eso es normal, es parte de la relaci&oacute;n bilateral; entonces, en su momento, no necesita uno adelantarse a nada, en su momento. El Presidente L&oacute;pez Obrador estuvo dos veces en la Casa Blanca con el presidente Trump.</p>
+
+<p>Pero lo importante es, los acuerdos que se tienen que tomar con la nueva administraci&oacute;n y ya en su momento se ver&aacute; si viajan servidores p&uacute;blicos, si vienen servidores p&uacute;blicos de ellos para ac&aacute;.</p>
+
+<p>Eso ocurri&oacute;, por ejemplo, en el primer periodo cuando lleg&oacute; el Presidente L&oacute;pez Obrador, incluso, antes de que entrara el Presidente, cuando era Presidente electo el Presidente L&oacute;pez Obrador, recibi&oacute; la visita del secretario de Estado, estuvo ah&iacute;, entonces era canciller Marcelo Ebrard.</p>
+
+<p>Entonces, es normal que haya visitas bilaterales.</p>
+
+<p><strong>PREGUNTA: Muy bien. Como segunda pregunta, Presidenta con &ldquo;A&rdquo;, Claudio X. Gonz&aacute;lez Laporte&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah, bueno, y que sobre participen medios: est&aacute; bien, est&aacute; muy bien.</p>
+
+<p><strong>PREGUNTA: &iquest;Le parece bien que participen medios independientes en la Casa Blanca?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues s&iacute;, pues es lo que hacemos aqu&iacute;: hay apertura a los medios tradicionales, comerciales, como queramos llamarle, y tambi&eacute;n a los medios alternativos.</p>
+
+<p><strong>PREGUNTA: Bien. Como segunda pregunta, Presidenta, Claudio X. Gonz&aacute;lez Laporte, ha llamado la atenci&oacute;n por ser uno de los principales detractores del gobierno del expresidente Andr&eacute;s Manuel L&oacute;pez Obrador, junto con su hijo Claudio X. Gonz&aacute;lez, de quien recordamos que encabez&oacute; el movimiento de la Marea Rosa de cara a las elecciones del 2 de junio del 2024.</strong></p>
+
+<p><strong>Claudio Laporte me concedi&oacute; una entrevista. Y me llama la atenci&oacute;n, de sus declaraciones, al expresar que el Plan M&eacute;xico es la clave para renegociar el T-MEC y para enfrentar ahora, al presidente Donald Trump.</strong></p>
+
+<p><strong>Con una nueva postura, Claudio Laporte hace un llamado a los empresarios mexicanos a la unidad y a invertir en el pa&iacute;s, y no basarse solamente en la inversi&oacute;n p&uacute;blica o extranjera.</strong></p>
+
+<p><strong>Por ello, me permito preguntarle, Presidenta, &iquest;qu&eacute; opini&oacute;n le merece esta nueva actitud de este empresario llamando a la unidad?, &iquest;y si cree que esos llamados, estas declaraciones son aut&eacute;nticas?</strong></p>
+
+<p><strong>Y, en este mismo sentido, si &iquest;considera que el Plan M&eacute;xico es la clave para la renegociaci&oacute;n del Tratado de Libre Comercio y para enfrentar a Donald Trump?, &iquest;y si el Plan M&eacute;xico ser&aacute; nuestra &ldquo;tabla de salvaci&oacute;n&rdquo; para evitar una guerra arancelaria?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Cuando estuve en campa&ntilde;a y ya como Presidenta Constitucional, como Presidenta electa y constitucional, siempre plante&eacute; que hay diferencias en M&eacute;xico con unas y otras personas, eso es la democracia.</p>
+
+<p>Estos que dicen que &ldquo;hay autoritarismo y que&hellip;&rdquo; la democracia es que haya libertad de expresi&oacute;n, entre otras cosas, adem&aacute;s del &ldquo;gobierno del pueblo, por el pueblo y para el pueblo&rdquo;, como bien dec&iacute;a Lincoln.</p>
+
+<p>Entonces, hay libertad de expresi&oacute;n y habr&aacute; cosas en las que no estemos de acuerdo, pero hay cosas en las que s&iacute;.</p>
+
+<p>Entonces, en este caso, este empresario estuvo en la reuni&oacute;n, particip&oacute;. Es parte del grupo este&hellip; se llama&hellip; Antes se llamaba &ldquo;Hombres de Negocios&rdquo;, ahora se llama Consejo Mexicano de Negocios, en el que me invitaron a dar una pl&aacute;tica hace unos meses, asist&iacute; ya como Presidenta constitucional, les platiqu&eacute; hacia a d&oacute;nde iba el Plan M&eacute;xico.</p>
+
+<p>Y es una propuesta integral que tiene como base el bienestar del pueblo de M&eacute;xico y la naci&oacute;n.</p>
+
+<p>Entonces, no es un plan para enfrentar al presidente Trump, no es un plan coyuntural. Es un plan para M&eacute;xico en el largo plazo, incluso, no solo para el sexenio, que tiene como objetivo no solo el crecimiento econ&oacute;mico, porque el PIB a veces no refleja el bienestar o los salarios de las y los trabajadores, sino que tiene como objetivo el desarrollo equitativo y sustentable &mdash;le llam&oacute; yo&mdash; del pa&iacute;s.</p>
+
+<p>Entonces que se fomente la producci&oacute;n en M&eacute;xico, &iquest;de qu&eacute; sectores?, pues muchos en donde importamos.</p>
+
+<p>Dec&iacute;an: &ldquo;Bueno es que est&aacute;n planeando que van a dejar de importar productos de China, porque ahora es la coyuntura de Estados Unidos y la competencia con China&rdquo;. No, no es por eso.</p>
+
+<p>Claro que nosotros queremos que se fortalezca el Tratado Comercial que tenemos con Estados Unidos y con Canad&aacute;, porque fortalece a las tres naciones, incluso, pensamos que debe abrirse al resto de Am&eacute;rica.</p>
+
+<p>Pero el tema de dejar de importar tiene que ver con la fortaleza de la econom&iacute;a mexicana, el que muchas cosas que se fabricaban en M&eacute;xico como la industria textil, por ejemplo, y que se fue cerrando, producto de estas importaciones. Entonces, lo que decimos es, &iquest;c&oacute;mo hacemos para recuperar la industria textil?, que mucha de ella, por cierto, es de peque&ntilde;os empresarios, particularmente, en el Baj&iacute;o.</p>
+
+<p>Entonces, tiene que ver con esos sectores y con, tambi&eacute;n, la innovaci&oacute;n que preguntaba la compa&ntilde;era hace un rato.</p>
+
+<p>&iquest;Por qu&eacute; estamos planteando que haya producci&oacute;n de semiconductores y dise&ntilde;o de semiconductores en M&eacute;xico? Pues porque: &iquest;por qu&eacute; no? Si eso nos fortalece.</p>
+
+<p>&iquest;Por qu&eacute; estamos planteando el auto &mdash;que, por cierto, s&iacute; se dice &ldquo;Olin&iacute;a&rdquo;&mdash; por qu&eacute; lo estamos planeando?</p>
+
+<p>Pues, porque &iquest;por qu&eacute; no?, &iquest;por qu&eacute; M&eacute;xico no puede tener en este nicho comercial un dise&ntilde;o propio que permita desde la innovaci&oacute;n, el desarrollo de la ciencia, la tecnolog&iacute;a permitir que se produzca en nuestro pa&iacute;s para nuestro mercado nacional, y en su caso para la exportaci&oacute;n?</p>
+
+<p>Entonces, lo que tiene como objetivo es un plan para nuestro pa&iacute;s en el largo plazo, s&iacute; con el Tratado Comercial y con la relaci&oacute;n con otras regiones del mundo.</p>
+
+<p>Ayer preguntaban del Tratado con Europa, que existe en M&eacute;xico y que tambi&eacute;n tiene su revisi&oacute;n que se est&aacute; haciendo frente al 2026, y que va muy avanzado. Entonces es parte del Plan M&eacute;xico.</p>
+
+<p><strong>PREGUNTA: Como tercera y &uacute;ltima pregunta, Presidenta: el Plan Nacional de Desarrollo es un instrumento para enunciar los problemas nacionales y para enumerar las soluciones en una proyecci&oacute;n sexenal.</strong></p>
+
+<p><strong>El primer antecedente de Plan Nacional de Desarrollo fue el Plan Sexenal, elaborado por el general L&aacute;zaro C&aacute;rdenas.</strong></p>
+
+<p><strong>En los gobiernos neoliberales los esfuerzos hechos para establecer un mecanismo de planeaci&oacute;n sexenal siempre fueron aislados y nunca cabalmente ejecutados, al grado que Enrique Pe&ntilde;a Nieto tuvo que firmar ante notario que cumplir&iacute;a sus compromisos.</strong></p>
+
+<p><strong>Mi pregunta es, Presidenta: &iquest;el pr&oacute;ximo Plan Nacional de Desarrollo 2025-2030, que ser&aacute; entregado a finales de febrero, ser&aacute; cumplido al 100 por ciento por su administraci&oacute;n, a diferencia de lo que hizo Felipe Calder&oacute;n y Pe&ntilde;a Nieto, que no pudieron cumplir con los planes sexenales?</strong></p>
+
+<p><strong>Y preguntarle tambi&eacute;n &iquest;si hay la posibilidad o ve usted la posibilidad de que Morena pudiera volver a gobernar despu&eacute;s del 2030 para darle continuidad al proyecto?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, toda la posibilidad.</p>
+
+<p>Fueron muy buenos los foros.</p>
+
+<p>A ver si ma&ntilde;ana Jes&uacute;s nos presenta el cierre de los foros. El &uacute;ltimo foro, me cont&oacute; Jes&uacute;s, en Michoac&aacute;n, de pueblos ind&iacute;genas, parece que fue algo muy bonito, con mucha participaci&oacute;n. Entonces, a ver si ma&ntilde;ana nos ayuda a dar un resumen del plan.</p>
+
+<p>Y en la Cuarta Transformaci&oacute;n los compromisos se cumplen.</p>
+
+<p>&mdash;Bueno, ya vamos a cerrar, porque ya son 9 y media&mdash;.</p>
+
+<p><strong>PREGUNTA: Dejamos el derecho de r&eacute;plica para la siguiente.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, al fin que nos vamos a ver aqu&iacute; muchos a&ntilde;os.</p>
+
+<p>&mdash;Carlos, a ver, &iquest;qu&eacute; dec&iacute;as de lo de&hellip;?&mdash;</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as a todos y a todas. Carlos Navarro, de<em> El Heraldo Media Group.</em></strong></p>
+
+<p><strong>&iquest;Cu&aacute;l es su conclusi&oacute;n al saber que los mexicanos aportan 2.06 billones de d&oacute;lares a la econom&iacute;a estadounidense, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues imag&iacute;nense, es casi el 10 por ciento, &mdash;&iquest;verdad?&mdash;</p>
+
+<p>Por eso, yo ped&iacute; que pudiera venir Ana Teresa, porque ayer justo Jes&uacute;s me ense&ntilde;&oacute; muchas de estas l&aacute;minas y dije: Pues es que tiene que venir a exponerlo, porque&hellip; Si se acuerdan, siempre lo he dicho, siempre he dicho:</p>
+
+<p>Las y los mexicanos en Estados Unidos contribuyen a la econom&iacute;a nacional con las remesas, que representan el amor a sus familias, el amor a su pa&iacute;s y que, adem&aacute;s, les damos las gracias. Y por eso los llamamos &ldquo;h&eacute;roes&rdquo; y &ldquo;hero&iacute;nas&rdquo;.</p>
+
+<p>Y siempre he dicho:</p>
+
+<p>Pero, adem&aacute;s, las y los mexicanos contribuyen a la econom&iacute;a de Estados Unidos. Y aqu&iacute; hab&iacute;amos estado dando algunos datos.</p>
+
+<p>Pero estos datos de las y los mexicanos y los latinos, las y los latinos son sorprendentes; y ayuda mucho a que en M&eacute;xico se conozcan estos datos, pero que en Estados Unidos se conozca esta informaci&oacute;n. Porque es much&iacute;simo lo que contribuye la comunidad mexicana, que son nacidos en M&eacute;xico y nacionalizados, o hijos de mexicanos y mexicanas, y algunas personas que por alguna raz&oacute;n no tienen papeles, pero que tambi&eacute;n contribuyen, eh.</p>
+
+<p>Pero la gran mayor&iacute;a, &mdash;como bien se explic&oacute; aqu&iacute;&mdash; son, o tienen permiso de trabajo o ya, incluso, tienen las dos nacionalidades.</p>
+
+<p>Entonces, son muy reveladores.</p>
+
+<p>Y si nos permite, Ana Teresa, que pueda seguir viniendo a &ldquo;Las Ma&ntilde;aneras&rdquo; para que podamos seguir informando.</p>
+
+<p>Y si alguien de alg&uacute;n medio quiere mayor informaci&oacute;n aqu&iacute;, a trav&eacute;s de Paulina, que podamos contactarlos.</p>
+
+<p><strong>PREGUNTA: En esta campa&ntilde;a se construy&oacute; una narrativa, justamente contra los latinos, pero los datos: por ejemplo, 8 de cada 10 hablan ingl&eacute;s, y 4 de cada 5 son ciudadanos estadounidenses.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No, pero, adem&aacute;s, muchos de ellos votaron por el presidente Trump, un porcentaje muy alto vot&oacute; por el presidente Trump. Entonces, es importante que se d&eacute; a conocer esto, muy, muy importante.</p>
+
+<p>&mdash;Bueno, ya nos vamos porque ahora s&iacute; son 9:35, tenemos mucha informaci&oacute;n&mdash;.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Ya cerramos.</p>
+
+<p>Nos vemos ma&ntilde;ana, compa&ntilde;eros, compa&ntilde;eras.</p>
+
+<p>Gracias, gracias. Buen d&iacute;a, buen d&iacute;a.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+</div>
+</div>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2025-01-23 11:04:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de enero de 2025";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-enero-de-2025";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-enero-de-2025" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de enero de 2025"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-enero-de-2025" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-enero-de-2025&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 23 de enero de 2025";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-enero-de-2025" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-enero-de-2025";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-23-de-enero-de-2025" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

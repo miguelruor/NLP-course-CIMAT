@@ -1,0 +1,2002 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de enero de 2025 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Acapulco, Guerrero">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de enero de 2025" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152900/presidenta_CSP.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Acapulco, Guerrero" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-enero-de-2025?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Acapulco, Guerrero" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152900/presidenta_CSP.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="utw1nnYZCgnokV6uG6s9t/uNKHZLu0BP6SxB4htgkTc=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nn567jbez44jyvq-f-5034f4622-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":20,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"b93499b","ak.r":46322,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62499,"ak.gh":"189.247.210.14","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296875","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==1NVBIpsekuz0Az+R9ad6my9mrpRaDI5CnOCM1xwJGvLH56+7H19BPM83CTvSdU4Y9UrohjJt2wEN0aDzeawWB3k94VgiTRWe7AC3mPHFLcmImaqm1iSUZU1ASUyw0SvKWxvr9ifpVztRPrbfUZtT/261r3uCd8WXEjzpNiWBI3AvwBkDLp2fJWn0KgvyoghgHG38R1cBrjlQM7Sg3UcwGBGDdN6K971J0C05Ey5e76NW642SGqnAhD0yzSvewQfNDQIhtBwlvKHBi/BX2/592LDUIJUYB6Hvcwlf10u1tnYaijFaWvUQu4SV2ZTx08JQu3xzuXS9YIqMnPx56q87Rv0a8fgjtmcqiK7IJEnLOL8sraN3b4hkiLg4DWbyFSZsIYzE0bzw180UpKYXhS0Q01H16dJIVJhsN1ifHBB13JU=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de enero de 2025</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Acapulco, Guerrero</h2>
+        <section class="">
+          <p>Presidencia de la República  | 17 de enero de 2025</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum " class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/152900/presidenta_CSP.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum </span>
+      </div>
+      <div class="article-body"><div>
+<div>&nbsp;</div>
+
+<div>
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Buenos d&iacute;as a todos, a todas.</p>
+
+<p>El d&iacute;a de hoy mucha informaci&oacute;n sobre Guerrero, Acapulco.</p>
+
+<p>&mdash;Si&eacute;ntense, por favor&mdash;.</p>
+
+<p>Vamos a iniciar la conferencia con la participaci&oacute;n de la gobernadora.</p>
+
+<p>Despu&eacute;s, vamos a hacer una presentaci&oacute;n sobre los avances del Gabinete de Seguridad en Guerrero y, en particular, en Acapulco.</p>
+
+<p>Y posteriormente, queremos hacer un resumen de la intervenci&oacute;n del gobierno municipal, estatal, o los gobiernos municipales, estatal y federal frente a los huracanes. Y un resumen de lo que vamos a hacer aqu&iacute; en Acapulco, nuevamente.</p>
+
+<p>Entonces, mucha la informaci&oacute;n.</p>
+
+<p>Y despu&eacute;s, con gusto contestamos sus preguntas.</p>
+
+<p>&mdash;Adelante, Evelyn&mdash;.</p>
+
+<p><strong>GOBERNADORA DE GUERRERO, EVELYN SALGADO PINEDA: </strong>Muchas gracias.</p>
+
+<p>Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Con su permiso, querida Presidenta.</p>
+
+<p>Por supuesto, dar la bienvenida al Gabinete Federal, a las compa&ntilde;eras y compa&ntilde;eros de los medios de comunicaci&oacute;n.</p>
+
+<p>Y, bueno, decirles que Guerrero se encuentra de manteles largos, no solo por su regreso, Presidenta, sino tambi&eacute;n por la relevancia hist&oacute;rica de lo que se anunci&oacute; y de lo que se va a seguir anunciando en esta tan esperada gira.</p>
+
+<p>Ayer tuvimos el honor de presenciar el anuncio de un proyecto maravilloso que marcar&aacute; un antes y un despu&eacute;s, no solo para Acapulco, sino para todo Guerrero; un proyecto en el que estamos poniendo todo el coraz&oacute;n, todo el esfuerzo.</p>
+
+<p>Tenemos la certeza de que va a significar un nuevo amanecer para el hogar del sol. Significa el reconocimiento a la historia de este puerto que tanta alegr&iacute;a ha dado a todo M&eacute;xico, a nuestro pa&iacute;s; el primer destino de M&eacute;xico que ense&ntilde;&oacute; el camino a otros, que hoy con orgullo mantienen a nuestro pa&iacute;s como uno de los favoritos a nivel internacional.</p>
+
+<p>El reconocimiento a su pasado dorado, a todas las familias que han hecho de la excelencia en el servicio una forma de vivir; a estas playas, que podemos decir que son las playas m&aacute;s hermosas del mundo, por la privilegiada naturaleza que tenemos. Y, sobre todo, a nuestros miles de visitantes que a lo largo de tantos a&ntilde;os se han llevado en el coraz&oacute;n un pedacito de Acapulco.</p>
+
+<p>Por eso, quiero reiterar nuestro profundo agradecimiento, reconocimiento a nuestra querida Presidenta, a todo el Gabinete Federal, a compa&ntilde;eras y compa&ntilde;eros que han trabajado incansablemente desde el primer d&iacute;a aqu&iacute; en el puerto y en todo Guerrero.</p>
+
+<p>Gracias por nunca soltarnos de la mano, por el apoyo que desde el primer d&iacute;a de su administraci&oacute;n nos ha prestado. Este puerto fue el primero que usted visit&oacute; siendo Presidenta y por eso, le agradecemos much&iacute;simo, toda esa solidaridad, esa fraternidad y ese apoyo.</p>
+
+<p>Gracias a todo el Gabinete, que contin&uacute;an a&uacute;n muchos ya viviendo aqu&iacute;, trabajando en labores de retiro de escombros. En fin. estuvieron todas y todos apoyando y siempre al pie del ca&ntilde;&oacute;n.</p>
+
+<p>Agradecer al Ej&eacute;rcito, la Marina, la Guardia Nacional, Protecci&oacute;n Civil, a la Secretar&iacute;a de Turismo, a Bienestar, a todo el equipo, a Conagua, CFE, SICT, cuyo trabajo invaluable nos permiti&oacute; recuperar en tiempo r&eacute;cord servicios b&aacute;sicos para todas nuestras comunidades.</p>
+
+<p>As&iacute; que, a todas y a todos los que han caminado en este proceso, desde el fondo de nuestro coraz&oacute;n, les decimos: Gracias. Amor con amor se paga.</p>
+
+<p>Y as&iacute; como ustedes han demostrado ese cari&ntilde;o inmenso por Guerrero, as&iacute; les expresamos nuestro agradecimiento eterno, que siempre ser&aacute; correspondido por el pueblo de Guerrero.</p>
+
+<p>Este es el comienzo del ma&ntilde;ana que so&ntilde;amos, y que estamos construyendo juntas y juntos.</p>
+
+<p>Es la hora de Acapulco, es la hora de apostar por su gente, de trabajar sin descanso en los proyectos que se anunciaron el d&iacute;a de ayer, en los proyectos que se van a continuar anunciando. Es tiempo tambi&eacute;n de comprometernos doblemente, de redoblar esfuerzos como autoridades para hacer realidad las inversiones y para garantizar que este esfuerzo hist&oacute;rico llegue a buen puerto.</p>
+
+<p>Y, por &uacute;ltimo, seguir invitando a todas nuestras amigas y amigos que nos ven, a empresarios, a que vengan a Guerrero, a que crean en Acapulco, a que sigan invirtiendo. Tenemos todo para consolidarnos como un excelente destino tur&iacute;stico a nivel nacional y tambi&eacute;n internacional.</p>
+
+<p>As&iacute; que cierro esta intervenci&oacute;n con un verso del <em>Canto a la esperanza</em>, de nuestro nobel Octavio Paz:</p>
+
+<p>&ldquo;No perdamos la fe. Yo he cre&iacute;do siempre que el cielo y la tierra se juntan; que soledad y el amor se confunden, que en los muros hay grietas por donde se asoma la luz. El mundo no est&aacute; terminado, el mundo siempre puede cambiar&rdquo;.</p>
+
+<p>Muchas gracias a todas y a todos. Y sean una vez m&aacute;s bienvenidos al mejor puerto del mundo: Acapulco.</p>
+
+<p>Gracias, Presidenta.</p>
+
+<p><strong>TITULAR DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD P&Uacute;BLICA, MARCELA FIGUEROA FRANCO: </strong>Muy buenos d&iacute;as a todas y a todos.</p>
+
+<p>Con su permiso, Presidenta.</p>
+
+<p>El d&iacute;a de hoy les presentaremos el reporte de incidencia delictiva correspondiente al estado de Guerrero &mdash;como dijo la Presidenta&mdash; con especial enfoque en los resultados obtenidos en Acapulco, despu&eacute;s del reforzamiento de la Estrategia de Seguridad implementada por el Gobierno Federal en coordinaci&oacute;n con el gobierno estatal y municipal.</p>
+
+<p>En esta primera gr&aacute;fica podemos ver el promedio de homicidios diarios que registr&oacute; Guerrero mes con mes durante 2024.</p>
+
+<p>Informamos que, del inicio de la administraci&oacute;n de la Presidenta, la Doctora Claudia Sheinbaum, el promedio de homicidios diarios en el estado disminuy&oacute; en un 15.7 por ciento; esto es entre septiembre y diciembre de 2024. Cabe destacar que el mes de diciembre fue el mes con el menor promedio de homicidios de todo el a&ntilde;o 2024, con 3.3 v&iacute;ctimas al d&iacute;a.</p>
+
+<p>En cuanto al resto de los delitos de alto impacto, como son feminicidio, extorsi&oacute;n, robos con violencia en sus diferentes modalidades, como robo a transe&uacute;nte, a veh&iacute;culo y a casa habitaci&oacute;n, el promedio diario de delitos registr&oacute; una disminuci&oacute;n del 5 por ciento, esto tambi&eacute;n entre septiembre y diciembre del 2024. En este caso, diciembre tambi&eacute;n fue el mes con menor n&uacute;mero de delitos de alto impacto con un promedio diario de 10.4.</p>
+
+<p>Ahora, veremos en particular los resultados en Acapulco. En esta ciudad los homicidios dolosos han disminuido en un 50.1 por ciento desde el inicio de la Administraci&oacute;n Federal, pasando de registrarse 2.13 homicidios al d&iacute;a en septiembre a 1.06 en diciembre de 2024.</p>
+
+<p>En la gr&aacute;fica se puede observar que junio fue el mes con el promedio diario de homicidios m&aacute;s altos de 2024, con 3.13; sin embargo, diciembre cerr&oacute; en 1.06 v&iacute;ctimas al d&iacute;a, tambi&eacute;n el m&aacute;s bajo del a&ntilde;o junto a enero del mismo periodo.</p>
+
+<p>Finalmente, informamos que, de manera similar al comportamiento estatal, Acapulco registr&oacute; una disminuci&oacute;n del 4.6 por ciento en el promedio diario de delitos de alto impacto entre septiembre y diciembre de 2024.</p>
+
+<p>Es importante mencionar que el mes de septiembre inici&oacute; con un promedio de 4.8 delitos diarios, el cual descendi&oacute; de manera progresiva hasta alcanzar 4.5 en diciembre, igualando la cifra m&iacute;nima registrada en enero. Este comportamiento contrasta con el pico m&aacute;s alto del a&ntilde;o observado en marzo, con el promedio que lleg&oacute; a 6.5 delitos diarios.</p>
+
+<p>Esto es todo por mi parte en cuanto al Informe de Incidencia Delictiva.</p>
+
+<p>Permiso, Presidenta.</p>
+
+<p><strong>SECRETARIO DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA, OMAR GARC&Iacute;A HARFUCH:</strong> Con su permiso, Presidenta.</p>
+
+<p>Muy buenos d&iacute;as.</p>
+
+<p>Desde el inicio de la administraci&oacute;n, por instrucciones de la Presidenta Claudia Sheinbaum, establecimos estrategias de intervenci&oacute;n para el combate a los delitos de alto impacto.</p>
+
+<p>En los &uacute;ltimos meses hemos desplegado una estrategia integral en esta entidad con un objetivo fundamental: Construir la paz en la regi&oacute;n.</p>
+
+<p>Con las instituciones del Gabinete de Seguridad, Secretar&iacute;a de la Defensa Nacional, Secretar&iacute;a de Marina, Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana, el Centro Nacional de Inteligencia, la Fiscal&iacute;a General de la Rep&uacute;blica y la Secretar&iacute;a de Gobernaci&oacute;n, se estrecharon los mecanismos de coordinaci&oacute;n para llevar a cabo las siguientes acciones:</p>
+
+<p>Se estableci&oacute; un mando de alto nivel y se implement&oacute; un equipo de fuerza de tarea interinstitucional con el objetivo de realizar detenciones en flagrancia, cumplimentar &oacute;rdenes de aprehensi&oacute;n y dar seguimiento a casos prioritarios, con el objetivo de disminuir la violencia en la entidad.</p>
+
+<p>En Acapulco se homolog&oacute; el modelo de operaci&oacute;n en cuatro sectores, 146 cuadrantes en las 252 colonias, donde se realizaron patrullajes y filtros de seguridad en puntos de alta incidencia delictiva.</p>
+
+<p>Se establecieron puestos de control.</p>
+
+<p>Se incorporaron lectores de placa y se instalaron arcos detectores en accesos carreteros de Acapulco.</p>
+
+<p>Como resultado, del 1o. de octubre al 15 de enero, fueron detenidas 654 personas por delitos de alto impacto, y se aseguraron m&aacute;s de 20 toneladas de droga y 225 armas de fuego.</p>
+
+<p>Como parte de las acciones para combatir la producci&oacute;n de drogas: en Zir&aacute;ndaro, Guerrero, elementos del Ej&eacute;rcito Mexicano localizaron un laboratorio clandestino de metanfetamina, donde se aseguraron 4 mil 982 kilos y 19 mil 922 litros de sustancias qu&iacute;micas, adem&aacute;s de nueve reactores de s&iacute;ntesis org&aacute;nica.</p>
+
+<p>Cabe destacar que estos esfuerzos han permitido disminuir en el estado de Guerrero &mdash;como ya lo coment&oacute; mi compa&ntilde;era Marcela&mdash; el 15.7 por ciento de las v&iacute;ctimas de homicidio doloso y en Acapulco disminuy&oacute; el 50.1 por ciento entre los meses de septiembre y diciembre del 2024.</p>
+
+<p>Por otra parte, el aumento en el despliegue en zonas de alta incidencia contribuy&oacute; al incremento en las denuncias ciudadanas. Este apoyo de la poblaci&oacute;n ha sido muy importante ya que, derivado de los reportes hechos por la ciudadan&iacute;a, del 1o. de octubre al 1o. de enero de 2025, fueron detenidas 17 personas por delitos de alto impacto vinculadas a delitos como extorsi&oacute;n, delitos contra la salud, feminicidio, portaci&oacute;n de arma de fuego, entre otros.</p>
+
+<p>Asimismo, gracias a la colaboraci&oacute;n con la Fiscal&iacute;a General de la Rep&uacute;blica y las autoridades locales, en el mismo periodo se cumplimentaron nueve &oacute;rdenes de aprehensi&oacute;n por los delitos de homicidio calificado y secuestro agravado.</p>
+
+<p>En representaci&oacute;n del Gabinete de Seguridad, voy a mencionar algunos casos relevantes realizados en el estado de Guerrero en absoluta y estrecha coordinaci&oacute;n con el gobierno de Guerrero y las autoridades locales:</p>
+
+<p>El 23 de octubre del 2024, en el poblado El Zapote, resultado de labores de inteligencia, se realiz&oacute; un despliegue en Coyuca de Ben&iacute;tez, lo que permiti&oacute; detener a ocho personas por el delito de portaci&oacute;n de armas de fuego. Se aseguraron diversas dosis de narc&oacute;ticos, chalecos bal&iacute;sticos, ocho armas largas, cartuchos, cargadores y equipo de comunicaci&oacute;n.</p>
+
+<p>El 3 de noviembre, la Secretar&iacute;a de Marina localiz&oacute; una embarcaci&oacute;n en el municipio de Acapulco, donde detuvieron a nueve personas, seis de ellas de nacionalidad extranjera, con 10 bidones de combustible vac&iacute;o, 102 bultos y aproximadamente 3 mil 554 kilogramos de coca&iacute;na. Esto representa una afectaci&oacute;n econ&oacute;mica a la delincuencia organizada por m&aacute;s de 44 millones de d&oacute;lares.</p>
+
+<p>El 21 de noviembre, derivado de trabajos de inteligencia naval, en una acci&oacute;n encabezada por Marina, se localiz&oacute; al sureste de Acapulco otra embarcaci&oacute;n. Se detuvieron a cuatro personas y se aseguraron mil 710 kilogramos de coca&iacute;na m&aacute;s, con una afectaci&oacute;n econ&oacute;mica a la delincuencia organizada de m&aacute;s de 21 millones de d&oacute;lares.</p>
+
+<p>Tambi&eacute;n, el 21 de noviembre en Tepecoacuilco, Guerrero, en una acci&oacute;n coordinada, la Secretar&iacute;a de la Defensa Nacional y autoridades del estado, fueron detenidas seis personas con &oacute;rdenes de aprehensi&oacute;n por el delito de desaparici&oacute;n forzada. Se aseguraron seis armas largas, armas cortas, as&iacute; como dosis de metanfetamina.</p>
+
+<p>El 2 de diciembre, en Acapulco, personal de la Secretar&iacute;a de la Defensa, en coordinaci&oacute;n con la Fiscal&iacute;a del estado y la Polic&iacute;a del estado, cumplimentaron una orden de aprehensi&oacute;n en contra de Francisco &ldquo;N&rdquo; relacionado con el homicidio de tres personas.</p>
+
+<p>El 4 de diciembre, mediante labores de inteligencia, elementos de la Polic&iacute;a Ministerial del estado detuvieron a Rosa &ldquo;N&rdquo; en el municipio de Acapulco, quien contaba con una orden de aprehensi&oacute;n por el delito de secuestro agravado.</p>
+
+<p>El 4 de diciembre, al realizar labores de investigaci&oacute;n con el delito de extorsi&oacute;n, se detuvieron en Acapulco a dos generadores de violencia vinculados con el cobro de piso en el mercado central del municipio, pertenecientes a una c&eacute;lula delictiva; se les asegur&oacute; un arma de fuego. Y en este caso, agradecemos tambi&eacute;n la valiosa participaci&oacute;n de la ciudadan&iacute;a por las denuncias.</p>
+
+<p>El 15 de diciembre, en una acci&oacute;n coordinada con personal de la Polic&iacute;a Investigadora Ministerial, la Secretar&iacute;a de la Defensa Nacional y el Gabinete de Seguridad, se cumpliment&oacute; una orden de aprehensi&oacute;n m&aacute;s en el municipio de Acapulco en contra de Giovanni &ldquo;N&rdquo; y Juan &ldquo;N&rdquo; por su participaci&oacute;n en el delito de secuestro agravado.</p>
+
+<p>El 27 y 28 de diciembre, resultado de acciones operativas conjuntas del Gabinete de Seguridad, se ejecutaron seis &oacute;rdenes de cateo donde fueron detenidas cuatro personas, entre ellas, Marco Antonio &ldquo;N, l&iacute;der de un grupo delictivo generador de violencia, quien contaba ya con una orden de aprehensi&oacute;n vigente por delitos contra la salud.</p>
+
+<p>En un segundo evento, se cumpliment&oacute; una orden de aprehensi&oacute;n en contra de Juan &ldquo;N&rdquo; por el delito de homicidio. Y en seguimiento a los cateos previamente mencionados, fueron detenidos dos integrantes m&aacute;s del mismo grupo delictivo.</p>
+
+<p>El 29 de diciembre, en el municipio de Acapulco, personal de la Secretar&iacute;a de Marina, en coordinaci&oacute;n con la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana, realizaron la detenci&oacute;n en flagrancia de Marco Antonio &ldquo;N&rdquo; y Ren&eacute; &ldquo;N&rdquo;. Estas personas est&aacute;n relacionadas con el incendio a un inmueble y un homicidio.</p>
+
+<p>El 3 de enero, en la colonia Costa Azul, de Acapulco, personal de la Fiscal&iacute;a General del estado, en coordinaci&oacute;n con la Secretar&iacute;a de la Defensa Nacional, detuvieron a Omar David &ldquo;N&rdquo;, a quien se le aseguraron diferentes tipos de droga, entre ellas coca&iacute;na y marihuana.</p>
+
+<p>El 5 de enero, en Puerto Marqu&eacute;s, en un despliegue coordinado, se detuvo a David Adri&aacute;n &ldquo;N&rdquo; identificado como integrante de una c&eacute;lula delictiva generadora de violencia y autor material del homicidio de un magistrado ocurrido el 11 de diciembre del 2024. Quisiera mencionar que, sobre este caso, hay otras dos personas vinculadas; y con esto estar&iacute;an detenidos dos autores materiales y una persona m&aacute;s que particip&oacute; en dicho homicidio.</p>
+
+<p>El 6 de enero, tambi&eacute;n en el municipio de Acapulco, elementos de la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana, en coordinaci&oacute;n con el Ej&eacute;rcito y la Polic&iacute;a estatal, detuvieron en flagrancia a dos personas m&aacute;s relacionadas con el asalto y homicidio a una persona.</p>
+
+<p>El 7 de enero, en Acapulco, resultado de acciones del Gabinete de Seguridad, en coordinaci&oacute;n con la Fiscal&iacute;a General del estado de Guerrero, se detuvo a Alexander &ldquo;N&rdquo;, generador de violencia y quien cuenta con varias denuncias por extorsi&oacute;n en el Mercado Central de Acapulco. Adem&aacute;s, ya contaba con dos &oacute;rdenes de aprehensi&oacute;n vigentes.</p>
+
+<p>El 10 de enero, en el municipio de Acapulco, personal de la Secretar&iacute;a de Seguridad, Defensa, Marina, Fiscal&iacute;a estatal y Polic&iacute;a del estado cumplimentaron una orden de aprehensi&oacute;n por el delito de secuestro agravado en contra de cuatro integrantes de una c&eacute;lula delictiva generadora de violencia, quienes est&aacute;n relacionados con el secuestro de una persona.</p>
+
+<p>Les queremos informar tambi&eacute;n que hace unas horas, mediante acciones coordinadas por las instituciones del Gabinete de Seguridad y resultados de trabajos de inteligencia e investigaci&oacute;n realizados por la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana, en colaboraci&oacute;n con la Secretar&iacute;a de Marina, Secretar&iacute;a de la Defensa Nacional, Fiscal&iacute;a General del estado:</p>
+
+<p>El d&iacute;a de hoy a las 5:00, aproximadamente a las 5:00 de la ma&ntilde;ana, aqu&iacute; en el municipio de Acapulco, se cumpliment&oacute; una orden de aprehensi&oacute;n por el delito de homicidio calificado y tentativa de homicidio en contra de David Roberto &ldquo;N&rdquo;, identificado como autor material del m&uacute;ltiple homicidio ocurrido en el poblado de Tres Palos, de Acapulco, Guerrero, donde cinco personas fueron privadas de la vida y dos personas m&aacute;s resultaron lesionadas. Esta persona se desempe&ntilde;aba como l&iacute;der de una c&eacute;lula generadora de violencia en la entidad, a qui&eacute;n se le relaciona con secuestros, extorsiones, y homicidios.</p>
+
+<p>Con esta detenci&oacute;n reafirmamos el compromiso de combatir la impunidad en el estado.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Viene un video de la Estrategia de Seguridad, los resultados; y tambi&eacute;n de Construcci&oacute;n de la Paz, y Atenci&oacute;n a las causas. Y luego, pasamos a la informaci&oacute;n de la atenci&oacute;n a los huracanes y el programa Acapulco.</p>
+
+<p><strong>(INICIA VIDEO DEL INFORME DE SEGURIDAD EN EL ESTADO DE GUERRERO)</strong></p>
+
+<p><strong><em>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</em></strong> <em>Es distinta la problem&aacute;tica en los distintos lugares del estado de Guerrero, hay problem&aacute;tica especial en la Costa Grande, en la Costa Chica, en la regi&oacute;n centro, en Acapulco, y estamos desarrollando una estrategia integral, que ya inici&oacute; desde que entramos y ahora, estamos fortaleci&eacute;ndola.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> En el marco de la Estrategia Nacional de Seguridad, implementada por el Gobierno de M&eacute;xico, se han atendido a los estados con mayor incidencia delictiva, Guerrero entre ellos, en donde el Ej&eacute;rcito, la Armada, la Fuerza A&eacute;rea y la Guardia Nacional mantienen un despliegue permanente de 12 mil 279 efectivos, con el objetivo de reforzar la seguridad y garantizar el bienestar de sus pobladores.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> La problem&aacute;tica en el estado afecta principalmente a los municipios de Acapulco de Ju&aacute;rez, Chilpancingo, T&eacute;cpan de Galeana, Teloloapan, Zihuatanejo de Azueta, Cuajinicuilapa y Quechultenango.</em></p>
+
+<p><em>Por tal motivo es que, desde el 1o. de octubre de 2024, las fuerzas de seguridad de los tres &oacute;rdenes de gobierno, en continuidad con las acciones de la anterior administraci&oacute;n, llevan a cabo distintas operaciones que dieron como resultado el aseguramiento de: 225 armas de fuego, 38 mil 04 cartuchos, 591 cargadores, 231 veh&iacute;culos, 2 mil 758 kilogramos de marihuana, 19 mil 460 kilogramos de coca&iacute;na, 12 embarcaciones, 243 mil 78 pesos y 346 personas detenidas; entre estas &uacute;ltimas destacan: Eduardo &ldquo;N&rdquo;, Germ&aacute;n &ldquo;N&rdquo;, Alexander &ldquo;N&rdquo;, Adri&aacute;n &ldquo;N&rdquo;, Uriel &ldquo;N&rdquo; y Marco &ldquo;N&rdquo;.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Aunado a lo anterior, durante el mes de octubre, en el municipio de T&eacute;cpan de Galeana, el Ej&eacute;rcito Mexicano particip&oacute; en la desarticulaci&oacute;n del grupo delictivo &ldquo;Gente Nueva Guerrerense&rdquo;, destac&aacute;ndose la detenci&oacute;n de 23 personas de nacionalidad guatemalteca y una de nacionalidad salvadore&ntilde;a, asegurando: 19 veh&iacute;culos, 3 con blindaje artesanal; 21 armas de fuego, un fusil Barrett calibre 50 mil&iacute;metros, una ametralladora y 18 artefactos explosivos improvisados.</em></p>
+
+<p><em>En el mismo periodo, la Fiscal&iacute;a General y la Secretar&iacute;a de Seguridad P&uacute;blica del estado de Guerrero llevaron a cabo 24 &oacute;rdenes t&eacute;cnicas de investigaci&oacute;n y 83 &oacute;rdenes de aprehensi&oacute;n, lo que representa un incremento del 23 por ciento, de octubre a diciembre del 2024.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Por otra parte, el Ej&eacute;rcito, la Armada, la Fuerza A&eacute;rea y la Guardia Nacional, en coordinaci&oacute;n con las instituciones de seguridad en el estado, emprendieron diversas acciones tendientes a garantizar la seguridad y el bienestar de los pobladores y visitantes del puerto de Acapulco, lo que dio como resultado: 87 personas detenidas, el aseguramiento de 44 veh&iacute;culos y 31 armas de fuego.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> En operaciones mar&iacute;timas, la Armada de M&eacute;xico ha asegurado 23.2 toneladas de coca&iacute;na, de las cuales, 17.9 corresponden al estado de Guerrero.</em></p>
+
+<p><em>Como parte de ello, en el mes de noviembre, frente a las costas del estado fueron decomisadas 8.3 toneladas de coca&iacute;na, con un valor estimado de 2 mil 121 millones de pesos. Se trata de una operaci&oacute;n sin precedentes para la Armada de M&eacute;xico y que afecta econ&oacute;micamente a los presuntos infractores de la ley.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Asimismo, en coordinaci&oacute;n con los tres &oacute;rdenes de gobierno, la Guardia Nacional implement&oacute; la estrategia tur&iacute;stica &ldquo;Vacaciones 2024&rdquo;, gracias a la cual no se registraron incidentes de relevancia para los vacacionistas en la entidad.</em></p>
+
+<p><strong><em>VOZ MUJER: </em></strong><em>Anteponiendo siempre la salvaguarda y el bienestar de la vida humana en el mar, se rescat&oacute; a 21 personas que se encontraban en peligro y brind&oacute; apoyo a tres embarcaciones.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Adem&aacute;s, a fin de mitigar el impacto de los fen&oacute;menos hidrometeorol&oacute;gicos, se llev&oacute; a cabo el dragado de 36 mil 250 metros c&uacute;bicos de r&iacute;os y arroyos, as&iacute; como el desazolve de &aacute;reas inundadas, extrayendo un volumen de 137 mil 500 metros c&uacute;bicos de agua.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Gracias a todas estas acciones en el estado de Guerrero, entre los meses de septiembre y diciembre de 2024, se logr&oacute; la reducci&oacute;n de los delitos de alto impacto en un 5 por ciento y un 15.7 por ciento en el delito de homicidio doloso; destaca tambi&eacute;n que, en Acapulco, disminuyeron 4.6 por ciento los delitos de alto impacto y 50.6 por ciento el delito de homicidio doloso, en este mismo periodo.</em></p>
+
+<p><em>Adem&aacute;s, sobresale el decremento de los siguientes delitos de alto impacto en la entidad: 50 por ciento en secuestro, 7.3 por ciento en extorsi&oacute;n, 25 por ciento en robo de veh&iacute;culos y 14.2 por ciento en robo con violencia.</em></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> La presente estrategia refleja en sus acciones el compromiso del Gobierno de M&eacute;xico con su gente.</em></p>
+
+<p><strong><em>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</em></strong><em> Que sepan las mexicanas y mexicanos que no hemos dejado solos a las y los guerrerenses.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Unidos por un M&eacute;xico en paz y seguro.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Gobierno de M&eacute;xico.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>(INICIA VIDEO DE LA ESTRATEGIA NACIONAL POR LA PAZ EN EL ESTADO DE GUERRERO)</strong></p>
+
+<p><strong><em>VOZ MUJER: </em></strong><em>Como parte de la reconstrucci&oacute;n en el estado de Guerrero, el Gobierno de M&eacute;xico ha puesto especial &eacute;nfasis en la restauraci&oacute;n del tejido social. Por ello, brigadistas de alrededor de 40 dependencias y organismos de los tres niveles de gobierno recorren casa por casa en los municipios de Chilpancingo y Acapulco. El objetivo es garantizar condiciones de bienestar y prosperidad de las comunidades.</em></p>
+
+<p><em>Mediante la Estrategia Nacional por la Paz, se fortalece el acercamiento de m&aacute;s de 100 programas sociales y servicios. En la entidad m&aacute;s de 500 brigadistas, entre el 3 de diciembre de 2024 y el 10 de enero de este a&ntilde;o, han visitado 12 mil 751 hogares, entrevistando a 8 mil 361 personas.</em></p>
+
+<p><em>Tan solo en Chilpancingo, se ha ido a 32 colonias prioritarias y barrios. Adem&aacute;s, se han conformado Comit&eacute;s y Ferias de Paz, y se han implementado &ldquo;Senderos de Paz&rdquo;.</em></p>
+
+<p><em>En Acapulco se han recorrido, tocando puerta por puerta, las colonias prioritarias de: Emiliano Zapata, Postal y Progreso.</em></p>
+
+<p><em>Entre los programas y servicios ofrecidos se encuentran: medicina preventiva, salud mental, instalaci&oacute;n de chips de la Comisi&oacute;n Federal de Electricidad, informaci&oacute;n sobre extorsi&oacute;n y fraudes.</em></p>
+
+<p><em>Asimismo, se reforzaron acciones de prevenci&oacute;n de las violencias y las adicciones en escuelas.</em></p>
+
+<p><em>Tambi&eacute;n, como parte de la atenci&oacute;n integral en estos municipios, se facilita la inscripci&oacute;n al programa J&oacute;venes Construyendo el Futuro.</em></p>
+
+<p><em>En las Ferias de Paz se han brindado m&aacute;s de 7 mil atenciones y se han conformado SEIS Comit&eacute;s de Paz y tres asambleas, acciones en las que ha participado la autoridad estatal.</em></p>
+
+<p><em>Como parte de la estrategia, se invita a la poblaci&oacute;n de todas las edades, en especial a ni&ntilde;as, ni&ntilde;os, adolescentes y j&oacute;venes a integrarse en estas actividades.</em></p>
+
+<p><em>Los gobiernos humanistas tienen el compromiso de mejorar las condiciones de vida. Y en ese sentido, el gobierno de la Presidenta Claudia Sheinbaum, trabaja en favor del pueblo de M&eacute;xico.</em></p>
+
+<p><strong><em>VOZ MUJER:</em></strong><em> Gobierno de M&eacute;xico.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>SECRETARIO T&Eacute;CNICO DEL GABINETE DE LA PRESIDENCIA Y COORDINADOR GENERAL DE PROGRAMAS PARA EL BIENESTAR, CARLOS TORRES ROSAS:</strong> Con su permiso, Presidenta.</p>
+
+<p>Buenos d&iacute;as a todas y todos.</p>
+
+<p>A continuaci&oacute;n, voy a presentar el informe actualizado de todo lo que el gobierno de la Presidenta Claudia Sheinbaum ha hecho desde que inici&oacute; la emergencia por el hurac&aacute;n &ldquo;John&rdquo;.</p>
+
+<p>Me gustar&iacute;a destacar que en poco m&aacute;s de 100 d&iacute;as de gobierno esta es la cuarta visita de nuestra Presidenta al puerto de Acapulco.</p>
+
+<p>Como ustedes saben, Guerrero, y particularmente, Acapulco, fueron seriamente afectados por el hurac&aacute;n &ldquo;Otis&rdquo; en octubre de 2023. Y a menos de un a&ntilde;o, el 23 de septiembre del 2024, otro hurac&aacute;n, &ldquo;John&rdquo;, de categor&iacute;a 3 volvi&oacute; a golpear el estado.</p>
+
+<p>Es por ello, que el Gobierno de M&eacute;xico, primero con el Presidente L&oacute;pez Obrador y ahora, con la Presidenta Claudia Sheinbaum, no ha dejado de apoyar al estado de Guerrero.</p>
+
+<p>Recordemos que tras el paso del hurac&aacute;n &ldquo;Otis&rdquo; en 2023, se realiz&oacute; una inversi&oacute;n de m&aacute;s de 35 mil millones de pesos para atender a la poblaci&oacute;n. Destacan los apoyos directos para m&aacute;s de 300 mil familias y 30 mil comercios por un monto superior a los 15 mil millones de pesos, as&iacute; como la adquisici&oacute;n y entrega de 250 mil paquetes de enseres dom&eacute;sticos.</p>
+
+<p>Ahora, en la emergencia por el hurac&aacute;n &ldquo;John&rdquo;, y al igual que con &ldquo;Otis&rdquo;, la atenci&oacute;n inmediata a la poblaci&oacute;n fue prioritaria. Por ello, el Ej&eacute;rcito y la Guardia Nacional activaron los planes de emergencia para ayudar en labores de limpieza, entrega de despensas, instalaci&oacute;n de cocinas comunitarias, entre otras labores.</p>
+
+<p>La Secretar&iacute;a de la Marina, por su parte, ayud&oacute; en el rescate de m&aacute;s de 2 mil personas y tambi&eacute;n en acciones de desazolve del r&iacute;o La Sabana, as&iacute; como la reparaci&oacute;n de las fuentes de abastecimiento de agua potable para Acapulco.</p>
+
+<p>En tanto, gracias al trabajo de la Comisi&oacute;n Nacional del Agua, en conjunto con el gobierno del estado y del municipio: se repararon las tomas Papagayo I y II, y Lomas de Chapultepec. Esto fue fundamental para restablecer el suministro de agua potable para toda la poblaci&oacute;n de Acapulco; tambi&eacute;n se llevaron a cabo labores como la distribuci&oacute;n de pipas de agua. En estas tareas se invirtieron 173 millones de pesos y signific&oacute; un beneficio directo para al menos 834 mil personas.</p>
+
+<p>En lo que respecta al suministro de energ&iacute;a el&eacute;ctrica, hubo casi 190 mil personas afectadas en 50 municipios en todo el estado. Y pese a las inundaciones, a las condiciones del terreno o a las lluvias que a&uacute;n se manten&iacute;an, las y los trabajadores de la Comisi&oacute;n Federal de Electricidad lograron restablecer el servicio en tan solo 49 horas.</p>
+
+<p>Sobre las carreteras: la Secretar&iacute;a de Infraestructura, Comunicaciones y Transportes atendi&oacute; de manera puntual diversas afectaciones en caminos federales y estatales, y realiz&oacute; la adecuaci&oacute;n de pasos provisionales, as&iacute; como el retiro de piedras y tierra. Esto permiti&oacute; que ninguna comunidad de Guerrero quedara aislada.</p>
+
+<p>En la red estatal se registraron 7 mil 590 afectaciones en 2 mil 200 kil&oacute;metros, que fueron atendidas gracias a una inversi&oacute;n de 623 millones de pesos. En la red federal se trabaj&oacute; en m&aacute;s de 400 incidencias a lo largo de 948 kil&oacute;metros, con una inversi&oacute;n de 117 millones de pesos.</p>
+
+<p>Aqu&iacute; en la imagen se muestran algunos de los trabajos en las v&iacute;as Chilpancingo-Acatl&aacute;n de Osorio y Acapulco-Pinotepa Nacional.</p>
+
+<p>En total, para la atenci&oacute;n a las redes federal y estatal se destinaron 740 millones de pesos.</p>
+
+<p>En las labores de limpieza participaron m&aacute;s de 5 mil servidores y servidoras p&uacute;blicas de 21 dependencias del Gobierno de M&eacute;xico, incluyendo a la secretaria de Turismo, Josefina Rodr&iacute;guez Zamora, y al subsecretario Sebasti&aacute;n Ram&iacute;rez.</p>
+
+<p>Se retiraron cientos de toneladas de tierra y basura en las calles, avenidas y caminos de Acapulco. Estos trabajos estuvieron coordinados por la maestra Leticia Ram&iacute;rez.</p>
+
+<p>De igual manera, cientos de compa&ntilde;eros y compa&ntilde;eras trabajaron en la limpieza y acondicionamiento de las escuelas afectadas para permitir el r&aacute;pido regreso a clases.</p>
+
+<p>Tal y como ha venido ocurriendo desde el gobierno del Presidente L&oacute;pez Obrador, los apoyos a la gente se entregan de manera directa.</p>
+
+<p>El a&ntilde;o pasado, tras el paso del hurac&aacute;n &ldquo;John&rdquo;, se invirtieron 5 mil 751 millones de pesos para m&aacute;s de 143 mil familias en todo el estado de Guerrero. Esto fue posible, gracias a los 2 mil 153 servidores de la naci&oacute;n, hombres y mujeres, que realizaron el censo de las personas afectadas. A ellas y ellos les agradecemos enormemente por su dedicaci&oacute;n y su esfuerzo.</p>
+
+<p>En 2025 continuaremos con el programa &ldquo;Juntos Pintamos Acapulco&rdquo;.</p>
+
+<p>En resumen, tras el paso del hurac&aacute;n &ldquo;John&rdquo;, en 2024, y por instrucciones de la Presidenta Claudia Sheinbaum, se realiz&oacute; una inversi&oacute;n total 6 mil 664 millones de pesos para atender la emergencia, principalmente, apoyos directos para las personas damnificadas.</p>
+
+<p>&iquest;Qu&eacute; sigue ahora en 2025?</p>
+
+<p>La Secretar&iacute;a de Infraestructura, Comunicaciones y Transportes est&aacute; realizando 5 mil 320 obras en las redes federal y estatal de carreteras, que consisten en mejoramiento y reparaciones permanentes. Con este prop&oacute;sito, este a&ntilde;o se invertir&aacute;n mil 881 millones de pesos.</p>
+
+<p>Asimismo, la Conagua est&aacute; llevando a cabo un plan de acci&oacute;n que incluye labores de saneamiento para prevenir inundaciones en caso de que ocurra un fen&oacute;meno similar en el futuro. Para ello, se cuenta con una inversi&oacute;n de mil 800 millones de pesos en 2025.</p>
+
+<p>Como ven, el gobierno de la Presidenta Claudia Sheinbaum en poco m&aacute;s de 100 d&iacute;as ha trabajado de manera eficaz para atender la emergencia en el estado de Guerrero y los esfuerzos seguir&aacute;n para garantizar el bienestar de su gente.</p>
+
+<p>Es cuanto.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>SUBSECRETARIO DE TURISMO, SEBASTI&Aacute;N RAM&Iacute;REZ MENDOZA:</strong> Con su permiso, Presidenta.</p>
+
+<p>Buenos d&iacute;as a todas y a todos.</p>
+
+<p>La Presidenta nos ha pedido que informemos un poco del anuncio que se dio el d&iacute;a de ayer, que tiene que ver con la creaci&oacute;n del Centro Integralmente Planeado Acapulco-Coyuca, que es un pol&iacute;gono de 3 mil 510 hect&aacute;reas. Esto significa que la Federaci&oacute;n, a trav&eacute;s de Fonatur, asumir&aacute; la prestaci&oacute;n y el financiamiento de los principales servicios urbanos y de la rehabilitaci&oacute;n de la infraestructura dentro del pol&iacute;gono.</p>
+
+<p>Asimismo, en coordinaci&oacute;n con el municipio y con el gobierno del estado, dise&ntilde;ar&aacute;, planear&aacute; y ejecutar&aacute; todas las pol&iacute;ticas de desarrollo del destino, aprovechando la experiencia del Gobierno Federal, este aprendizaje que se ha generado, despu&eacute;s de haber gestionado durante m&aacute;s de 40 a&ntilde;os los grandes destinos tur&iacute;sticos del pa&iacute;s, como fueron Canc&uacute;n, Los Cabos, Ixtapa.</p>
+
+<p>Para empezar, tan solo en 2025, se realizar&aacute; una inversi&oacute;n inicial de m&aacute;s de 800 millones de pesos para realizar una renovaci&oacute;n integral de la infraestructura p&uacute;blica dentro del pol&iacute;gono, que consiste en rehabilitaci&oacute;n mayor de vialidades y accesos p&uacute;blicos a playas, soterramiento de instalaci&oacute;n el&eacute;ctrica, modernizaci&oacute;n del alumbrado p&uacute;blico, instalaci&oacute;n de mobiliario urbano y embellecimiento de la ciudad.</p>
+
+<p>Tambi&eacute;n se asumir&aacute; la prestaci&oacute;n de todos los servicios urbanos dentro del pol&iacute;gono que requiere el destino de manera rutinaria. Para este a&ntilde;o se destinar&aacute;n 240 millones de pesos, con lo cual: se recuperar&aacute;n las &aacute;reas verdes, se barrer&aacute;n las calles, se limpiar&aacute;n las playas, se recoger&aacute; la basura, se iluminar&aacute;n las banquetas y las vialidades, en fin, todos los servicios urbanos con la calidad que un destino como Acapulco merece.</p>
+
+<p>Como ya lo dec&iacute;a mi compa&ntilde;ero Carlos Torres: la Conagua &mdash;aqu&iacute; est&aacute; su director, el licenciado Efra&iacute;n Morales&mdash; va a hacer, a lo largo de la administraci&oacute;n de la Presidenta Sheinbaum, una inversi&oacute;n de 7 mil 940 millones de pesos para construir pr&aacute;cticamente nuevo todo el sistema de agua, tanto agua potable, como saneamiento y prevenci&oacute;n de inundaciones; y en el a&ntilde;o 2025 es una inversi&oacute;n de mil 800 millones de pesos &mdash;como bien ya lo dec&iacute;a mi compa&ntilde;ero Carlos Torres&mdash;.</p>
+
+<p>Tambi&eacute;n entre lo que se inform&oacute; ayer es la revitalizaci&oacute;n integral de la llamada &ldquo;Bah&iacute;a Hist&oacute;rica&rdquo;. Ah&iacute; se crear&aacute; un circuito cultural, art&iacute;stico, comercial, que comenzar&aacute; en el muelle de cruceros, en la ASIPONA, la cual ser&aacute; completamente rehabilitada, con una inversi&oacute;n de 300 millones de pesos por parte de la Secretar&iacute;a de la Marina, que pasar&aacute; a ser un malec&oacute;n tur&iacute;stico, comercial, cultural, que integrar&aacute; al mar con la ciudad.</p>
+
+<p>El circuito Bah&iacute;a Hist&oacute;rica constar&aacute; de seis corredores:</p>
+
+<p>El primero es, desde El Fuerte de San Diego a La Quebrada.</p>
+
+<p>El segundo, de La Quebrada a Sinfon&iacute;a del Mar, donde estuvimos ayer.</p>
+
+<p>De Playa Angosta a Playa Manzanillo.</p>
+
+<p>De Manzanillo a Tlacopanocha y de vuelta al Muelle Malec&oacute;n.</p>
+
+<p>Asimismo, la rehabilitaci&oacute;n incluye: Playa Caleta y Caletilla, y el Z&oacute;calo de Acapulco.</p>
+
+<p>Enumero ya, brevemente, algunas acciones m&aacute;s que se realizar&aacute;n:</p>
+
+<p>La construcci&oacute;n del Sistema de Transporte Colectivo Mar&iacute;timo &ldquo;Marib&uacute;s&rdquo;.</p>
+
+<p>Una red de ciclov&iacute;as.</p>
+
+<p>La instalaci&oacute;n de internet gratuito en las playas p&uacute;blicas.</p>
+
+<p>As&iacute; como la creaci&oacute;n de dos nuevas &Aacute;reas Naturales Protegidas: el Sistema Lagunar Coyuca-Tres Palos y el Complejo Puerto Marqu&eacute;s.</p>
+
+<p>Finalmente, informarles que, en conjunto con el gobierno del estado y el gobierno municipal, de quienes hemos recibido todo el apoyo y con mucha generosidad, la Agencia de Transformaci&oacute;n Digital est&aacute; dise&ntilde;ando una Ventanilla &Uacute;nica Digital para lograr un proceso de simplificaci&oacute;n administrativa de digitalizaci&oacute;n de tr&aacute;mites que facilite la vida para las y los acapulque&ntilde;os, pero tambi&eacute;n para acelerar inversiones en el puerto.</p>
+
+<p>Eso es lo m&aacute;s relevante.</p>
+
+<p>Muchas gracias, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Esta es la informaci&oacute;n.</p>
+
+<p>Agradecer mucho porque el trabajo se ha coordinado con la gobernadora, con Evelyn Salgado, quien particip&oacute; de manera muy importante en todo el estado de Guerrero para la atenci&oacute;n a damnificados, a las carreteras estatales, caminos, despu&eacute;s del hurac&aacute;n &ldquo;John&rdquo;, tambi&eacute;n &ldquo;Otis&rdquo;, pero en particular el hurac&aacute;n &ldquo;John&rdquo;; y, por supuesto, a la presidenta municipal, Abelina, que tambi&eacute;n ha sido muy importante todo el trabajo de coordinaci&oacute;n.</p>
+
+<p>Esta es la informaci&oacute;n, el d&iacute;a de hoy.</p>
+
+<p>&mdash;Ahora s&iacute;, adelante&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Buenos d&iacute;as. Para abordar un poco el tema de Acapulco, este plan importante de ayer, preguntar: &iquest;en qu&eacute; plazo estaremos viendo ya algunos resultados de todas estas acciones?</strong></p>
+
+<p><strong>Y en materia de seguridad para Acapulco, si &iquest;se prev&eacute; alguna Operaci&oacute;n Enjambre? No s&eacute; si el secretario de Seguridad pudiera explicarnos o si se va a ampliar la seguridad en alg&uacute;n sentido, tambi&eacute;n, de manera paralela a lo que ayer se anunci&oacute;.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Se va a notar desde este a&ntilde;o, desde 2025.</p>
+
+<p>Este plan tiene&hellip; Se llama Centro Integral Planificado porque es el nombre que se puso en Fonatur a la manera de intervenir en distintos lugares tur&iacute;sticos: Canc&uacute;n, Ixtapa, que se formaron en mucho con Fonatur. Est&aacute; aqu&iacute; Lyndia tambi&eacute;n, que es la directora de Fonatur; la Secretar&iacute;a de Turismo, todo el equipo.</p>
+
+<p>Acapulco nunca lo tuvo porque Acapulco se desarroll&oacute; como el primer destino tur&iacute;stico desde hace much&iacute;simos a&ntilde;os.</p>
+
+<p>Entonces, la idea es que, por primera vez, intervenga Fonatur en Acapulco, esto va a permitir que muchos de los servicios urbanos los asuma la Federaci&oacute;n, a trav&eacute;s de Fonatur y haga un mantenimiento menor y mayor de muchas de las instalaciones. Eso es, por un lado.</p>
+
+<p>Entonces, eso se va a notar en el 2025, aunque es un programa de m&aacute;s largo alcance, tres a&ntilde;os se seguir&aacute; notando de manera muy importante.</p>
+
+<p>Despu&eacute;s, vienen las inversiones para nuevas acciones dentro de Acapulco, que tienen que ver con inversi&oacute;n p&uacute;blica: el sistema de agua potable, el sistema de saneamiento. Son 16 plantas de tratamiento de agua que vamos a intervenir y que tambi&eacute;n queremos apoyar al municipio para que pueda despu&eacute;s, operarlo el municipio o el estado; estamos revisando eso conjuntamente para que haya recursos para su operaci&oacute;n.</p>
+
+<p>Vamos a trabajar tambi&eacute;n en las colonias, no solo en la parte tur&iacute;stica, sino en las colonias para el mejoramiento de agua y de servicios urbanos; una ciclov&iacute;a, este transporte mar&iacute;timo que estamos planeando, todo eso se va a ir notando poco a poco.</p>
+
+<p>Entonces, es una intervenci&oacute;n integral en coordinaci&oacute;n con el estado y con el municipio.</p>
+
+<p>Por otro lado, vamos a invertir de manera muy importante en Guerrero.</p>
+
+<p>&mdash;No s&eacute; si quieres, Jes&uacute;s Esteva, decir las carreteras que vamos a intervenir a partir de este a&ntilde;o&mdash;.</p>
+
+<p><strong>SECRETARIO DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES, JES&Uacute;S ESTEVA MEDINA:</strong> Buenos d&iacute;as a todas y a todos.</p>
+
+<p>Con su permiso, Presidenta.</p>
+
+<p>Estamos haciendo, bueno, dos que arrancamos, que ayer anunciamos:</p>
+
+<p>La Cuautla-Tlapa-Marquelia, que va de Cuautla a Tlapa; y arrancamos este a&ntilde;o en uno de los frentes.</p>
+
+<p>Y, por otro lado, tenemos la de Toluca a Zihuatanejo; de Toluca a Tejupilco, tambi&eacute;n ayer se anunci&oacute;, se arranca este a&ntilde;o, y adem&aacute;s est&aacute; la de Salina Cruz a Zihuatanejo.&nbsp; Entonces, traemos todos estos frentes.</p>
+
+<p>Y ayer no se anunci&oacute;, pero tambi&eacute;n se est&aacute; analizando una inversi&oacute;n mixta, de L&aacute;zaro C&aacute;rdenas, del puerto de L&aacute;zaro C&aacute;rdenas a La Uni&oacute;n, que tambi&eacute;n tiene conexi&oacute;n en un extremo con el estado de Guerrero.</p>
+
+<p>Entonces, traemos todo eso, m&aacute;s la reconstrucci&oacute;n que, como se mencion&oacute;, son mil 800 millones, son 63 puentes en la red estatal, son seis puentes en la red federal, m&aacute;s todas las acciones que mencion&oacute; Carlos Torres, de estabilizaci&oacute;n de taludes, y la atenci&oacute;n de la red federal y estatal en cuanto a caminos.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Adem&aacute;s de los caminos artesanales que siguen en La Monta&ntilde;a.</p>
+
+<p>Entonces, como ven, es una intervenci&oacute;n muy importante para Guerrero que estamos realizando desde los tres niveles de gobierno.</p>
+
+<p>Ahora, en seguridad, como ustedes pueden ver, hay resultados importantes. Esto no es casualidad. Decidimos, al igual que en otras regiones del pa&iacute;s, desarrollar una estrategia integral que consta de nuestros cuatro ejes, que es Atenci&oacute;n a las causas; Fortalecimiento de la Guardia Nacional y su coordinaci&oacute;n con las Polic&iacute;as estatales, municipales; por otro lado, la Inteligencia y la Investigaci&oacute;n con distintas fuerzas de tarea que se est&aacute;n desarrollando y fortaleciendo en distintos lugares del pa&iacute;s; y la Coordinaci&oacute;n, que es muy importante.</p>
+
+<p>Como ustedes pueden ver &mdash;si pueden poner homicidios en Acapulco&mdash;. Nosotros entramos el 1o. de octubre, ah&iacute; se puede ver que en el mes de octubre se incrementaron los homicidios en Acapulco. Ah&iacute; decidimos implementar esta estrategia particularmente para Acapulco, y hemos tenido esta disminuci&oacute;n.</p>
+
+<p>En octubre, el mayor n&uacute;mero; y despu&eacute;s, noviembre y diciembre, una reducci&oacute;n muy importante. Decidimos poner los n&uacute;meros desde septiembre porque octubre podr&iacute;a ser una disminuci&oacute;n mayor, pero quisimos plantearlo desde antes de que entr&aacute;ramos hasta la fecha.</p>
+
+<p>Y enero tiene un promedio similar, desde que instrumentamos este fortalecimiento en la Estrategia de Seguridad.</p>
+
+<p><strong>PREGUNTA: Ya, Presidenta.</strong></p>
+
+<p><strong>Y preguntarle, por otro lado: ya el lunes asume Donald Trump la presidencia de Estados Unidos. Usted ha dicho que habr&aacute; buena relaci&oacute;n. Si nos pudiera detallar un poco m&aacute;s el plan eventualmente ante deportaciones masivas, si, &iquest;se va a ofrecer trabajo a los mexicanos, si va a haber programas sociales, en fin? &iquest;C&oacute;mo se podr&iacute;a enfrentar esta situaci&oacute;n, particularmente, en la frontera?</strong></p>
+
+<p><strong>&iquest;Y si ya se logr&oacute; hablar con presidentes de otros pa&iacute;ses para que ciudadanos de otras naciones, como es Centroam&eacute;rica, sean deportados directamente a sus pa&iacute;ses de origen?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Primero decir que siempre vamos a defender a las y a los mexicanos que est&aacute;n en Estados Unidos, y que en cualquier di&aacute;logo que inicie, a partir de la llegada del presidente Trump, va a ser una de nuestras prioridades la defensa de nuestros connacionales en Estados Unidos, y los n&uacute;meros que muestran c&oacute;mo las y los mexicanos tienen una importancia para la econom&iacute;a de los Estados Unidos.</p>
+
+<p>En caso de deportaciones masivas, tenemos una estrategia ya planteada, que vamos a esperar tambi&eacute;n a qu&eacute; es lo que haga el gobierno de los Estados Unidos, pero nos hemos estado preparando para recibir a las y a los mexicanos: que tengan un espacio en la frontera y en otros lugares para que puedan tener acceso a los programas sociales, al empleo, a poderse mover en nuestro territorio nacional para ir a sus lugares de origen.</p>
+
+<p>Es una estrategia integral que, en su momento, anunciaremos esperando lo que vaya a mencionar el presidente Trump, sea en su toma de posesi&oacute;n o posteriormente.</p>
+
+<p>Y hemos estado trabajando no solo en los estados fronterizos, sino todos los estados de la Rep&uacute;blica para integrar esta estrategia de apoyo a las y los mexicanos que lleguen.</p>
+
+<p>Adem&aacute;s de que todos los mexicanos y mexicanas pueden acceder a este apoyo extraordinario que estamos dando desde los Consulados para acceder a asesor&iacute;a o apoyo legal, m&aacute;s todo el apoyo que puedan dar las y los c&oacute;nsules en Estados Unidos a todos nuestros connacionales.</p>
+
+<p>Ayer hubo una primera reuni&oacute;n con distintos pa&iacute;ses. Se reunieron los subsecretarios de distintos pa&iacute;ses v&iacute;a a distancia, y ah&iacute; iniciamos conversaciones para poder fortalecer la estrategia: por un lado, para evitar la migraci&oacute;n, a trav&eacute;s de la cooperaci&oacute;n para el desarrollo, que es la esencia de nuestra estrategia.</p>
+
+<p>Las personas no migran, la mayor&iacute;a por gusto, sino por necesidad, y nuestra insistencia con el gobierno de Estados Unidos y de colaboraci&oacute;n con todos los gobiernos de Centroam&eacute;rica y Sudam&eacute;rica, para que pueda atenderse en su lugar de origen a las personas y que puedan tener acceso al empleo, a que puedan tener acceso a una vida segura y digna, justa en sus lugares de origen para evitar la migraci&oacute;n.</p>
+
+<p>Y, al mismo tiempo, estar en comunicaci&oacute;n, en coordinaci&oacute;n, para cualquier estrategia que se plantea desde el gobierno del presidente Trump entre los pa&iacute;ses.</p>
+
+<p>El d&iacute;a de hoy tendr&aacute;n tambi&eacute;n una conferencia a distancia ya directamente los cancilleres o las cancilleres. Y de ah&iacute;, pues seguiremos trabajando para que haya coordinaci&oacute;n.</p>
+
+<p>Esta es una iniciativa conjunta que tuvimos con la presidenta de Honduras, y fue muy bien recibida por todos los pa&iacute;ses.</p>
+
+<p><strong>PREGUNTA: Presidenta y, finalmente, preguntarle: ya se han tenido algunos resultados sobre el tr&aacute;fico de fentanilo, que es particularmente un tema que interesa a Donald Trump. Si &iquest;se fortalecer&iacute;a?, &iquest;todav&iacute;a se puede fortalecer a&uacute;n m&aacute;s estas acciones en M&eacute;xico para evitar el tr&aacute;fico de fentanilo, y el asunto tambi&eacute;n de las armas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Nuestro objetivo es que una vez que entre el presidente Trump pueda haber un Di&aacute;logo de Alto Nivel con servidores p&uacute;blicos, funcionarios, secretarios, secretarias del Gobierno de M&eacute;xico y del gobierno de los Estados Unidos, y que, a partir de ah&iacute;, definamos las estrategias conjuntas para los temas que interesan al gobierno de Estados Unidos y los temas que nos interesan a nosotros.</p>
+
+<p>Ustedes saben que uno de los temas que a nosotros nos interesa es que no sigan llegando armas de Estados Unidos a M&eacute;xico. Entonces, pondr&iacute;amos eso sobre la mesa, al mismo tiempo de llegar a acuerdos de colaboraci&oacute;n en temas de migraci&oacute;n, en temas de seguridad, de tr&aacute;fico de armas y de droga, que es lo que ellos hist&oacute;ricamente han planteado como un tema importante para ellos; el fentanilo, entre estos temas; y tambi&eacute;n, todos los temas comerciales y otros temas de nuestras naciones que son fundamentales.</p>
+
+<p>Ese es el objetivo, que en el momento que ya se instale el gobierno del presidente Trump, se pueda establecer un Di&aacute;logo Bilateral de Alto Nivel y, por supuesto, la importancia del Tratado Comercial Canad&aacute;, Estados Unidos y M&eacute;xico.</p>
+
+<p><strong>PREGUNTA: &iquest;Ser&iacute;a este di&aacute;logo antes de una reuni&oacute;n bilateral?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si, la idea es que nos podamos&hellip; es nuestra idea, vamos a ver qu&eacute; es lo que plantean ellos.</p>
+
+<p>Por eso, siempre hemos planteado que consideramos que va a haber una buena relaci&oacute;n y que se establecer&aacute; el di&aacute;logo en el momento en que&hellip; Bueno, en su momento tuvimos el di&aacute;logo con el presidente Trump con las dos llamadas telef&oacute;nicas y ahora, que ya fueron ratificados la mayor parte de los servidores p&uacute;blicos del gabinete del presidente Trump ya, a partir del lunes, poder establecer la comunicaci&oacute;n.</p>
+
+<p>&mdash;Por ac&aacute;&mdash;.</p>
+
+<p><strong>PREGUNTA: Presidenta, buenos d&iacute;as. Buenos d&iacute;as a todo el Gabinete.</strong></p>
+
+<p><strong>Una de las obras importantes de la administraci&oacute;n pasada, del Presidente Andr&eacute;s Manuel L&oacute;pez Obrador, fue sin duda la carretera federal 200, una magn&iacute;fica carretera que conecta desde Las Vigas hasta Cuajinicuilapa, como se comprometi&oacute; el Presidente a hacerlo, y lo cumpli&oacute; bien.&nbsp; Faltan puentes, faltan algunas cosas.</strong></p>
+
+<p><strong>Pero hay un problema, un problema grave en este tramo de carretera que va desde Cuajinicuilapa a Puerto Escondido que, realmente est&aacute; afectad&iacute;sima, afectad&iacute;sima por los baches provocados por las lluvias de los fen&oacute;menos que tuvimos &uacute;ltimamente.</strong></p>
+
+<p><strong>Entonces, creo que hace falta una intervenci&oacute;n ah&iacute;, porque al programa de Bachet&oacute;n se le vio nada m&aacute;s como ocho d&iacute;as despu&eacute;s de ser anunciado y ya de ah&iacute; desapareci&oacute;. Entonces, el tramo es dif&iacute;cil para la gente que camina por ah&iacute;.</strong></p>
+
+<p><strong>Otro tema tambi&eacute;n que veo en el CIP, que anunciaron ayer, es que no toca el asunto de las playas privadas en Acapulco. Los hoteleros de Acapulco, sobre todo, la parte que va desde Diamante, Revolcadero, hasta el Papagayo, est&aacute;n privatizadas.</strong></p>
+
+<p><strong>Hab&iacute;a accesos aceptados por la autoridad, como al menos unos 10 accesos p&uacute;blicos para las playas de la gente, acapulque&ntilde;os; ya est&aacute;n cerrados, embardados. Alguna vez hubo un intento del Ayuntamiento de Acapulco por liberarlo y llegaron inmediatamente ciudadanos civiles a cerrarlo; as&iacute;, de ese nivel.</strong></p>
+
+<p><strong>Entonces, yo creo que hace falta la intervenci&oacute;n en hablar de ese tema, de la privatizaci&oacute;n de las playas, a las cuales la gente pobre no tiene acceso. Diamante es para los due&ntilde;os de los edificios que est&aacute;n ah&iacute;, incluso, muchos edificios no tienen ni plantas de tratamiento.</strong></p>
+
+<p><strong>Bueno, quisiera cambiar un poquito la parte m&aacute;s radical y preguntarle algo m&aacute;s a usted, personal: el s&aacute;bado en el centro de la Ciudad de M&eacute;xico, en el Z&oacute;calo de la Ciudad de M&eacute;xico, va a cantar uno de los &iacute;conos de la canci&oacute;n latinoamericana y del rock, que es Fito P&aacute;ez, y que adem&aacute;s, tiene temas importantes que han acompa&ntilde;ado la lucha de la izquierda por toda la vida, como <em>Yo vengo a ofrecer mi coraz&oacute;n</em>, que se cant&oacute; en varias derrotas, despu&eacute;s de los fraudes electorales.</strong></p>
+
+<p><strong>Usted no va a estar ah&iacute;, creo, porque va a andar por ac&aacute; con nosotros.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; piensa de Fito, y qu&eacute; piensa de la presentaci&oacute;n de Fito P&aacute;ez ah&iacute;, en el Z&oacute;calo de la ciudad?</strong></p>
+
+<p><strong>Muchas gracias. Y disculpe.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Se va a intervenir este a&ntilde;o, justamente esa zona de la carretera que vincula el estado de Guerrero con Oaxaca, particularmente, hacia Pochutla. Es &mdash;s&iacute;, &iquest;verdad?&mdash; es la parte que se va a intervenir este a&ntilde;o.</p>
+
+<p>La idea es que en los siguientes a&ntilde;os podamos atender pr&aacute;cticamente todos los tramos de carretera que faltan desde Zihuatanejo, desde La Uni&oacute;n hasta Salina Cruz, que es la carretera costera del Pac&iacute;fico sur, que es muy importante para el turismo y, en general, para la poblaci&oacute;n que vive en esta zona.</p>
+
+<p>Por otro lado, &mdash;Sebasti&aacute;n, &iquest;por qu&eacute; no les pl&aacute;ticas lo que vamos a hacer en las playas con Semarnat?&mdash;</p>
+
+<p><strong>SUBSECRETARIO DE TURISMO, SEBASTI&Aacute;N RAM&Iacute;REZ MENDOZA:</strong> Bueno, estamos con el objetivo, y platicando con la presidenta municipal, con el gobierno del estado, para poder avanzar en certificar algunas playas, tanto para garantizar que la limpieza, los est&aacute;ndares ambientales del agua, pero tambi&eacute;n el ordenamiento de la Zofemat, y lo que tiene que ver con mejorar accesos a playa.</p>
+
+<p>En 2025, vamos a renovar nueve accesos a playa &mdash;si quieres, ahora te paso mis datos y les doy la lista de los nueve accesos a playa que vamos a rehabilitar integralmente, durante el a&ntilde;o 2025&mdash;.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>SUBSECRETARIO DE TURISMO, SEBASTI&Aacute;N RAM&Iacute;REZ MENDOZA:</strong> No&hellip; Vamos a empezar por la Bah&iacute;a de Acapulco, en la rehabilitaci&oacute;n de los acceso a playa.</p>
+
+<p><strong>PREGUNTA: &iquest;Pero van a intervenir?</strong></p>
+
+<p><strong>SUBSECRETARIO DE TURISMO, SEBASTI&Aacute;N RAM&Iacute;REZ MENDOZA:</strong> S&iacute;, pero vamos paulatinamente.</p>
+
+<p>Ahora, el ordenamiento significa ir revisando todo este tema de permisos, etc&eacute;tera, para garantizar... La Presidenta nos ha pedido que los accesos, los pasos de servidumbre se respeten, y que la gente pueda acceder a las playas y las playas est&eacute;n limpias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Las playas son del pueblo y tiene que abrirse el espacio para que la gente tenga acceso. Las playas no son privadas.</p>
+
+<p>Entonces, dentro del esquema de intervenci&oacute;n, no solo en Acapulco, recientemente, estuve en Bah&iacute;a de Banderas, en Nayarit, y fue una de las demandas que tambi&eacute;n nos pidi&oacute; la gente; y tambi&eacute;n ah&iacute; estamos interviniendo con las distintas &aacute;reas de gobierno, porque tiene que haber acceso a la gente a las playas, que son del pueblo de M&eacute;xico.</p>
+
+<p><strong>PREGUNTA: (inaudible)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. Bueno, Fito P&aacute;ez pues es Fito P&aacute;ez.</p>
+
+<p>El Z&oacute;calo de la Ciudad de M&eacute;xico es el centro de la naci&oacute;n; digamos, no el centro geogr&aacute;fico, pero s&iacute; el centro pol&iacute;tico desde hace&hellip; desde Tenochtitlan y, claro que no se llamaba Z&oacute;calo, &iquest;verdad? Pero justamente, ah&iacute; en donde estaba el Templo Mayor y el centro de la civilizaci&oacute;n mexica, ah&iacute; se concentr&oacute; el centro, posteriormente de la invasi&oacute;n de Espa&ntilde;a durante la Colonia, y posteriormente.</p>
+
+<p>Y desde que llegaron los gobiernos progresistas a la Ciudad de M&eacute;xico se convirti&oacute; en escenario del pueblo de M&eacute;xico.</p>
+
+<p>Yo recuerdo, despu&eacute;s del &lsquo;68 &mdash;yo ten&iacute;a seis a&ntilde;os en el &lsquo;68&mdash;, pero despu&eacute;s, cuando ya iniciamos nuestra participaci&oacute;n de j&oacute;venes en la defensa de los derechos del pueblo de M&eacute;xico y de la justicia de nuestro pa&iacute;s, no se permit&iacute;a entrar al Z&oacute;calo, y con manifestaciones, estaba cerrado, no hab&iacute;a la posibilidad de entrar.</p>
+
+<p>Y, a partir de que lleg&oacute; el ingeniero C&aacute;rdenas; despu&eacute;s, con el Presidente L&oacute;pez Obrador cuando fue Jefe de Gobierno; con Marcelo Ebrard; incluso, aunque no est&aacute;bamos de acuerdo con Mancera, el Z&oacute;calo siempre se abri&oacute; para espect&aacute;culos para el pueblo. Y nosotros lo mantuvimos cuando estuvimos en la Jefatura; y ahora, Clara tambi&eacute;n ha hecho algo muy hermoso del centro de la Ciudad.</p>
+
+<p>Y Mart&iacute; cuando estuvo, en el periodo que estuvo Mart&iacute; Batres, hizo el Z&oacute;calo peatonal, que fue algo muy bonito tambi&eacute;n; entonces, ahora, ya no entran veh&iacute;culos al Z&oacute;calo y est&aacute; lleno permanentemente.</p>
+
+<p>Entonces: Bienvenido Fito P&aacute;ez a nuestro pa&iacute;s. Y que siga siendo el Z&oacute;calo, el espacio de las y los mexicanos.</p>
+
+<p><strong>PREGUNTA: Hola, Presidenta, buenos d&iacute;as. Gaspar Vela, de <em>Grupo Milenio</em>.&nbsp; Buenos d&iacute;as a todos.</strong></p>
+
+<p><strong>En primer lugar, preguntarle: &iquest;Qu&eacute; reporte tiene el Gabinete de Seguridad sobre ataques a tres bares en Morelia esta madrugada?</strong></p>
+
+<p><strong>SECRETARIO DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA, OMAR GARC&Iacute;A HARFUCH:</strong> Del ataque &mdash;buenos d&iacute;as&mdash; del ataque de los tres bares, se reportan al momento dos personas fallecidas. Ya estamos en coordinaci&oacute;n con las autoridades del estado para trabajar este asunto</p>
+
+<p><strong>PREGUNTA: &iquest;Se tiene alg&uacute;n indicio de alg&uacute;n grupo delictivo?</strong></p>
+
+<p><strong>SECRETARIO DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA, OMAR GARC&Iacute;A HARFUCH:</strong> Al momento, no. La primera informaci&oacute;n que tenemos son las dos personas fallecidas y una herida, pero m&aacute;s adelante lo informaremos para actualizar los datos.</p>
+
+<p><strong>PREGUNTA: Secretario, aprovechando su presencia: en estos ya casi tres meses y medio de gobierno &iquest;qu&eacute; tanto se ha podido debilitar al c&aacute;rtel de Sinaloa?</strong></p>
+
+<p><strong>SECRETARIO DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA, OMAR GARC&Iacute;A HARFUCH:</strong> M&aacute;s que nada, se han debilitado las c&eacute;lulas delictivas que m&aacute;s violencia generan.</p>
+
+<p>En coordinaci&oacute;n con la Secretar&iacute;a de la Defensa Nacional, con la Secretar&iacute;a de Marina, en el estado de Sinaloa, a partir del 1o. de octubre a la fecha: se han detenido casi 50 objetivos prioritarios, se han asegurado 400 veh&iacute;culos, m&aacute;s de 600 armas de fuego de alto poder.</p>
+
+<p>Lo que hemos estado haciendo es debilitar las c&eacute;lulas delictivas que m&aacute;s violencia generaban. Primero, como todos saben, que iniciaron conflictos duros en Culiac&aacute;n por la pugna entre grupos delincuenciales. Lo que hicimos fue, primero, que no hubieran ese tipo de convoyes de camionetas, con la presencia de la Secretar&iacute;a de Defensa Nacional se logr&oacute; inhibir este tipo de convoyes y estos enfrentamientos cruentos que primero estaban en la ciudad y que se han ido saliendo ya.</p>
+
+<p><strong>PREGUNTA: Entonces, desde su punto de vista, &iquest;usted dir&iacute;a que s&iacute; se ha logrado debilitar tanto a los &ldquo;Chapitos&rdquo;, como a la &ldquo;Mayiza&rdquo;?</strong></p>
+
+<p><strong>SECRETARIO DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA, OMAR GARC&Iacute;A HARFUCH:</strong> S&iacute;, por supuesto.</p>
+
+<p>La cantidad de homicidios que hab&iacute;a al inicio no es la misma que ocurre ahorita, ha habido d&iacute;as en Sinaloa con cero homicidios, como lo mencionamos la vez pasada; ayer lamentablemente hubo cinco, pero antier hubo uno, anteantier tres, as&iacute; manera distinta.</p>
+
+<p>Entonces, definitivamente, ha habido un avance, pero &mdash;como bien lo dijo la se&ntilde;ora Presidenta&mdash; vamos a continuar avanzando en el fortalecimiento de la estrategia de seguridad.</p>
+
+<p><strong>PREGUNTA: <em>Ok</em>. Muchas gracias.</strong></p>
+
+<p><strong>Presidenta, aprovechando que est&aacute; la consejera jur&iacute;dica, no s&eacute;, &iquest;si nos pueda dar un corte de caja de c&oacute;mo va este proceso de selecci&oacute;n de los candidatos, del Comit&eacute; de Evaluaci&oacute;n del Poder Ejecutivo?</strong></p>
+
+<p><strong>Y tambi&eacute;n, &iquest;si nos puede dar detalles acerca de la reuni&oacute;n que tuvieron ayer con ministros de la Suprema Corte.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. El 31 de enero se van a dar a conocer las personas que fueron seleccionadas por el Comit&eacute;, tanto del Poder Ejecutivo como &mdash;entiendo&mdash; el Poder Legislativo.</p>
+
+<p>&mdash;Rosa Icela, &iquest;nos quieres informar de la reuni&oacute;n con la ministra y si algo tiene que comentar tambi&eacute;n Ernestina?&mdash;</p>
+
+<p><strong>PREGUNTA: Presidenta, perd&oacute;n, &iquest;las entrevistas en qu&eacute; modalidad se est&aacute;n llevando a cabo?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Presidenciales.</p>
+
+<p><strong>PREGUNTA: &iquest;Son todas presenciales?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, y otras ah&iacute; en&hellip;</p>
+
+<p>&mdash;Bueno, a ver si quieren informar d&oacute;nde se realizan las entrevistas de las personas que est&aacute;n yendo y algo de la reuni&oacute;n de ayer con la ministra presidenta de la Corte. Rosa Icela y despu&eacute;s, Ernestina, si quieres complementar&mdash;.</p>
+
+<p><strong>SECRETARIA DE GOBERNACI&Oacute;N, ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:</strong> Con su permiso, Presidenta.</p>
+
+<p>Efectivamente, se llev&oacute; a cabo una reuni&oacute;n ayer en la Corte con la ministra presidenta, y con la presencia tambi&eacute;n del ministro Pardo y del ministro Laynez, y otros servidores p&uacute;blicos de la Corte, con mi compa&ntilde;era consejera jur&iacute;dica de la Presidencia y su servidora.</p>
+
+<p>B&aacute;sicamente los temas que a nosotros nos interesaba es el tema de los fideicomisos y estos amparos que se han hecho alrededor del tema, y que estamos viendo, efectivamente, nosotros tambi&eacute;n con Nafinsa.</p>
+
+<p>Y tambi&eacute;n, se vieron la parte de: &iquest;por qu&eacute; est&aacute;n detenidos los trabajos del Comit&eacute; de Evaluaci&oacute;n del Poder Judicial? Porque eso no conviene de ninguna manera al proceso electoral de jueces, magistrados y ministros que se est&aacute; llevando actualmente, como ustedes saben.</p>
+
+<p>Entonces, se abord&oacute; el tema.</p>
+
+<p>Ahora, le voy a pedir &mdash;si as&iacute; lo instruye&mdash; que, cu&aacute;les fueron los argumentos que se plantearon por parte de las representantes que est&aacute;bamos del Poder Ejecutivo:</p>
+
+<p>Inst&aacute;ndolos a que no afecten los derechos de los trabajadores.</p>
+
+<p>Y tambi&eacute;n, bueno, ellos nos plantearon sobre la afectaci&oacute;n a las prestaciones de los trabajadores. Nosotros ah&iacute; fuimos muy claros en que se tiene que cumplir con la parte que dice la Constituci&oacute;n y tambi&eacute;n el respeto a las condiciones generales de trabajo.</p>
+
+<p>Entonces, esos son los temas as&iacute;, a grandes rasgos. Y eso era.</p>
+
+<p>&mdash;Por favor, Ernestina&mdash;.</p>
+
+<p><strong>PREGUNTA: Se logr&oacute;&hellip; &iquest;Qu&eacute; actitud tuvieron los ministros? &iquest;Hay avances en estos temas?</strong></p>
+
+<p><strong>SECRETARIA DE GOBERNACI&Oacute;N, ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:</strong> Es una reuni&oacute;n b&aacute;sicamente... Es una reuni&oacute;n, digamos, t&eacute;cnica sobre los puntos.</p>
+
+<p>Ambas escuchamos, porque la petici&oacute;n de la reuni&oacute;n vino de parte de la Corte. Y tambi&eacute;n nosotros quer&iacute;amos saber sobre los fideicomisos y estos trabajos que est&aacute;n actualmente detenidos del Comit&eacute; de Evaluaci&oacute;n del Poder Judicial.</p>
+
+<p>Entonces, no es posible que se afecte de esta manera la participaci&oacute;n de los que est&aacute;n ah&iacute;, que se han anotado, que han sido candidatos para poder aspirar a un puesto de elecci&oacute;n del Poder Judicial.</p>
+
+<p>Entonces, estos eran los temas.</p>
+
+<p>Digamos, pues, es un trato respetuoso de ambas partes.</p>
+
+<p>Y ahora, la dejo.</p>
+
+<p>Y lo que se acord&oacute; fue la instalaci&oacute;n de una mesa de trabajo para ver los asuntos.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p><strong>TITULAR DE LA CONSEJER&Iacute;A JUR&Iacute;DICA DEL EJECUTIVO FEDERAL, ERNESTINA GODOY RAMOS:</strong> Muy buenos d&iacute;as.</p>
+
+<p>Con su permiso, Presidenta.</p>
+
+<p>Solamente informar: nosotros estamos muy atentos al desarrollo de la evaluaci&oacute;n que est&aacute;n siguiendo los tres Comit&eacute;s, desde luego lo que toca al Comit&eacute; de Evaluaci&oacute;n del Poder Ejecutivo. Ah&iacute; se est&aacute;n siguiendo los tiempos, los calendarios establecidos previamente; est&aacute; en proceso, acaban pr&aacute;cticamente de hacer un cierre con entrevistas para las y los candidatos a ministros y a ministras, fueron en la sede que tiene actualmente el Comit&eacute;.</p>
+
+<p>Y est&aacute;n, en este momento, en las entrevistas a candidatos a magistradas, magistrados, y empezar&aacute;n con jueces.</p>
+
+<p>En algunos casos han sido presenciales, sobre todo, lo que tienen que ver con ministras y los candidatos al Tribunal de Disciplina, y en otros casos se est&aacute; haciendo de manera virtual. Pero todos est&aacute;n siendo entrevistados y, en su momento &mdash;seg&uacute;n nos han informado&mdash;, se dar&aacute;n a conocer, ser&aacute;n p&uacute;blicas esas, esas entrevistas que se est&aacute;n realizando.</p>
+
+<p>Y como lo ha dicho la Presidenta, se tiene de plazo hasta finales de enero, porque recuerden que el d&iacute;a 4, el Senado ya habr&aacute; recibido estas listas para la insaculaci&oacute;n de quienes van a estar ya en la boleta, de acuerdo&hellip; Se est&aacute; siguiendo el calendario tal cual.</p>
+
+<p>Desafortunadamente, el Comit&eacute; de Evaluaci&oacute;n del Poder Judicial decidi&oacute; interrumpir, suspender, esta evaluaci&oacute;n. Fue uno de los temas que se platicaron ayer con los ministros.</p>
+
+<p>Establecimos varios puntos de vista desde lo jur&iacute;dico, por los cuales ellos pueden hacer la reanudaci&oacute;n de esta evaluaci&oacute;n, porque son m&aacute;s de 3 mil personas que est&aacute;n inscritas en ese Comit&eacute; y que no puede ser que se les est&eacute;n afectando sus derechos, sus derechos ciudadanos para continuar con la evaluaci&oacute;n.</p>
+
+<p>La Presidenta, tambi&eacute;n en esta preocupaci&oacute;n de que todo salga bien en esta reforma tan profunda del Poder Judicial, estaremos analizando las posibilidades de que las personas que est&aacute;n inscritas en ese Comit&eacute; puedan ser evaluadas con los otros Comit&eacute;s; vamos a analizarlo para que no se vulneren los derechos de estas 3 mil personas que confiaron en el Comit&eacute; de Evaluaci&oacute;n del Poder Judicial.</p>
+
+<p>Pero vamos a seguir adelante, est&aacute;n los otros Comit&eacute;s, est&aacute;n trabajando muy bien, de manera p&uacute;blica y siguiendo todos los procedimientos.</p>
+
+<p>Eso es lo que tengo que informar.</p>
+
+<p><strong>PREGUNTA: En dado caso, entonces, consejera, &iquest;el Comit&eacute; de Evaluaci&oacute;n del Poder Ejecutivo podr&iacute;a&hellip;?</strong></p>
+
+<p><strong>TITULAR DE LA CONSEJER&Iacute;A JUR&Iacute;DICA DEL EJECUTIVO FEDERAL, ERNESTINA GODOY RAMOS:</strong> No, no, no. Nosotros vamos a analizar. Cada Comit&eacute; tiene su obligaci&oacute;n y nosotros tenemos que analizar de manera conjunta con el Senado, incluso, que es quien tiene que, de acuerdo a la reforma constitucional, es quien tiene que resolver situaciones que se dan.</p>
+
+<p>Estamos en eso.</p>
+
+<p><strong>PREGUNTA: Muchas gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>La Corte est&aacute; buscando, o sea, sigue la presidenta de la Corte y algunos ministros utilizando el espacio que tienen para evitar que se d&eacute; la elecci&oacute;n al Poder Judicial, han hecho tres acciones en contra de la reforma constitucional:</p>
+
+<p>La primera es aceptar o interponer los amparos para que no se cobre el recurso de los fideicomisos, no se integre el recurso de los fideicomisos a la Tesorer&iacute;a; cuando la Constituci&oacute;n es clara de que as&iacute; debe ser.</p>
+
+<p>La segunda tiene que ver con interrumpir los trabajos de la Comisi&oacute;n del Poder Judicial. No hay argumento para interrumpirlos, la Constituci&oacute;n es clara en que el amparo no tiene que ver con reformas constitucionales. Pero no solo eso, sino que el Tribunal Electoral, la Sala Superior del Tribunal Electoral del Poder Judicial de la Federaci&oacute;n ya dijo que la Corte, que no es funci&oacute;n de la Corte intervenir en estos temas, que es un asunto del Tribunal Electoral porque es una elecci&oacute;n popular.</p>
+
+<p>Y la tercera forma es que, al disminuir el presupuesto del Poder Judicial, porque ya dice la Constituci&oacute;n que &ldquo;los salarios de los jueces deben ser menores y de los ministros que los de la Presidenta de la Rep&uacute;blica&rdquo;; ahora, ellos con esta disminuci&oacute;n quieren disminuirles prestaciones a los trabajadores, cuando la Constituci&oacute;n es clara: que deben permanecer intactos los derechos de los trabajadores.</p>
+
+<p>Entonces, la Corte una vez m&aacute;s &mdash;o la presidenta de la Corte y algunos ministros&mdash; est&aacute;n actuando en contra de la reforma, que fue decidida por el pueblo de M&eacute;xico, aprobada de acuerdo a la Constituci&oacute;n para su modificaci&oacute;n y ahora, hay estos tres elementos que son inexplicables.</p>
+
+<p>Entonces, lo que hicieron la secretaria de Gobernaci&oacute;n y la consejera jur&iacute;dica fue irles a decir esto: se tiene que resolver el tema de la integraci&oacute;n de los fideicomisos al Presupuesto, a la Tesorer&iacute;a, sea para la elecci&oacute;n que, hasta ahora, solamente es un fideicomiso el que se ha integrado a la Tesorer&iacute;a; o para beneficio del pueblo de M&eacute;xico, que va a ser muy claro y transparente. Una de las propuestas es que se integre al presupuesto al ISSSTE, que es justamente la instituci&oacute;n social que atiende a los trabajadores del Estado.</p>
+
+<p>Entonces, no hay explicaci&oacute;n para lo que est&aacute; haciendo la Corte.</p>
+
+<p>Entonces, piden ellos la reuni&oacute;n para pedir m&aacute;s presupuesto, ese fue el objetivo de la reuni&oacute;n, pedirle a la secretaria de Gobernaci&oacute;n y a la consejera jur&iacute;dica m&aacute;s presupuesto porque no les alcanza para cubrir a los trabajadores de la Corte. &iexcl;Claro que les alcanza! Nada m&aacute;s que ellos, se bajen sus prestaciones.</p>
+
+<p>Entonces, no hay argumento para seguir en contra de la elecci&oacute;n.</p>
+
+<p>Pero, adem&aacute;s, ahora, ellos est&aacute;n afectando a terceros, porque las 3 mil personas que se inscribieron en el Poder Judicial para participar en la elecci&oacute;n, ahora, la Corte les est&aacute; cerrando esa posibilidad.</p>
+
+<p>Entonces, el d&iacute;a de hoy le ped&iacute; a la secretaria de Gobernaci&oacute;n, a la consejera jur&iacute;dica, que se pongan en contacto con el Senado de la Rep&uacute;blica para ver de qu&eacute; manera no se afecten los derechos de las personas que se inscribieron en el Poder Judicial y que se pueda llevar la elecci&oacute;n.</p>
+
+<p>La elecci&oacute;n va a ser el 1o. de junio, eso que no les quede la menor duda. El 1o. de junio se van a elegir: jueces, juezas, magistrados, magistradas, ministros y ministras de la Suprema Corte de Justicia de la Naci&oacute;n; as&iacute; lo decidi&oacute; el pueblo, as&iacute; est&aacute; establecido en la Constituci&oacute;n de la Rep&uacute;blica.</p>
+
+<p>&iquest;Qu&eacute; le decimos a la Corte?</p>
+
+<p>Lo que le fueron a decir la consejera jur&iacute;dica y la secretaria de Gobernaci&oacute;n: que contin&uacute;e el proceso, que no hay argumento jur&iacute;dico para que ellos hayan interrumpido el proceso de la Comisi&oacute;n.</p>
+
+<p>Entonces, elecci&oacute;n va a haber.</p>
+
+<p>Y van a dialogar con el Senado de la Rep&uacute;blica para ver de qu&eacute; manera se puede resolver el tema de las 3 mil personas a las cuales la propia, los propios, el propio Poder Judicial les est&aacute; negando la posibilidad de participar</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Buenos d&iacute;as Gabinete. Son tres preguntitas, las dos son&hellip; Las dos primeras son sencillas.</strong></p>
+
+<p><strong>Quisiera preguntarle primero sobre el &ldquo;Marib&uacute;s&rdquo;, que nos&hellip; Bueno, yo s&eacute; que a lo mejor puede ser un proyecto a largo plazo, pero que nos pudiera ayudar si se tienen esos datos. Por ejemplo: &iquest;cu&aacute;nto va a costar el uso de este nuevo transporte?</strong></p>
+
+<p><strong>&iquest;Y c&oacute;mo ser&iacute;a utilizarlo?, dado el caso que el transporte v&iacute;a terrestre sufre de violencia, hay quema de veh&iacute;culos. Entonces, &iquest;c&oacute;mo ser&iacute;a este nuevo uso?</strong></p>
+
+<p><strong>Y me gustar&iacute;a tambi&eacute;n precisar la pregunta que hizo la compa&ntilde;era sobre lo del Operativo Enjambre: &iquest;si es necesario, si es viable llevarse a cabo aqu&iacute; en el estado de Guerrero?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, ahora le doy, no s&eacute; si a Sebasti&aacute;n o al secretario de Marina, para que informen de este transporte que estamos dise&ntilde;ando, planeando.</p>
+
+<p>A ver, la Operaci&oacute;n Enjambre que se hizo en el Estado de M&eacute;xico no es que haya previamente una decisi&oacute;n de hacer una operaci&oacute;n para ver si hay alguna persona funcionaria p&uacute;blica involucrada en alg&uacute;n acto delictivo, sino que surgi&oacute; de investigaciones que se hicieron por la Fiscal&iacute;a del Estado de M&eacute;xico, y decidieron llamarle &ldquo;Operaci&oacute;n Enjambre&rdquo;, al momento de la detenci&oacute;n de estas personas.</p>
+
+<p>Pero no es que previamente se diga: &ldquo;Pues vamos a hacer una operaci&oacute;n para ver&hellip;&rdquo;, no. Las investigaciones que se hacen &mdash;y por eso, se fortalece la inteligencia y la investigaci&oacute;n&mdash; frente a delitos, a veces arrojan que hay personas que est&aacute;n involucradas, que son funcionarios p&uacute;blicos y que est&aacute;n involucradas en alg&uacute;n delito o alg&uacute;n v&iacute;nculo con la delincuencia organizada, y entonces se act&uacute;a.</p>
+
+<p>Pero no es que antes, desde antes se diga &ldquo;vamos a ver qui&eacute;n est&aacute; involucrado&rdquo;, sino es parte de un proceso de investigaci&oacute;n.</p>
+
+<p>&mdash;Ahora s&iacute;, sobre el &ldquo;Marib&uacute;s&rdquo;, el secretario de Marina&mdash;.</p>
+
+<p><strong>SECRETARIO DE MARINA, RAYMUNDO PEDRO MORALES &Aacute;NGELES:</strong> El tema del &ldquo;Marib&uacute;s&rdquo;, ya se hizo un primer reconocimiento para identificar d&oacute;nde ser&iacute;an las estaciones, se est&aacute; pensando salir de Puerto Marqu&eacute;s hacia Icacos, hacia la parte de La Costera, posteriormente, llegar hasta Caleta, inclusive.</p>
+
+<p>Pero estamos evaluando qu&eacute; tipo de embarcaci&oacute;n ser&iacute;a la m&aacute;s adecuada, y hay varios modelos que hemos estado revisando, desde embarcaciones peque&ntilde;as de 30, 40 pasajeros, hasta embarcaciones m&aacute;s grandes, pero va a depender de un estudio de demanda, qu&eacute; tanta afluencia pueda tener. Y como salimos a mar abierto, tiene que ser una embarcaci&oacute;n lo suficientemente segura para no tener accidentes.</p>
+
+<p>Y de eso va a depender el costo, depender&aacute; el tipo de embarcaci&oacute;n que vayamos a adquirir o a construir para poder identificar cu&aacute;nto nos costar&iacute;a su operaci&oacute;n y poder dar un servicio seguro y eficiente a la poblaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: Presidenta, ya me acord&eacute; de la tercera pregunta: falta la entrega de enseres por las afectaciones del hurac&aacute;n &ldquo;John&rdquo;, y muchas personas, muchos ciudadanos se preguntan si &iquest;se va a entregar? Si fuese as&iacute;, &iquest;hay fecha para la entrega de los enseres?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Se hizo una revisi&oacute;n general. Ah&iacute; en donde sea necesario, se puede entregar; pero se consider&oacute; que, a diferencia del hurac&aacute;n &ldquo;Otis&rdquo;, por los censos que se hicieron, no hab&iacute;a una afectaci&oacute;n generalizada en el caso de los enseres.</p>
+
+<p>Se dio un apoyo importante.</p>
+
+<p>&mdash;Ariadna est&aacute; por aqu&iacute;. &iquest;Cu&aacute;nto se dio, si quieres explicar cuanto se dio?&mdash;.</p>
+
+<p><strong>SECRETARIA DE BIENESTAR, ARIADNA MONTIEL REYES:</strong> Buenos d&iacute;as. Con el permiso, Presidenta.</p>
+
+<p>Aqu&iacute; en el estado de Guerrero se apoyaron a 143 mil familias; depende de la afectaci&oacute;n: se entregaron 25 mil, 35 mil, 45 mil pesos y hasta 60 mil pesos para quienes tuvieron una p&eacute;rdida casi total de sus viviendas.</p>
+
+<p>Y respecto al tema espec&iacute;fico de Acapulco, fueron 43 mil personas a las que se les entreg&oacute; este apoyo econ&oacute;mico.</p>
+
+<p><strong>PREGUNTA: &iquest;Y para quienes no pudieron cobrarlo en su momento, ya no va a haber una segunda fase?</strong></p>
+
+<p><strong>SECRETARIA DEL BIENESTAR, ARIADNA MONTIEL REYES:</strong> Gracias. Como hab&iacute;a instruido la Presidenta, recibimos una serie de llamadas a la L&iacute;nea de Bienestar y les pedimos que todo aquel que tenga alguna incidencia nos llame a la L&iacute;nea.</p>
+
+<p>Es importante que sea a trav&eacute;s de este mecanismo porque en la llamada se refieren todos los datos como si estuvi&eacute;ramos haciendo una visita domiciliaria, pero ya en campo no vamos a realizar ninguna actividad. Entonces, hemos estado atendiendo de esta manera para que sea m&aacute;s eficiente para nosotros, en medida que ya retiramos toda la brigada, las actividades regulares de la Secretar&iacute;a.</p>
+
+<p><strong>PREGUNTA: Muy bien. Muchas gracias. De mi parte ser&iacute;a todo. Rosalba Ram&iacute;rez, del peri&oacute;dico <em>El Guerrero</em> y <em>Lectura Period&iacute;stica</em>.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Gracias.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Andy Garc&iacute;a, de <em>C&oacute;dice 21</em>.</strong></p>
+
+<p><strong>Traerle el sincero cari&ntilde;o y agradecimiento del pueblo de Guerrero y de Acapulco porque, a pesar de las adversidades, usted nunca nos ha dejado solos. Mencionan que junto con al Presidente AMLO han sido los mejores en la historia del pa&iacute;s.</strong></p>
+
+<p><strong>Preguntarle de la coordinaci&oacute;n que ha tenido con la gobernadora guerrerense, Evelyn Salgado Pineda, primera mujer en la historia de administrar la entidad, igual que usted en el pa&iacute;s: &iquest;si seguir&aacute; la coordinaci&oacute;n permanentemente, como ha estado ha estado ahora, sobre todo, con el plan anunciado ayer, y con la alcaldesa Abelina L&oacute;pez Rodr&iacute;guez, para seguir con la reconstrucci&oacute;n de Acapulco? Debido a que, pese a ser el primer destino tur&iacute;stico de talla mundial en M&eacute;xico, por muchos a&ntilde;os estuvo en el abandono de las autoridades federales.</strong></p>
+
+<p><strong>Es la primera pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. Por supuesto, hay mucha coordinaci&oacute;n con Evelyn, excelente gobernadora; con la presidenta municipal, Abelina, tambi&eacute;n una excelente presidenta municipal. Hay mucha coordinaci&oacute;n.</p>
+
+<p>Sebasti&aacute;n est&aacute; viviendo aqu&iacute;, pr&aacute;cticamente, en Acapulco; ya se est&aacute; haciendo acapulque&ntilde;o.</p>
+
+<p>Y, obviamente, todos est&aacute;n ayudando, todo el Gabinete:</p>
+
+<p>Josefina, como secretaria de Turismo, ayudando a la gobernadora a la promoci&oacute;n de todo Guerrero y particularmente, de Acapulco.</p>
+
+<p>El director de Conagua, que est&aacute; haciendo todos los trabajos para la rehabilitaci&oacute;n del sistema de aguas, saneamiento. Le acabamos de encargar que tambi&eacute;n nos ayude con el tema del reciclamiento de basura que, en su momento, lo trabaj&oacute; en la Ciudad de M&eacute;xico, y que tiene mucho conocimiento.</p>
+
+<p>El secretario &mdash;de Obras iba a decir&mdash; de Infraestructura Comunicaciones y Transportes.</p>
+
+<p>Por supuesto, la secretaria Ariadna.</p>
+
+<p>Todo el Gabinete de Seguridad.</p>
+
+<p>Carlos Torres, que es quien coordina ah&iacute; en la Secretar&iacute;a de Bienestar y como secretario T&eacute;cnico de la Presidencia los distintos trabajos.</p>
+
+<p>&iquest;Qui&eacute;n m&aacute;s? Leti Ram&iacute;rez, que estuvo viviendo en Acapulco un mes; ya ahora trae otras tareas.</p>
+
+<p>La secretaria de Gobernaci&oacute;n.</p>
+
+<p>Todos est&aacute;n apoyando.</p>
+
+<p>Ariadna, por supuesto, que vivi&oacute; un a&ntilde;o aqu&iacute;, despu&eacute;s del hurac&aacute;n &ldquo;Otis&rdquo;.</p>
+
+<p>Entonces, ya casi todos somos acapulque&ntilde;os.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta.</strong></p>
+
+<p><strong>Mi segunda pregunta, Presidenta es: es bien sabido que el rector de la Universidad Aut&oacute;noma de Guerrero, Javier Salda&ntilde;a Almaz&aacute;n, fue el primero que la apoy&oacute; a usted, incluso, desde antes de que usted fuera precandidata.</strong></p>
+
+<p><strong>&iquest;Saber si habr&aacute; un presupuesto adicional a estas universidades?, que son muy importantes porque son las que de las comunidades de los pueblos m&aacute;s alejados tienen la oportunidad de asistir a una instituci&oacute;n de nivel superior.</strong></p>
+
+<p><strong>&iquest;Saber si habr&aacute; un presupuesto adicional a esta universidad? Una de las m&aacute;s s&oacute;lidas del pa&iacute;s, la cual busca incrementar su matr&iacute;cula y que entre sus particularidades es que siempre se ha caracterizado por ser de izquierda.</strong></p>
+
+<p><strong>Esa es mi segunda pregunta.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si. Nos toc&oacute; ya hace mucho, ya no s&eacute; cu&aacute;nto&hellip; El gobierno federal hace muchos a&ntilde;os &mdash;estoy queriendo recordarme qu&eacute; &eacute;poca fue esa, yo creo que finales de los &lsquo;70, &lsquo;80&mdash; castig&oacute; mucho a la Universidad Aut&oacute;noma de Guerrero, era rector Rosal&iacute;o Wences, en los &rsquo;80, y nos toc&oacute; acompa&ntilde;ar en manifestaciones en su momento &mdash;Evelyn estaba chiquita&mdash;para la &ldquo;defensa del subsidio&rdquo;, dec&iacute;amos entonces, que es en realidad de la inversi&oacute;n a la Universidad de Guerrero. La castigaban por elegir democr&aacute;ticamente a sus autoridades, eso era lo que no quer&iacute;an los reg&iacute;menes autoritarios de entonces.</p>
+
+<p>Y ahora, si ustedes recuerdan, a todas las universidades p&uacute;blicas, porque no es un asunto de &ldquo;si apoyaste o no apoyaste&rdquo;, &iquest;verdad? Es obligaci&oacute;n del Gobierno de M&eacute;xico en funci&oacute;n, obviamente, los recursos p&uacute;blicos, pero apoyar a la educaci&oacute;n. Entonces, todas las universidades aut&oacute;nomas estatales tienen recursos, una parte depende del Gobierno Federal y otra parte depende del gobierno estatal.</p>
+
+<p>Entonces, siempre se le va a apoyar a la Universidad de Guerrero.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta.</strong></p>
+
+<p><strong>Por &uacute;ltimo, nada m&aacute;s, agradecerle en especial, la mam&aacute; del ni&ntilde;o Carlitos, del ISSSTE. Ella aqu&iacute; en una &ldquo;Ma&ntilde;anera&rdquo; le externamos al Presidente L&oacute;pez Obrador que le hab&iacute;an suspendido una vacuna, que ya estaba aprobada y que el presupuesto para esta vacuna hab&iacute;a desaparecido; el Presidente instruy&oacute; que se le aplicar&aacute; la vacuna, con un valor alrededor de 3 millones de pesos. Hasta este momento le han puesto m&aacute;s de 28 millones de pesos.</strong></p>
+
+<p><strong>Su mam&aacute;, Gabi, est&aacute; eternamente agradecida con usted y con el Presidente.</strong></p>
+
+<p><strong>Y preguntarle: &iquest;c&oacute;mo ser&aacute; la continuaci&oacute;n de la Transformaci&oacute;n en el sistema de salud en Guerrero y en el pa&iacute;s?</strong></p>
+
+<p><strong>Muchas gracias, se&ntilde;ora Presidenta. Buenos d&iacute;as.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Tuvimos reuniones estos tres d&iacute;as que pasaron; nos falta una reuni&oacute;n, que va a ser el martes con todos los gobernadores y gobernadoras que son parte o que firmaron los convenios para ser parte del IMSS-Bienestar.</p>
+
+<p>Hay cuatro temas importantes que tratamos en estas reuniones para el fortalecimiento del IMSS-Bienestar y de la atenci&oacute;n a la salud, prevenci&oacute;n y atenci&oacute;n a la salud de todos los mexicanos y mexicanas, y particularmente en este sistema, que son 23 gobiernos estatales que tienen firmado; el gobierno de Yucat&aacute;n ya manifest&oacute; su deseo de ser parte del IMSS-Bienestar.</p>
+
+<p>Y hay otros gobiernos tambi&eacute;n que, aunque no sean gobernados por el movimiento del que formamos parte, tambi&eacute;n han manifestado su deseo de ser parte del IMSS-Bienestar. Ayer, por ejemplo, el gobernador de Durango me dijo que quiere platicar la posibilidad de ser parte del IMSS-Bienestar.</p>
+
+<p>Entonces, trabajamos cuatro temas:</p>
+
+<p>Uno, es el financiamiento de la instituci&oacute;n que depende de recursos federales y algo de recursos estatales, que podamos tener todos los recursos a tiempo.</p>
+
+<p>El segundo punto tiene que ver con que todos los servicios de hospitales, Centros de Salud, est&eacute;n bien atendidos.</p>
+
+<p>El tercero, con medicamentos y abasto de insumos m&eacute;dicos, de todos los insumos m&eacute;dicos. Que, como ustedes saben, estamos haciendo una licitaci&oacute;n bianual que ya est&aacute; asignando medicamentos y dispositivos, y ya comienzan a entregarse.</p>
+
+<p>Y el cuarto punto, sobre el fortalecimiento de todo el sistema.</p>
+
+<p>Entonces, vamos a seguir trabajando para atender a la gente.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Aurora Harrison, reportera del peri&oacute;dico <em>El Sur</em>.</strong></p>
+
+<p><strong>Presidenta, yo le quiero preguntar: &iquest;cu&aacute;l es su opini&oacute;n acerca de que el senador F&eacute;lix Salgado Macedonio afirm&oacute; que va a apoyar la reforma electoral que usted est&aacute; presentando sobre la situaci&oacute;n del nepotismo, para que se hereden cargos?</strong></p>
+
+<p><strong>&Eacute;l dice que va a votar a favor, aunque a sus simpatizantes que tendr&aacute; efecto hasta el 2030. Yo quiero saber &iquest;cu&aacute;l es su opini&oacute;n respecto a esto?</strong></p>
+
+<p><strong>Y la otra pregunta que tengo, Presidenta, es: &iquest;cu&aacute;les son los avances en la b&uacute;squeda de los 43 normalistas? Los padres han estado insistiendo en que se diga, se d&eacute; el informe por parte del Ej&eacute;rcito. Preguntarle: &iquest;cu&aacute;les son los avances?, &iquest;ya el Ej&eacute;rcito le dio alguna informaci&oacute;n respecto a lo que est&aacute;n solicitando los padres?</strong></p>
+
+<p><strong>Y la otra es, la otra pregunta, Presidenta, es usted en d&iacute;as recientes hab&iacute;a comentado acerca del decreto del <em>outsourcing</em>, preguntarle: &iquest;si nos puede decir en qu&eacute; consiste esta situaci&oacute;n?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> La primera, vamos a enviar las iniciativas, son dos iniciativas de reforma electoral con las que estamos trabajando, la primera la vamos a enviar para que nuestro objetivo es que sea aprobada en el siguiente periodo, que tiene que ver con una reforma en contra del nepotismo y para que ya no haya reelecci&oacute;n. Son los temas que vamos a enviar, son reformas constitucionales en ambos casos.</p>
+
+<p>Y nosotros creemos que no est&aacute; bien que se herede de manera&hellip; Bueno, que se &ldquo;herede&rdquo; no es la palabra; que sea candidato o candidata en la siguiente elecci&oacute;n alg&uacute;n familiar directo, eso es lo que nosotros creemos, esencialmente, para todos los cargos, pero principalmente para los cargos del Ejecutivo, municipal, estatal y federal. Esa es una reforma.</p>
+
+<p>La otra es sobre la reelecci&oacute;n, que nosotros creemos en la Constituci&oacute;n de 1917: &ldquo;Sufragio efectivo, no reelecci&oacute;n&rdquo;, para ning&uacute;n cargo de elecci&oacute;n popular.</p>
+
+<p>Entonces, vamos a enviar esas.</p>
+
+<p>Y despu&eacute;s, estamos trabajando, ya se enviar&iacute;a despu&eacute;s en lo que tiene que ver con la desaparici&oacute;n de las listas plurinominales como las conocemos ahora; en la reducci&oacute;n del financiamiento a partidos pol&iacute;ticos; y que las elecciones sean democr&aacute;ticas, transparentes abiertas, pero que no representen tanta erogaci&oacute;n de recursos; y algunos otros temas que vamos a enviar en su momento.</p>
+
+<p>Esas son las dos&hellip; El planteamiento sobre reforma electoral.</p>
+
+<p>Pero el que va a ser inmediato es contra el nepotismo y la reelecci&oacute;n en el periodo inmediato. Ya si despu&eacute;s de, siguiente periodo alguien&hellip; En efecto, a partir del 2030, esa es la iniciativa que vamos a enviar; depende pues ya de las C&aacute;maras aceptarla y de los Congresos estatales.</p>
+
+<p>La propuesta es que no sea en el inmediato, sino que ya si despu&eacute;s&hellip; en ambos casos.</p>
+
+<p>Como era antes en el caso de la reelecci&oacute;n: de que un diputado puede ser diputado en un periodo, no en el siguiente, sino hasta el siguiente periodo puede postularse; ese es&hellip; o presidente municipal; para gobernador y para presidente, pues no hay reelecci&oacute;n, &iquest;no?</p>
+
+<p><strong>PREGUNTA: Le pregunto esto por la posibilidad de que el senador F&eacute;lix Salgado Macedonio quiere ser candidato a gobernador en las pr&oacute;ximas elecciones.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Bueno, eso ya lo decidir&aacute;n despu&eacute;s, el propio partido pol&iacute;tico, pero nuestra propuesta es que sea a partir del 2030.</p>
+
+<p>&iquest;La otra pregunta era&hellip;?</p>
+
+<p><strong>PREGUNTA: De los avances de la b&uacute;squeda de los 43&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iexcl;Ah, s&iacute;!</p>
+
+<p>Nos reunimos ya en su momento con los padres y madres de Ayotzinapa. Tenemos un equipo que est&aacute; trabajando en la revisi&oacute;n de todas las carpetas de investigaci&oacute;n y de algunos elementos que no fueron considerados durante todo el proceso, no por otra cosa, sino porque es bueno que haya un equipo nuevo que revise nuevamente el caso, desde lo que pas&oacute; la noche de la desaparici&oacute;n de los estudiantes.</p>
+
+<p>El Ej&eacute;rcito ha estado colaborando desde el momento que entr&oacute; el Presidente L&oacute;pez Obrador y ahora, tambi&eacute;n en todo lo que se requiera. Incluso, hay algunas personas que est&aacute;n detenidas, que fueron&hellip; que son elementos del Ej&eacute;rcito, y han seguido colaborando en todo lo que sea necesario.</p>
+
+<p>Y ustedes saben, lo que fueron las &uacute;ltimas cartas del Presidente L&oacute;pez Obrador a los padres, nosotros coincidimos en esta visi&oacute;n, pero no por ello estamos dejando de hacer esta revisi&oacute;n integral que ha llevado a nuevas detenciones, y vamos a seguir trabajando. Ese caso va a seguir siendo parte de nuestras prioridades.</p>
+
+<p><strong>PREGUNTA: Lo otro, del <em>outsourcing</em>, que usted en d&iacute;as recientes hab&iacute;a dicho&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Se va a emitir un decreto en los pr&oacute;ximos d&iacute;as de incentivos de distinto tipo para la inversi&oacute;n, tanto la inversi&oacute;n extranjera directa como inversi&oacute;n nacional asociada a esto que presentamos, que es el Plan M&eacute;xico, que tiene el objetivo de incrementar la inversi&oacute;n, particularmente, en manufactura en nuestro pa&iacute;s.</p>
+
+<p>El objetivo es fortalecer la econom&iacute;a nacional, que se fortalece en el tratado comercial que tenemos con Estados Unidos y Canad&aacute;, pero lo que buscamos es que en M&eacute;xico se produzcan muchos de los insumos de varios sectores de la econom&iacute;a.</p>
+
+<p>En ese sentido, disminuyen las importaciones de Asia y de otros pa&iacute;ses. Lo que queremos es que haya m&aacute;s producci&oacute;n nacional y que se fortalezcan las cadenas productivas, que haya m&aacute;s empleo, mejor remunerado, en zonas en donde los recursos naturales tienen vocaci&oacute;n para ciertas industrias. No va a haber una industria de alto consumo de agua en el norte del pa&iacute;s o donde no haya agua, tiene que haberla en donde hay disponibilidad de agua.</p>
+
+<p>Entonces esto es parte de lo que llamamos el &ldquo;Plan M&eacute;xico&rdquo;.</p>
+
+<p>Y el decreto se va a emitir&hellip; No recuerdo el d&iacute;a. Lo revisamos el viernes, justamente. No, hoy es viernes; ayer lo revisamos. No es cierto, lo revisamos el mi&eacute;rcoles en la reuni&oacute;n que tuvimos sobre este tema; y ya est&aacute; listo para su decreto, creo que es la pr&oacute;xima semana.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Buenos d&iacute;as. Citlalli Guerrero, de <em>Bajo Palabra</em>.</strong></p>
+
+<p><strong>Sin duda alguna el proyecto que m&aacute;s ha impactado en Acapulco es el &ldquo;Marib&uacute;s&rdquo;. Digo, es algo que ya hab&iacute;a sido antes planteado por el exgobernador &Aacute;ngel Aguirre Rivero en el 2013.</strong></p>
+
+<p><strong>Preguntarle, Presidenta: &iquest;cu&aacute;nto es el monto de esta inversi&oacute;n, y si va a hacer p&uacute;blica, privada, mixta?, &iquest;y para cu&aacute;ndo se tiene planeado que inicie ya sus operaciones?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El objetivo es que lo desarrolle la Secretar&iacute;a de Marina. En ese sentido, ser&aacute; p&uacute;blico. Entonces, ya est&aacute; el secretario de Marina haciendo el c&aacute;lculo.</p>
+
+<p>Tiene que ver con la&hellip; cualquier sistema de transporte para que funcione, para que opere, para que sea viable, pues tiene que hacerse un estudio de demanda.</p>
+
+<p>&iquest;Qu&eacute; quiere decir un estudio de demanda? Cu&aacute;ntos pasajeros se subir&iacute;an a este transporte.</p>
+
+<p>&iquest;De qu&eacute; depende cu&aacute;ntos pasajeros se subir&iacute;an? Pues tambi&eacute;n de las paradas que tuviera. Puede tener nada m&aacute;s ida y vuelta de un punto a otro de la bah&iacute;a, o puede tener alguna parada intermedia. Eso tiene que ver con la viabilidad t&eacute;cnica para poderlo hacer de esta manera.</p>
+
+<p>&iquest;Cu&aacute;ntos veh&iacute;culos estar&iacute;an &mdash;mar&iacute;timos&mdash; se estar&iacute;an adquiriendo o construyendo para poderlo realizar?</p>
+
+<p>Entonces, se est&aacute;n haciendo los estudios, pero pues es una alternativa muy viable para evitar el transporte por la costera; y adem&aacute;s, el impacto ambiental que se tiene que hacer, la manifestaci&oacute;n de impacto ambiental para el impacto que pudiera tener. Ese es uno.</p>
+
+<p>Estamos analizando la posibilidad de cablebuses en Acapulco, tambi&eacute;n, y de fortalecer el sistema de transporte que existe actualmente, porque uno de los problemas de Acapulco es la movilidad, uno de otros problemas.</p>
+
+<p>Entonces, queremos atenderlo de manera integral.</p>
+
+<p><strong>PREGUNTA: Pero &iquest;s&iacute; tienen planeado m&aacute;s o menos cu&aacute;ndo empezar&iacute;a?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya lo vamos a ir informando, una vez que tengamos los estudios de demanda, la inversi&oacute;n que se tiene que hacer. Pero s&iacute; es un proyecto que vamos a llevar a cabo.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Una segunda pregunta, aprovechando que est&aacute; aqu&iacute; el subsecretario Sebasti&aacute;n, preguntarle: &iquest;si tiene planeado volver a reunirse con artistas, con parte de la comunidad cultural, para lograr este acercamiento que hab&iacute;a dicho con Emilio V&aacute;zquez, de la ASIPONA, para que la comunidad cultural pueda participar en el dise&ntilde;o del circuito cultural que se est&aacute; planeando para esta zona del malec&oacute;n?</strong></p>
+
+<p><strong>SUBSECRETARIO DE TURISMO, SEBASTI&Aacute;N RAM&Iacute;REZ MENDOZA:</strong> S&iacute;. Desde el primer momento la Presidenta Sheinbaum lo que nos ha instruido es que escuchemos a todos los sectores de la sociedad y est&aacute;bamos en el proceso de dise&ntilde;ar lo que ayer se present&oacute;.</p>
+
+<p>Y ahora, vamos a abrir una siguiente etapa de volvernos a reunir con todos los sectores y recuperar las reuniones con la comunidad cultural de all&aacute;, del Acapulco tradicional, con el que ya nos reunimos, y volvernos a reunir con gusto.</p>
+
+<p><strong>PREGUNTA: Muchas, subsecretario.</strong></p>
+
+<p><strong>Una &uacute;ltima pregunta, secretaria, digo, Presidenta, perd&oacute;n: en los proyectos que present&oacute; ayer &iquest;si tiene considerado a alg&uacute;n proyecto de cuidado al medio ambiente? Porque muchos bi&oacute;logos locales han denunciado el blanqueamiento de los corales; y, bueno, y la fauna, y la flora de Acapulco fue devastada.</strong></p>
+
+<p><strong>Preguntarle: &iquest;si tiene&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. Inclusive ayer lo anunci&oacute; Sebasti&aacute;n el tema de las &Aacute;reas Naturales Protegidas.</p>
+
+<p>&mdash;&iquest;Quieres informarlo?&mdash;</p>
+
+<p><strong>SUBSECRETARIO DE TURISMO, SEBASTI&Aacute;N RAM&Iacute;REZ MENDOZA:</strong> Bueno, desde la administraci&oacute;n del Presidente L&oacute;pez Obrador, la Comisi&oacute;n Nacional de &Aacute;reas Naturales Protegidas empez&oacute; el trabajo del dise&ntilde;o de dos nuevas &Aacute;reas Naturales Protegidas: una es el sistema lagunar y el otro es el nuevo plan de manejo para el Parque Nacional El Veladero.</p>
+
+<p>Entonces, a lo largo de este a&ntilde;o ya est&aacute; la Conanp trabajando y se har&aacute;n los decretos de las dos nuevas &aacute;reas naturales protegidas.</p>
+
+<p><strong>PREGUNTA: Y para la bah&iacute;a, o sea, para los corales que se est&aacute;n blanqueando, o sea, se est&aacute;n&hellip; &iquest;hay alg&uacute;n plan considerado?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO</strong>: Semarnat es parte del equipo de trabajo, no est&aacute; aqu&iacute; ahora, pero es parte del equipo de trabajo, no solamente para los impactos ambientales de lo que estamos dise&ntilde;ando, sino tambi&eacute;n para la restauraci&oacute;n, el rescate ambiental de la bah&iacute;a y de otras zonas impactadas.</p>
+
+<p><strong>PREGUNTA: Una &uacute;ltima pregunta, Presidenta. Preguntarle &iquest;si tiene alg&uacute;n proyecto de desarrollo para la zona rural? Mucho se ha dicho, pues que est&aacute; abandonado, que no es vista, o sea, como si fuera otro Acapulco o como si no fuera parte de Acapulco.</strong></p>
+
+<p><strong>Preguntarle &iquest;si hay alg&uacute;n proyecto de desarrollo &mdash;no s&eacute;&mdash; agr&iacute;cola, algo espec&iacute;fico para el rescate de la zona rural de Acapulco?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Lo que se anunci&oacute; ayer y hoy tiene que ver con el rescate tur&iacute;stico y urbano &mdash;vamos a decirlo&mdash; as&iacute; de Acapulco y de Coyuca. Hay una parte rural, en efecto, que es atendida a partir de los otros programas que tenemos.</p>
+
+<p>Producci&oacute;n para el Bienestar, contin&uacute;a.</p>
+
+<p>Contin&uacute;a el apoyo de fertilizantes.</p>
+
+<p>De hecho, vamos a tener un evento. De aqu&iacute; nos vamos a ir a un evento de &ldquo;S&iacute; al Desarme, S&iacute; a la Paz&rdquo;; despu&eacute;s a J&oacute;venes Construyendo el Futuro; despu&eacute;s vamos por la costa; vamos a ir a La Monta&ntilde;a tambi&eacute;n en esta gira. Vamos a terminar en Puebla, en el estado de Puebla, cerca de Iz&uacute;car de Matamoros.</p>
+
+<p>Y entre otros actos, vamos a hacer uno de entrega de fertilizantes, porque ya inici&oacute; la entrega de fertilizantes a trav&eacute;s de la producci&oacute;n principalmente de Pemex en los fertilizantes. Sigue este programa y en Guerrero es de los estados donde m&aacute;s entrega de fertilizantes hay.</p>
+
+<p>Y estamos trabajando en un proyecto que se llama Cosechando Soberan&iacute;a, un programa especial que tiene que ver con aumentar la producci&oacute;n agroecol&oacute;gica principalmente.</p>
+
+<p>Todo esto es principalmente para los peque&ntilde;os productores de nuestro pa&iacute;s, incluido Acapulco.</p>
+
+<p><strong>PREGUNTA: Sembrando Vida.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah, y Sembrando Vida, por supuesto, en La Monta&ntilde;a, que es muy importante.</p>
+
+<p>&mdash;A ver, ac&aacute; adelante, primero, y luego all&aacute; atr&aacute;s&mdash;.</p>
+
+<p><strong>PREGUNTA: Presidenta, buenos d&iacute;as.</strong></p>
+
+<p><strong>Preguntarle, regresando un poco a la elecci&oacute;n del Poder Judicial, &iquest;desde el Gobierno Federal se tiene estimada aproximadamente la participaci&oacute;n de la gente el d&iacute;a de la elecci&oacute;n?</strong></p>
+
+<p><strong>Tambi&eacute;n, &iquest;si el Gobierno Federal podr&aacute; promover que la gente vaya y vote ese d&iacute;a?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Queremos que participe la ciudadan&iacute;a. De ah&iacute;, a tener un c&aacute;lculo de cu&aacute;nta participar&aacute;, pues ya m&aacute;s bien le corresponde al Instituto Nacional Electoral.</p>
+
+<p>Y estamos pidi&eacute;ndole al Instituto que lo m&aacute;s pronto posible pueda emitir las reglas de c&oacute;mo y qui&eacute;n puede participar en el llamado al voto.</p>
+
+<p>Yo creo, mi punto de vista es que todos podemos participar llamando al voto, a la participaci&oacute;n; distinto es que se llame a votar por una u otra persona, es muy distinto. Pero decir que la gente vaya y participe creo que es una posibilidad de todos los Poderes, poder hacer este llamado a la votaci&oacute;n.</p>
+
+<p>Pero el INE tiene que emitir las reglas para saber. Incluso, por ejemplo, los partidos pol&iacute;ticos tienen prohibido hacer proselitismo en favor de una u otra persona, pero no sabemos si pueden llamar a la participaci&oacute;n.</p>
+
+<p>Entonces, todas esas reglas las tiene que emitir el Instituto Nacional Electoral. Y esperamos que en el pr&oacute;ximo, lo que queda de este mes, el pr&oacute;ximo mes, puedan definir estas reglas de participaci&oacute;n.</p>
+
+<p>De todas maneras, en la reuni&oacute;n que tuve con las y los consejeros electorales les plante&eacute; que el Gobierno Federal puede ceder su tiempo de radio y televisi&oacute;n para poder hacer promoci&oacute;n de la votaci&oacute;n, de la participaci&oacute;n electoral para el 1o. de junio.</p>
+
+<p><strong>PREGUNTA: Tambi&eacute;n en este tema, esta semana algunas ministras fueron denunciadas ante el INE por hacer actos anticipados de campa&ntilde;a. &iquest;Podr&iacute;an ser sancionadas, Presidenta?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No lo creo. Digo, las y los ministros tienen derecho a dar sus opiniones, a decir lo que est&aacute; pasando, es un momento importante. Y ya las reglas, repito, las tiene que definir el INE.</p>
+
+<p><strong>PREGUNTA: Perfecto, finalmente, sobre este tema del &ldquo;S&iacute; al Desarme, S&iacute; a la Paz&rdquo;, hace unas semanas se present&oacute; en la Bas&iacute;lica este plan. &iquest;Si nos podr&iacute;a dar un corte de caja de cu&aacute;ntas armas se recaudaron ese d&iacute;a?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, c&oacute;mo no, s&iacute;. Ha sido muy importante la participaci&oacute;n.</p>
+
+<p>&mdash;F&iacute;jense, se&hellip; Aqu&iacute; lo tengo. A ver si lo tienen&mdash;</p>
+
+<p>Ah&iacute; est&aacute;, miren, son: 213 armas cortas, 49 armas largas, 13 granadas, 14 mil 887 cartuchos, 153 cargadores. Y se han erogado un mill&oacute;n 530 mil 627 pesos.</p>
+
+<p>Se va a quedar una semana m&aacute;s ah&iacute; en la Bas&iacute;lica, pero se est&aacute; instalando en otros lugares, aqu&iacute; en Guerrero tambi&eacute;n ya est&aacute; el programa.</p>
+
+<p>Para todos los que no lo conocen: Una persona que tenga un arma pueda entregarla sin ning&uacute;n tipo de investigaci&oacute;n, se le dan recursos econ&oacute;micos a cambio, a partir de una lista que fue aprobada y publicada de cu&aacute;ntos recursos a partir de qu&eacute; arma se entrega.</p>
+
+<p>Y el objetivo es desarmar, el objetivo es la construcci&oacute;n de la paz.</p>
+
+<p><strong>PREGUNTA: &iquest;Hoy empieza aqu&iacute; en Guerrero?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;&hellip;</p>
+
+<p><strong>SECRETARIA DE GOBERNACI&Oacute;N, ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:</strong> El 22.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah, el 22, pero vamos&hellip;</p>
+
+<p><strong>SECRETARIA DE GOBERNACI&Oacute;N, ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:</strong> Es una Feria de Paz.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Hoy es una Feria de Paz.</p>
+
+<p>El 22 inicia aqu&iacute; en Guerrero.</p>
+
+<p>En una&hellip; Van a estar, estamos trabajando en este caso con las Iglesias &mdash;digo &ldquo;las Iglesias&rdquo; porque son de diversas denominaciones&mdash; y, particularmente con la Iglesia cat&oacute;lica, que estamos en los atrios de las iglesias, de los templos, que amablemente abren sus puertas para generar un espacio de confianza para la entrega de estas armas.</p>
+
+<p>Y, por supuesto, la Secretar&iacute;a de la Defensa Nacional es la encargada de destruir las armas.</p>
+
+<p><strong>PREGUNTA: &iquest;Se implementar&aacute; principalmente en los estados en donde hay mayor &iacute;ndice de violencia?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Va a ser en todo el pa&iacute;s, pero s&iacute; vamos a ir a los estados en donde creemos que es necesario intervenir.</p>
+
+<p>Bueno, ya cerramos. Vamos a cerrar con un video de &ldquo;Suave Patria&rdquo; como todos los viernes.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE LA SECCI&Oacute;N &ldquo;SUAVE PATRIA&rdquo; SOBRE LA ELABORACI&Oacute;N DEL MOLE)</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Buenos d&iacute;as.</p>
+
+<p>Gracias a todos y a todas.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2025-01-17 10:14:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de enero de 2025";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-enero-de-2025";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-enero-de-2025" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de enero de 2025"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-enero-de-2025" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-enero-de-2025&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 17 de enero de 2025";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-enero-de-2025" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-enero-de-2025";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-17-de-enero-de-2025" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

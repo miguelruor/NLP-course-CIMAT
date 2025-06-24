@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Blog | Archivo | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta content="Archivo Blog" property="og:title" />
+  <meta name="description" content="Archivo de artículos de Presidencia de la República ">
+  <!-- meta content="" property="og:image" / -->
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Archivo Blog" property="og:description" />
+  <meta content="//www.gob.mx/Presidencia de la República /archivo/Blog" property="og:url" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="sDwbZpRAyJ3wrKUY84ZCk2JHWpBwn1ln3I5XK7uY1fY=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nn567jbez44jlxa-f-acc3c0b29-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":23,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"70a0a95","ak.r":46322,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62140,"ak.gh":"189.247.210.20","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296046","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==kmnp2iio/lFbfRD4z3r1hPxtKCUpQU1vYo29VeM+LgFqRwT6xtApzX8fli2jFOvUeFd6VJh6+LRNRF8dK0wpIIJTIp8FRXvomB+E0pxWS1xJ9G09WeYNeecE+McJ4P75fsGdPFiZsnN0qZXvH5+GWf1gxHyvgJT4KWRao/mGT6NQgQENuPq/1sUwpbmQe4U/2p5Daq9VHHhVEax5w3yy1jRymq6y6ZCPo8bNMpuizepuZyreFdgbR7u+Hr+80CKoTInLbI802dW5qBmlEJVEpDZQhOwSZliSTu4A6Z+9uNdPvYHZLCHbmiWQZx+btx7IoPpMOdTLAPc+/zb/4D3M9A34vd6tABFdkAXdWg8nNOWiuGA/aIU5geaF+VQyuF3WtMS/qxf2XlC+SC2EYJjO3aKSdL/YxC3ptyLZQ+++mDw=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/#14882'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+<main class="inner-page interior ficha" tabindex="-1">
+  <div class="container">
+    <ol class="breadcrumb">
+      <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+      <li><a href="/presidencia">Presidencia de la República </a></li>
+      <li>Archivo</li>
+      <li class="active">Blog</li>
+    </ol>
+
+    <div class="font-changer internal print">
+      <button class="inc-font font-modifier" title="Aumentar tamaño de texto" aria-hidden="true">Aa+</button>
+      <button class="dec-font font-modifier" title="Disminuir tamaño de texto" aria-hidden="true">Aa-</button>
+    </div>
+
+    <h1 class="sr-only">Blog</h1>
+    <div class="row clearfix">
+      <div class="col-sm-12 col-md-8">
+  <form accept-charset="UTF-8" action="https://www.gob.mx/presidencia/es/archivo/articulos?filter_origin=archive&amp;idiom=es&amp;order=DESC&amp;page=8" class="row clearfix" id="filters" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <input class="form-control" id="idiom" name="idiom" type="hidden" value="es" />
+    <input class="form-control" id="style" name="style" type="hidden" value="th" />
+    <input class="form-control" id="order" name="order" type="hidden" value="DESC" />
+    <input class="form-control" id="filter_id" name="filter_id" type="hidden" />
+    <input class="form-control" id="filter_origin" name="filter_origin" type="hidden" value="archive" />
+    <input class="form-control" id="tags" name="tags" type="hidden" value="" />
+
+    <div class="col-md-12 form-group" style="margin-top: 18px;">
+      <div class="btn-group" role="group" aria-label="style" style="margin-right: 12px;">
+        <button type="button" class="btn-grp btn btn-default btn-view active" style="padding: 8px 14px;" aria-label="th" data-toggle="tooltip" data-placement="top" title="Ordenar publicaciones en formato de mosaico"><span class="glyphicon glyphicon-th"></span></button>
+        <button type="button" class="btn-grp btn btn-default btn-view " style="padding: 8px 14px;" aria-label="list" data-toggle="tooltip" data-placement="top" title="Ordenar publicaciones en formato de mosaico"><span class="glyphicon glyphicon-th-list"></span></button>
+      </div>
+      <div class="btn-group" role="group" aria-label="order" style="margin-right: 12px;">
+          <button type="button" class="btn-grp btn btn-default btn-order active" aria-label="desc" style="padding: 8px 14px;" data-toggle="tooltip" data-placement="top" title="Ordenar publicaciones en orden de más recientemente publicado"><span class="fa fa-sort-amount-desc"></span></button>
+          <button type="button" class="btn-grp btn btn-default btn-order " aria-label="asc" style="padding: 8px 14px;" data-toggle="tooltip" data-placement="top" title="Ordenar publicaciones en orden de más antiguamente publicado"><span class="fa fa-sort-amount-asc"></span></button>
+      </div>
+    </div>
+
+  
+  </form> <!-- End form -->
+</div>
+
+<script type="text/javascript">
+
+  $(function() {
+    $("#categories a").click(function (e) {
+      var id_category  = $(this).attr('value');
+      var current_cat = $("#category");
+
+
+      console.log("Current category: "+current_cat);
+      if (!(id_category)) {
+        current_cat.val(id_category);
+      } else {
+        current_cat.val(id_category);
+      }
+      $('#filters').submit();
+    });
+
+    var category = "";
+    var year = "";
+
+    console.log("Category: "+category);
+
+    if (category !== '') { $('.btn-category').val(category); }
+    if (year !== undefined) { $('.btn-years').val(year); }
+
+    $('.btn-view').click(function (event) {
+      $('#style').val($(this).attr('aria-label'));
+      $('#filters').submit();
+    });
+    $('.btn-order').click(function (event) {
+      $('#order').val($(this).attr('aria-label'));
+      $('#filters').submit();
+    });
+    $('.btn-years').change(function (event) {
+      $('#year').val($(this).val());
+      console.log('value'+$('#year').val);
+      $('#filters').submit();
+    });
+    $('.btn-category').change(function (event) {
+      $('#category').val($(this).val());
+      $('#filters').submit();
+    });
+    $('.list-unstyle li').click(function (event) {
+      var styles = {
+        backgroundColor: "#5cb85c",
+        fontWeight: ""
+      };
+      $(this).css(styles);
+      $('#tags').val($(this).val());
+    });
+
+    // $('.list-unstyle li a').click(function (event) {
+        // console.log($(this).val());
+    // });
+  });
+</script>
+
+      <div class="col-sm-12 col-md-4 archive-titles" style="padding-bottom: 38px;">
+  <p style="text-align:right; font-size: 1em; margin-bottom: 0; line-height: 24px;">
+	Mostrando artículos publicados por: <span style="text-transform: uppercase;"><a href="/presidencia/es">presidencia</a></span>
+  <br>
+	<span>Publicado en la categoría: Blog</span>
+	<br>
+
+	<!-- span>Idioma: </span -->
+  </p>
+</div>
+
+
+<div class="advanced-filter col-md-12 clearfix hidden">
+  <hr>
+  <div class="form-group datepicker-group has-feedback col-md-3">
+    <label for="datestart" class="small" style="font-size: 0.8em; font-weight: 300;">Año de publicación</label>
+    <select class="form-control" id="year_category" name="year[category]"><option value="">Año</option>
+<option value=""></option>
+<option value="Nacional">Nacional</option>
+<option value="Comunicados">Comunicados</option>
+<option value="Conferencias de prensa">Conferencias de prensa</option>
+<option value="Areas">Areas</option>
+<option value="Infield">Infield</option>
+<option value="Estatal">Estatal</option>
+<option value="Pabellones">Pabellones</option>
+<option value="Discursos del Presidente">Discursos del Presidente</option>
+<option value="Entrevistas">Entrevistas</option>
+<option value=""></option>
+<option value="Discursos">Discursos</option></select>
+  </div>
+
+</div>
+
+<script>
+$(function(){
+  $("#press_category").change(function(event) {
+    var category = $("#press_category").val();
+    $("#categoria").val(category);
+    $("#form_category").submit();
+  });
+})
+</script>
+
+      <div class="col-md-6">
+        <a href="#" class="adv-search small-link clearfix btn-primary refbtn" role="button" > Búsqueda avanzada </a>
+        <br>
+        <div class="searcher hidden">
+          
+<form accept-charset="UTF-8" action="https://www.gob.mx/presidencia/es/archivo/articulos?filter_origin=archive&amp;idiom=es&amp;order=DESC&amp;page=8" id="advanced_search" method="get" onsubmit="return valida();"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <fieldset class="row" style="border-color:#fff;">
+      <div class="form-group-icon">
+        <label class="sr-only label-control">Titulo de la publicación</label>
+        <input type="text" name="q" id="q" class="form-control" placeholder="Ingresa tu búsqueda...">
+      </div>
+      <div class="att hidden">
+        <label class="sr-only" for="site">Dependencia</label>
+        <input disabled="disabled" id="site" name="site" type="text" value="presidencia" />
+        <label for="section">Módulo</label>
+        <input disabled="disabled" id="section" name="section" type="text" value="articulos" />
+      </div>
+      <br>
+      <div class="form-group datepicker-group has-feedback">
+        <label for="fechaInicio">Fecha de publicación</label>
+        <input type="text" name="fechaInicio" id="fechaInicio" class="form-control" placeholder="Desde la fecha...">
+        <span class="glyphicon glyphicon-calendar form-control-feedback" aria-hidden="true"></span>
+      </div>
+      <div class="form-group datepicker-group has-feedback">
+        <label for="fechaFin" class="sr-only label-control">Fecha fin</label>
+        <input type="text" name="fechaFin" id="fechaFin" class="form-control" placeholder="Hasta la fecha...">
+        <span class="glyphicon glyphicon-calendar form-control-feedback" aria-hidden="true"></span>
+      </div>
+      <div class="pull-right">
+        <div class="form-group pull-right">
+          <input type="submit" class="btn btn-block btn-primary btn-search" value="Buscar" />
+        </div>
+      </div>
+    </fieldset>
+</form><script type="text/javascript">
+  $(function() {
+    $("#fechaInicio").datepicker();
+    $("#fechaFin").datepicker();
+    if ( $("#fechaInicio").val().trim() != ""){
+      var fechaI = $("#fechaInicio").val();
+      $("#fechaInicio").val( fechaI.substring( 6, 8) + "/" + fechaI.substring(4, 6 ) + "/" + fechaI.substring(0, 4  )  )
+    }
+    if ( $("#fechaFin").val().trim() != ""){
+      var fechaF = $("#fechaFin").val();
+      $("#fechaFin").val( fechaF.substring( 6, 8) + "/" + fechaF.substring(4, 6 ) + "/" + fechaF.substring(0, 4  )  )
+    }
+  });
+  function valida(){
+    if ( ($("#q").val().trim() == "") || ($('#fechaInicio').val().trim() == "") ||  ($('#fechaFin').val().trim() == "") ){
+      alert('Debe ingresar los datos para la búsqueda');
+      return false;
+    } 
+    $("#site").removeAttr("disabled")
+    $("#section").removeAttr("disabled")
+
+    if ( Date.parse($('#fechaInicio').val()) > Date.parse($('#fechaFin').val()) ){
+      alert('Valide sus fechas');
+      return false;
+      $('#fechaFin').val() = $('#fechaFin').val()
+      $("#fechaFin").val() = $("#fechaFin").val();
+    } 
+
+  }
+
+  $('.btn-search').click(function (event) {
+      $('#search').val($(this).attr('q'));
+      $('#search').submit();
+  });
+</script>
+
+<style type="text/css">
+  #ui-datepicker-div{
+    z-index: 5 !important;
+  }
+
+  .ui-widget-content {
+    z-index: 5 !important;
+  }
+</style>
+
+        </div>
+      </div>
+      <hr class="simple-bar">
+        <div class="col-md-12 clearfix top-buffer archives" id="prensa">
+            <div class="row clearfix bottom-buffer">
+                <div class="col-md-4">
+    <article>
+      <div class="guard-of">
+        <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img_curve" onerror="this.src=&#39;https://framework-gb.cdn.gob.mx/main/missing-photo.jpg&#39;;" src="https://www.gob.mx/cms/uploads/article/main_image/152062/cover_firma_decretos.jpeg" width="350" />
+      </div>
+      <time date="2024-12-10 08:55:00">martes, 10 de diciembre de 2024 <span class="sr-only">Fecha de publicación</span></time>
+      <h2>Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de diciembre de 2024</h2>
+      <a aria-label="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 10 de diciembre de 2024" class="small-link" href="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-10-de-diciembre-de-2024?idiom=es" rel="noopener" target="_blank">Continuar leyendo</a>
+    </article>
+  </div>
+  <div class="col-md-4">
+    <article>
+      <div class="guard-of">
+        <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img_curve" onerror="this.src=&#39;https://framework-gb.cdn.gob.mx/main/missing-photo.jpg&#39;;" src="https://www.gob.mx/cms/uploads/article/main_image/152019/cover_Conferencia_matutina_9.45.38_AM.jpeg" width="350" />
+      </div>
+      <time date="2024-12-09 09:43:00">lunes, 09 de diciembre de 2024 <span class="sr-only">Fecha de publicación</span></time>
+      <h2>Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de diciembre de 2024</h2>
+      <a aria-label="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 9 de diciembre de 2024" class="small-link" href="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-9-de-diciembre-de-2024?idiom=es" rel="noopener" target="_blank">Continuar leyendo</a>
+    </article>
+  </div>
+  <div class="col-md-4">
+    <article>
+      <div class="guard-of">
+        <img alt="Versión estenográfica. Programas para el Bienestar" class="img_curve" onerror="this.src=&#39;https://framework-gb.cdn.gob.mx/main/missing-photo.jpg&#39;;" src="https://www.gob.mx/cms/uploads/article/main_image/152018/cover_WhatsApp_Image_2024-12-08_at_3.35.16_PM.jpeg" width="350" />
+      </div>
+      <time date="2024-12-08 16:50:00">domingo, 08 de diciembre de 2024 <span class="sr-only">Fecha de publicación</span></time>
+      <h2>Versión estenográfica. Programas para el Bienestar</h2>
+      <a aria-label="Versión estenográfica. Programas para el Bienestar" class="small-link" href="/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-385510?idiom=es" rel="noopener" target="_blank">Continuar leyendo</a>
+    </article>
+  </div>
+
+            </div>
+            <div class="row clearfix bottom-buffer">
+                <div class="col-md-4">
+    <article>
+      <div class="guard-of">
+        <img alt="Versión estenográfica. Inauguración del Centro de Salud Docente con Servicios Ampliados de Santiago Astata, Oaxaca" class="img_curve" onerror="this.src=&#39;https://framework-gb.cdn.gob.mx/main/missing-photo.jpg&#39;;" src="https://www.gob.mx/cms/uploads/article/main_image/152011/cover_WhatsApp_Image_2024-12-07_at_5.29.02_PM.jpeg" width="350" />
+      </div>
+      <time date="2024-12-07 16:57:00">sábado, 07 de diciembre de 2024 <span class="sr-only">Fecha de publicación</span></time>
+      <h2>Versión estenográfica. Inauguración del Centro de Salud Docente con Servicios Ampliados de Santiago Astata, Oaxaca</h2>
+      <a aria-label="Versión estenográfica. Inauguración del Centro de Salud Docente con Servicios Ampliados de Santiago Astata, Oaxaca" class="small-link" href="/presidencia/es/articulos/version-estenografica-inauguracion-del-centro-de-salud-docente-con-servicios-ampliados-de-santiago-astata-oaxaca?idiom=es" rel="noopener" target="_blank">Continuar leyendo</a>
+    </article>
+  </div>
+  <div class="col-md-4">
+    <article>
+      <div class="guard-of">
+        <img alt="Inauguración de la autopista Tuxtla-San Cristóbal" class="img_curve" onerror="this.src=&#39;https://framework-gb.cdn.gob.mx/main/missing-photo.jpg&#39;;" src="https://www.gob.mx/cms/uploads/article/main_image/151981/cover_Inaugiracion_autopista_chiapas_3.22.14_PM__1_.jpeg" width="350" />
+      </div>
+      <time date="2024-12-06 15:37:00">viernes, 06 de diciembre de 2024 <span class="sr-only">Fecha de publicación</span></time>
+      <h2>Versión estenográfica. Inauguración de la Ampliación y Modernización de la Autopista Tuxtla Gutiérrez-San Cristóbal de las Casas </h2>
+      <a aria-label="Versión estenográfica. Inauguración de la Ampliación y Modernización de la Autopista Tuxtla Gutiérrez-San Cristóbal de las Casas " class="small-link" href="/presidencia/es/articulos/version-estenografica-inauguracion-de-la-autopista-tuxtla-san-cristobal?idiom=es" rel="noopener" target="_blank">Continuar leyendo</a>
+    </article>
+  </div>
+  <div class="col-md-4">
+    <article>
+      <div class="guard-of">
+        <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img_curve" onerror="this.src=&#39;https://framework-gb.cdn.gob.mx/main/missing-photo.jpg&#39;;" src="https://www.gob.mx/cms/uploads/article/main_image/151953/cover_Conferencia_matutina_8.36.50_AM__2_.jpeg" width="350" />
+      </div>
+      <time date="2024-12-06 08:39:00">viernes, 06 de diciembre de 2024 <span class="sr-only">Fecha de publicación</span></time>
+      <h2>Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 6 de diciembre de 2024</h2>
+      <a aria-label="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 6 de diciembre de 2024" class="small-link" href="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-6-de-diciembre-de-2024?idiom=es" rel="noopener" target="_blank">Continuar leyendo</a>
+    </article>
+  </div>
+
+            </div>
+            <div class="row clearfix bottom-buffer">
+                <div class="col-md-4">
+    <article>
+      <div class="guard-of">
+        <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img_curve" onerror="this.src=&#39;https://framework-gb.cdn.gob.mx/main/missing-photo.jpg&#39;;" src="https://www.gob.mx/cms/uploads/article/main_image/151911/cover_WhatsApp_Image_2024-12-05_at_8.01.57_AM.jpeg" width="350" />
+      </div>
+      <time date="2024-12-05 08:30:00">jueves, 05 de diciembre de 2024 <span class="sr-only">Fecha de publicación</span></time>
+      <h2>Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de diciembre de 2024</h2>
+      <a aria-label="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 5 de diciembre de 2024" class="small-link" href="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-5-de-diciembre-de-2024?idiom=es" rel="noopener" target="_blank">Continuar leyendo</a>
+    </article>
+  </div>
+  <div class="col-md-4">
+    <article>
+      <div class="guard-of">
+        <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img_curve" onerror="this.src=&#39;https://framework-gb.cdn.gob.mx/main/missing-photo.jpg&#39;;" src="https://www.gob.mx/cms/uploads/article/main_image/151870/cover_salario_minimo_aumento.jpeg" width="350" />
+      </div>
+      <time date="2024-12-04 08:17:00">miércoles, 04 de diciembre de 2024 <span class="sr-only">Fecha de publicación</span></time>
+      <h2>Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 4 de diciembre de 2024</h2>
+      <a aria-label="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 4 de diciembre de 2024" class="small-link" href="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-4-de-diciembre-de-2024?idiom=es" rel="noopener" target="_blank">Continuar leyendo</a>
+    </article>
+  </div>
+  <div class="col-md-4">
+    <article>
+      <div class="guard-of">
+        <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img_curve" onerror="this.src=&#39;https://framework-gb.cdn.gob.mx/main/missing-photo.jpg&#39;;" src="https://www.gob.mx/cms/uploads/article/main_image/151828/cover_Conferencia_matutina_8.34.57_AM__2_.jpeg" width="350" />
+      </div>
+      <time date="2024-12-03 08:44:00">martes, 03 de diciembre de 2024 <span class="sr-only">Fecha de publicación</span></time>
+      <h2>Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 3 de diciembre de 2024</h2>
+      <a aria-label="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 3 de diciembre de 2024" class="small-link" href="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-3-de-diciembre-de-2024?idiom=es" rel="noopener" target="_blank">Continuar leyendo</a>
+    </article>
+  </div>
+
+            </div>
+        </div>
+        <div id="infinite-scrolling clearfix top-buffer">
+          <ul class="pagination pull-right"><li class="previous_page"><a class="previous_page" rel="prev" href="/presidencia/es/archivo/articulos?filter_origin=archive&amp;idiom=es&amp;order=DESC&amp;page=7">«</a></li>     <li><a href="/presidencia/es/archivo/articulos?filter_origin=archive&amp;idiom=es&amp;order=DESC&amp;page=5">5</a></li> <li><a href="/presidencia/es/archivo/articulos?filter_origin=archive&amp;idiom=es&amp;order=DESC&amp;page=6">6</a></li> <li><a rel="prev" href="/presidencia/es/archivo/articulos?filter_origin=archive&amp;idiom=es&amp;order=DESC&amp;page=7">7</a></li> <li class="active"><a class="active">8</a></li> <li><a rel="next" href="/presidencia/es/archivo/articulos?filter_origin=archive&amp;idiom=es&amp;order=DESC&amp;page=9">9</a></li>       <li class="next"><a class="next" rel="next" href="/presidencia/es/archivo/articulos?filter_origin=archive&amp;idiom=es&amp;order=DESC&amp;page=9">»</a></li></ul>
+        </div>
+    </div>
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos Historico">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/jquery-ui-datepicker.js"></script>
+<script type="text/javascript">
+  $('.adv-search').click(function(event) {
+    event.preventDefault();
+    $('.searcher').toggleClass('hidden');
+  });
+</script>
+<style type="text/css">
+  .refbtn{
+    color: white !important;
+    border-color: #561428 !important;
+    width: 175px;
+    display: table;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+    padding-top: 5px;"    
+  }
+  .refbtn:hover {
+    color: white !important;
+  }
+</style>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/archivo/articulos" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/archivo/articulos";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.archivo.articulos" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+

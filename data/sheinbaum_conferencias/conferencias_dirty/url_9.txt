@@ -1,0 +1,1858 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de enero de 2025 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de enero de 2025" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152773/esteno_presi.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-enero-de-2025?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa de la presidenta Clau..." />
+  <meta name="twitter:description" content="Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/152773/esteno_presi.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="kAwS8Yr64TJGYAU6isbBBWgmGqg4xBa+EGlJZ+1kL+k=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3KVJ03TMZ"></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JKQT1Z2XWC');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xx6r2nn567jbez44jyca-f-3f0614e29-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":18,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"76b3f0c","ak.r":46322,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.253.29.0","ak.cport":62419,"ak.gh":"189.247.210.20","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1738296836","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==okKyIQwMQh/7b6VzWpYggMZHuIz8uaIuS1syNmf3iwK39x+3r1GjjlYZO455l34FACfnDDmYIPShS7VdpKBqBQdLP0SBeK3wQmWpTwfgqqzGoLOOGBkyvfz76ksTYMcffmanzDBpvpWwobRjDasRPaZuGJrKyNv1kamX/FMcTjPDa/bgfWZjMRLE5JyaHPE8YtpcLOfpKThBX57Q9k1B9GG7YxU6IVKlXkA0pasinaTmMqznhVi3mCeA2UW/XQUXHIKYAdv7kjG/rhYgCjPi/68LNDlb6oJoGkdfHn0bulREPfGFNyNCxVSgJqpE7yoXHS6BkFbwAxt20ulR7pHpU7bfB4Xje/hRoqNbdLhM9YFzLo0961YzGO74KvRtTdKC/PVNREBg+uHfNfB9D/9lApUM7B1pqMKlXp8+bDLLZjU=","ak.pv":"114","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/articulos'>
+                Versiones estenográficas            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Prensa            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-29 08:58:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 29 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-28 09:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-28-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 28 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-27 09:53:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-27-de-enero-de-2025' title='Versió'>
+Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 27 de enero de 2025
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 21:07:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-tarjetas-pension-mujeres-bienestar' title='Versió'>
+Versión estenográfica. Entrega de tarjetas Pensión Mujeres Bienestar
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2025-01-25 16:43:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-388896' title='Versió'>
+Versión estenográfica. Programas para el Bienestar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de enero de 2025</h1>
+  	  	<h2>Conferencia encabezada por la presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 13 de enero de 2025</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/152773/esteno_presi.jpeg" />
+  	      <span class="small">Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Buenos d&iacute;as. &iquest;C&oacute;mo est&aacute;n? &iquest;Bien?</p>
+
+<p>Bueno, muy buenos d&iacute;as.</p>
+
+<p>Hoy vamos&hellip; Tenemos tres temas:</p>
+
+<p>El primero es &ldquo;Qui&eacute;n es qui&eacute;n en los precios&rdquo;, con Profeco, Iv&aacute;n Escalante.</p>
+
+<p>El segundo es sobre educaci&oacute;n. Vamos a presentar el nuevo modelo de la Nueva Escuela Mexicana para la educaci&oacute;n media superior, y cu&aacute;ntas nuevas preparatorias y espacios para j&oacute;venes vamos a construir este a&ntilde;o.</p>
+
+<p>Y finalmente, antes de cerrar la conferencia, vamos&hellip; Nos toca hoy &ldquo;Humanismo Mexicano&rdquo; con Diego Prieto, que nos va a hablar de algo importante.</p>
+
+<p>&mdash;Bueno, Iv&aacute;n&mdash;.</p>
+
+<p><strong>PROCURADOR FEDERAL DEL CONSUMIDOR, IV&Aacute;N ESCALANTE RUIZ: </strong>Muchas gracias, Presidenta. Con su permiso.</p>
+
+<p>Buenos d&iacute;as a todas y a todos.</p>
+
+<p>Las acciones que se han realizado durante las semanas anteriores demuestran que tenemos la raz&oacute;n y que los precios de los combustibles no han incrementado de precio.</p>
+
+<p>Por ejemplo, el mi&eacute;rcoles y jueves de la semana pasada se realizaron visitas a Monterrey, Nuevo Le&oacute;n; Durango, Durango; y Le&oacute;n, Guanajuato, en donde se pudo constatar que, despu&eacute;s del anuncio que realizamos el pasado 3 de enero: &ldquo;que se colocar&iacute;an lonas con taches f&iacute;sicos en los establecimientos&rdquo;, una cantidad importante de gasoliner&iacute;as bajaron el precio de la gasolina regular a menos de 24 pesos por litro.</p>
+
+<p>Pero tambi&eacute;n se presentaron tres casos que, tras solicitar informaci&oacute;n, no acreditaron ni justificaron el aumento del precio del combustible. Y, por lo tanto, realizamos un procedimiento administrativo de advertencia en el que se colocaron las lonas para informar a las personas consumidoras y orientarlas a no comprar en estos establecimientos en donde se vende la gasolina m&aacute;s cara de lo normal. Los tres casos fueron en estaciones de las marcas Mobil, Mi Gasolina y Chevron en esas localidades.</p>
+
+<p>Aqu&iacute; les decimos a los empresarios gasolineros que no hay raz&oacute;n alguna para que incrementen sus precios.</p>
+
+<p>La Presidenta de M&eacute;xico, Doctora Claudia Sheinbaum Pardo, a 100 d&iacute;as del inicio de su gobierno, contin&uacute;a cumpliendo con el compromiso de no incrementar los precios de la gasolina, en beneficio de las mexicanas y los mexicanos.</p>
+
+<p>Esta semana seguiremos se&ntilde;alando a las gasoliner&iacute;as que &ldquo;se vuelan la barda&rdquo; e invitamos al pueblo a denunciar las estaciones que tienen precios altos, a trav&eacute;s de nuestras redes sociales.</p>
+
+<p>Ahora s&iacute;, si me lo permite, Presidenta, presentamos muy r&aacute;pido el &ldquo;Qui&eacute;n es qui&eacute;n&rdquo;.</p>
+
+<p>Muchas gracias.</p>
+
+<p>En el precio de la gasolina regular. Las gasolineras m&aacute;s bajas, destaca el caso de esta estaci&oacute;n Shell en Puebla, que presenta 22 pesos con 23 centavos litro.</p>
+
+<p>&mdash;Y aqu&iacute; est&aacute; cada una de las gasolineras por cada una de las regiones&mdash;.</p>
+
+<p>Y aqu&iacute; destacamos los indicadores de ganancia, que fluct&uacute;an entre los 56 centavos hasta el 1.36, 13.1 pesos, que es m&aacute;s o menos el promedio del indicador de ganancia que manejan las gasolineras en todo el pa&iacute;s. Vamos a darle a estas gasolineras una palomita.</p>
+
+<p>Continuamos con las gasolinas m&aacute;s caras. En cuanto a regular, destacamos la estaci&oacute;n Chevron en Culiac&aacute;n, Sinaloa, que vende la gasolina en 26 pesos con 84 centavos.</p>
+
+<p>Y aqu&iacute;, miren, est&aacute;n los indicadores de ganancia, que es lo que hace la gran diferencia. Esta estaci&oacute;n de Oxxo Gas en Apodaca, Nuevo Le&oacute;n, gana casi 5 pesos por litro de gasolina; y aqu&iacute;, 2.58 en esta, MiGasolina en G&oacute;mez Palacio, Durango; y esta gana 3 pesos, la GoGas de Huixquilucan, Estado de M&eacute;xico. A estas gasolineras les vamos a dar un tache.</p>
+
+<p>Continuamos con el precio del di&eacute;sel. El di&eacute;sel m&aacute;s barato que encontramos en Mobil San Luis Potos&iacute;, en la estaci&oacute;n Morales Saucito, 24 pesos con 21 centavos. &mdash;Y aqu&iacute; por cada una de las regiones, cu&aacute;l es el di&eacute;sel m&aacute;s barato&mdash;. Palomita.</p>
+
+<p>Seguimos con el di&eacute;sel m&aacute;s caro, que este lo identificamos en Culiac&aacute;n, Sinaloa, en la estaci&oacute;n Chevron, 27 pesos con 53 centavos. Y aqu&iacute; destacamos los indicadores de ganancia de cada una, que se ven much&iacute;simo muy altos. Vamos a darles a estas gasolineras un tache.</p>
+
+<p>Continuamos con el monitoreo de la canasta b&aacute;sica: 767 pesos con 80 centavos la m&aacute;s barata en Chedraui Le&oacute;n Poliforum, en Le&oacute;n, Guanajuato; palomita. Y la m&aacute;s cara, Walmart Plaza de Toros, en Quer&eacute;taro, mil 17 pesos con 90 centavos; un tache.</p>
+
+<p>Hay una diferencia entre la m&aacute;s barata y la m&aacute;s cara de 250 pesos. Y recordemos que la meta es que la canasta b&aacute;sica de 24 productos cueste 910 pesos.</p>
+
+<p>Tres ciudades: Tlaxcala; Durango; Ciudad Neza, en el Estado de M&eacute;xico.</p>
+
+<p>La m&aacute;s barata, en Tlaxcala, Soriana H&iacute;per n&uacute;mero 74, 828 pesos con 50 centavos; palomita. Y la m&aacute;s cara, Walmart El Molinito, 963 con 30; tache.</p>
+
+<p>En Durango, la m&aacute;s barata, Soriana H&iacute;per 20 de Noviembre, 839 pesos con 80 centavos; palomita. Y la m&aacute;s cara, Chedraui en esta ciudad, que tambi&eacute;n le vamos a poner una palomita porque est&aacute; por debajo de los 910 pesos.</p>
+
+<p>Ciudad Neza, Mega Soriana Arag&oacute;n, 819 con 20; palomita. Y Bodega Aurrera Avenida Central, 919 con 50; tache.</p>
+
+<p>Continuamos con el precio de la tortilla, que es tan importante:</p>
+
+<p>Y aqu&iacute; identificamos tres tortiller&iacute;as en nuestro monitoreo de 578 a nivel nacional, cu&aacute;les son las m&aacute;s baratas y las m&aacute;s caras. Pero vean, hay tortiller&iacute;as que venden el kilo de tortilla entre 16, 18 pesos; este es el caso de estas tres que est&aacute;n ubicadas en los centros hist&oacute;ricos de estas ciudades, Veracruz, Zacatecas y Tlaxcala. Les vamos a dar una palomita.</p>
+
+<p>Y en Campeche, Canc&uacute;n y M&eacute;rida identificamos tortillas que venden el kilo entre 28 y 29 pesos, es el caso de La Bendici&oacute;n, en Campeche; El Negrito, en Canc&uacute;n; y Rolos, en M&eacute;rida. Y les vamos a dar un tache.</p>
+
+<p>Hemos estado d&aacute;ndoles algunos ejemplos, no tanto a los establecimientos, sino de las marcas de los productos que integran la canasta b&aacute;sica y ahora, vamos con el at&uacute;n. La lata de entre 130 y 140 gramos de at&uacute;n cuesta promedio 19 pesos con 42 centavos, pero miren, aqu&iacute; tenemos tres marcas que venden entre 15 pesos y 8 pesos la lata: Fisha Tuna, Valley Foods, Fresh Label y es m&aacute;s o menos el mismo gramaje, la misma presentaci&oacute;n; palomita.</p>
+
+<p>Y tenemos estas otras tres marcas que la venden entre 22 y 23 pesos el mismo producto: Herdez, Dolores y Tuny. Vamos a darles un tache.</p>
+
+<p>La <em>Revista del Consumidor</em> realiza un estudio de calidad &mdash;esto es muy r&aacute;pido&mdash; entre la diferencia de quesos americanos e imitaci&oacute;n de quesos americanos. Es muy importante para las familias mexicanas que tengan esta informaci&oacute;n. Imag&iacute;nense, hay quesos que se dicen ser &ldquo;quesos&rdquo; que no cuentan con ning&uacute;n porcentaje de producto l&aacute;cteo; entonces, aqu&iacute; ponemos este ejercicio para que lo revisen en la <em>Revista del Consumidor</em> de enero.</p>
+
+<p>Y finalizamos con los consejos Profeco de la semana:</p>
+
+<p>Uno, carga con los proveedores que tengan la gasolina regular en menos de 24 pesos.</p>
+
+<p>Dos, compara y elige el establecimiento con la canasta b&aacute;sica al mejor precio.</p>
+
+<p>&nbsp;</p>
+
+<p>Tres, elige la tortiller&iacute;a que d&eacute; el kilo por debajo de los 23 pesos.</p>
+
+<p>&nbsp;</p>
+
+<p>Cuatro, revisa las marcas de at&uacute;n, por el mismo producto; te puedes ahorrar muchos pesos.</p>
+
+<p>Y cinco, distingue el queso americano de sus imitaciones y decide de manera informada cu&aacute;l comprar.</p>
+
+<p>Aqu&iacute; nuestras redes sociales y la p&aacute;gina de internet en donde pueden consultar toda esta informaci&oacute;n y los estudios completos.</p>
+
+<p>Much&iacute;simas gracias, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Tania&mdash;.</p>
+
+<p><strong>SUBSECRETARIA DE EDUCACI&Oacute;N MEDIA SUPERIOR DE LA SECRETAR&Iacute;A DE EDUCACI&Oacute;N P&Uacute;BLICA, TANIA RODR&Iacute;GUEZ MORA:</strong> Presidenta, muy buenos d&iacute;as. Un honor.</p>
+
+<p>Secretario, buenos d&iacute;as; compa&ntilde;eros, buenos d&iacute;as.</p>
+
+<p>El d&iacute;a de hoy estamos muy contentos porque presentamos el Plan Integral del Sistema Nacional de Bachillerato de la Nueva Escuela Mexicana.</p>
+
+<p>Este es un objetivo estrat&eacute;gico para nuestro pa&iacute;s: cuidar a las y los adolescentes y a los j&oacute;venes. Es tal vez el objetivo en el que la sociedad entera puede contribuir.</p>
+
+<p>Tenemos en este momento 5 millones 572 mil estudiantes en el ciclo escolar &acute;23-&acute;24, esto significa una cobertura del 81 por ciento, y queremos llegar al t&eacute;rmino de este gobierno a una cobertura de 85 por ciento.</p>
+
+<p>Esto significa fundamentalmente &mdash;pasamos a la siguiente, por favor&mdash; tres grandes ejes de trabajo que vamos a desempe&ntilde;ar:</p>
+
+<p>Por un lado, fortalecer el sistema que tenemos, las escuelas, la calidad de nuestros planes de estudio, la capacidad creativa de nuestros profesores y, por supuesto, el cuidado de nuestros estudiantes.</p>
+
+<p>Por otro lado, vamos a integrar el sistema. En este momento tenemos 31 Subsistemas de Educaci&oacute;n Media Superior, que hasta hace dos a&ntilde;os todos ten&iacute;an planes y programas distintos, y hoy vamos a ser capaces de integrarlos.</p>
+
+<p>Y, por &uacute;ltimo, vamos a ampliar, es decir, vamos a crear m&aacute;s lugares ah&iacute; donde se necesita para que todas y todos puedan ejercer su derecho a la educaci&oacute;n.</p>
+
+<p>El eje 1 tiene como fundamento una idea profunda, la idea de fijar la noci&oacute;n de que nuestras escuelas, de que &ldquo;Mi escuela me cuida y me abre puertas&rdquo;. Queremos j&oacute;venes en las escuelas y los queremos contentos y aprendiendo. Para ello:</p>
+
+<p>Vamos a actualizar los planes y programas de estudio del marco curricular com&uacute;n para que todos tengan conocimientos significativos.</p>
+
+<p>Vamos a mejorar nuestros planteles para que sean adecuados, no solamente para el estudio, sino tambi&eacute;n para la integraci&oacute;n social. Estar en la escuela tiene que ser una sensaci&oacute;n alegre y feliz para las y los estudiantes.</p>
+
+<p>Establecer tambi&eacute;n programas de integraci&oacute;n e inclusi&oacute;n comunitaria de cuidado a la salud f&iacute;sica y emocional. Como ustedes saben, la Secretar&iacute;a de Educaci&oacute;n P&uacute;blica participa activamente en los programas de Vida Saludable, y de cuidado tambi&eacute;n a la salud mental y la prevenci&oacute;n de las adicciones.</p>
+
+<p>Por &uacute;ltimo, vamos a fortalecer las trayectorias hacia la educaci&oacute;n superior para aquellos estudiantes que as&iacute; decidan seguir estudiando, abri&eacute;ndoles puertas &mdash;como dec&iacute;amos en nuestra imagen&mdash; y, por supuesto, tambi&eacute;n facilitando, para quienes as&iacute; tambi&eacute;n lo decidan, su transici&oacute;n a la vida laboral.</p>
+
+<p>Nada de estas acciones pueden llevarse sin el reconocimiento a las actividades de las profesoras y los profesores, un actor sustantivo en el proceso educativo y que nosotros queremos reconocer.</p>
+
+<p>&iquest;C&oacute;mo?</p>
+
+<p>Por supuesto, impulsando la formaci&oacute;n docente y su actividad profesional. Los y las profesoras de la educaci&oacute;n media superior han demostrado un compromiso enorme durante todos estos a&ntilde;os en el cuidado de las adolescencias y queremos apoyarles. Por ello, tambi&eacute;n estamos evaluando un programa integral de mejora de las condiciones laborales de las y los profesoras que iremos poco a poco implementando.</p>
+
+<p>Y aprovecho para informar que incluso los compromisos que todav&iacute;a tenemos &mdash;hemos asumido una enorme cantidad de compromisos y de recursos en estos &uacute;ltimos meses&mdash; vamos a seguirlos cumpliendo.</p>
+
+<p>Vamos a fomentar la creatividad docente porque sabemos que las y los estudiantes se quedan en sus salones, se quedan en sus escuelas cuando construyen un v&iacute;nculo con sus profesoras y profesores, y cuando logran construir comunitariamente su vida en la escuela.</p>
+
+<p>Por eso, vamos a implementar y vamos a impulsar de manera m&aacute;s activa, en el marco de la Nueva Escuela Mexicana, los proyectos Aula Escuela Comunidad, donde las escuelas tambi&eacute;n participan en la vida de sus comunidades.</p>
+
+<p>Y con los y las profesores iniciaremos, ya iniciamos todo un proceso diagn&oacute;stico y ahora, iniciamos un proceso de amplia discusi&oacute;n sobre los contenidos y la implementaci&oacute;n del marco curricular com&uacute;n de la educaci&oacute;n media superior.</p>
+
+<p>Si dec&iacute;a yo que &ldquo;la escuela nos cuida y nos abre puertas&rdquo;, hay dos programas que son sustantivos para esa tarea:</p>
+
+<p>El primero, que contin&uacute;a, y que es muy importante su implementaci&oacute;n desde hace varios a&ntilde;os, y que construy&oacute; las posibilidades de que nuestros estudiantes se queden en la escuela y que subamos nuestros indicadores de retenci&oacute;n y de conclusi&oacute;n de la educaci&oacute;n media superior, es el programa de las Becas Universales &ldquo;Benito Ju&aacute;rez&rdquo;.</p>
+
+<p>En esta ocasi&oacute;n, en el mes de febrero, se desarrollar&aacute;n las asambleas informativas para incorporar y compartir con la comunidad escolar y los padres de familia este recurso que se pone a disposici&oacute;n de todos y todas las j&oacute;venes preparatorianas de las preparatorias p&uacute;blicas. Son 4 millones 224 mil 381 personas beneficiadas con una inversi&oacute;n de 40 mil millones de pesos.</p>
+
+<p>Por otro lado, y est&aacute; tal vez sea la mejor noticia. Una de las tantas buenas noticias que tenemos hoy con respecto a la educaci&oacute;n media superior es el que entra, por primera vez, el programa La Escuela es Nuestra a nuestras preparatorias y a nuestros planteles de bachillerato.</p>
+
+<p>Esto supondr&aacute; un nuevo modelo de participaci&oacute;n en nuestras comunidades escolares. Se van a reunir, van a discutir, y las y los estudiantes van a participar en la decisi&oacute;n de d&oacute;nde invertir los recursos para su escuela; y estamos seguros que eso va a contribuir a que todos y todas se sientan m&aacute;s contentos y las cuiden mejor.</p>
+
+<p>En funci&oacute;n de la matr&iacute;cula en los planteles, se van a dar 600 mil, un mill&oacute;n o un mill&oacute;n 500 mil pesos para cada escuela; eso supone la atenci&oacute;n de m&aacute;s de 6 mil escuelas en este a&ntilde;o y una inversi&oacute;n de 4 mil 600 millones de pesos. Es un programa estupendo y es una gran noticia para todas las comunidades escolares.</p>
+
+<p>El segundo eje de trabajo es la Integraci&oacute;n de la Educaci&oacute;n Media Superior, esto significa ajustar la propuesta de construir un sistema nacional. Dec&iacute;a yo, hace un momento, que ten&iacute;amos 31 Subsistemas, y durante mucho tiempo cada uno con sus planes y programas de estudio.</p>
+
+<p>Hoy, &iquest;qu&eacute; tenemos? Hoy tenemos la posibilidad de tener un plan de estudios general que tiende un piso parejo para todos y todas las estudiantes, que construya conocimientos significativos y que consolide y es lo que vamos a hacer, a partir de este a&ntilde;o, consolidar el sistema en dos grandes opciones curriculares: el bachillerato general y el bachillerato tecnol&oacute;gico. Por supuesto, con todas las modalidades de estudio que son precisas y nos autoriza la ley: la modalidad escolarizada, la no escolarizada, la mixta, y en el caso particularmente del bachillerato tecnol&oacute;gico la modalidad dual.</p>
+
+<p>Esta integraci&oacute;n nos va a permitir &mdash;la que sigue&mdash; tener dos elementos muy importantes.</p>
+
+<p>El primero es que te construir&iacute;amos un Certificado &Uacute;nico para el Bachillerato Nacional. Y adicional a &eacute;l, vamos a tener un Certificado de Formaci&oacute;n Profesional o Tecnol&oacute;gica, que va a estar avalado por una instituci&oacute;n de educaci&oacute;n superior.</p>
+
+<p>Hemos construido un di&aacute;logo muy fluido con las instituciones de educaci&oacute;n superior y hemos constituido en diciembre un Consejo Acad&eacute;mico para el fortalecimiento de todas estas opciones profesionales.</p>
+
+<p>&iquest;Qu&eacute; hacemos con ello? Garantizar lo que yo dec&iacute;a hace un momento:</p>
+
+<p>Abrir puertas a nuestros estudiantes.</p>
+
+<p>Actualizar los programas, tenemos programas actuales en ciberseguridad, agroindustria sustentable, rob&oacute;tica, desarrollo comunitario, promoci&oacute;n deportiva, toda la formaci&oacute;n que requiere la pol&iacute;tica de semiconductores, inteligencia artificial y muchos otros m&aacute;s que vamos a construir tambi&eacute;n con nuestros compa&ntilde;eros de las instituciones de educaci&oacute;n superior para abrir puertas a nuestros j&oacute;venes.</p>
+
+<p>Tambi&eacute;n esta posibilidad &mdash;y esta es una estupenda noticia para los que todav&iacute;a, incluso, tambi&eacute;n deben por ah&iacute; alguna materia o necesitan terminar su bachillerato en distintos momentos de la vida&mdash; y es que contar con un marco curricular com&uacute;n nos permite la revalidaci&oacute;n y la portabilidad en los estudios de manera total, y esto es un paso muy importante para la integraci&oacute;n que garantiza los derechos de todas y de todos.</p>
+
+<p>Por &uacute;ltimo y este es tambi&eacute;n otro gran paquete de estupendas noticias gracias a los recursos que la Presidenta ha decidido invertir en este importante proyecto, hoy podemos anunciar que en 2025 vamos a construir 40 mil nuevos lugares.</p>
+
+<p>Vamos a ampliar la infraestructura educativa ah&iacute; donde hace falta. Hemos hecho un diagn&oacute;stico muy acucioso de d&oacute;nde hacen falta preparatorias, d&oacute;nde hacen falta telebachilleratos y:</p>
+
+<p>Vamos a construir 20 nuevos planteles.</p>
+
+<p>Vamos a hacer 30 ampliaciones a planteles de alta demanda, que actualmente no caben todos nuestros estudiantes, necesitamos construirles un lugar para que todos est&eacute;n en la escuela.</p>
+
+<p>Y vamos a usar infraestructura educativa, particularmente las secundarias que no tienen turno vespertino, para habilitarlas, mejorarlas, hacerles nuevos laboratorios y talleres, y habilitar ah&iacute; bachilleratos.</p>
+
+<p>Vamos a trabajar esta pol&iacute;tica en 59 municipios de 30 estados con una inversi&oacute;n de m&aacute;s de 2 mil 700 millones de pesos.</p>
+
+<p>Estamos convencidos que esta integraci&oacute;n del Sistema Nacional de Bachillerato, bajo los principios de la Escuela Nueva Mexicana garantiza para todas y todos los adolescentes su derecho a la educaci&oacute;n.</p>
+
+<p>Much&iacute;simas gracias, Presidenta.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> A ver, vamos a traducir para todas y todos.</p>
+
+<p>&iquest;De qu&eacute; se trata?</p>
+
+<p>Actualmente hay 32 &mdash;&iquest;no?, &iquest;o 31?&mdash;, 31 Sistemas de Educaci&oacute;n Media Superior. La educaci&oacute;n media superior es preparatoria, CETIS, CBTIS, Conalep, en fin.</p>
+
+<p>Algunos son federales, o sea, que los coordina la Secretar&iacute;a de Educaci&oacute;n P&uacute;blica del Gobierno de M&eacute;xico; y algunos son estatales, los coordinan las Secretar&iacute;as estatales de Educaci&oacute;n P&uacute;blica.</p>
+
+<p>&iquest;Qu&eacute; queremos de todos estos 31 sistemas distintos? Orientarlos a dos sistemas: el Bachillerato Nacional General y el Bachillerato General Tecnol&oacute;gico.</p>
+
+<p>Entonces, todos los CETIS, CBTIS, Conalep, etc&eacute;tera, etc&eacute;tera, van a ser parte del Sistema Nacional de Bachillerato Tecnol&oacute;gico.</p>
+
+<p>&iquest;Qu&eacute; queremos? Pues orientar los planes de estudios, trabajando con las y los profesores, que es muy importante.</p>
+
+<p>Ya se hizo un esfuerzo con el Presidente L&oacute;pez Obrador, cuando Leti era secretaria de Educaci&oacute;n P&uacute;blica, para incorporarlos a la Nueva Escuela Mexicana, pero vamos a hacer un esfuerzo adicional para que, no importa si vas a un CETIS, o a un CBTIS, a un Conalep, a un&hellip; tienes una formaci&oacute;n b&aacute;sica equivalente, y despu&eacute;s ya cada uno se especializa en sus temas.</p>
+
+<p>&iquest;Qu&eacute; otra cosa es muy importante?</p>
+
+<p>Pues s&iacute; vas a salir con un t&iacute;tulo, con una validaci&oacute;n de tus estudios, general para todos. Entonces, si dices: &ldquo;bueno, yo llev&eacute; mi educaci&oacute;n media superior en el CETIS de Iztapalapa, de tal lugar&rdquo;, pero tengo un Certificado &Uacute;nico, no importa si estudi&eacute; en Yucat&aacute;n, si estudio en Baja California, en la Ciudad de M&eacute;xico, en Hidalgo, etc&eacute;tera.</p>
+
+<p>Y despu&eacute;s, acompa&ntilde;ado de eso, vas a tener otro Certificado, validado por el Instituto Polit&eacute;cnico Nacional, por el Tecnol&oacute;gico Nacional de M&eacute;xico.</p>
+
+<p>De tal manera que la educaci&oacute;n media superior, pues tiene su integraci&oacute;n con la primaria y la secundaria, pero tambi&eacute;n con la educaci&oacute;n superior.</p>
+
+<p>Este es un esfuerzo muy importante para todos los j&oacute;venes, que todos sepan que, independientemente de la escuela a donde van, son validados, reconocidos a nivel nacional por un Certificado &Uacute;nico.</p>
+
+<p>La otra cosa muy importante es que vamos a mejorar las condiciones de trabajo de los profesores. Ya hicimos un esfuerzo en el &acute;24 y ahora, en el &acute;25, porque no podr&iacute;a ocurrir esto si no es mejorando las condiciones laborales de las y los trabajadores de la educaci&oacute;n media superior.</p>
+
+<p>Esto es algo que no se hab&iacute;a hecho nunca.</p>
+
+<p>Las preparatorias han ido creciendo conforme a la demanda, pero, en realidad, los sistemas est&aacute;n separados; entonces, ahora, queremos unificarlos, mejorar la educaci&oacute;n y adem&aacute;s, ampliar la cobertura.</p>
+
+<p>Hay lugares donde tienen que salir del pueblo o de la ciudad donde viven para ir a estudiar la prepa a otro lugar; queremos que se puedan quedar ah&iacute; donde viven con sus familias para estudiar la preparatoria.</p>
+
+<p>&iquest;C&oacute;mo lo vamos a hacer? Con nuevos planteles, con ampliaci&oacute;n de los planteles actuales y dando, en las secundarias que solo tienen turno matutino, el turno vespertino para las preparatorias.</p>
+
+<p>Son tres formas de ampliar la matr&iacute;cula para la educaci&oacute;n media superior.</p>
+
+<p>Este a&ntilde;o son 40 mil nuevos espacios que se suman a lo que ya existe y vamos a llegar hasta &mdash;&iquest;cu&aacute;ntos espacios en total?&mdash;</p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> 200 mil.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>200 mil nuevos lugares para preparatoria en el pa&iacute;s, principalmente ah&iacute; en donde no hay preparatorias, donde no hay bachilleratos tecnol&oacute;gicos.</p>
+
+<p>Adem&aacute;s, se fortalece el bachillerato a distancia, sea tecnol&oacute;gico o sea bachillerato general.</p>
+
+<p>Y todo esto para fortalecer nuestro sistema educativo y, sobre todo, para que las y los j&oacute;venes est&eacute;n en la escuela, les guste la escuela, quieran la escuela, sean parte de este sistema; y que, en vez de estar en la calle &mdash;porque tienen de 15 a 18 a&ntilde;os&mdash;, en vez de estar en la calle est&eacute;n estudiando, que es lo que todas y todos queremos.</p>
+
+<p>Este es el Programa del Bachillerato Nacional para todas y todos los mexicanos, esta es la propuesta de hoy.</p>
+
+<p>Y ahora s&iacute;, tomamos sus preguntas.</p>
+
+<p>&mdash;A ver, vamos para ac&aacute;, en la esquina de este lado&mdash;.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Mi nombre es Lucio Espinoza Chavira, vengo de La Paz, Baja California Sur, de <em>TV Baja</em>.</strong></p>
+
+<p><strong>Felicitarla, primeramente, por ese informe de los 100 primeros d&iacute;as de gobierno, un informe lleno de realidades, un informe muy bonito y muy nutrido. Y, bueno, felicitarla.</strong></p>
+
+<p><strong>Y en el tema de educaci&oacute;n, f&iacute;jese que, felicitar a todos ustedes por lo que est&aacute; aumentando: la calidad de las escuelas, del alumnado y de todo lo que significa la educaci&oacute;n.</strong></p>
+
+<p><strong>Pero preguntarle: f&iacute;jese que en noviembre del 2023 estuvo Andr&eacute;s Manuel L&oacute;pez Obrador, ah&iacute; en La Paz, Baja California Sur; y, bueno, &eacute;l prometi&oacute; que al personal docente, a los compensados y a todo mundo los iba a regularizar. A la fecha, no ha sucedido. No s&eacute; si tengan implementada alguna acci&oacute;n para regularizar el magisterio.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;Mario&mdash;.</p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> Buenos d&iacute;as, a todas y a todos.</p>
+
+<p>Efectivamente, uno de los puntos que ha planteado la Presidenta es mejorar las condiciones de las y los maestros en educaci&oacute;n superior. En el 2024, hubo un incremento importante al salario, hubo, adem&aacute;s, medidas del bienestar.</p>
+
+<p>Se liquid&oacute; la mayor parte en el 2024. Quedaron algunos pendientitos en algunos estados que estamos resolviendo en estos d&iacute;as, porque nos dio la instrucci&oacute;n la Presidenta de la Rep&uacute;blica; entonces va a quedar perfectamente saldado, como lo mencion&oacute; la subsecretaria.</p>
+
+<p>Porque en esta Transformaci&oacute;n del bachillerato nacional, de la Nueva Escuela Mexicana, las y los maestros son fundamentales. Que logremos lo que la Presidenta nos ha encomendado: que las y los j&oacute;venes se queden en la escuela, que les guste la escuela, que les emocione la escuela.</p>
+
+<p>Ah&iacute; los maestros son fundamentales; entonces sabemos que esta Transformaci&oacute;n la vamos a hacer de la mano con ellos. Tenemos un di&aacute;logo permanente. De hecho, esta semana nos vamos a reunir con varias organizaciones que agrupan a las y los maestros ya, para ver nuestro plan de trabajo, Presidenta, para ver c&oacute;mo nos van a acompa&ntilde;ar en esta transformaci&oacute;n, para que en el siguiente ciclo escolar ya inicie el Bachillerato Nacional de la Nueva Escuela Mexicana.</p>
+
+<p>Adem&aacute;s, de que hay todo este tema de compactaci&oacute;n de horarios. Vamos a necesitar horas adicionales para educaci&oacute;n f&iacute;sica, para educaci&oacute;n art&iacute;stica y para otras actividades que generen comunidad al interior de las escuelas, que los j&oacute;venes se queden a estudiar.</p>
+
+<p><strong>PREGUNTA: Otra pregunta, Mario, la vez pasada le mandaban saludos de all&aacute; de Baja California Sur, que lo estiman mucho; la Presidenta nos dec&iacute;a que &ldquo;algo quer&iacute;amos&rdquo;, &iquest;no?</strong></p>
+
+<p><strong>Decirle con toda seriedad: f&iacute;jese que&hellip; &iquest;Se acuerda que se cre&oacute; la Asociaci&oacute;n Nacional de Padres de Familia? Y, bueno, se fue a los estados y a los municipios, y todo muy bien porque coordina a la sociedad de padres de familia de todas las escuelas, de secundaria hasta preescolar, y con un periodo de dos a&ntilde;os. </strong></p>
+
+<p><strong>Solamente que en Baja California Sur hay un presidente que tiene 20 a&ntilde;os y no tiene ni hijos en la escuela.</strong></p>
+
+<p><strong>Entonces, no s&eacute; si tengan pensado regularizarse ese asunto.</strong></p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO: </strong>La Escuela es Nuestra, adem&aacute;s de los beneficios que tiene en materiales, en el mantenimiento de las escuelas, ha provocado que los padres de familia tengan una participaci&oacute;n cercana en las escuelas, digamos, que ha tra&iacute;do de regreso a los padres de familia a las escuelas.</p>
+
+<p>Por eso es tan importante la propuesta que ha hecho la Presidenta de que La Escuela es Nuestra entre a las preparatorias, porque normalmente ya como padres de familia cuando nuestros hijos entran a la preparatoria ya no somos tan participativos; en primaria s&iacute; vamos mucho, en secundaria m&aacute;s o menos, pero en la prepa casi no.</p>
+
+<p>Ahora, queremos a trav&eacute;s de La Escuela es Nuestra, regresar a los padres de familia, porque ellos van a decidir qu&eacute; obras se van a hacer en la preparatoria, junto adem&aacute;s con los estudiantes, van a poder tener representaci&oacute;n los estudiantes en estos Comit&eacute;s para decidir las inversiones.</p>
+
+<p>Entonces, creo que estos programas, al provocar que m&aacute;s padres de familia se involucren en las escuelas, puede terminar ah&iacute; con alg&uacute;n tipo de &ldquo;cacicazgos&rdquo;, alguien que se quiera quedar tantos a&ntilde;os ah&iacute; dirigiendo a los padres y madres de familia.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PREGUNTA: Presidenta, un tema bien importante es el tema de salud. Tenemos el ISSSTE, el Seguro Social y todo; en Baja California Sur estamos pr&aacute;cticamente olvidados en ese tema en cierta medida.</strong></p>
+
+<p><strong>El ISSSTE, por ejemplo, el ISSSTE le da los pasajes a la gente que tiene algunas enfermedades ya fuertes, como c&aacute;ncer y esas cosas, y los manda al 20 de Noviembre, ac&aacute; a M&eacute;xico, pero solamente con el puro pasaje, no saben si comen o no saben d&oacute;nde duermen.</strong></p>
+
+<p><strong>Y llegan aqu&iacute; a M&eacute;xico y resulta que las citas ni siquiera est&aacute;n calendarizadas y lo cambian a modo, a 10, 8, 10 d&iacute;as m&aacute;s adelante. Y repito, no tienen ni c&oacute;mo sostenerse mucha gente.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a presentar el d&iacute;a de ma&ntilde;ana el fortalecimiento del ISSSTE, nos toca el tema de salud. Y adem&aacute;s de informarles c&oacute;mo va: los medicamentos, la adquisici&oacute;n de medicamentos, etc&eacute;tera, Mart&iacute; va a presentar el programa del ISSSTE para este a&ntilde;o.</p>
+
+<p>Entonces, vamos a hacer varias cosas para fortalecerla. La idea es que no necesiten trasladarse, sino que se puedan atender en su propio estado o los estados m&aacute;s cercanos. Ma&ntilde;ana, si quiere, que Mart&iacute; pueda comentar sobre estos temas.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta.</strong></p>
+
+<p><strong>Y, bueno, tenemos el mismo problema all&aacute; en Baja California Sur de los rancheros y de los agricultores, que le est&aacute; embargando INDEP &mdash;&iquest;INDEP se llama?, para regresar lo robado al pueblo&mdash; de la Financiera Rural, de cr&eacute;dito rural, de que cerr&oacute; sus puertas y cuando regres&oacute;, a los dos a&ntilde;os, ya regres&oacute; embarg&aacute;ndole los ranchos a los agricultores.</strong></p>
+
+<p><strong>Entonces, &iquest;ha tomado algo este problema los senadores?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si. No debe ser as&iacute;. Tenemos ya&hellip; Lo revisamos y lo presentamos, pero no, no, no debe ser as&iacute;.</p>
+
+<p>&mdash;A ver ac&aacute; de este lado&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Adri&aacute;n Esquivel, de Coahuila.</strong></p>
+
+<p><strong>Coahuila y Durango, como otros estados de la Rep&uacute;blica, a&uacute;n no han definido si se incorporar&aacute;n al IMSS-Bienestar. El plazo de adhesi&oacute;n se ha extendido desde los &uacute;ltimos meses de gesti&oacute;n del expresidente Andr&eacute;s Manuel L&oacute;pez Obrador.</strong></p>
+
+<p><strong>En Coahuila, el 20 por ciento de la poblaci&oacute;n no tiene seguridad social, mientras que Durango casi llega hasta el 40 por ciento.</strong></p>
+
+<p><strong>Mi pregunta es, &iquest;su administraci&oacute;n ya realizar&aacute; acciones para que estos estados puedan concretar esta adhesi&oacute;n?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Depende de los gobernadores. No vamos nosotros a forzar a nadie a entrar al IMSS-Bienestar, depende de ellos la decisi&oacute;n que quieran tomar: si siguen manejando sus sistemas estatalmente y tienen el recurso que correspond&iacute;a en su momento a lo que era el Seguro Popular o se integran a un sistema nacional.</p>
+
+<p>Evidentemente, integrarse a un sistema nacional le da enormes beneficios, pero depende de cada uno de los gobernadores.</p>
+
+<p><strong>PREGUNTA: Otra pregunta, Presidenta: la quiebra de la sider&uacute;rgica AHMSA, Altos Hornos de M&eacute;xico, en Coahuila, ha causado la p&eacute;rdida de miles de empleos y son los trabajadores de esta entidad los que viven en incertidumbre</strong>.</p>
+
+<p><strong>&iquest;Su administraci&oacute;n ha trabajado en alg&uacute;n plan para garantizar los derechos de los obreros afectados mientras actualmente se realizan subastas en esta empresa que buscan reactivarla?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ha sido un proceso muy largo. Si recuerdan, en mis 100 puntos me compromet&iacute; a atender el tema de AHMSA; lo estamos haciendo.</p>
+
+<p>Finalmente, se declara en quiebra la empresa, que tard&oacute; mucho tiempo para ello; est&aacute; en concurso mercantil. Y se est&aacute; trabajando.</p>
+
+<p>Tuve, antes de terminar el a&ntilde;o, una reuni&oacute;n con el secretario del Trabajo, con el secretario de Hacienda que nos est&aacute; ayudando a revisar el tema, y estamos viendo las distintas opciones. Nuestro objetivo evidentemente es que se recuperen los empleos. Entonces, yo espero que en poco tiempo podamos dar buenas noticias.</p>
+
+<p>Y de todas maneras, vamos a hacer un plan de justicia para los trabajadores, de tal manera que puedan tener lo m&iacute;nimo indispensable las familias. Estamos trabajando en ello.</p>
+
+<p><strong>PREGUNTA: Presidenta, ayer tambi&eacute;n pudo reunirse con gobernadores de todo el pa&iacute;s. Si pudiera platicarnos, &iquest;qu&eacute; se habl&oacute; en esa junta?</strong></p>
+
+<p><strong>Y tambi&eacute;n hab&iacute;a prometido, antes de que terminara el a&ntilde;o, que se iba a reunir con alcaldes de todo el pa&iacute;s para revisar el Fondo de Aportaciones para la Infraestructura Social. Si nos puede hablar si &iquest;ya se tiene fecha para platicar con ellos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>Ayer nos reunimos con los gobernadores que son parte del IMSS-Bienestar, justamente para hablar de hasta d&oacute;nde vamos, c&oacute;mo va a estar el abasto de medicamentos, etc&eacute;tera, etc&eacute;tera, y c&oacute;mo fortalecemos al IMSS-Bienestar. Fue una reuni&oacute;n para el fortalecimiento.</p>
+
+<p>Nos vamos a estar reuniendo por regiones para poder resolver algunos problemas que todav&iacute;a existen y que podamos atender en los primeros tres meses.</p>
+
+<p>Y con los presidentes municipales nos reunimos el 16 de enero, tenemos una reuni&oacute;n con la gran mayor&iacute;a de los presidentes y presidentas municipales. Vamos a hablar ah&iacute; del FAIS para las comunidades de pueblos originarios y afrodescendientes; vamos a hablar del tema de Senderos de Paz como una propuesta que ya depende de cada presidente o presidenta municipal llevarla a cabo, pero que es algo importante; y adem&aacute;s, la atenci&oacute;n a las causas, que se incorporen a este programa general que estamos llevando.</p>
+
+<p>Y tambi&eacute;n vamos a hablar de c&oacute;mo coordinarnos para atender desde lo municipal, los estados y a nivel federal un programa maestro de agua para cada uno de los estados de la Rep&uacute;blica.</p>
+
+<p><strong>PREGUNTA: Presidenta, por &uacute;ltimo, hace unos d&iacute;as hubo resultados positivos en el rescate de mineros en Pasta de Conchos. &iquest;Sigue su compromiso para la justicia social de estas familias?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;. No se va a cerrar el caso hasta que no encontremos a todos. Sigue el trabajo.</p>
+
+<p>Estuvo hace poco en una reuni&oacute;n con las familias, le ped&iacute; a Leticia Ram&iacute;rez que pudiera atenderlo de manera personal, adem&aacute;s de, a Laura, la coordinadora de Protecci&oacute;n Civil. Que, por cierto, hoy tuvimos una llamada con ella, est&aacute; en Los &Aacute;ngeles ella, coordinando las tareas. Ma&ntilde;ana va a dar una presentaci&oacute;n aqu&iacute; en &ldquo;La Ma&ntilde;anera&rdquo; de qu&eacute; es lo que est&aacute;n haciendo para apoyar a los habitantes de la zona metropolitana de Los &Aacute;ngeles, California, el equipo que se fue.</p>
+
+<p>Entonces, estamos trabajando en esos temas.</p>
+
+<p>&mdash;Adelante&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias. Buenos d&iacute;as, Presidenta. Fernando Cuevas, de <em>Espacio Libre</em>.</strong></p>
+
+<p><strong>Primero que nada, felicitarla por el d&iacute;a de ayer. Muchos venimos esperando un evento protocolario, esperando una especie de informe de gobierno, y nos encontramos con una fiesta nacional. Esto, en parte tiene que ver con la grandeza del pueblo de M&eacute;xico, pero tambi&eacute;n con la grandeza con la Presidenta que tenemos; me sumo al 80 por ciento de su aprobaci&oacute;n.</strong></p>
+
+<p><strong>Por otro lado, Presidenta, Nuevo Le&oacute;n es de los siete estados que conservan el 50 por ciento de la violencia en nuestro pa&iacute;s, es de los estados m&aacute;s peligrosos de M&eacute;xico. Cabe resaltar que en el 2024, Nuevo Le&oacute;n tuvo 500 homicidios m&aacute;s que en el estado de Sinaloa, el cual atraviesa en este momento por una guerra entre grupos delictivos.</strong></p>
+
+<p><strong>Dentro de estas oscuras cifras, en el 2024, hubieron 169 mujeres asesinadas en Nuevo Le&oacute;n, de las cuales, 59 se tipificaron como feminicidios. Esto provoc&oacute; que Nuevo Le&oacute;n por segundo a&ntilde;o consecutivo sea el segundo estado con mayor n&uacute;mero de feminicidios en el pa&iacute;s. Estos lamentables a&ntilde;os se pueden asociar con el fallido gobierno de Samuel Garc&iacute;a.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; mensaje le podr&iacute;a dar usted al pueblo de Nuevo Le&oacute;n que, si bien tiene una especie de desesperanza ante la culminaci&oacute;n de otros tres a&ntilde;os del mismo gobierno, que los a&ntilde;os m&aacute;s oscuros coinciden con estos a&ntilde;os de gobierno, no estaba as&iacute; el estado de Nuevo Le&oacute;n?</strong></p>
+
+<p><strong>&iquest;Qu&eacute; mensaje le dar&iacute;a a las mujeres de este estado y al pueblo, en general, que ven en la primera mujer Presidenta una especie de esperanza?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Nuevo Le&oacute;n, m&aacute;s all&aacute; de una evaluaci&oacute;n, digamos, del trabajo de cada una de las autoridades, ha tenido en los &uacute;ltimos a&ntilde;os un problema, que es la coordinaci&oacute;n.</p>
+
+<p>El conflicto, digamos, pol&iacute;tico de la Fiscal&iacute;a con el propio gobierno de Nuevo Le&oacute;n y su Secretar&iacute;a, evita que haya resultados o disminuye la posibilidad de tener resultados.</p>
+
+<p>Repito, m&aacute;s all&aacute; de la evaluaci&oacute;n que haga el propio pueblo de Nuevo Le&oacute;n, del gobernador, del secretario de Seguridad P&uacute;blica y del fiscal, porque creo que hay un encargado de despacho porque no han podido todav&iacute;a nombrar.</p>
+
+<p>Nosotros hemos hablado de una Estrategia de Seguridad de cuatro ejes, y el cuarto eje es la Coordinaci&oacute;n.</p>
+
+<p>Ahora, gracias al fiscal general de la Rep&uacute;blica &mdash;porque por Constituci&oacute;n es aut&oacute;nomo&mdash; est&aacute; viniendo a los Gabinetes de Seguridad la Fiscal&iacute;a y eso nos ayuda a tener m&aacute;s coordinaci&oacute;n.</p>
+
+<p>Entonces, independientemente de los temas pol&iacute;ticos, deber&iacute;an poner por encima de todo la seguridad de Nuevo Le&oacute;n. Y coordinarse, que haya coordinaci&oacute;n; porque el tema pol&iacute;tico siempre existe y debe existir, es parte de la democracia en nuestro pa&iacute;s, pero que haya coordinaci&oacute;n para atender desde la Secretar&iacute;a de Seguridad y desde la Fiscal&iacute;a estatal, las investigaciones que se hagan, las carpetas de investigaci&oacute;n, la detenci&oacute;n de delincuentes, etc&eacute;tera, etc&eacute;tera, en el t&eacute;rmino de la coordinaci&oacute;n de las instituciones de seguridad.</p>
+
+<p>Y, por otro lado, una visi&oacute;n de atenci&oacute;n a las causas tambi&eacute;n.</p>
+
+<p>Nuevo Le&oacute;n es un estado con mucho empleo y bien remunerado, y eso tiene que ver con el emprendedurismo que se ha generado en Nuevo Le&oacute;n desde hace mucho tiempo. Y tambi&eacute;n porque hoy, su cercan&iacute;a con Estados Unidos y la relocalizaci&oacute;n de empresas, es muy atractivo Nuevo Le&oacute;n para el desarrollo del Tratado Comercial; pero hay que atender tambi&eacute;n a los j&oacute;venes de distintos lugares, no solamente de la zona metropolitana de Monterrey.</p>
+
+<p>Pero tiene mucho que ver con la coordinaci&oacute;n. Y, en ese sentido, yo har&iacute;a este llamado a la coordinaci&oacute;n y, por supuesto, con el gobierno federal que siempre nos vamos a coordinar.</p>
+
+<p>Y, por otro lado, para las mujeres, pedirle ah&iacute; a Citlalli&hellip; Porque mucho tiene que ver con las Fiscal&iacute;as, tambi&eacute;n, avanzar en la cero impunidad frente a todos los delitos y en particular, frente a los delitos contra las mujeres, y el feminicidio en particular. Entonces pedirle ah&iacute; a Citlalli que est&eacute; en contacto.</p>
+
+<p>Y esta coordinaci&oacute;n que es indispensable, que tiene que ir m&aacute;s all&aacute; del asunto pol&iacute;tico de uno u otro partido.</p>
+
+<p><strong>PREGUNTA: Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>Por otro lado, el 30 de diciembre un sujeto, disfrazando la misoginia de periodismo, trajo el tema del asunto legal que atraviesa la graf&oacute;loga Maryfer Centeno aqu&iacute; a &ldquo;La Ma&ntilde;anera&rdquo;. </strong></p>
+
+<p><strong>En su intervenci&oacute;n, &eacute;l se refiri&oacute; a una universidad como &ldquo;universidad patito&rdquo; en la que, seg&uacute;n &eacute;l, &ldquo;hasta una ama de casa puede graduarse&rdquo;, como si ser ama de casa tuviera que ver con la carencia de capacidades. Afortunadamente, usted, como decimos popularmente, &ldquo;lo par&oacute; en seco&rdquo;.</strong></p>
+
+<p><strong>El tema es que la persona que mand&oacute; a este pseudoperiodista que es violentador virtual, me refiero a Octavio Arroyo, conocido como &ldquo;Mr. Doctor&rdquo;, quien empez&oacute; a atacar a la graf&oacute;loga Maryfer Centeno.</strong></p>
+
+<p><strong>El audio que voy a poner es un resumen del contenido que &eacute;l hace. Y lo expongo porque usted menciona de manera muy correcta que lo &ldquo;que no se nombra no existe&rdquo;, y eso es algo que parece muy grave.</strong></p>
+
+<p><strong>En breve continuo.</strong></p>
+
+<p><strong>(AUDIO)</strong></p>
+
+<p><strong>PREGUNTA: Es muy desagradable. El audio es mucho m&aacute;s extenso, pero lo vamos a dejar hasta aqu&iacute;. Usted ha propuesto cambios a la Constituci&oacute;n en beneficio de las mujeres, pero, ante este tipo de contenido en redes sociales, &iquest;qu&eacute; se har&aacute; desde el Gobierno de M&eacute;xico?</strong></p>
+
+<p><strong>Usted mencionaba ahorita a Citlalli Hern&aacute;ndez. Citlalli Hern&aacute;ndez, incluso, ha sido v&iacute;ctima de un lenguaje de odio, por parte de Ricardo Salinas Pliego, que se refiere a ella despectivamente, agredi&eacute;ndola por su f&iacute;sico.</strong></p>
+
+<p><strong>Entonces, si esto sufre una secretaria de Estado, si esto sufre una persona famosa como es Maryfer Centeno, es algo que puede&hellip; &iquest;Qu&eacute; mensaje le dar&iacute;a usted a las personas, a las ni&ntilde;as de secundaria, a ni&ntilde;as de preparatoria que pueden sufrir alg&uacute;n tipo de violencia? Pero, sobre todo, &iquest;qu&eacute; se har&aacute; a trav&eacute;s del Gobierno de M&eacute;xico?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Yo contestar&iacute;a en varios niveles, &iquest;no? El primero es el respeto. Ayer en el discurso dije que la discriminaci&oacute;n, el racismo, el clasismo, el machismo son reminiscencias del colonialismo y del neoliberalismo, y que eso tiene que quedar en el pasado.</p>
+
+<p>Todav&iacute;a hay algunos que, como esta persona que se escucha en el audio, o como coment&oacute;cratas de los medios, o personajes que se cubren en su halo de personas conocidas, que utilizan estas palabras altisonantes o despectivas en contra de las mujeres.</p>
+
+<p>Entonces, respeto, lo primero. Porque si no creen en la inclusi&oacute;n, por lo menos que crean en la tolerancia y en el respeto. Y a las mujeres se les respeta, igual que al pueblo de M&eacute;xico se le respeta, igual que a M&eacute;xico se le respeta.</p>
+
+<p>Entonces, entre todos y entre todas, porque esto no es un asunto de censura o de prohibici&oacute;n, es un asunto de la Revoluci&oacute;n de las Conciencias, y entre todas y entre todos tenemos que ir dejando aislados todos estos comentarios.</p>
+
+<p>Claro, siempre est&aacute; la v&iacute;a de denuncia judicial, que algunas mujeres lo han tomado, y es respetable, pero lo m&aacute;s importante es que cada vez todo esto se vea como algo del pasado.</p>
+
+<p><strong>PREGUNTA: Se puede hacer&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>El odio qued&oacute; en el pasado.</p>
+
+<p>Todos aquellos que utilizan el lenguaje de odio, la pol&iacute;tica basada en el odio, en esta cr&iacute;tica que&hellip; Bueno, nada m&aacute;s vean algunos de los programas, o lean los art&iacute;culos de hoy, nada m&aacute;s lean todos los art&iacute;culos de hoy, de los opositores, llenos de odio, de enojo, de coraje, de machismo, pero cada vez se quedan m&aacute;s aislados.</p>
+
+<p>Y es lo mismo, entre todos tenemos que aislar al machismo, entre todas y entre todos, porque no solo es un asunto de las mujeres.</p>
+
+<p>Entonces, pedir respeto.</p>
+
+<p>Y segundo, aislarlos.</p>
+
+<p>&iquest;Qui&eacute;n les hace caso? Cada vez menos. Ellos se leen, me refiero a la comentocracia, o a los coment&oacute;cratas. Dicen que yo no digo nombres, pero ya los voy a empezar a decir pronto porque tambi&eacute;n es importante decir qui&eacute;n dice qu&eacute;.</p>
+
+<p>Pero esta idea de que &ldquo;la Presidenta no gobierna&rdquo;, que tiene en el fondo un machismo tremendo. Les es imposible&hellip; Ayer, incluso, us&eacute; la palabra&hellip; Tienen tanta cobard&iacute;a que no tienen la posibilidad de reconocer que una mujer puede gobernar, o que puede ser ingeniera o que puede ser abogada.</p>
+
+<p>Entonces, respeto.</p>
+
+<p>Y, por otro lado, entre todas y entre todos seguir aislando cada vez m&aacute;s esos comentarios, que no benefician ni al pueblo de M&eacute;xico, ni a las mujeres, ni a nadie.</p>
+
+<p>Que suban el nivel de su cr&iacute;tica. Si no est&aacute;n de acuerdo que, aunque una persona se dedique a analizar la personalidad de las gentes, de las personas a trav&eacute;s de su letra, pues que digan por qu&eacute;, que utilicen argumentos cient&iacute;ficos, t&eacute;cnicos; pero estas palabras altisonantes, que se queden ah&iacute; aisladas y que cada vez menos gente las escuche, que eleven el nivel.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Por &uacute;ltimo, hay una cr&iacute;tica muy grande por parte de la comentocracia y de alguna parte de la sociedad acerca del programa J&oacute;venes Construyendo el Futuro.</strong></p>
+
+<p><strong>Por parte de algunos personajes de la sociedad, reprochan el que ellos no tuvieron ese apoyo y que ahora, les parece injusto que j&oacute;venes reciban ese ingreso. Desconocen el concepto, que tienen que trabajar para tener ese ingreso.</strong></p>
+
+<p><strong>Pero, tambi&eacute;n, la derecha. Voy, por mencionar a alguno, a Javier Lozano, Ricardo Salinas Pliego, entre otros, se han referido despectivamente a los j&oacute;venes, ya sabe las palabras t&iacute;picas: &ldquo;flojos&rdquo;, &ldquo;huevones&rdquo;, &ldquo;estiran la mano&rdquo;.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; mensaje le dar&iacute;a a este sector que est&aacute; criticando un programa, que a m&iacute; me benefici&oacute; en el a&ntilde;o de la pandemia y con eso pude salir adelante como joven? &iquest;Qu&eacute; mensaje le dar&iacute;a esas personas?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues es este conservadurismo que mira al pasado como si ellos hubieran resuelto algo.</p>
+
+<p>Ah&iacute; tienen a Zedillo. &iquest;Por qu&eacute; no habla Zedillo del Fobaproa, de los regalos que le dio a muchos empresarios en el &ldquo;rescate&rdquo;?</p>
+
+<p>&iquest;Por qu&eacute; este personaje que trabaj&oacute; con Calder&oacute;n no habla de qu&eacute; hizo &eacute;l?, porque conoc&iacute;a a Garc&iacute;a Luna tambi&eacute;n, &iquest;no?</p>
+
+<p>&iquest;O qu&eacute; trato le dio a los familiares de Pasta de Conchos?</p>
+
+<p>Es que ellos quieren regresar por sus fueros, pero el pueblo de M&eacute;xico ya dijo &ldquo;basta&rdquo;, ya dijo &ldquo;basta&rdquo;.</p>
+
+<p>Entonces, J&oacute;venes Construyendo el Futuro &mdash;como ustedes saben&mdash; es un programa en donde se le da el salario m&iacute;nimo a un joven para que entre a un lugar de trabajo como aprendiz para apoyar. Se le apoya a la empresa y se le apoya al joven, y m&aacute;s del 60 por ciento se quedan en el empleo.</p>
+
+<p>Entonces, J&oacute;venes Construyendo el Futuro le ha dado la posibilidad a cientos de miles de j&oacute;venes de conseguir un empleo, y en la mayor&iacute;a de los casos se quedan en el empleo. Ya tienen esta posibilidad que si les dicen &ldquo;experiencia de trabajo&rdquo;, tienen experiencia de trabajo, y con recursos p&uacute;blicos se les da el salario del primer a&ntilde;o.</p>
+
+<p>Entonces, es un programa muy exitoso.</p>
+
+<p>Pero tambi&eacute;n igual la Pensi&oacute;n Universal a las y los Adultos Mayores, y tambi&eacute;n el Apoyo a Personas con Discapacidad, y tambi&eacute;n la beca que se le da a todos los j&oacute;venes de preparatoria.</p>
+
+<p>Claro, ellos no est&aacute;n de acuerdo con eso, pero por eso perdieron, porque el pueblo de M&eacute;xico quiere que contin&uacute;e la Transformaci&oacute;n.</p>
+
+<p>Por eso, ayer en el discurso dec&iacute;a: Anhelan que yo rompa con el Presidente L&oacute;pez Obrador; pues se van a quedar con las ganas. &iexcl;&iquest;C&oacute;mo?! Si luchamos juntos toda la vida, si eso fue a lo que me compromet&iacute; con el pueblo, si es mi convicci&oacute;n darle continuidad a una Transformaci&oacute;n que inici&oacute; en diciembre del 2018.</p>
+
+<p>Entonces, que sigan as&iacute;, van muy bien, muy bien, entre las palabras altisonantes y la cr&iacute;tica a los Programas de Bienestar y a programas como J&oacute;venes Construyendo el Futuro, que hoy ya son derechos del bienestar&hellip; Bueno, J&oacute;venes Construyendo el Futuro todav&iacute;a tiene que aprobarse en la Constituci&oacute;n.</p>
+
+<p>Pero es una decisi&oacute;n del pueblo de M&eacute;xico, y aqu&iacute; no traicionamos.</p>
+
+<p>Entonces, s&iacute;ganle, van muy bien.</p>
+
+<p>&mdash;A ver ac&aacute;, y luego aqu&iacute; atr&aacute;s&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Buen d&iacute;a. Alejandra Torn&eacute;s, para <em>Somos M&aacute;s</em>, medio digital en Tabasco.</strong></p>
+
+<p><strong>En primer lugar, Presidenta: en base a su informe de 100 d&iacute;as, nombr&oacute; la construcci&oacute;n de la ruta del Tren Interoce&aacute;nico de Roberto Ayala a Dos Bocas, en Tabasco, y la ampliaci&oacute;n de la carretera a Macuspana-Esc&aacute;rcega.</strong></p>
+
+<p><strong>Preguntarle, Presidenta, si &iquest;tendr&aacute; fechas de inicio y la inversi&oacute;n que se realizar&aacute; para estas obras?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> No tengo en este momento la inversi&oacute;n &mdash;a ver si nos la pasa Jes&uacute;s Esteva&mdash;.</p>
+
+<p>Este a&ntilde;o inician las dos:</p>
+
+<p>La carretera va a llevar algunos a&ntilde;os porque requiere recursos importantes; entonces, por lo menos unos tres a&ntilde;os para terminarla.</p>
+
+<p>Y en el caso de esta v&iacute;a que va hasta Dos Bocas, del Interoce&aacute;nico, yo creo que van a ser dos a&ntilde;os tambi&eacute;n.</p>
+
+<p>En un caso es Secretar&iacute;a de Marina quien est&aacute; desarrollando y en el otro caso va a haber licitaci&oacute;n.</p>
+
+<p><strong>PREGUNTA: <em>Ok</em>. Muchas gracias, Presidenta.</strong></p>
+
+<p><strong>Una segunda pregunta ser&iacute;a&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Bueno, en ambos casos hay licitaci&oacute;n, solamente que la responsabilidad en un caso es Secretar&iacute;a de Marina y en el otro caso es Secretar&iacute;a de Infraestructura, Comunicaciones y Transportes.</p>
+
+<p><strong>PREGUNTA:<em> Ok</em>, muchas gracias, Presidenta.</strong></p>
+
+<p><strong>Una segunda pregunta ser&iacute;a respecto a la atenci&oacute;n a familias en la comunidad de El Bosque, en Frontera, Tabasco. Presidenta, el Gobierno de M&eacute;xico atendi&oacute; reubicando a familias, pero a&uacute;n queda un aproximado de 30 familias que contin&uacute;an a la espera.</strong></p>
+
+<p><strong>Preguntarle sobre el apoyo a estas familias, si &iquest;tiene alg&uacute;n informe que nos pudiera compartir?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Le comentamos a Edna Vega, la secretaria de Sedatu, para que se pueda poner en contacto contigo para saber exactamente quienes son estas familias, y a todas se les va a atender.</p>
+
+<p><strong>PREGUNTA:<em> Ok</em>, muchas gracias, Presidenta.</strong></p>
+
+<p><strong>Una &uacute;ltima pregunta, y aprovechando la presencia del secretario, en Villahermosa circula informaci&oacute;n v&iacute;a padres de familia del CBTIS 32, exhibieron un presunto incremento en cuotas de reinscripci&oacute;n.</strong></p>
+
+<p><strong>Preguntarle, en primer lugar, si &iquest;se tiene conocimiento de incrementos en cuotas?</strong></p>
+
+<p><strong>Y preguntar si &iquest;se tiene una regulaci&oacute;n, alg&uacute;n tabulador al respecto de estas cuotas para el 2025?, ser&iacute;a bueno socializarlas.</strong></p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> No hay&hellip; Primero, no tienen por qu&eacute; haber cuotas; si hay, son voluntarias, pero estamos trabajando para que no haya, se cumpla lo que dice la Constituci&oacute;n, que la educaci&oacute;n debe ser gratuita.</p>
+
+<p>Entonces, que no haya cuotas ah&iacute;. Vamos a revisar el caso de ese CBTIS y vamos a coordinarnos con el gobernador.</p>
+
+<p>&iquest;Por qu&eacute;? Las cuotas a veces las utilizaban para, justamente, para hacer alg&uacute;n arreglo, mantenimiento a las instalaciones, y con la entrada de La Escuela es Nuestra, no va a ser necesario que se le cargue la mano a los padres de familia con las cuotas, los recursos de La Escuela es Nuestra van a servir para dar ese mantenimiento.</p>
+
+<p>Entonces vamos a revisar ese caso.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>La educaci&oacute;n p&uacute;blica debe ser gratuita.</p>
+
+<p>En algunos lugares, sobre todo, en las universidades aut&oacute;nomas de los estados, hay cuotas de inscripci&oacute;n y colegiaturas en algunos casos.</p>
+
+<p>Y vamos a ir trabajando en este esquema, por un lado, de austeridad, que no quiere decir disminuir el derecho a la educaci&oacute;n, sino disminuir todos los gastos administrativos.</p>
+
+<p>Por cierto, la UNAM hizo un programa de austeridad que me parece muy bien.</p>
+
+<p>Y hay que ir avanzando en ello, para que haya recursos suficientes y que podamos alcanzar la gratuidad, que lo establece la Constituci&oacute;n.</p>
+
+<p>En educaci&oacute;n media superior, en esa s&iacute; vamos a empezar este a&ntilde;o, no debe haber cuotas.</p>
+
+<p>&mdash;A ver ac&aacute; y luego aqu&iacute; atr&aacute;s&mdash;.</p>
+
+<p><strong>PREGUNTA: Gracias, Presidenta. Buenos d&iacute;as. Laura &Aacute;vila, de <em>Posta Ciudad de M&eacute;xico</em>.</strong></p>
+
+<p><strong>En el marco de sus 100 d&iacute;as de gobierno, mencion&oacute; el d&iacute;a de ayer el aumento al salario m&iacute;nimo; sin embargo&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &iquest;El qu&eacute;, perd&oacute;n?</p>
+
+<p><strong>PREGUNTA: El aumento del salario m&iacute;nimo.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ah, s&iacute;.</p>
+
+<p><strong>PREGUNTA: Sin embargo, considerando que este incremento solo beneficia a menos de la mitad de los trabajadores y que la informalidad laboral tambi&eacute;n es un tema importante, &iquest;qu&eacute; acciones concretas dir&iacute;a que va a hacer para solucionar esta problem&aacute;tica?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues, por ejemplo, aunque informalidad se asocia por algunos a comercio, por ejemplo, en v&iacute;a p&uacute;blica, hay muchas formas de que no tengan los trabajadores todos sus derechos.</p>
+
+<p>Una de ellas, por ejemplo, son los trabajadores repartidores, que ya se aprob&oacute; la ley y son m&aacute;s de 600 mil trabajadores que tienen que entrar a un&hellip; sus patrones, sus empleadores, que son las aplicaciones telef&oacute;nicas principalmente, tienen que contribuir para que tengan su seguridad social. Esa es una forma de entrar a la formalizaci&oacute;n.</p>
+
+<p>Estamos trabajando con los jornaleros agr&iacute;colas, por ejemplo, porque es&hellip; poblaciones principalmente del sur sureste del pa&iacute;s que van a Sinaloa, Sonora, a Baja California, durante seis meses a veces, y no viven en las mejores condiciones y no se les paga su seguridad social.</p>
+
+<p>Entonces, esa es otra forma que vamos a entrar de formalizaci&oacute;n.</p>
+
+<p>Y el salario m&iacute;nimo lo que permite es eso, poner una base m&iacute;nima. Entonces, incluso, cuando se contratan en el empleo no formal, hay una base m&iacute;nima que es el salario m&iacute;nimo, y va a seguir aumentado hasta alcanzar 2.5 canastas b&aacute;sicas.</p>
+
+<p>Con el salario m&iacute;nimo hoy se compran 1.8 canastas b&aacute;sicas de estas que cuestan hoy 910 pesos, que fue el precio que se puso en acuerdo no como algo controlado, sino en un acuerdo entre gobierno y empresarios para dar esta canasta b&aacute;sica a este precio.</p>
+
+<p>Nosotros queremos que con un salario m&iacute;nimo se llegue a comprar dos y media canastas b&aacute;sicas. Eso, evidentemente, empuja tambi&eacute;n los otros salarios y tambi&eacute;n, incluso, a los que no est&aacute;n dentro del r&eacute;gimen del Instituto Mexicano del Seguro Social.</p>
+
+<p><strong>PREGUNTA: En una segunda pregunta, igual, ayer mencion&oacute; la creaci&oacute;n de la marca &ldquo;Bienestar&rdquo; con productos de bajos precios. Si, &iquest;nos podr&iacute;a dar detalles de este proyecto, si tienen contemplada una fecha para iniciar qu&eacute; otros productos tienen igual en mente, adem&aacute;s de lo que ya mencion&oacute; o &uacute;nicamente esos?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>El objetivo es que lo que se venda en las Tiendas de Bienestar, las antiguas tiendas Diconsa, sea no los productos que uno compra en una tienda comercial, es decir, no es para los productos transnacionales, para eso hay todo un mercado y es el principal mercado.</p>
+
+<p>Las Tiendas del Bienestar tiene el objetivo de conectar al productor, al peque&ntilde;o productor, con el consumidor, entre otras, adem&aacute;s de dar bajos precios.</p>
+
+<p>Por ejemplo, el kilo de frijol se est&aacute; vendiendo en 35; cuando lleg&oacute; Mar&iacute;a Luisa se baj&oacute; a 30 pesos. Y no hay subsidio, sino sencillamente se disminuy&oacute; la ganancia que ten&iacute;a Diconsa para poderla distribuir tambi&eacute;n en otras actividades de la propia empresa.</p>
+
+<p>Entonces, Tiendas del Bienestar, hoy le estamos dando el objetivo tambi&eacute;n de conectar al peque&ntilde;o productor con el consumidor, sobre todo, el consumidor de bajos recursos.</p>
+
+<p>Y la idea es que no solamente se venda el caf&eacute;, sino que podamos, incluso, hacer caf&eacute; soluble, darle valor agregado, junto con los productores; de tal manera, que lo que se venda en las Tiendas del Bienestar sea el &ldquo;Caf&eacute; Soluble Bienestar&rdquo;, que es de calidad, que garantiza que la mayor parte de su contenido sea caf&eacute; y que pueda venderse a m&aacute;s bajo costo.</p>
+
+<p>Para eso es la marca &ldquo;Bienestar&rdquo;, para venderlas en las Tiendas Bienestar.</p>
+
+<p>Chocolate, es lo mismo. Se compra el cacao a los productores de cacao, a los peque&ntilde;os productores de cacao, se juntan estos productores para darle valor agregado y se hace &ldquo;Chocolate Bienestar&rdquo;, de buena calidad, que tenga un contenido muy alto de cacao.</p>
+
+<p>Porque a veces el chocolate, as&iacute; como dec&iacute;a hoy Iv&aacute;n, que el queso que se compra a veces no tiene queso, no tiene producto l&aacute;cteo, igual, que el &ldquo;Chocolate Bienestar&rdquo; que se venda, producido y d&aacute;ndole valor agregado entre esta coordinaci&oacute;n con los productores, los peque&ntilde;os productores y Alimentaci&oacute;n para el Bienestar, pues se pueda vender en las Tiendas del Bienestar.</p>
+
+<p>Entonces, vamos a iniciar con caf&eacute;, cacao &mdash;para el chocolate, para vender chocolate&mdash; y miel. Y despu&eacute;s, vamos a ir aumentando en otros productos.</p>
+
+<p><strong>PREGUNTA: &iquest;Tiene contemplada alguna fecha?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Ya este mismo a&ntilde;o empieza. Va a venir Mar&iacute;a Luisa a explicarlo aqu&iacute; en una &ldquo;Ma&ntilde;anera&rdquo;.</p>
+
+<p><strong>PREGUNTA: Y ya para finalizar, si &iquest;nos puede dar sus impresiones generales del evento de ayer? Gracias.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Pues, sobre todo, muchas gracias por el apoyo. Hay un entusiasmo, una alegr&iacute;a por lo que est&aacute; pasando en M&eacute;xico.</p>
+
+<p>No puede haber divorcio entre pueblo y gobierno; eso fue la pauta que inici&oacute; en diciembre de 2018 y as&iacute; va a seguir siendo.</p>
+
+<p>La rendici&oacute;n de cuentas s&iacute; se hace en p&aacute;ginas de internet, se hace en informes escritos, se hace para compras, para todo lo que sea necesario, pero tiene que haber la rendici&oacute;n de cuentas con decirle al pueblo de manera directa lo que estamos haciendo, y eso es lo que ocurri&oacute; ayer.</p>
+
+<p>Y el movimiento de la Cuarta Transformaci&oacute;n est&aacute; m&aacute;s fuerte que nunca, eso es lo que les molesta a los adversarios pol&iacute;ticos. Pero lo que hay es una Revoluci&oacute;n Pac&iacute;fica que inici&oacute; en M&eacute;xico en diciembre del 2018, y tiene que ver con el cambio de consciencia principalmente.</p>
+
+<p>Y ah&iacute; vamos a seguir y a seguir, y a seguir, porque el pueblo de M&eacute;xico es mucha pieza y hay que servirle al pueblo y darle siempre resultados para mejorar su calidad de vida, mejorar la educaci&oacute;n, mejorar la salud y ampliar los derechos del pueblo.</p>
+
+<p>En la medida que se ampl&iacute;en los derechos del pueblo de M&eacute;xico, en esa medida se empodera el pueblo y se cumple.</p>
+
+<p>Y eso es lo que estamos haciendo y eso vamos a seguir haciendo. A algunos no les gusta; pues que contin&uacute;en por su camino, van bien.</p>
+
+<p>&mdash;Aqu&iacute; atr&aacute;s&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Buenos d&iacute;as a todos los compa&ntilde;eros y a los funcionarios.</strong></p>
+
+<p><strong>Soy Arnoldo Cuellar, vengo de Guanajuato, de un medio que se llama <em>Laboratorio de Periodismo y Opini&oacute;n P&uacute;blica</em>, <em>POPLab</em>, que tambi&eacute;n es parte de la Alianza de Medios de la Red de Periodistas de a Pie.</strong></p>
+
+<p><strong>Estamos viviendo en Guanajuato un momento muy, muy trascendente, despu&eacute;s de que nos liberamos de este fiscal que ten&iacute;a 15 a&ntilde;os y 10 meses al frente, Carlos Zamarripa, pero ahora, lo importante es qui&eacute;n va a venir en su lugar.</strong></p>
+
+<p><strong>Y estamos viviendo un proceso donde lamentablemente sentimos que hay una simulaci&oacute;n de consensos entre el gobierno del estado y el Gobierno Federal. </strong></p>
+
+<p><strong>Hay una propuesta de un candidato en una alianza muy antinatural del PRI, el Verde y el PT, que sentimos que es la mano del PAN atr&aacute;s de ellos, para postular al fiscal regional de la Fiscal&iacute;a General de la Rep&uacute;blica, de nombre Gerardo V&aacute;zquez Alatriste, pensando que con el hecho de ser un funcionario federal ya tiene el visto bueno y los consensos desde aqu&iacute;, desde el gobierno de la Cuarta Transformaci&oacute;n.</strong></p>
+
+<p><strong>Pero, en realidad, se trata de un personaje que tiene 20 a&ntilde;os en la Fiscal&iacute;a, que ha trabajado con procuradores de otros gobiernos, de otros reg&iacute;menes y que, adem&aacute;s, tiene su origen en el despacho de Antonio Lozano Gracia.</strong></p>
+
+<p><strong>Nos preocupar&iacute;a mucho que se desperdiciara la oportunidad de hacer una pol&iacute;tica p&uacute;blica de seguridad m&aacute;s abierta, que se llevara a cabo un parlamento abierto en Guanajuato, para que el nuevo fiscal nos quitara de encima el enorme peso de impunidad que hemos tenido y mejorara la colaboraci&oacute;n con el Gobierno Federal.</strong></p>
+
+<p><strong>S&eacute; que es un tema estatal, se dirime a los Poderes estatales, pero me gustar&iacute;a mucho conocer su punto de vista al respecto, porque s&eacute; que a usted le preocupa lo que pasa en Guanajuato.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Nosotros no hemos dado el aval a nadie. Le corresponde el nombramiento del fiscal al Congreso estatal.</p>
+
+<p>Podemos dar orientaciones generales de que sea una persona honesta, proba, que est&eacute; comprometida con el estado, que haya mostrado que ha dado resultados.</p>
+
+<p>Entonces, no. Nosotros no hemos dado el aval a nadie, y depende del Congreso del estado, donde nadie tiene mayor&iacute;a calificada, como era antes; entonces tienen que tener el apoyo de diferentes fuerzas pol&iacute;ticas.</p>
+
+<p>Pero en efecto, que sea... que se busque al mejor perfil hombre o mujer, que le cumpla al pueblo de Guanajuato.</p>
+
+<p>Entonces, ah&iacute; tiene que hacer una propuesta la gobernadora entiendo. Y nuestra orientaci&oacute;n es que se busque al mejor perfil.</p>
+
+<p>Tambi&eacute;n puede haber una persona que mientras tanto est&eacute; en la Fiscal&iacute;a y tambi&eacute;n que demuestre, &iquest;no?, que tiene como encargado de despacho las facultades y la voluntad para trabajar.</p>
+
+<p>Entonces, nosotros no, no hemos dado el aval, ni lo vamos a dar, porque le corresponde al gobierno del estado presentar su propuesta y al Congreso estatal decidir si corresponde o no al mejor perfil que puede haber.</p>
+
+<p>Y s&iacute; colaborar, coordinarnos, porque Guanajuato sigue siendo el estado con mayor homicidios en el pa&iacute;s. Entonces, hoy presentaron viernes, s&aacute;bado y domingo&hellip; Guanajuato, primer lugar, y con mucho; ahora, presentamos, representa casi el 20 por ciento de los homicidios un estado.</p>
+
+<p>Y tiene que ver no solamente con personas que estuvieron al frente de este tema que, evidentemente, no hicieron su trabajo, sino tiene que ver tambi&eacute;n con un modelo de desarrollo en Guanajuato.</p>
+
+<p>Hoy presentamos media superior.</p>
+
+<p>&mdash;&iquest;Cu&aacute;ntas preparatorias vamos a hacer en Le&oacute;n? Cuatro, creo, &iquest;no?&mdash; Hay una sola preparatoria p&uacute;blica en Le&oacute;n, Guanajuato, una de las ciudades que era m&aacute;s pr&oacute;speras en el pa&iacute;s y que hoy es de las ciudades con mayor n&uacute;mero de personas en pobreza, mayor n&uacute;mero de adicciones y mayor violencia.</p>
+
+<p>Entonces, tiene que atenderse tambi&eacute;n&hellip; Hay much&iacute;simas personas &mdash;hablando de esto, de seguridad social&mdash; que trabajan en talleres, que trabajan en empresas, incluso, medianas y que no ganan ni el salario m&iacute;nimo. Entonces, tiene que ver con un modelo de desarrollo en Guanajuato que no ha dado resultados.</p>
+
+<p>Entonces, s&iacute;, son las personas que se encargan del Gabinete de Seguridad y de Procuraci&oacute;n de Justicia, pero tambi&eacute;n tiene que ver con un cambio de modelo, de atender a los j&oacute;venes en Guanajuato.</p>
+
+<p><strong>PREGUNTA: En ese sentido, nos preocupa tambi&eacute;n ciertos mensajes lanzados desde el gobierno del estado en este momento, se&ntilde;alando que &ldquo;hay que fortalecer m&aacute;s el poder de fuego de los polic&iacute;as locales&rdquo;, que &ldquo;los calibres que usan no son como los de la delincuencia&rdquo;, en un &aacute;nimo bastante belicista que ha fracasado en otros momentos en M&eacute;xico.</strong></p>
+
+<p><strong>Recientemente, se dio la muerte, &ldquo;el abatimiento&rdquo;, como dicen ellos, de 10 personas supuestamente miembros de un grupo criminal. No sabemos en realidad qui&eacute;nes son, no sabemos si hay entre ellos menores de edad. No se est&aacute; fortaleciendo la investigaci&oacute;n y el Estado de derecho, sino esta respuesta dura.</strong></p>
+
+<p><strong>Por eso, nos preocupa que en la Fiscal&iacute;a haya alguien que tambi&eacute;n pueda investigar estos hechos, y que sea la fuerza del derecho y no la de las armas la que pueda dar lugar a un camino de paz en Guanajuato.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Es cierto, no es un asunto de&hellip; Digo, las Polic&iacute;as tienen que estar formadas, tienen que ser profesionales, si tienen que estar con los equipos necesarios, pero no por tener calibres mayores se va a resolver el problema de la violencia en Guanajuato.</p>
+
+<p>El tema &mdash;en efecto, coincido&mdash; es la atenci&oacute;n a las causas y la cero impunidad. Y la cero impunidad tiene mucho que ver con la Fiscal&iacute;a. La presencia de la Polic&iacute;a es muy importante y la detenci&oacute;n en flagrancia, y la investigaci&oacute;n, y la inteligencia, pero si los fiscales no hacen carpetas de investigaci&oacute;n y los llevan a un juez, que sea una persona proba tambi&eacute;n, entonces no va a haber una sola detenci&oacute;n.</p>
+
+<p>Entonces, nosotros no creemos en los Estados de excepci&oacute;n, eso fue lo que ocurri&oacute; con la guerra contra el narco, que todo era un Estado de excepci&oacute;n y era el permiso para matar. Guerra quiere decir eso &ldquo;permiso para matar&rdquo; en un Estado de excepci&oacute;n donde no haya juicios.</p>
+
+<p>Nosotros no, nosotros creemos que hay que fortalecer la justicia en el pa&iacute;s y entonces, se consigue la paz. La paz es fruto de la justicia, en todo el &aacute;mbito: justicia social y tambi&eacute;n un sistema de justicia desde la procuraci&oacute;n hasta el Poder Judicial que cumplan con su funci&oacute;n y que se erradique la corrupci&oacute;n de cualquier lugar donde exista.</p>
+
+<p><strong>PREGUNTA: Finalmente, y en otro tema, Presidenta: el mensaje que usted lanz&oacute; hace unos d&iacute;as a los c&oacute;nsules, sobre todo, a los de las ciudades norteamericanas, fue muy bien recibido por la comunidad migrante, porque sienten que hace falta ese di&aacute;logo entre activistas que ya trabajan desde la sociedad civil para defender a los migrantes indocumentados. Ellos s&iacute; son documentados, pero defienden a otros que no lo son, pero que tienen muy poco espacio de interlocuci&oacute;n con los c&oacute;nsules.</strong></p>
+
+<p><strong>Me hablan de un caso en particular, migrantes guanajuatenses en Houston donde, pese a haber una gran infraestructura, un edificio de cuatro pisos, la c&oacute;nsul Mar&iacute;a Elena Orantes &mdash;que, por cierto, fue senadora del PRI y diputada de Movimiento Ciudadano&mdash; no ha dado esta apertura, incluso, ha hecho listas negras con algunos activistas a los que no se les permite acudir a los tr&aacute;mites normales apoyando a otras personas.</strong></p>
+
+<p><strong>Esto, adem&aacute;s, se va a agravar por lo que venimos, lo que sabemos que viene en materia de mayor agresividad de las instituciones de migraci&oacute;n norteamericana contra nuestros compatriotas.</strong></p>
+
+<p><strong>Entonces, saber, si &iquest;se va a supervisar de alguna manera que se cumplan estas instrucciones suyas para que haya una pol&iacute;tica de m&aacute;s di&aacute;logo, de puertas abiertas y sumen fuerzas tanto activistas desde la sociedad y los funcionarios consulares?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Vamos a pedirle al canciller que vea si hay alg&uacute;n tema con la c&oacute;nsul, pero hasta ahora, la verdad, no tenemos quejas en particular de ning&uacute;n c&oacute;nsul, hombre o mujer. Y hay mucha colaboraci&oacute;n y entrega, que esperemos que de inmediato lo noten nuestros compatriotas que est&aacute;n all&aacute; en Estados Unidos.</p>
+
+<p>&mdash;A ver ac&aacute;, ahora de este lado. Ac&aacute; la compa&ntilde;era primero&mdash;.</p>
+
+<p><strong>PREGUNTA: Buenos d&iacute;as, Presidenta. Graciela Bravata, de <em>Ahora Noticias</em>.</strong></p>
+
+<p><strong>Me sumo a las felicitaciones de mis compa&ntilde;eros y en especial de las mujeres tabasque&ntilde;as que, lejos de lo que dec&iacute;an muchos, como dec&iacute;a usted, &ldquo;machistas&rdquo;, me toc&oacute; ver despu&eacute;s de tantos a&ntilde;os de caminar en conjunto acompa&ntilde;ando al se&ntilde;or Presidente Andr&eacute;s Manuel, ver que la gente ven&iacute;a con un &aacute;nimo agradable, con un &aacute;nimo de satisfacci&oacute;n, pero, sobre todo, de gratitud.</strong></p>
+
+<p><strong>Me encant&oacute; ver el orden. De verdad, se escuchaba en el caminar de decir: &ldquo;Tenemos una excelente Presidenta&rdquo;.</strong></p>
+
+<p><strong>Y, de verdad, muchas felicidades en representaci&oacute;n de las mujeres tabasque&ntilde;as.</strong></p>
+
+<p><strong>Con respecto al tema, y aprovechando que est&aacute; aqu&iacute; el de la Profeco, el a&ntilde;o pasado se toc&oacute; un tema que ha perjudicado mucho a las familias mexicanas, y es el robo cibern&eacute;tico a trav&eacute;s de los mensajes.</strong></p>
+
+<p><strong>Se ha manejado mucho aqu&iacute; en &ldquo;Las Ma&ntilde;aneras&rdquo;, pero lamentablemente, hasta hoy, no veo si tienen alg&uacute;n programa para para concientizar a la gente a trav&eacute;s de medios, de radio, televisi&oacute;n y, sobre todo, de redes sociales, porque los mensajes que llegan para estafar llegan a trav&eacute;s de mensajes de textos y lamentablemente, no todos tienen red en sus comunidades y no est&aacute;n al tanto de este tipo de noticias.</strong></p>
+
+<p><strong>&iquest;Qu&eacute; se puede hacer? &iquest;Y si tienen contemplado? Es mi pregunta para el representante de la Profeco. &iquest;Y si van a hacer alguna campa&ntilde;a de concientizaci&oacute;n? </strong></p>
+
+<p><strong>Porque hay un caso en particular de &mdash;me voy a omitir el nombre&mdash; de una mujer en Zapata, Tabasco, que lamentablemente no tan solo le robaron los ingresos de su trabajo, m&aacute;s de 50 mil pesos, sino que el mismo banco en ese mismo d&iacute;a le autoriz&oacute; a quien estaba haciendo uso indebido de ese dinero, de esa tarjeta, 50 mil pesos m&aacute;s. Y ella se qued&oacute; con una deuda.</strong></p>
+
+<p><strong>Su n&oacute;mina llegaba a esa cuenta de ese banco y el banco se las detuvo hasta el d&iacute;a de hoy.</strong></p>
+
+<p><strong>La Condusef y Profeco no han hecho nada.</strong></p>
+
+<p><strong>Espero que me puedan respuesta y, sobre todo, alg&uacute;n aliciente para esta mujer que con mucho trabajo y esfuerzo tuvo ese dinero y que lamentablemente hoy no tan solo lo perdi&oacute;, sino que est&aacute; en deuda.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> S&iacute;, lo atendemos, seguro.</p>
+
+<p><strong>PREGUNTA: Y aprovechando que est&aacute; aqu&iacute; el licenciado Mario Delgado y ma&ntilde;ana es el tema de salud, pero es una pregunta h&iacute;brida: en Tabasco hay unas escuelas que se llaman &ldquo;Interculturales&rdquo; y est&aacute; la carrera de Enfermer&iacute;a, pero a este tipo de carreras a las y los que est&aacute;n estudiando enfermer&iacute;a no les permite dar su servicio social en las instituciones del sistema de salud.</strong></p>
+
+<p><strong>&iquest;Habr&iacute;a alguna posibilidad de que pudieran contar con ese apoyo?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> &mdash;&iquest;Quieres comentar?&mdash;</p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> Bueno, vamos a por qu&eacute; no les permiten.</p>
+
+<p>Por ejemplo, en los Conalep tenemos la carrera t&eacute;cnica de Enfermer&iacute;a. S&iacute; deber&iacute;an poder trabajar en el sector salud, entonces vamos a investigar.</p>
+
+<p><strong>PREGUNTA: M&aacute;s que trabajar, el servicio social de los estudiantes.</strong></p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> Ah, el servicio social, &iquest;no los dejan hacer en los hospitales?</p>
+
+<p><strong>PREGUNTA: No los reciben en los hospitales para dar su servicio social a los que pertenecen a esta escuela de intercultural.</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Tienen que hacerlo, tienen que abrirse.</p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> Pues s&iacute;, tienen que aceptarlo. Vamos a ver por qu&eacute; no. Tal vez porque es nuevo este modelo educativo, pero vamos a ver por qu&eacute; no. S&iacute; deber&iacute;an.</p>
+
+<p><strong>PREGUNTA: Y con el tema de&hellip;</strong></p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> Ahorita me das los datos precisos.</p>
+
+<p><strong>PREGUNTA: S&iacute;, claro que s&iacute;.</strong></p>
+
+<p><strong>Y con respecto al tema de que expusieron del nuevo proyecto tan extraordinario, al igual que comentaba mi compa&ntilde;ero, de que hay personas que no tuvimos esa oportunidad que hoy tienen esta generaci&oacute;n de la Cuarta Transformaci&oacute;n, como los J&oacute;venes Construyendo el Futuro.</strong></p>
+
+<p><strong>Ahorita, con este programa de La Escuela es Nuestra hay muchos mexicanos y mexicanas que no lograron, por no tener los recursos, tener su preparatoria. Si bien, es cierto que acaban de mencionar que es para sistema escolarizado, &iquest;habr&iacute;a para el futuro alguna apertura para las personas mayores?</strong></p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> S&iacute;, est&aacute;&hellip; Y justo sali&oacute; una pregunta la semana pasada sobre Prepa en L&iacute;nea.</p>
+
+<p>Prepa en L&iacute;nea est&aacute; funcionando; de hecho, tenemos convocatoria el pr&oacute;ximo 20 de enero para reinscripci&oacute;n. Forma parte de toda esta estrategia de Bachillerato Nacional.</p>
+
+<p>Se va, incluso, a revisar todo el apoyo tecnol&oacute;gico que tiene Prepa en L&iacute;nea para que sea m&aacute;s f&aacute;cil. Tenemos a los tutores que dan asesor&iacute;as.</p>
+
+<p>Y este tipo de oferta educativa permite a personas que no est&aacute;n entre 15 y 18 a&ntilde;os, pero que tienen deseos de terminar su preparatoria, la mejor forma de hacerlo es a trav&eacute;s de Prepa en L&iacute;nea. Y justo, cuando ves la matr&iacute;cula de Prepa en L&iacute;nea, ves de todos, de todas las edades. Entonces, justo va en ese sentido.</p>
+
+<p>Acabamos tambi&eacute;n de tener una graduaci&oacute;n de la Universidad Abierta de M&eacute;xico, donde se graduaron tambi&eacute;n personas que por alguna raz&oacute;n no lograron terminar en los 20, y despu&eacute;s regresaron a estudiar y graduarse. O sea, ah&iacute; est&aacute; esa posibilidad.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> El tramo que va a Dos Bocas tiene un costo estimado de 10 mil 500 millones de pesos y la carretera Macuspana a Esc&aacute;rcega tiene una inversi&oacute;n estimada de 11 mil millones de pesos.</p>
+
+<p>&mdash;A ver, vamos por la &uacute;ltima antes de&hellip;&mdash;</p>
+
+<p><strong>PREGUNTA: Quisiera preguntarle al secretario de Educaci&oacute;n, si en su gesti&oacute;n, se&ntilde;or secretario, &iquest;hay posibilidades para que el nivel de deserci&oacute;n en el pa&iacute;s llegue a una tasa cero? Porque Jos&eacute; Vasconcelos dijo hace varios a&ntilde;os: &ldquo;El d&iacute;a que M&eacute;xico alcance una tasa cero nos libraremos del yugo del imperio&rdquo;</strong></p>
+
+<p><strong>&iquest;Y c&oacute;mo avanza la reforma o la descentralizaci&oacute;n educativa que, en su momento, plante&oacute; el exsecretario Jes&uacute;s Reyes Heroles, y si ha encontrado usted obst&aacute;culos para que eso alcance su prop&oacute;sito?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Sobre la deserci&oacute;n son dos temas. Hay muchas encuestas de por qu&eacute; los j&oacute;venes o las j&oacute;venes desertan: mientras m&aacute;s alto&hellip; Digamos, en primaria desertan muy pocos, en secundaria desertan un poco m&aacute;s, en prepa desertan m&aacute;s y en universidad tambi&eacute;n hay mayor deserci&oacute;n.</p>
+
+<p>Hay varias causas para la deserci&oacute;n, la primera puede ser econ&oacute;mica. Entonces, la Beca &ldquo;Benito Ju&aacute;rez&rdquo;, que dio el Presidente L&oacute;pez Obrador, y que la seguimos dando, y que hoy est&aacute; en la Constituci&oacute;n, ha permitido disminuir la deserci&oacute;n escolar en la preparatoria.</p>
+
+<p>&mdash;&iquest;Qu&eacute; porcentaje es?&mdash;</p>
+
+<p><strong>SECRETARIO DE EDUCACI&Oacute;N P&Uacute;BLICA, MARIO DELGADO CARRILLO:</strong> 8 por ciento.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> 8 por ciento disminuy&oacute; la deserci&oacute;n gracias a la Beca &ldquo;Benito Ju&aacute;rez&rdquo;.</p>
+
+<p>Ahora, la Beca &ldquo;Rita Cetina&rdquo; va a ayudar a que las y los adolescentes de secundaria no deserten por motivos econ&oacute;micos, este apoyo que se le est&aacute; dando a las familias para que puedan dar todo lo que est&aacute; alrededor de la educaci&oacute;n.</p>
+
+<p>Porque el gasto en educaci&oacute;n no solamente es la propia escuela que debe ser gratuita en el caso de la escuela p&uacute;blica, sino tambi&eacute;n los uniformes, los cuadernos, todo lo que est&aacute; asociado a que un ni&ntilde;o, una ni&ntilde;a, adolescente, vaya a la escuela.</p>
+
+<p>Entonces, ese es un tema.</p>
+
+<p>El otro tiene que ver con los propios programas de estudio, que las y los j&oacute;venes no tengan la identidad o el gusto por lo que est&aacute;n aprendiendo, sobre todo, en la educaci&oacute;n media superior. Y ah&iacute; viene todo este cambio que est&aacute;n desarrollando y que han trabajado muy bien Mario, Tania y todo el equipo.</p>
+
+<p>Yo recuerdo que, en alguna ocasi&oacute;n, un profesor me dijo: &ldquo;Cuando uno&hellip;&rdquo;</p>
+
+<p>El plan de estudio en una preparatoria &ldquo;x&rdquo;, no voy a decir cu&aacute;l, dice: &ldquo;La poes&iacute;a es una forma de literatura en donde se escriben versos y eso lo tiene que aprender el estudiante de memoria&rdquo;.</p>
+
+<p>Pues no, lo que nosotros queremos es que el joven lea poes&iacute;a, aparte de conocer cu&aacute;l es la diferencia entre un ensayo, poes&iacute;a u otra forma de escritura, de literatura. Lo que queremos es que lean, y al leer pues van a cambiar por completo su perspectiva.</p>
+
+<p>Si van a la escuela contentos, es un espacio no de exclusi&oacute;n, sino de inclusi&oacute;n, en donde puedan desarrollar sus capacidades, su amistad, que est&eacute;n contentos, que puedan&hellip; Si vinieron de una secundaria de donde no aprendieron bien matem&aacute;ticas, pues el primer a&ntilde;o poder tener los conocimientos b&aacute;sicos para despu&eacute;s entrar al segundo; si tienen actividades colectivas que permitan integrar, entonces va a haber mucho menos deserci&oacute;n.</p>
+
+<p>Ese es el objetivo de este plan de estudios que est&aacute;n dise&ntilde;ando, y el objetivo de La Nueva Escuela Mexicana de integraci&oacute;n y tambi&eacute;n de aprendizaje, las dos cosas.</p>
+
+<p>Y con eso va a disminuir la deserci&oacute;n, estamos seguros.</p>
+
+<p><strong>PREGUNTA: Presidenta, aprovechando que su campa&ntilde;a nacional contra el fentanilo, usted se reuni&oacute; en octubre en el G-20 con su similar Xi Jinping.</strong></p>
+
+<p><strong>&iquest;Cree usted que, aprovechando que el secretario tambi&eacute;n fue reconocido all&aacute; por el 2007 en el Foro Econ&oacute;mico de Davos, el secretario Mario Delgado, como uno de los 30 j&oacute;venes talentos en el mundo, pudiera &eacute;l llevar a ese Foro Econ&oacute;mico de Davos su propuesta para que en ese foro se sumen los dirigentes que asisten al mismo? Y usted presione un poco m&aacute;s a Beijing para que&hellip;</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>No, tiene mucho trabajo para irse a Davos, Mario.</p>
+
+<p><strong>PREGUNTA: &iquest;Y usted presione algo m&aacute;s a Beijing para&hellip;?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO: </strong>No es&hellip; Cuando estuvo el presidente L&oacute;pez Obrador hubo algunos acuerdos, pero es importante, porque hay varios pa&iacute;ses productores de&hellip; que son los principales productores no directamente de fentanilo, aunque s&iacute; tambi&eacute;n, pero de los precursores.</p>
+
+<p>Entonces, s&iacute;, a nivel de seguridad y tambi&eacute;n de relaciones exteriores y de econom&iacute;a, es muy importante todo el control que tiene que ver con la llegada de estos precursores que pueden llegar a fabricar alguna droga sint&eacute;tica, &iquest;no?</p>
+
+<p>Entonces, tiene que ver con la relaci&oacute;n bilateral tambi&eacute;n y en eso estamos trabajando.</p>
+
+<p><strong>PREGUNTA: Finalmente, temas de ciberseguridad que usted mencion&oacute; ayer en su Informe de 100 d&iacute;as, &iquest;el Congreso tiene la posibilidad dado, hay una diferencia de fuerzas pol&iacute;ticas, para que el tema de ciberseguridad &mdash;al que usted hace &eacute;nfasis&mdash; se convierta en un tema de seguridad y haya una legislaci&oacute;n, Presidenta, que pueda cubrir esos vac&iacute;os?</strong></p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Si. Hay una parte que ya existe, pero, en efecto, todav&iacute;a&hellip; Ya vamos a presentar aqu&iacute; todas las leyes secundarias y algunos cambios constitucionales que todav&iacute;a vamos a plantear particularmente para este periodo legislativo.</p>
+
+<p>&mdash;Ahora s&iacute;, querido Diego&mdash;.</p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO NACIONAL ANTROPOLOG&Iacute;A E HISTORIA, DIEGO PRIETO HERN&Aacute;NDEZ:</strong> Muy buenos d&iacute;as, Presidenta, compa&ntilde;eras y compa&ntilde;eros del equipo de gobierno, amigas de los medios y quienes nos siguen en redes.</p>
+
+<p>En primer lugar, con una felicitaci&oacute;n muy entusiasta a la Presidenta y al pueblo de M&eacute;xico por estos 100 primeros d&iacute;as de gobierno y de Transformaci&oacute;n de nuestro pa&iacute;s.</p>
+
+<p>Nos corresponde estar hablando del Humanismo Mexicano. Y un elemento fundamental del Humanismo Mexicano, uno de sus valores, es la interculturalidad.</p>
+
+<p>&iquest;Qu&eacute; significa la interculturalidad?</p>
+
+<p>Significa que podamos entendernos entre quienes hablamos lenguas diferentes. Tenemos distintas maneras de comprender el mundo, de organizarnos en familia, en comunidad, en barrio, en sociedad, distintas cosmovisiones, distintas creencias religiosas, distintas maneras de pensar nuestra salud y nuestra vida.</p>
+
+<p>Anteriormente, la diferencia cultural en este pa&iacute;s fue motivo, lo ha dicho la Presidenta cuando habla de las herencias del colonialismo, del neoliberalismo, las herencias del porfirismo; que son momentos en que las diferencias se constituyeron en motivos de discriminaci&oacute;n, de exclusi&oacute;n, de dominaci&oacute;n, de sometimiento o si no, abiertamente de despojo.</p>
+
+<p>Y eso dio lugar a una sociedad profundamente desigual, a una sociedad caracterizada por esta diferencia abismal entre la opulencia y la indigencia, que ya el General&iacute;simo Jos&eacute; Mar&iacute;a Morelos y Pav&oacute;n se hab&iacute;a encargado de denunciar y de plantear como un <em>Sentimiento de la Naci&oacute;n</em> la necesidad de disminuir la opulencia y la indigencia.</p>
+
+<p>Y esto entonces supone el trabajo de hacer lo contrario, constatar que la diversidad cultural es una riqueza en nuestro pa&iacute;s que, desde fines del siglo pasado, se define ya como una naci&oacute;n pluricultural, cuya condici&oacute;n se sustenta originariamente en sus pueblos ind&iacute;genas, no exclusivamente, pero s&iacute; originariamente.</p>
+
+<p>Y en esta idea de poder ilustrar la fortaleza de esta naci&oacute;n pluricultural y sentirnos orgullosos de un pa&iacute;s que tiene una gran diversidad de lenguas, de grupos &eacute;tnicos, de formas de vivir la comunidad y de visiones del mundo, es que como parte de los logros de estos primeros 100 d&iacute;as de gobierno y, claro, resultado de un trabajo que se gest&oacute; pr&aacute;cticamente desde el inicio del gobierno anterior, ya lo anunciamos el lunes pasado:</p>
+
+<p>El Museo Nacional de Antropolog&iacute;a ha reabierto su segundo piso para poder ilustrar la fortaleza cultural de nuestros pueblos y comunidades ind&iacute;genas y afromexicanas que, por supuesto, ya exist&iacute;an salas etnogr&aacute;ficas en este museo, pero que se formaron en la idea de que estas culturas estaban como en retirada.</p>
+
+<p>Ahora, sabemos que es todo lo contrario, las culturas, los pueblos ind&iacute;genas y afromexicanos est&aacute;n m&aacute;s vivos que nunca y por eso, uno de los grandes logros legislativos recientes fue modificar el art&iacute;culo 2 de la Constituci&oacute;n para reconocer &mdash;lo ha dicho la Presidenta&mdash; que nuestras comunidades ind&iacute;genas y afromexicanas deben ser consideradas sujetos de derecho p&uacute;blico.</p>
+
+<p>Quisiera hoy, entonces, presentar un video que ilustra el trabajo que da lugar a esta restructuraci&oacute;n de las salas del segundo piso del Museo Nacional de Antropolog&iacute;a, que versan sobre la grandeza y diversidad cultural de M&eacute;xico.</p>
+
+<p>Adelante.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO DE LA SECCI&Oacute;N &ldquo;HUMANISMO MEXICANO&rdquo; SOBRE LA RENOVACI&Oacute;N DEL SEGUNDO PISO DEL MUSEO NACIONAL DE ANTROPOLOG&Iacute;A)</strong></p>
+
+<p><strong>DIRECTOR GENERAL DEL INSTITUTO NACIONAL ANTROPOLOG&Iacute;A E HISTORIA, DIEGO PRIETO HERN&Aacute;NDEZ:</strong> Pues visiten el segundo piso del Museo Nacional de Antropolog&iacute;a, los dos pisos del Museo Nacional de Antropolog&iacute;a; el museo, sin duda alguna, m&aacute;s importante de M&eacute;xico.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTA DE M&Eacute;XICO, CLAUDIA SHEINBAUM PARDO:</strong> Nos vemos al ratito, si quieren, vamos ah&iacute; a presentar el Plan M&eacute;xico.</p>
+
+<p>&mdash;Justo creo que es en el museo, &iquest;verdad?&mdash;</p>
+
+<p>Muchas gracias a todos.</p>
+
+<p>Buen d&iacute;a.</p>
+
+<p><strong>&mdash;000&mdash;</strong></p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2025-01-13 09:00:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de enero de 2025";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-enero-de-2025";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-enero-de-2025" data-text="Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de enero de 2025"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-enero-de-2025" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-enero-de-2025&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa de la presidenta Claudia Sheinbaum Pardo del 13 de enero de 2025";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/gobmx/img/logo_blanco.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="facebook share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="twitter share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.instagram.com/gobmexico/" target="_blank" rel="noopener" class="instagram share-info footer" title="Enlace a instagram abre en una nueva ventana">
+              <img src="/cms/assets/instagram.png" alt="gob.mx">
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://www.youtube.com/@gobiernodemexico" target="_blank" rel="noopener" class="yotube share-info footer" title="Enlace a Youtube abre en una nueva ventana">
+              <img src="/cms/assets/youtube.png" alt="gob.mx">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-enero-de-2025" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-enero-de-2025";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-13-de-enero-de-2025" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+</body>
+
+</html>
+
